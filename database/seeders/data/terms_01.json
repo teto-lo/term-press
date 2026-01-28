@@ -1,0 +1,395 @@
+[
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school",
+            "sns"
+        ],
+        "title": "蛙化現象",
+        "slug": "kaeruka",
+        "body": "<h3>好きだったのに急に無理になるアレ</h3><p>ずっと片思いしてた相手が振り向いてくれた途端、「なんか違う...」ってなって気持ちが冷める現象のこと。</p><p>元々は心理学用語だけど、最近は「フードコートでキョロキョロしてる姿を見て冷めた」みたいな、相手のちょっとした行動で冷めることも指すようになってる。</p>",
+        "short_description": "<h3>好きだった相手が振り向いた途端に冷めちゃう現象。</h3><p>理不尽だけどあるある。</p>",
+        "example": "「やっと付き合えたのに、蛙化現象で別れたいかも...」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok",
+            "sns"
+        ],
+        "title": "タイパ",
+        "slug": "taipa",
+        "body": "<h3>タイムパフォーマンスしか勝たん</h3><p>「タイムパフォーマンス」の略。かけた時間に対して得られる満足度や効果のこと。</p><p>映画を倍速で見たり、Shorts動画で情報収集するのは全部これのため。</p>",
+        "short_description": "<h3>時間対効果のこと。</h3><p>倍速視聴とかShortsで情報収集するのは大体これ。</p>",
+        "example": "「タイパ重視で映画は倍速でしか見ない」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "界隈",
+        "slug": "kaiwai",
+        "body": "<h3>同じ沼にハマってる人たちの集まり</h3><p>共通の趣味や推しを持っている人たちのコミュニティのこと。</p><p>「ジャニーズ界隈」「K-POP界隈」みたいに使う。</p>",
+        "short_description": "<h3>同じ趣味や推しを持つ人たちのコミュニティ。</h3>",
+        "example": "「コスメ界隈で話題のリップ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "drinking",
+            "school"
+        ],
+        "title": "知らんけど",
+        "slug": "shirankedo",
+        "body": "<h3>責任逃れの魔法の言葉</h3><p>関西弁由来の言葉で、最後に付け足して「確証はないですよ」と予防線を張る言葉。</p>",
+        "short_description": "<h3>文末につけるだけで責任回避できる魔法の言葉。</h3>",
+        "example": "「明日晴れると思うよ、知らんけど」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns",
+            "game-chat"
+        ],
+        "title": "草",
+        "slug": "kusa",
+        "body": "<h3>笑いを表現する植物</h3><p>笑ったときに使う「www」が草に見えることから生まれた言葉。</p><p>「それは草」=「それは笑う」の意味。</p>",
+        "short_description": "<h3>笑ったときに使う言葉。</h3><p>www → 草。</p>",
+        "example": "「そのミスは流石に草」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "スパチャ",
+        "slug": "supacha",
+        "body": "<h3>推しへの愛を金で示す行為</h3><p>YouTubeの「スーパーチャット」の略。投げ銭のこと。</p>",
+        "short_description": "<h3>YouTubeの投げ銭機能。</h3>",
+        "example": "「赤スパ投げた」"
+    },
+    {
+        "category_slug": "biz",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "リスケ",
+        "slug": "risuke",
+        "body": "<h3>予定変更のスマートな言い方</h3><p>「リ・スケジュール」の略。</p>",
+        "short_description": "<h3>予定変更すること。</h3>",
+        "example": "「ランチ、リスケでお願い」"
+    },
+    {
+        "category_slug": "biz",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "エビデンス",
+        "slug": "evidence",
+        "body": "<h3>証拠。言質。スクショ</h3><p>ビジネスでは「証拠」、若者は「スクショ」の意味で使うことも。</p>",
+        "short_description": "<h3>証拠のこと。</h3>",
+        "example": "「エビデンス残しといて」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok",
+            "sns"
+        ],
+        "title": "片思い",
+        "slug": "kataomoi",
+        "body": "<h3>一方的なLOVE</h3><p>相手を好きだけど相手はなんとも思っていない状態。</p>",
+        "short_description": "<h3>一方的な恋心。</h3>",
+        "example": "「ずっと片思いしてる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok",
+            "sns"
+        ],
+        "title": "蛙化現象2",
+        "slug": "kaeruka2",
+        "body": "<h3>理不尽な冷め期</h3><p>ICカードの残高不足で改札に引っかかるとか、些細なことで冷めること。</p>",
+        "short_description": "<h3>些細なことで冷める現象。</h3>",
+        "example": "「フードコートで席探してる姿見て蛙化した」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "尊い",
+        "slug": "toutoi",
+        "body": "<h3>最高すぎて語彙力喪失</h3><p>推しが素晴らしすぎて、神聖さを感じること。</p>",
+        "short_description": "<h3>最高すぎて拝みたくなる状態。</h3>",
+        "example": "「推しの笑顔が尊い...」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "推し活",
+        "slug": "oshikatsu",
+        "body": "<h3>推しを愛でる活動全般</h3><p>ライブ参戦、グッズ購入、聖地巡礼など、推しのために活動すること。</p>",
+        "short_description": "<h3>推しを応援する活動。</h3>",
+        "example": "「週末は推し活で東京遠征」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "drinking",
+            "school"
+        ],
+        "title": "エモい",
+        "slug": "emoi",
+        "body": "<h3>なんかいい感じの雰囲気</h3><p>Emotional（感情的）が語源。懐かしい、切ない、感動的など、感情が揺さぶられる状態。</p>",
+        "short_description": "<h3>感情が揺さぶられること。</h3>",
+        "example": "「この曲、歌詞がエモい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "死語",
+        "slug": "shigo",
+        "body": "<h3>もう誰も使ってない言葉</h3><p>「ナウい」とか「バッチグー」とか。使うと年齢がバレる。</p>",
+        "short_description": "<h3>時代遅れの言葉。</h3>",
+        "example": "「その言葉、完全に死語だよ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns",
+            "tiktok"
+        ],
+        "title": "優勝",
+        "slug": "yusho",
+        "body": "<h3>圧倒的勝利、最高</h3><p>めちゃくちゃ可愛い、美味しい、楽しいときに使う。</p>",
+        "short_description": "<h3>最高！ってこと。</h3>",
+        "example": "「このパフェ、美味しすぎて優勝」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "しか勝たん",
+        "slug": "shikakatan",
+        "body": "<h3>～が一番最高</h3><p>「～しか勝たない」＝「～が最強」という意味。</p>",
+        "short_description": "<h3>～が一番！</h3>",
+        "example": "「やっぱ週末のビールしか勝たん」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "飛ぶ",
+        "slug": "tobu",
+        "body": "<h3>バックれること</h3><p>バイトを無断欠勤してそのまま辞めるとか、連絡を絶つこと。</p>",
+        "short_description": "<h3>連絡を絶って消えること。</h3>",
+        "example": "「新人バイトが初日で飛んだ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "鍵垢",
+        "slug": "kagiaka",
+        "body": "<h3>承認制アカウント</h3><p>Twitter（X）やInstagramで、フォロワー以外に見られないように鍵をかけているアカウント。</p>",
+        "short_description": "<h3>非公開アカウントのこと。</h3>",
+        "example": "「愚痴は鍵垢でつぶやく」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "裏垢",
+        "slug": "uraaka",
+        "body": "<h3>本音を吐き出すアカウント</h3><p>リアルな友達と繋がっている「本垢（リア垢）」とは別に、愚痴や趣味全開の投稿をするためのアカウント。</p>",
+        "short_description": "<h3>本音用のアカウント。</h3>",
+        "example": "「裏垢間違えて本垢で誤爆した」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "誤爆",
+        "slug": "gobaku",
+        "body": "<h3>送り先間違い</h3><p>LINEやDMを送る相手を間違えること。特に裏垢の内容を本垢で投稿することを指すことが多い。</p>",
+        "short_description": "<h3>送り間違い。</h3>",
+        "example": "「上司の悪口を本人に誤爆して終わった」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "リムる",
+        "slug": "rimuru",
+        "body": "<h3>フォロー解除</h3><p>Remove（取り除く）から来ている。フォローを外すこと。</p>",
+        "short_description": "<h3>フォローを外すこと。</h3>",
+        "example": "「最近絡みないからリムった」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ブロ解",
+        "slug": "burokai",
+        "body": "<h3>穏便な縁切り</h3><p>ブロックしてすぐにブロックを解除すること。これによって相手のフォローも外れるため、相互フォローを解消したいときに使う。</p>",
+        "short_description": "<h3>フォローを強制的かつ穏便に外させる技。</h3>",
+        "example": "「元カレとはブロ解してスッキリした」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アジェンダ",
+        "slug": "agenda",
+        "body": "<h3>会議の議題</h3><p>会議で話し合う内容のリスト。目次みたいなもの。</p>",
+        "short_description": "<h3>会議の議題リスト。</h3>",
+        "example": "「今日のアジェンダ共有しとくね」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンセンサス",
+        "slug": "consensus",
+        "body": "<h3>合意、根回し</h3><p>関係者の同意を得ること。「コンセンサスを取る」＝「事前に根回しして合意を得ておく」という意味でよく使われる。</p>",
+        "short_description": "<h3>合意のこと。根回し。</h3>",
+        "example": "「部長のコンセンサスは取れてるの？」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィックス",
+        "slug": "fix",
+        "body": "<h3>決定、確定</h3><p>仕様や予定が固まること。「これでもう変更なしですよ」という意味。</p>",
+        "short_description": "<h3>確定すること。</h3>",
+        "example": "「仕様はこれでフィックスです」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ペンディング",
+        "slug": "pending",
+        "body": "<h3>保留、先送り</h3><p>今決めるのは無理だから一旦置いておこう、という意味。</p>",
+        "short_description": "<h3>保留にすること。</h3>",
+        "example": "「この案件は一旦ペンディングで」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バッファ",
+        "slug": "buffer",
+        "body": "<h3>余裕、予備</h3><p>スケジュールや予算の余裕のこと。不測の事態に備えて持たせておく余裕。</p>",
+        "short_description": "<h3>余裕を持たせること。</h3>",
+        "example": "「納期までバッファ見て3日多めに伝えておこう」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ボトルネック",
+        "slug": "bottleneck",
+        "body": "<h3>進行を妨げている原因</h3><p>瓶の首（ネック）が狭いと中身が出にくくなることから、全体の流れを悪くしている箇所のこと。</p>",
+        "short_description": "<h3>一番詰まっている箇所。</h3>",
+        "example": "「承認フローが業務のボトルネックになってる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マター",
+        "slug": "matter",
+        "body": "<h3>担当、管轄</h3><p>「〇〇さんマター」＝「〇〇さんの担当案件」という意味。</p>",
+        "short_description": "<h3>担当案件のこと。</h3>",
+        "example": "「これは営業部マターだからそっちでやって」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ローンチ",
+        "slug": "launch",
+        "body": "<h3>公開、立ち上げ</h3><p>新サービスや新商品を世に出すこと。</p>",
+        "short_description": "<h3>サービス公開のこと。</h3>",
+        "example": "「来月新アプリをローンチします」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "バフ",
+        "slug": "buff",
+        "body": "<h3>能力強化</h3><p>キャラクターの攻撃力や防御力が上がること。逆に下がることは「デバフ」。</p>",
+        "short_description": "<h3>パワーアップすること。</h3>",
+        "example": "「攻撃力バフかけて一気に倒そう」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ナーフ",
+        "slug": "nerf",
+        "body": "<h3>弱体化</h3><p>運営の調整によって、強すぎた武器やキャラが弱くされること。</p>",
+        "short_description": "<h3>運営に弱くされること。</h3>",
+        "example": "「愛用武器がナーフされて使い物にならん」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "野良",
+        "slug": "nora",
+        "body": "<h3>知らない人と遊ぶこと</h3><p>友達とパーティを組まずに、一人でマッチングに参加すること。</p>",
+        "short_description": "<h3>一人で参加すること。</h3>",
+        "example": "「今日は野良でランクマ回すわ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "キャリー",
+        "slug": "carry",
+        "body": "<h3>味方を勝たせること</h3><p>上手いプレイヤーが活躍して、チームを勝利に導くこと。</p>",
+        "short_description": "<h3>味方を勝たせてあげること。</h3>",
+        "example": "「味方強すぎてキャリーしてもらった」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "芋",
+        "slug": "imo",
+        "body": "<h3>動かない人</h3><p>FPSなどで、安全な場所に隠れてずっと動かないプレイヤーのこと。卑怯、邪魔という意味で使われることが多い。</p>",
+        "short_description": "<h3>ずっと隠れてる人。</h3>",
+        "example": "「芋ってないで前に出ろよ」"
+    }
+]

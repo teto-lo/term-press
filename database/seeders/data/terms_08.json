@@ -1,0 +1,222 @@
+[
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "中の人",
+        "slug": "nakanohito",
+        "body": "<h3>運営者、声優</h3><p>企業の公式アカウントを運用している担当者や、着ぐるみの役者、キャラの声優など。</p>",
+        "short_description": "<h3>運営してる人。声優。</h3>",
+        "example": "「公式の中の人面白い」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "垢",
+        "slug": "aka",
+        "body": "<h3>アカウント</h3><p>Account→アカ→垢。「本垢」「裏垢」など。</p>",
+        "short_description": "<h3>アカウントのこと。</h3>",
+        "example": "「垢消しするわ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "BAN",
+        "slug": "ban",
+        "body": "<h3>追放</h3><p>アカウントが停止・削除されること。「垢バン」とも言う。</p>",
+        "short_description": "<h3>アカウント停止。</h3>",
+        "example": "「規約違反でBANされた」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "リプ",
+        "slug": "ripu",
+        "body": "<h3>返信</h3><p>Reply（リプライ）の略。Twitterなどで返信すること。</p>",
+        "short_description": "<h3>返信のこと。</h3>",
+        "example": "「リプありがとう」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ふぁぼ",
+        "slug": "favo",
+        "body": "<h3>いいね</h3><p>昔のTwitterの「Favorite（お気に入り）」機能から。今は「いいね」だが、古参は「ふぁぼ」と言う。</p>",
+        "short_description": "<h3>いいねボタンのこと。</h3>",
+        "example": "「ふぁぼした」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "拡散希望",
+        "slug": "kakusankibo",
+        "body": "<h3>広めてください</h3><p>RT（リツイート）して情報を広めてほしいときに使う。</p>",
+        "short_description": "<h3>広めて！</h3>",
+        "example": "「【拡散希望】迷い犬探してます」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "UI",
+        "slug": "ui",
+        "body": "<h3>ユーザーインターフェース</h3><p>画面の見た目や操作性のこと。ボタンの配置やデザインなど。</p>",
+        "short_description": "<h3>画面の見た目。</h3>",
+        "example": "「UIが分かりにくい」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "UX",
+        "slug": "ux",
+        "body": "<h3>ユーザーエクスペリエンス</h3><p>ユーザーがサービスを通して得られる体験のこと。「使いやすい」「楽しい」など。</p>",
+        "short_description": "<h3>顧客体験。</h3>",
+        "example": "「UXを向上させる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "クラウド",
+        "slug": "cloud",
+        "body": "<h3>ネット上の保管場所</h3><p>データを自分のパソコンではなく、インターネット上に保存する仕組み。</p>",
+        "short_description": "<h3>ネット上のサーバー。</h3>",
+        "example": "「データはクラウドに上げて」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バグ",
+        "slug": "bug",
+        "body": "<h3>不具合</h3><p>プログラムの間違い。ゲーム用語としても使われる。</p>",
+        "short_description": "<h3>不具合のこと。</h3>",
+        "example": "「バグを見つけた」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "デプロイ",
+        "slug": "deploy",
+        "body": "<h3>配備、展開</h3><p>システムを利用可能な状態にすること。本番環境に反映すること。</p>",
+        "short_description": "<h3>本番に反映すること。</h3>",
+        "example": "「金曜日のデプロイは避ける」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "LP",
+        "slug": "lp",
+        "body": "<h3>ランディングページ</h3><p>広告をクリックして最初に表示される、縦長の宣伝ページ。</p>",
+        "short_description": "<h3>広告用の縦長ページ。</h3>",
+        "example": "「商品のLPを作る」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "SEO",
+        "slug": "seo",
+        "body": "<h3>検索エンジン最適化</h3><p>Google検索で上位に表示させるための対策。</p>",
+        "short_description": "<h3>検索順位を上げる対策。</h3>",
+        "example": "「SEO対策で記事を書く」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンバージョン",
+        "slug": "conversion",
+        "body": "<h3>成果</h3><p>Webサイトで、商品の購入や会員登録などの成果が出ること。「CV」と略す。</p>",
+        "short_description": "<h3>成約すること。</h3>",
+        "example": "「CV率が下がってる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "キャッシュ",
+        "slug": "cache",
+        "body": "<h3>一時保存データ</h3><p>一度読み込んだデータを保存しておいて、次から速く表示する仕組み。</p>",
+        "short_description": "<h3>一時保存で速くする仕組み。</h3>",
+        "example": "「キャッシュクリアして」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "インプレッション",
+        "slug": "impression",
+        "body": "<h3>表示回数</h3><p>広告や投稿が表示された回数のこと。「インプ」と略す。</p>",
+        "short_description": "<h3>表示された回数。</h3>",
+        "example": "「インプは稼げてる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "エンゲージメント",
+        "slug": "engagement",
+        "body": "<h3>反応率</h3><p>いいね、RT、クリックなど、ユーザーからの反応のこと。</p>",
+        "short_description": "<h3>ユーザーからの反応。</h3>",
+        "example": "「エンゲージメントを高める」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アルゴリズム",
+        "slug": "algorithm",
+        "body": "<h3>計算手順</h3><p>おすすめに表示する仕組みなどのルールのこと。「Twitterのアルゴリズムが変わった」など。</p>",
+        "short_description": "<h3>計算のルール。</h3>",
+        "example": "「アルゴリズムに愛されたい」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "EC",
+        "slug": "ec",
+        "body": "<h3>電子商取引</h3><p>E-Commerce。ネット通販のこと。</p>",
+        "short_description": "<h3>ネット通販。</h3>",
+        "example": "「ECサイトを運営する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "SaaS",
+        "slug": "saas",
+        "body": "<h3>サース</h3><p>Software as a Service。ネット経由で利用するソフトのこと。ZoomやSlackなど。</p>",
+        "short_description": "<h3>ネット経由で使うソフト。</h3>",
+        "example": "「SaaS系企業に転職したい」"
+    }
+]

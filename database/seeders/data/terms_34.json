@@ -1,0 +1,396 @@
+[
+    {
+        "title": "SDGs",
+        "slug": "sdgs",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>持続可能な開発目標</h3><p>「Sustainable Development Goals」の略。2030年までに達成すべき国際目標。</p>",
+        "body": "<h3>詳しく解説</h3><p>「SDGs」は「Sustainable Development Goals（持続可能な開発目標）」の略で、2030年までに達成すべき17の国際目標です。貧困、飢餓、環境問題など、地球規模の課題に取り組みます。</p><p>企業や個人も、SDGsへの貢献が求められています。</p>",
+        "example": "「SDGsに貢献する活動を始めた」",
+        "is_published": true
+    },
+    {
+        "title": "サステナブル",
+        "slug": "sustainable",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>持続可能な</h3><p>環境や社会に配慮し、長期的に続けられること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サステナブル（sustainable）」は、環境や社会に配慮し長期的に続けられることです。「持続可能な」と訳されます。</p><p>サステナブルな社会を目指す取り組みが、世界中で広がっています。</p>",
+        "example": "「サステナブルなライフスタイルを心がける」",
+        "is_published": true
+    },
+    {
+        "title": "3R",
+        "slug": "three-r",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>環境保護の3原則</h3><p>「Reduce」「Reuse」「Recycle」の3つの頭文字。環境保護の基本原則。</p>",
+        "body": "<h3>詳しく解説</h3><p>「3R」は「Reduce（削減）」「Reuse（再使用）」「Recycle（再利用）」の3つの頭文字で、環境保護の基本原則です。</p><p>この順番で優先度が高く、まずはゴミを減らすことが重要です。</p>",
+        "example": "「3Rを実践して、環境に貢献する」",
+        "is_published": true
+    },
+    {
+        "title": "脱炭素",
+        "slug": "decarbonization",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>二酸化炭素排出ゼロ</h3><p>二酸化炭素の排出を実質ゼロにすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「脱炭素」は、二酸化炭素の排出を実質ゼロにすることです。地球温暖化を防ぐため、世界中で脱炭素社会を目指す取り組みが進んでいます。</p><p>「カーボンニュートラル」とも呼ばれます。</p>",
+        "example": "「脱炭素社会の実現に向けて、再生可能エネルギーを導入する」",
+        "is_published": true
+    },
+    {
+        "title": "カーボンニュートラル",
+        "slug": "carbon-neutral",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>炭素中立</h3><p>二酸化炭素の排出量と吸収量を同じにすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「カーボンニュートラル（carbon neutral）」は、二酸化炭素の排出量と吸収量を同じにすることです。排出した分を植林などで吸収し、実質的な排出量をゼロにします。</p><p>「炭素中立」とも呼ばれます。</p>",
+        "example": "「カーボンニュートラルを達成するため、森林保護に取り組む」",
+        "is_published": true
+    },
+    {
+        "title": "再生可能エネルギー",
+        "slug": "renewable-energy",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>枯渇しないエネルギー</h3><p>太陽光、風力など、自然の力を使った枯渇しないエネルギー。</p>",
+        "body": "<h3>詳しく解説</h3><p>「再生可能エネルギー」は、太陽光、風力、水力など自然の力を使った枯渇しないエネルギーです。「再エネ」と略されます。</p><p>化石燃料に代わる、クリーンなエネルギーとして注目されています。</p>",
+        "example": "「再生可能エネルギーで発電する」",
+        "is_published": true
+    },
+    {
+        "title": "太陽光発電",
+        "slug": "solar-power",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>太陽の光で発電</h3><p>太陽の光を電気に変える発電方法。</p>",
+        "body": "<h3>詳しく解説</h3><p>「太陽光発電」は、太陽の光を電気に変える発電方法です。ソーラーパネルを設置して、クリーンな電気を作ります。</p><p>家庭でも導入でき、電気代の節約にもなります。</p>",
+        "example": "「屋根に太陽光発電パネルを設置した」",
+        "is_published": true
+    },
+    {
+        "title": "風力発電",
+        "slug": "wind-power",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>風の力で発電</h3><p>風の力で風車を回して発電する方法。</p>",
+        "body": "<h3>詳しく解説</h3><p>「風力発電」は、風の力で風車を回して発電する方法です。海岸や山など、風が強い場所に風車が設置されます。</p><p>大規模な発電が可能で、再生可能エネルギーの主力です。</p>",
+        "example": "「風力発電で地域の電力を賄う」",
+        "is_published": true
+    },
+    {
+        "title": "地球温暖化",
+        "slug": "global-warming",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>地球の気温上昇</h3><p>二酸化炭素などの温室効果ガスにより、地球の気温が上昇すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「地球温暖化」は、二酸化炭素などの温室効果ガスにより地球の気温が上昇することです。異常気象、海面上昇などの原因となっています。</p><p>人類全体で取り組むべき、深刻な環境問題です。</p>",
+        "example": "「地球温暖化を防ぐため、CO2排出を減らす」",
+        "is_published": true
+    },
+    {
+        "title": "温室効果ガス",
+        "slug": "greenhouse-gas",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>地球を温めるガス</h3><p>二酸化炭素など、地球の気温を上昇させるガス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「温室効果ガス」は、二酸化炭素、メタンなど地球の気温を上昇させるガスです。大気中の温室効果ガスが増えると、地球温暖化が進みます。</p><p>「GHG（Greenhouse Gas）」とも呼ばれます。</p>",
+        "example": "「温室効果ガスの排出を削減する」",
+        "is_published": true
+    },
+    {
+        "title": "CO2",
+        "slug": "co2",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>二酸化炭素</h3><p>炭素と酸素の化合物。地球温暖化の主な原因。</p>",
+        "body": "<h3>詳しく解説</h3><p>「CO2」は二酸化炭素の化学式です。化石燃料の燃焼などで発生し、地球温暖化の主な原因とされています。</p><p>「シーオーツー」と読みます。</p>",
+        "example": "「CO2排出量を減らすため、公共交通機関を利用する」",
+        "is_published": true
+    },
+    {
+        "title": "エコカー",
+        "slug": "eco-car",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>環境に優しい車</h3><p>ハイブリッドカーや電気自動車など、環境に優しい車。</p>",
+        "body": "<h3>詳しく解説</h3><p>「エコカー」は、ハイブリッドカーや電気自動車など環境に優しい車です。燃費が良く、CO2排出量が少ないのが特徴です。</p><p>「エコロジーカー」の略です。</p>",
+        "example": "「エコカーに乗り換えて、環境に貢献する」",
+        "is_published": true
+    },
+    {
+        "title": "電気自動車",
+        "slug": "electric-vehicle",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>電気で走る車</h3><p>ガソリンではなく、電気で走る車。</p>",
+        "body": "<h3>詳しく解説</h3><p>「電気自動車」は、ガソリンではなく電気で走る車です。「EV（Electric Vehicle）」と略されます。</p><p>走行中にCO2を排出しないため、環境に優しいです。</p>",
+        "example": "「電気自動車に乗り換えた」",
+        "is_published": true
+    },
+    {
+        "title": "ハイブリッドカー",
+        "slug": "hybrid-car",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>ガソリンと電気の車</h3><p>ガソリンエンジンと電気モーターを組み合わせた車。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハイブリッドカー（hybrid car）」は、ガソリンエンジンと電気モーターを組み合わせた車です。燃費が良く、CO2排出量も少ないです。</p><p>「HV（Hybrid Vehicle）」と略されます。</p>",
+        "example": "「ハイブリッドカーで燃費を改善した」",
+        "is_published": true
+    },
+    {
+        "title": "プラスチックごみ",
+        "slug": "plastic-waste",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>プラスチックのゴミ</h3><p>使い捨てプラスチック製品などのゴミ。海洋汚染の原因。</p>",
+        "body": "<h3>詳しく解説</h3><p>「プラスチックごみ」は、使い捨てプラスチック製品などのゴミです。海に流れ込み、海洋汚染の原因となっています。</p><p>マイクロプラスチックとして、生態系にも影響を与えています。</p>",
+        "example": "「プラスチックごみを減らすため、マイボトルを使う」",
+        "is_published": true
+    },
+    {
+        "title": "マイクロプラスチック",
+        "slug": "microplastics",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>微細なプラスチック</h3><p>5mm以下の微細なプラスチック片。海洋汚染の原因。</p>",
+        "body": "<h3>詳しく解説</h3><p>「マイクロプラスチック（microplastics）」は、5mm以下の微細なプラスチック片です。プラスチックごみが砕けて生成されます。</p><p>魚が食べることで、食物連鎖を通じて人体にも影響する可能性があります。</p>",
+        "example": "「マイクロプラスチックによる海洋汚染が深刻化している」",
+        "is_published": true
+    },
+    {
+        "title": "レジ袋有料化",
+        "slug": "plastic-bag-charge",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>レジ袋の有料化</h3><p>プラスチックごみ削減のため、レジ袋を有料にすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「レジ袋有料化」は、プラスチックごみ削減のためレジ袋を有料にすることです。日本では2020年7月から義務化されました。</p><p>エコバッグの利用が推奨されています。</p>",
+        "example": "「レジ袋有料化で、エコバッグを持ち歩くようになった」",
+        "is_published": true
+    },
+    {
+        "title": "フードロス",
+        "slug": "food-loss",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>食品廃棄</h3><p>まだ食べられるのに捨てられる食品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「フードロス（food loss）」は、まだ食べられるのに捨てられる食品です。日本では年間約600万トンのフードロスが発生しています。</p><p>「食品ロス」とも呼ばれます。</p>",
+        "example": "「フードロスを減らすため、食べ残しをしない」",
+        "is_published": true
+    },
+    {
+        "title": "オーガニック",
+        "slug": "organic",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>有機栽培</h3><p>化学肥料や農薬を使わずに育てること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オーガニック（organic）」は、化学肥料や農薬を使わずに育てることです。「有機栽培」とも呼ばれます。</p><p>環境に優しく、健康にも良いとされています。</p>",
+        "example": "「オーガニック野菜を買って、健康的な食生活を送る」",
+        "is_published": true
+    },
+    {
+        "title": "無農薬",
+        "slug": "pesticide-free",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>農薬を使わない</h3><p>農薬を使わずに育てた農作物。</p>",
+        "body": "<h3>詳しく解説</h3><p>「無農薬」は、農薬を使わずに育てた農作物です。化学肥料は使っている場合もあるため、オーガニックとは異なります。</p><p>安全性が高いとされています。</p>",
+        "example": "「無農薬野菜を選んで、安心して食べる」",
+        "is_published": true
+    },
+    {
+        "title": "地産地消",
+        "slug": "local-production-consumption",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>地元で作って地元で消費</h3><p>地元で生産されたものを、地元で消費すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「地産地消」は、地元で生産されたものを地元で消費することです。輸送距離が短いため、CO2排出量を減らせます。</p><p>地域経済の活性化にもつながります。</p>",
+        "example": "「地産地消で、地元の農産物を買う」",
+        "is_published": true
+    },
+    {
+        "title": "フェアトレード",
+        "slug": "fair-trade",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>公正な貿易</h3><p>発展途上国の生産者に、適正な価格を支払う貿易。</p>",
+        "body": "<h3>詳しく解説</h3><p>「フェアトレード（fair trade）」は、発展途上国の生産者に適正な価格を支払う貿易です。「公正な貿易」とも呼ばれます。</p><p>生産者の生活向上と、持続可能な生産を支援します。</p>",
+        "example": "「フェアトレードのコーヒーを買って、生産者を支援する」",
+        "is_published": true
+    },
+    {
+        "title": "エシカル消費",
+        "slug": "ethical-consumption",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>倫理的な消費</h3><p>環境や社会に配慮した、倫理的な消費。</p>",
+        "body": "<h3>詳しく解説</h3><p>「エシカル消費（ethical consumption）」は、環境や社会に配慮した倫理的な消費です。フェアトレード商品、オーガニック商品などを選ぶことが含まれます。</p><p>「倫理的消費」とも呼ばれます。</p>",
+        "example": "「エシカル消費を心がけて、社会に貢献する」",
+        "is_published": true
+    },
+    {
+        "title": "ゼロウェイスト",
+        "slug": "zero-waste",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>ゴミゼロ</h3><p>ゴミを出さない、または限りなくゼロに近づけるライフスタイル。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ゼロウェイスト（zero waste）」は、ゴミを出さない、または限りなくゼロに近づけるライフスタイルです。使い捨て製品を避け、リユース・リサイクルを徹底します。</p><p>環境負荷を最小限にする取り組みです。</p>",
+        "example": "「ゼロウェイストを目指して、ゴミを減らす努力をする」",
+        "is_published": true
+    },
+    {
+        "title": "ミニマリスト",
+        "slug": "minimalist",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>最小限主義者</h3><p>必要最小限のものだけで暮らす人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ミニマリスト（minimalist）」は、必要最小限のものだけで暮らす人です。物を減らし、シンプルな生活を送ります。</p><p>環境にも優しく、心も豊かになるとされています。</p>",
+        "example": "「ミニマリストとして、物を持たない暮らしを実践する」",
+        "is_published": true
+    },
+    {
+        "title": "断捨離",
+        "slug": "decluttering",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>不要な物を捨てる</h3><p>不要な物を捨てて、シンプルに暮らすこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「断捨離」は、不要な物を捨ててシンプルに暮らすことです。「断」は入ってくるものを断つ、「捨」は不要なものを捨てる、「離」は物への執着から離れることを意味します。</p><p>心も部屋もスッキリします。</p>",
+        "example": "「断捨離して、部屋を片付けた」",
+        "is_published": true
+    },
+    {
+        "title": "シェアリングエコノミー",
+        "slug": "sharing-economy",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>共有経済</h3><p>物やサービスを、多くの人で共有する経済の仕組み。</p>",
+        "body": "<h3>詳しく解説</h3><p>「シェアリングエコノミー（sharing economy）」は、物やサービスを多くの人で共有する経済の仕組みです。カーシェア、民泊、フリマアプリなどが該当します。</p><p>「共有経済」とも呼ばれます。</p>",
+        "example": "「シェアリングエコノミーで、車を共有する」",
+        "is_published": true
+    },
+    {
+        "title": "カーシェア",
+        "slug": "car-sharing",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>車の共有</h3><p>「カーシェアリング」の略。複数人で車を共有するサービス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「カーシェア」は「カーシェアリング（car sharing）」の略で、複数人で車を共有するサービスです。必要な時だけ借りられるため、車を所有するより経済的です。</p><p>環境にも優しいとされています。</p>",
+        "example": "「カーシェアを利用して、必要な時だけ車に乗る」",
+        "is_published": true
+    },
+    {
+        "title": "サブスクリプション",
+        "slug": "subscription-service",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>定額制サービス</h3><p>月額料金を払って利用するサービス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サブスクリプション（subscription）」は、月額料金を払って利用するサービスです。「サブスク」と略されます。</p><p>音楽、動画、ソフトウェアなど、様々な分野で普及しています。</p>",
+        "example": "「音楽のサブスクリプションサービスに加入した」",
+        "is_published": true
+    },
+    {
+        "title": "循環型社会",
+        "slug": "circular-society",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>資源を循環させる社会</h3><p>資源を無駄なく循環させ、持続可能な社会を目指すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「循環型社会」は、資源を無駄なく循環させ持続可能な社会を目指すことです。3R（リデュース、リユース、リサイクル）を推進します。</p><p>大量生産・大量消費・大量廃棄からの脱却を目指します。</p>",
+        "example": "「循環型社会の実現に向けて、リサイクルを徹底する」",
+        "is_published": true
+    },
+    {
+        "title": "生物多様性",
+        "slug": "biodiversity",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>生き物の多様性</h3><p>様々な生き物が存在し、バランスを保っていること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「生物多様性」は、様々な生き物が存在しバランスを保っていることです。生態系の健全性を示す指標で、人類の生存にも不可欠です。</p><p>「バイオダイバーシティ（biodiversity）」とも呼ばれます。</p>",
+        "example": "「生物多様性を守るため、森林保護に取り組む」",
+        "is_published": true
+    },
+    {
+        "title": "絶滅危惧種",
+        "slug": "endangered-species",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>絶滅の危機にある生物</h3><p>絶滅の危機に瀕している生物。</p>",
+        "body": "<h3>詳しく解説</h3><p>「絶滅危惧種」は、絶滅の危機に瀕している生物です。環境破壊、乱獲などが原因で、個体数が減少しています。</p><p>保護活動が行われています。</p>",
+        "example": "「絶滅危惧種を守るため、保護区を設ける」",
+        "is_published": true
+    },
+    {
+        "title": "外来種",
+        "slug": "invasive-species",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>外国から来た生物</h3><p>本来その地域にいなかった、外国から持ち込まれた生物。</p>",
+        "body": "<h3>詳しく解説</h3><p>「外来種」は、本来その地域にいなかった外国から持ち込まれた生物です。在来種を脅かし、生態系を乱すことがあります。</p><p>「侵略的外来種」は、特に影響が大きい外来種を指します。</p>",
+        "example": "「外来種が在来種を駆逐している」",
+        "is_published": true
+    },
+    {
+        "title": "森林破壊",
+        "slug": "deforestation",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>森林の伐採</h3><p>森林が伐採され、失われること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「森林破壊」は、森林が伐採され失われることです。農地開発、木材伐採などが原因です。</p><p>CO2吸収源が減り、地球温暖化を加速させます。</p>",
+        "example": "「森林破壊を防ぐため、植林活動に参加する」",
+        "is_published": true
+    },
+    {
+        "title": "砂漠化",
+        "slug": "desertification",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>土地が砂漠になる</h3><p>過度な放牧や伐採により、土地が砂漠になること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「砂漠化」は、過度な放牧や伐採により土地が砂漠になることです。乾燥地域で深刻な問題となっています。</p><p>食料生産が困難になり、貧困の原因にもなります。</p>",
+        "example": "「砂漠化を防ぐため、植林プロジェクトに協力する」",
+        "is_published": true
+    },
+    {
+        "title": "水不足",
+        "slug": "water-shortage",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>水が足りない</h3><p>使える水が不足している状態。</p>",
+        "body": "<h3>詳しく解説</h3><p>「水不足」は、使える水が不足している状態です。人口増加、気候変動などが原因で、世界的な問題となっています。</p><p>節水が重要です。</p>",
+        "example": "「水不足に備えて、節水を心がける」",
+        "is_published": true
+    },
+    {
+        "title": "クールビズ",
+        "slug": "cool-biz",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>夏の軽装</h3><p>夏にエアコンの温度を上げ、軽装で過ごす取り組み。</p>",
+        "body": "<h3>詳しく解説</h3><p>「クールビズ（cool biz）」は、夏にエアコンの温度を上げ軽装で過ごす取り組みです。ネクタイを外し、半袖シャツで仕事をします。</p><p>省エネとCO2削減を目的としています。</p>",
+        "example": "「クールビズでノーネクタイで出勤する」",
+        "is_published": true
+    },
+    {
+        "title": "ウォームビズ",
+        "slug": "warm-biz",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>冬の暖かい服装</h3><p>冬に暖房の温度を下げ、暖かい服装で過ごす取り組み。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ウォームビズ（warm biz）」は、冬に暖房の温度を下げ暖かい服装で過ごす取り組みです。重ね着をして、暖かく過ごします。</p><p>クールビズの冬版です。</p>",
+        "example": "「ウォームビズで重ね着して、暖房を控える」",
+        "is_published": true
+    },
+    {
+        "title": "カーボンフットプリント",
+        "slug": "carbon-footprint",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>炭素の足跡</h3><p>商品やサービスが排出するCO2の量。</p>",
+        "body": "<h3>詳しく解説</h3><p>「カーボンフットプリント（carbon footprint）」は、商品やサービスが排出するCO2の量です。「炭素の足跡」とも呼ばれます。</p><p>環境負荷を数値化し、削減に役立てます。</p>",
+        "example": "「カーボンフットプリントを計算して、環境負荷を把握する」",
+        "is_published": true
+    }
+]

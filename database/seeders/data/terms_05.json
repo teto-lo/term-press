@@ -1,0 +1,223 @@
+[
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns",
+            "tiktok"
+        ],
+        "title": "BeReal",
+        "slug": "bereal",
+        "body": "<h3>盛れないSNS</h3><p>ランダムな通知に合わせて、フィルターなしの写真を投稿するアプリ。リアルな日常を共有する。</p>",
+        "short_description": "<h3>リアルな日常を共有するSNS。</h3>",
+        "example": "「ベル鳴った！撮らなきゃ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "蛇化現象",
+        "slug": "hebika",
+        "body": "<h3>全てが愛おしい</h3><p>蛙化現象の逆で、相手がダサいことをしても「飲み込む（受け入れる）」くらい好きだということ。</p>",
+        "short_description": "<h3>何でも可愛く見える現象。</h3>",
+        "example": "「鼻毛出てても蛇化するわ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "好きピ",
+        "slug": "sukipi",
+        "body": "<h3>好きなピープル</h3><p>好きな人のこと。彼氏や片思いの相手。</p>",
+        "short_description": "<h3>好きな人。</h3>",
+        "example": "「今日好きピとデート」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "箱推し",
+        "slug": "hakooshi",
+        "body": "<h3>グループ全体が好き</h3><p>特定のメンバーだけでなく、グループ全員を応援すること。</p>",
+        "short_description": "<h3>全員好き！</h3>",
+        "example": "「私は〇〇の箱推しです」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "同担拒否",
+        "slug": "dotankyohi",
+        "body": "<h3>同じ推しの人は無理</h3><p>自分と同じメンバーを推している人と関わりたくないこと。独占欲。</p>",
+        "short_description": "<h3>同じ推しの人は敵。</h3>",
+        "example": "「同担拒否なんで回れ右してください」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "リアコ",
+        "slug": "riako",
+        "body": "<h3>リアルに恋してる</h3><p>アイドヌや二次元キャラに対して、本気で恋愛感情を持っていること。</p>",
+        "short_description": "<h3>推しに本気愛。</h3>",
+        "example": "「リアコ勢だから熱愛報道しんどい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "量産型",
+        "slug": "ryosangata",
+        "body": "<h3>流行りの格好をした女子</h3><p>みんな同じような（可愛い）服やメイクをしているオタク女子のこと。</p>",
+        "short_description": "<h3>みんなと同じ可愛い格好。</h3>",
+        "example": "「ライブ会場は量産型女子だらけ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "地雷",
+        "slug": "jirai",
+        "body": "<h3>関わると厄介な人</h3><p>見た目は可愛いが、病んでいたり依存体質だったりする女子のこと。「地雷メイク」はそれを模したメイク。</p>",
+        "short_description": "<h3>関わると危険なタイプ。</h3>",
+        "example": "「地雷系コーデ可愛い」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ぴえん",
+        "slug": "pien",
+        "body": "<h3>泣いている様子</h3><p>ちょっとした悲しみや、逆に嬉し泣きを表す。死語になりつつあるがまだ通じる。</p>",
+        "short_description": "<h3>泣いちゃった。</h3>",
+        "example": "「アイス売り切れててぴえん」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "きゅんです",
+        "slug": "kyundesu",
+        "body": "<h3>胸キュン</h3><p>指ハートを作って愛情を示すポーズ。</p>",
+        "short_description": "<h3>好き！って気持ち。</h3>",
+        "example": "「ファンサもらってきゅんです」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "てぇてぇ",
+        "slug": "tete",
+        "body": "<h3>尊い</h3><p>Vtuber界隈から広まった言葉。「尊い」→「とうとい」→「てぇてぇ」。</p>",
+        "short_description": "<h3>尊すぎて言葉にならない。</h3>",
+        "example": "「二人の絡みがてぇてぇ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "あざまる",
+        "slug": "azamaru",
+        "body": "<h3>ありがとうございます。</h3><p>「あざす」＋「。」（まる）。</p>",
+        "short_description": "<h3>ありがとう。</h3>",
+        "example": "「お祝いあざまる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "おけまる",
+        "slug": "okemaru",
+        "body": "<h3>OK。</h3><p>「オッケー」＋「。」（まる）。</p>",
+        "short_description": "<h3>了解。</h3>",
+        "example": "「明日10時おけまる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "とりま",
+        "slug": "torima",
+        "body": "<h3>とりあえずまぁ</h3><p>「とりあえずまぁ、これで」の略。</p>",
+        "short_description": "<h3>ひとまず。</h3>",
+        "example": "「とりまマック集合で」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "ワンチャン",
+        "slug": "wanchan",
+        "body": "<h3>可能性はある</h3><p>One Chance。「もしかしたら行けるかも」という意味。</p>",
+        "short_description": "<h3>可能性アリ。</h3>",
+        "example": "「ワンチャン遅刻するかも」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "詰んだ",
+        "slug": "tsunda",
+        "body": "<h3>終わった</h3><p>将棋の「詰み」。手詰まりでどうしようもない状態。</p>",
+        "short_description": "<h3>もう無理、終わった。</h3>",
+        "example": "「テスト範囲広すぎて詰んだ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "フル単",
+        "slug": "furutan",
+        "body": "<h3>単位フルコンプ</h3><p>履修した授業の単位をすべて取得すること。</p>",
+        "short_description": "<h3>単位全部とれた！</h3>",
+        "example": "「今期はフル単目指す」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "落単",
+        "slug": "rakutan",
+        "body": "<h3>単位を落とす</h3><p>授業の単位がもらえなかったこと。</p>",
+        "short_description": "<h3>単位落とした...</h3>",
+        "example": "「必修落単して留年危機」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "再履",
+        "slug": "sairi",
+        "body": "<h3>再履修</h3><p>単位を落とした授業をもう一度受けること。</p>",
+        "short_description": "<h3>同じ授業をもう一回。</h3>",
+        "example": "「火曜2限は再履の授業」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "ガクチカ",
+        "slug": "gakuchika",
+        "body": "<h3>学生時代に力を入れたこと</h3><p>就活のエントリーシートで必ず聞かれる項目。</p>",
+        "short_description": "<h3>就活で聞かれるアレ。</h3>",
+        "example": "「ガクチカがないのが悩み」"
+    }
+]

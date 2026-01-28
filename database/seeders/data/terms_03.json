@@ -1,0 +1,332 @@
+[
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "GG",
+        "slug": "gg",
+        "body": "<h3>Good Game</h3><p>「良い試合だった」という挨拶。試合終了時にチャットで打つのがマナー。</p>",
+        "short_description": "<h3>良い試合だったね！</h3>",
+        "example": "「GG!」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "AFK",
+        "slug": "afk",
+        "body": "<h3>離席中</h3><p>Away From Keyboardの略。トイレや電話で一時的に操作できないこと。</p>",
+        "short_description": "<h3>席外します。</h3>",
+        "example": "「ちょっとAFK」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "NOOB",
+        "slug": "noob",
+        "body": "<h3>初心者、下手くそ</h3><p>Newbie（初心者）が変化した言葉。相手を煽るときに使われることが多い。</p>",
+        "short_description": "<h3>初心者。下手くそ。</h3>",
+        "example": "「noob team」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "トロール",
+        "slug": "troll",
+        "body": "<h3>荒らし、利敵行為</h3><p>わざと負けるような行動をしたり、味方の邪魔をすること。</p>",
+        "short_description": "<h3>迷惑行為。</h3>",
+        "example": "「味方にトロールがいて負けた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "スマーフ",
+        "slug": "smurf",
+        "body": "<h3>初心者狩り</h3><p>上級者がサブアカウントを使って、低ランク帯でプレイすること。嫌われる行為No.1。</p>",
+        "short_description": "<h3>上級者の初心者狩り。</h3>",
+        "example": "「相手のスマーフ強すぎ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "DPS",
+        "slug": "dps",
+        "body": "<h3>火力職</h3><p>Damage Per Second（秒間ダメージ）の略だが、攻撃役（アタッカー）のことを指すことが多い。</p>",
+        "short_description": "<h3>攻撃役。</h3>",
+        "example": "「DPSが出ない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "タンク",
+        "slug": "tank",
+        "body": "<h3>盾役</h3><p>敵の攻撃を引き受けて、味方を守る役割。HPや防御力が高い。</p>",
+        "short_description": "<h3>味方を守る盾。</h3>",
+        "example": "「タンクが落ちた！」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ヒーラー",
+        "slug": "healer",
+        "body": "<h3>回復役</h3><p>味方のHPを回復する役割。サポート。</p>",
+        "short_description": "<h3>回復してくれる人。</h3>",
+        "example": "「ヒーラーありがとう」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "メタ",
+        "slug": "meta",
+        "body": "<h3>流行りの戦術</h3><p>現環境で最も強いとされる構成や戦術のこと。「メタる」＝「対策する」。</p>",
+        "short_description": "<h3>流行りの最強戦術。</h3>",
+        "example": "「今のメタ構成はこれ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ティア",
+        "slug": "tier",
+        "body": "<h3>強さの階級</h3><p>キャラクターや武器の強さランキング。Tier1が最強。</p>",
+        "short_description": "<h3>強さランキング。</h3>",
+        "example": "「このキャラはTier1」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "RTA",
+        "slug": "rta",
+        "body": "<h3>リアルタイムアタック</h3><p>ゲーム開始からクリアまでの実時間を競う遊び方。「出勤RTA」みたいに日常でも使う。</p>",
+        "short_description": "<h3>早解き競争。</h3>",
+        "example": "「遅刻確定だから準備RTAするわ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "エイム",
+        "slug": "aim",
+        "body": "<h3>照準を合わせること</h3><p>FPSなどで敵に狙いをつける技術。「エイムがいい」＝「射撃が上手い」。</p>",
+        "short_description": "<h3>狙いをつける力。</h3>",
+        "example": "「今日エイム地獄だわ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "確殺",
+        "slug": "kakusatsu",
+        "body": "<h3>確実に倒せる回数</h3><p>「確殺2発」なら、2回当てれば確実に倒せるという意味。</p>",
+        "short_description": "<h3>倒しきること。</h3>",
+        "example": "「確殺ラインに入った」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "リス",
+        "slug": "risu",
+        "body": "<h3>復活</h3><p>リスポーン（Respawn）の略。死んだ後に復活すること。「リス位置」＝「復活地点」。</p>",
+        "short_description": "<h3>復活すること。</h3>",
+        "example": "「リス狩りやめろ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ワンパン",
+        "slug": "onepan",
+        "body": "<h3>一撃で倒す</h3><p>ワンパンチの略。一撃で倒されることにも使う。</p>",
+        "short_description": "<h3>一撃で倒すこと。</h3>",
+        "example": "「ボスをワンパンした」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "レイド",
+        "slug": "raid",
+        "body": "<h3>大規模戦闘</h3><p>多人数で協力して強力なボスと戦うコンテンツ。</p>",
+        "short_description": "<h3>みんなでボスを倒すこと。</h3>",
+        "example": "「レイド募集」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "周回",
+        "slug": "shukai",
+        "body": "<h3>繰り返しプレイ</h3><p>欲しいアイテムが落ちるまで同じステージを何度もクリアすること。</p>",
+        "short_description": "<h3>同じところを何度も回る地獄。</h3>",
+        "example": "「イベント周回してくる」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "課金",
+        "slug": "kakin",
+        "body": "<h3>お金を使うこと</h3><p>ゲーム内アイテムなどを現実のお金で買うこと。「無課金」は一切お金を使わないこと。</p>",
+        "short_description": "<h3>ゲームにお金を使うこと。</h3>",
+        "example": "「5万課金して爆死した」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "天井",
+        "slug": "tenjo",
+        "body": "<h3>課金の上限救済</h3><p>ガチャを一定回数回すと、必ず目玉商品がもらえるシステム。「天井まで回す」＝「当たるまで金を積む」。</p>",
+        "short_description": "<h3>いくら使えば貰えるかという救済。</h3>",
+        "example": "「天井叩いて推しゲットした」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "リセマラ",
+        "slug": "risemara",
+        "body": "<h3>リセットマラソン</h3><p>ゲーム開始時のガチャでいいキャラが出るまで、インストールとアンインストールを繰り返すこと。</p>",
+        "short_description": "<h3>いいのが出るまでやり直すこと。</h3>",
+        "example": "「リセマラで3日終わった」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "鯖",
+        "slug": "saba",
+        "body": "<h3>サーバー</h3><p>Server。「鯖落ち」＝「サーバーダウン」。</p>",
+        "short_description": "<h3>サーバーのこと。</h3>",
+        "example": "「メンテで鯖落ちしてる」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ラグい",
+        "slug": "ragui",
+        "body": "<h3>通信遅延</h3><p>Lag（ラグ）がある状態。画面がカクついたり、止まったりすること。</p>",
+        "short_description": "<h3>回線が悪くてカクつくこと。</h3>",
+        "example": "「ラグすぎて弾が当たらない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "FPS",
+        "slug": "fps",
+        "body": "<h3>一人称視点シューティング</h3><p>First Person Shooter。自分の目線で戦うゲーム。</p>",
+        "short_description": "<h3>銃で撃ち合うゲーム。</h3>",
+        "example": "「FPSやってると酔う」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "TPS",
+        "slug": "tps",
+        "body": "<h3>三人称視点シューティング</h3><p>Third Person Shooter。自分のキャラの背中が見える視点で戦うゲーム。</p>",
+        "short_description": "<h3>キャラが見える撃ち合いゲーム。</h3>",
+        "example": "「スプラトゥーンはTPS」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "キルレ",
+        "slug": "kd",
+        "body": "<h3>キルレート（K/D）</h3><p>倒した数（Kill）と倒された数（Death）の比率。高いほど上手い。</p>",
+        "short_description": "<h3>強さの指標。</h3>",
+        "example": "「キルレ1以下は人権ない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ヘイト",
+        "slug": "hate",
+        "body": "<h3>敵対心</h3><p>敵から狙われる度合い。「ヘイトを買う」＝「敵に狙われる」。</p>",
+        "short_description": "<h3>敵に狙われること。</h3>",
+        "example": "「タンクがヘイトを集める」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ゴースティング",
+        "slug": "ghosting",
+        "body": "<h3>配信覗き見</h3><p>配信者の画面を見ながら、位置を特定して倒しに行く不正行為。</p>",
+        "short_description": "<h3>配信を見てズルをすること。</h3>",
+        "example": "「ゴースティングされて萎えた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "姫プ",
+        "slug": "himepu",
+        "body": "<h3>お姫様プレイ</h3><p>周りの男性プレイヤーに守られながら、接待プレイをされること。</p>",
+        "short_description": "<h3>ちやほやされるプレイ。</h3>",
+        "example": "「あの人は姫プが上手い」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "沼プ",
+        "slug": "numapu",
+        "body": "<h3>下手なプレイ</h3><p>泥沼にハマったように、失敗を繰り返して抜け出せない様子。</p>",
+        "short_description": "<h3>下手すぎて泥沼なプレイ。</h3>",
+        "example": "「今日は沼プ連発してる」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "死体撃ち",
+        "slug": "shitaiuchi",
+        "body": "<h3>マナー違反</h3><p>倒した相手の動かないキャラクターを撃ち続ける行為。煽り行為の一種。</p>",
+        "short_description": "<h3>倒した相手を撃つ煽り。</h3>",
+        "example": "「死体撃ちされて通報した」"
+    }
+]

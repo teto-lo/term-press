@@ -1,0 +1,484 @@
+[
+    {
+        "title": "観光地",
+        "slug": "tourist-spot",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>旅行者が訪れる場所</h3><p>観光客が多く訪れる、名所や景勝地。</p>",
+        "body": "<h3>詳しく解説</h3><p>「観光地」は、観光客が多く訪れる名所や景勝地です。歴史的建造物、自然の景観、テーマパークなど、様々な種類があります。</p><p>「観光スポット」とも呼ばれます。</p>",
+        "example": "「京都は日本を代表する観光地だ」",
+        "is_published": true
+    },
+    {
+        "title": "パッケージツアー",
+        "slug": "package-tour",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>セットの旅行商品</h3><p>交通、宿泊、観光がセットになった旅行商品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パッケージツアー（package tour）」は、交通、宿泊、観光がセットになった旅行商品です。個別に手配するより安く、手間もかかりません。</p><p>「ツアー旅行」とも呼ばれます。</p>",
+        "example": "「パッケージツアーで海外旅行に行く」",
+        "is_published": true
+    },
+    {
+        "title": "個人旅行",
+        "slug": "independent-travel",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>自分で手配する旅行</h3><p>ツアーではなく、自分で交通や宿泊を手配する旅行。</p>",
+        "body": "<h3>詳しく解説</h3><p>「個人旅行」は、ツアーではなく自分で交通や宿泊を手配する旅行です。自由度が高く、自分のペースで旅行できます。</p><p>「個人手配」「FIT（Foreign Independent Tour）」とも呼ばれます。</p>",
+        "example": "「個人旅行で自由に旅を楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "バックパッカー",
+        "slug": "backpacker",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>バックパックで旅する人</h3><p>大きなリュックを背負って、安宿を泊まり歩く旅行者。</p>",
+        "body": "<h3>詳しく解説</h3><p>「バックパッカー（backpacker）」は、大きなリュック（バックパック）を背負って、安宿を泊まり歩く旅行者です。長期間、低予算で旅をするスタイルです。</p><p>自由で冒険的な旅を楽しむ若者に人気です。</p>",
+        "example": "「バックパッカーとして世界一周した」",
+        "is_published": true
+    },
+    {
+        "title": "旅館",
+        "slug": "ryokan",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>日本式の宿</h3><p>畳の部屋、温泉、和食などがある日本式の宿泊施設。</p>",
+        "body": "<h3>詳しく解説</h3><p>「旅館」は、畳の部屋、温泉、和食などがある日本式の宿泊施設です。浴衣を着て、日本の伝統的なおもてなしを楽しめます。</p><p>外国人観光客にも人気です。</p>",
+        "example": "「温泉旅館でゆっくり過ごす」",
+        "is_published": true
+    },
+    {
+        "title": "民泊",
+        "slug": "minpaku",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>一般住宅に泊まる</h3><p>一般の人が自宅や空き部屋を旅行者に貸すサービス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「民泊」は、一般の人が自宅や空き部屋を旅行者に貸すサービスです。Airbnbなどのプラットフォームで予約できます。</p><p>ホテルより安く、現地の生活を体験できるのが魅力です。</p>",
+        "example": "「民泊で現地の暮らしを体験した」",
+        "is_published": true
+    },
+    {
+        "title": "ゲストハウス",
+        "slug": "guesthouse",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>安宿</h3><p>ドミトリー（相部屋）が中心の、安価な宿泊施設。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ゲストハウス（guesthouse）」は、ドミトリー（相部屋）が中心の安価な宿泊施設です。バックパッカーや長期旅行者に人気です。</p><p>共用スペースで他の旅行者と交流できるのも魅力です。</p>",
+        "example": "「ゲストハウスで旅仲間ができた」",
+        "is_published": true
+    },
+    {
+        "title": "チェックイン",
+        "slug": "check-in",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>宿泊手続き</h3><p>ホテルや飛行機で、利用開始の手続きをすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「チェックイン（check-in）」は、ホテルや飛行機で利用開始の手続きをすることです。ホテルでは鍵を受け取り、飛行機では搭乗券を受け取ります。</p><p>「チェックインする」と動詞としても使われます。</p>",
+        "example": "「ホテルに着いたらまずチェックインする」",
+        "is_published": true
+    },
+    {
+        "title": "チェックアウト",
+        "slug": "check-out",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>退室手続き</h3><p>ホテルで、部屋を出る時の手続きをすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「チェックアウト（check-out）」は、ホテルで部屋を出る時の手続きをすることです。鍵を返却し、料金を精算します。</p><p>チェックアウト時間を過ぎると、延長料金がかかることがあります。</p>",
+        "example": "「明日の朝10時にチェックアウトする」",
+        "is_published": true
+    },
+    {
+        "title": "レイトチェックアウト",
+        "slug": "late-checkout",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>遅めの退室</h3><p>通常より遅い時間にチェックアウトすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「レイトチェックアウト（late checkout）」は、通常より遅い時間にチェックアウトすることです。追加料金がかかることが多いですが、ゆっくり過ごせます。</p><p>ホテルに事前に確認・依頼する必要があります。</p>",
+        "example": "「レイトチェックアウトをお願いして、昼まで部屋にいた」",
+        "is_published": true
+    },
+    {
+        "title": "アーリーチェックイン",
+        "slug": "early-checkin",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>早めの入室</h3><p>通常より早い時間にチェックインすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アーリーチェックイン（early check-in）」は、通常より早い時間にチェックインすることです。部屋の準備状況によっては対応できないこともあります。</p><p>早朝に到着する場合は、事前にホテルに確認すると良いでしょう。</p>",
+        "example": "「アーリーチェックインできるか問い合わせた」",
+        "is_published": true
+    },
+    {
+        "title": "フライト",
+        "slug": "flight",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>飛行機の便</h3><p>飛行機の運航便。</p>",
+        "body": "<h3>詳しく解説</h3><p>「フライト（flight）」は、飛行機の運航便です。「便」とも言います。</p><p>「フライト時間」は飛行時間、「フライトナンバー」は便名を指します。</p>",
+        "example": "「朝のフライトで出発する」",
+        "is_published": true
+    },
+    {
+        "title": "LCC",
+        "slug": "lcc",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>格安航空会社</h3><p>「Low Cost Carrier」の略。サービスを簡素化して、運賃を安くした航空会社。</p>",
+        "body": "<h3>詳しく解説</h3><p>「LCC」は「Low Cost Carrier（ローコストキャリア）」の略で、サービスを簡素化して運賃を安くした航空会社です。ピーチ、ジェットスターなどが代表的です。</p><p>機内食や荷物預けが有料など、サービスは限定的ですが、安く旅行できます。</p>",
+        "example": "「LCCで格安旅行を楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "マイル",
+        "slug": "mileage",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>航空会社のポイント</h3><p>飛行機に乗ると貯まるポイント。無料航空券などに交換できる。</p>",
+        "body": "<h3>詳しく解説</h3><p>「マイル（mileage）」は、飛行機に乗ると貯まるポイントです。「マイレージ」とも呼ばれます。貯めたマイルは、無料航空券やアップグレードに交換できます。</p><p>クレジットカードの利用でも貯められます。</p>",
+        "example": "「マイルを貯めて無料で旅行する」",
+        "is_published": true
+    },
+    {
+        "title": "ビザ",
+        "slug": "visa",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>入国許可証</h3><p>外国に入国するために必要な許可証。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ビザ（visa）」は、外国に入国するために必要な許可証です。国によっては、観光でもビザが必要な場合があります。</p><p>「査証」とも呼ばれます。</p>",
+        "example": "「アメリカ旅行のためにビザを申請した」",
+        "is_published": true
+    },
+    {
+        "title": "パスポート",
+        "slug": "passport",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>旅券</h3><p>海外旅行に必要な、国籍を証明する公的文書。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パスポート（passport）」は、海外旅行に必要な国籍を証明する公的文書です。「旅券」とも呼ばれます。</p><p>有効期限があり、期限切れの場合は更新が必要です。</p>",
+        "example": "「パスポートの有効期限を確認する」",
+        "is_published": true
+    },
+    {
+        "title": "免税店",
+        "slug": "duty-free-shop",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>税金がかからない店</h3><p>空港などにある、税金がかからない店。</p>",
+        "body": "<h3>詳しく解説</h3><p>「免税店」は、空港などにある税金がかからない店です。「デューティーフリーショップ（duty-free shop）」とも呼ばれます。</p><p>化粧品、ブランド品、お酒などが、通常より安く買えます。</p>",
+        "example": "「免税店でお土産を買った」",
+        "is_published": true
+    },
+    {
+        "title": "お土産",
+        "slug": "souvenir",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>旅行先で買う贈り物</h3><p>旅行先で買って、家族や友人に渡す品物。</p>",
+        "body": "<h3>詳しく解説</h3><p>「お土産」は、旅行先で買って家族や友人に渡す品物です。「みやげ」とも言います。</p><p>その土地の名産品や特産品が人気です。</p>",
+        "example": "「京都のお土産に八ツ橋を買った」",
+        "is_published": true
+    },
+    {
+        "title": "ガイドブック",
+        "slug": "guidebook",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>旅行案内書</h3><p>観光地の情報が載った本。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ガイドブック（guidebook）」は、観光地の情報が載った本です。観光スポット、レストラン、ホテルなどの情報が掲載されています。</p><p>「地球の歩き方」「るるぶ」などが有名です。</p>",
+        "example": "「ガイドブックを見ながら観光プランを立てる」",
+        "is_published": true
+    },
+    {
+        "title": "世界遺産",
+        "slug": "world-heritage",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>UNESCO登録の遺産</h3><p>ユネスコが登録した、人類共通の貴重な遺産。</p>",
+        "body": "<h3>詳しく解説</h3><p>「世界遺産」は、ユネスコ（UNESCO）が登録した人類共通の貴重な遺産です。文化遺産、自然遺産、複合遺産の3種類があります。</p><p>日本には、富士山、姫路城、屋久島など25件の世界遺産があります（2024年時点）。</p>",
+        "example": "「世界遺産巡りが趣味だ」",
+        "is_published": true
+    },
+    {
+        "title": "絶景",
+        "slug": "spectacular-view",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>素晴らしい景色</h3><p>息をのむほど美しい景色。</p>",
+        "body": "<h3>詳しく解説</h3><p>「絶景」は、息をのむほど美しい景色です。山、海、夜景など、様々な絶景があります。</p><p>「絶景スポット」は、絶景が見られる場所を指します。</p>",
+        "example": "「富士山の絶景に感動した」",
+        "is_published": true
+    },
+    {
+        "title": "パワースポット",
+        "slug": "power-spot",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>エネルギーを感じる場所</h3><p>神聖な雰囲気があり、エネルギーを感じられるとされる場所。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パワースポット（power spot）」は、神聖な雰囲気がありエネルギーを感じられるとされる場所です。神社、寺、自然の中などにあります。</p><p>運気が上がる、癒されるなどの効果があるとされ、人気の観光スポットになっています。</p>",
+        "example": "「パワースポット巡りでリフレッシュ」",
+        "is_published": true
+    },
+    {
+        "title": "インスタ映え",
+        "slug": "instagrammable",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>写真映えする</h3><p>Instagramに投稿したくなるような、写真映えする場所や物。</p>",
+        "body": "<h3>詳しく解説</h3><p>「インスタ映え」は、Instagramに投稿したくなるような写真映えする場所や物を指します。カラフル、おしゃれ、珍しいなど、視覚的に魅力的なものが「インスタ映え」するとされます。</p><p>観光地選びの重要な要素になっています。</p>",
+        "example": "「インスタ映えスポットで写真を撮る」",
+        "is_published": true
+    },
+    {
+        "title": "クルーズ",
+        "slug": "cruise",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>船旅</h3><p>大型客船で、複数の港を巡る船旅。</p>",
+        "body": "<h3>詳しく解説</h3><p>「クルーズ（cruise）」は、大型客船で複数の港を巡る船旅です。船内には、レストラン、プール、劇場などの設備があり、豪華な旅を楽しめます。</p><p>「クルーズ旅行」とも呼ばれます。</p>",
+        "example": "「地中海クルーズで優雅な旅を楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "リゾート",
+        "slug": "resort",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>保養地</h3><p>海や山など、休暇を過ごすための保養地。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リゾート（resort）」は、海や山など休暇を過ごすための保養地です。ビーチリゾート、スキーリゾートなど、様々な種類があります。</p><p>リラックスして過ごせる環境が整っています。</p>",
+        "example": "「南国のリゾートでバカンスを楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "オールインクルーシブ",
+        "slug": "all-inclusive",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>全て込みの料金</h3><p>宿泊、食事、アクティビティなどが全て料金に含まれているプラン。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オールインクルーシブ（all-inclusive）」は、宿泊、食事、飲み物、アクティビティなどが全て料金に含まれているプランです。追加料金を気にせず、リゾートを満喫できます。</p><p>リゾートホテルでよく見られるプランです。</p>",
+        "example": "「オールインクルーシブのリゾートで何も気にせず楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "ハネムーン",
+        "slug": "honeymoon",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>新婚旅行</h3><p>結婚後に行く旅行。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハネムーン（honeymoon）」は、結婚後に行く旅行です。「新婚旅行」とも呼ばれます。</p><p>ハワイ、ヨーロッパ、モルディブなどが人気の行き先です。</p>",
+        "example": "「ハネムーンでハワイに行く」",
+        "is_published": true
+    },
+    {
+        "title": "一人旅",
+        "slug": "solo-travel",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>一人での旅行</h3><p>誰にも気を遣わず、一人で自由に旅すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「一人旅」は、誰にも気を遣わず一人で自由に旅することです。自分のペースで行動でき、新しい出会いもあります。</p><p>「ソロトラベル（solo travel）」とも呼ばれます。</p>",
+        "example": "「一人旅で自分を見つめ直す」",
+        "is_published": true
+    },
+    {
+        "title": "女子旅",
+        "slug": "girls-trip",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>女性同士の旅行</h3><p>女性だけで行く旅行。</p>",
+        "body": "<h3>詳しく解説</h3><p>「女子旅」は、女性だけで行く旅行です。おしゃれなカフェ、スイーツ、温泉など、女性が楽しめるスポットを巡ります。</p><p>気の合う友人と、気兼ねなく楽しめるのが魅力です。</p>",
+        "example": "「女子旅で温泉とグルメを楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "弾丸旅行",
+        "slug": "quick-trip",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>短期間の旅行</h3><p>1泊2日や日帰りなど、短期間で行く旅行。</p>",
+        "body": "<h3>詳しく解説</h3><p>「弾丸旅行」は、1泊2日や日帰りなど短期間で行く旅行です。忙しい人でも、週末を利用して旅行できます。</p><p>「弾丸ツアー」とも呼ばれます。</p>",
+        "example": "「週末に弾丸旅行で沖縄に行った」",
+        "is_published": true
+    },
+    {
+        "title": "ワーケーション",
+        "slug": "workation",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>仕事と休暇の融合</h3><p>「Work」と「Vacation」を組み合わせた造語。リゾート地などで仕事をしながら休暇も楽しむこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ワーケーション（workation）」は、「Work（仕事）」と「Vacation（休暇）」を組み合わせた造語で、リゾート地などで仕事をしながら休暇も楽しむことです。</p><p>リモートワークの普及で、新しい働き方として注目されています。</p>",
+        "example": "「ワーケーションで沖縄に滞在しながら仕事する」",
+        "is_published": true
+    },
+    {
+        "title": "ノマドワーカー",
+        "slug": "nomad-worker",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>場所を選ばず働く人</h3><p>オフィスを持たず、カフェや旅先などで働く人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ノマドワーカー（nomad worker）」は、オフィスを持たずカフェや旅先などで働く人です。「遊牧民」を意味する「nomad」が語源です。</p><p>ITの発達で、場所を選ばず働けるようになりました。</p>",
+        "example": "「ノマドワーカーとして世界中を旅しながら働く」",
+        "is_published": true
+    },
+    {
+        "title": "エコツーリズム",
+        "slug": "ecotourism",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>環境に配慮した旅行</h3><p>自然環境や地域文化を守りながら楽しむ旅行。</p>",
+        "body": "<h3>詳しく解説</h3><p>「エコツーリズム（ecotourism）」は、自然環境や地域文化を守りながら楽しむ旅行です。環境への負荷を最小限に抑え、持続可能な観光を目指します。</p><p>自然体験や地域との交流を重視します。</p>",
+        "example": "「エコツーリズムで自然を学びながら旅する」",
+        "is_published": true
+    },
+    {
+        "title": "サステナブルツーリズム",
+        "slug": "sustainable-tourism",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>持続可能な観光</h3><p>環境、経済、社会に配慮した、持続可能な観光。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サステナブルツーリズム（sustainable tourism）」は、環境、経済、社会に配慮した持続可能な観光です。地域の資源を守りながら、観光を楽しみます。</p><p>「持続可能な観光」とも呼ばれます。</p>",
+        "example": "「サステナブルツーリズムで地域に貢献する旅を」",
+        "is_published": true
+    },
+    {
+        "title": "オーバーツーリズム",
+        "slug": "overtourism",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>観光客の過剰</h3><p>観光客が増えすぎて、地域住民の生活や環境に悪影響が出ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オーバーツーリズム（overtourism）」は、観光客が増えすぎて地域住民の生活や環境に悪影響が出ることです。混雑、ゴミ、騒音などの問題が起こります。</p><p>京都、ベネチアなどで深刻な問題になっています。</p>",
+        "example": "「オーバーツーリズムで地域住民が困っている」",
+        "is_published": true
+    },
+    {
+        "title": "レンタカー",
+        "slug": "rental-car",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>借りる車</h3><p>旅行先で借りて使う車。</p>",
+        "body": "<h3>詳しく解説</h3><p>「レンタカー（rental car）」は、旅行先で借りて使う車です。公共交通機関が少ない地域では、レンタカーが便利です。</p><p>運転免許証があれば、簡単に借りられます。</p>",
+        "example": "「レンタカーを借りてドライブ旅行」",
+        "is_published": true
+    },
+    {
+        "title": "ドライブ",
+        "slug": "drive",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>車での移動</h3><p>車で景色を楽しみながら移動すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ドライブ（drive）」は、車で景色を楽しみながら移動することです。目的地よりも、運転そのものを楽しむニュアンスがあります。</p><p>「ドライブデート」「ドライブ旅行」など、レジャーとして人気です。</p>",
+        "example": "「週末に海沿いをドライブする」",
+        "is_published": true
+    },
+    {
+        "title": "キャンプ",
+        "slug": "camping",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>野外宿泊</h3><p>テントを張って、野外で宿泊すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「キャンプ（camping）」は、テントを張って野外で宿泊することです。自然の中で過ごし、バーベキューや焚き火を楽しみます。</p><p>近年、ソロキャンプやグランピングが人気です。</p>",
+        "example": "「週末にキャンプ場でキャンプする」",
+        "is_published": true
+    },
+    {
+        "title": "グランピング",
+        "slug": "glamping",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>豪華なキャンプ</h3><p>「Glamorous」と「Camping」を組み合わせた造語。設備が整った豪華なキャンプ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「グランピング（glamping）」は、「Glamorous（豪華な）」と「Camping（キャンプ）」を組み合わせた造語で、設備が整った豪華なキャンプです。テントやベッド、食事などが用意されており、手ぶらで楽しめます。</p><p>キャンプ初心者や女性に人気です。</p>",
+        "example": "「グランピングで快適にアウトドアを楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "登山",
+        "slug": "mountain-climbing",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>山に登る</h3><p>山に登るアクティビティ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「登山」は、山に登るアクティビティです。「トレッキング」「ハイキング」とも呼ばれますが、登山はより本格的な山登りを指すことが多いです。</p><p>体力と装備が必要ですが、達成感と絶景が魅力です。</p>",
+        "example": "「富士山に登山する」",
+        "is_published": true
+    },
+    {
+        "title": "ハイキング",
+        "slug": "hiking",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>軽い山歩き</h3><p>軽装で、自然の中を歩くこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハイキング（hiking）」は、軽装で自然の中を歩くことです。登山より気軽で、初心者でも楽しめます。</p><p>「ハイキングコース」が整備されている場所も多いです。</p>",
+        "example": "「紅葉を見にハイキングに行く」",
+        "is_published": true
+    },
+    {
+        "title": "トレッキング",
+        "slug": "trekking",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>山歩き</h3><p>山や高原を歩くこと。ハイキングより本格的。</p>",
+        "body": "<h3>詳しく解説</h3><p>「トレッキング（trekking）」は、山や高原を歩くことです。ハイキングより本格的で、登山より気軽なイメージです。</p><p>自然を楽しみながら、長距離を歩きます。</p>",
+        "example": "「ネパールでトレッキングを楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "ダイビング",
+        "slug": "diving",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>潜水</h3><p>酸素ボンベを背負って、海に潜ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ダイビング（diving）」は、酸素ボンベを背負って海に潜ることです。「スキューバダイビング」とも呼ばれます。</p><p>海中の美しい景色や生き物を間近で見られます。</p>",
+        "example": "「沖縄でダイビングを体験した」",
+        "is_published": true
+    },
+    {
+        "title": "シュノーケリング",
+        "slug": "snorkeling",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>水面での潜水</h3><p>シュノーケル（呼吸管）を使って、水面近くで泳ぐこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「シュノーケリング（snorkeling）」は、シュノーケル（呼吸管）を使って水面近くで泳ぐことです。ダイビングより気軽で、泳げる人なら誰でも楽しめます。</p><p>浅瀬でも、カラフルな魚やサンゴを見られます。</p>",
+        "example": "「シュノーケリングで熱帯魚を見た」",
+        "is_published": true
+    },
+    {
+        "title": "サーフィン",
+        "slug": "surfing",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>波乗り</h3><p>サーフボードに乗って、波に乗るスポーツ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サーフィン（surfing）」は、サーフボードに乗って波に乗るスポーツです。バランス感覚と体力が必要ですが、波に乗れた時の爽快感は格別です。</p><p>ハワイや湘南などが有名なサーフスポットです。</p>",
+        "example": "「サーフィンで波に乗る爽快感を味わう」",
+        "is_published": true
+    },
+    {
+        "title": "温泉",
+        "slug": "onsen",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>天然の湯</h3><p>地中から湧き出る温かい湯。日本の観光の定番。</p>",
+        "body": "<h3>詳しく解説</h3><p>「温泉」は、地中から湧き出る温かい湯です。日本各地に温泉地があり、観光の定番です。</p><p>リラックス効果や、美肌効果などがあるとされます。</p>",
+        "example": "「温泉旅行で日頃の疲れを癒す」",
+        "is_published": true
+    },
+    {
+        "title": "露天風呂",
+        "slug": "open-air-bath",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>屋外の風呂</h3><p>屋外にある風呂。景色を楽しみながら入浴できる。</p>",
+        "body": "<h3>詳しく解説</h3><p>「露天風呂」は、屋外にある風呂です。自然の景色を楽しみながら入浴でき、開放感があります。</p><p>温泉旅館の人気設備の一つです。</p>",
+        "example": "「露天風呂から満天の星空を眺める」",
+        "is_published": true
+    },
+    {
+        "title": "貸切風呂",
+        "slug": "private-bath",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>プライベートな風呂</h3><p>家族やカップルだけで入れる、貸切の風呂。</p>",
+        "body": "<h3>詳しく解説</h3><p>「貸切風呂」は、家族やカップルだけで入れる貸切の風呂です。「家族風呂」とも呼ばれます。</p><p>他人の目を気にせず、ゆっくり入浴できます。</p>",
+        "example": "「貸切風呂でプライベートな時間を楽しむ」",
+        "is_published": true
+    }
+]

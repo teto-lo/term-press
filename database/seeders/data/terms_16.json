@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "アイドマ",
+        "slug": "aidma",
+        "body": "<h3>消費行動プロセス</h3><p>Attention(注意)→Interest(関心)→Desire(欲求)→Memory(記憶)→Action(行動)の頭文字。</p>",
+        "short_description": "<h3>消費者の心理プロセス。</h3>",
+        "example": "「AIDMAの法則」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "アイサス",
+        "slug": "aisas",
+        "body": "<h3>ネット時代の消費行動</h3><p>Attention→Interest→Search(検索)→Action→Share(共有)。検索と共有が特徴。</p>",
+        "short_description": "<h3>ネット時代の消費行動。</h3>",
+        "example": "「AISASで考える」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "インサイト",
+        "slug": "insight",
+        "body": "<h3>本音、洞察</h3><p>消費者自身も気づいていない隠れた欲求や動機。「顧客インサイトを探る」。</p>",
+        "short_description": "<h3>隠れた本音。</h3>",
+        "example": "「インサイトを発見する」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "インフルエンサー",
+        "slug": "influencer",
+        "body": "<h3>影響力のある人</h3><p>SNSなどで多くのフォロワーを持ち、購買行動に影響を与える人。</p>",
+        "short_description": "<h3>影響力のある人。</h3>",
+        "example": "「インフルエンサーマーケティング」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "オウンドメディア",
+        "slug": "owned-media",
+        "body": "<h3>自社メディア</h3><p>自社で保有・運営するWebサイトやブログ。「オウンドメディアを立ち上げる」。</p>",
+        "short_description": "<h3>自社ブログなど。</h3>",
+        "example": "「オウンドメディアリクルーティング」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "キュレーション",
+        "slug": "curation",
+        "body": "<h3>選別・編集</h3><p>膨大な情報の中から、特定のテーマに沿って情報を拾い集め、まとめること。</p>",
+        "short_description": "<h3>情報のまとめ。</h3>",
+        "example": "「キュレーションサイト」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "コンバージョン",
+        "slug": "conversion",
+        "body": "<h3>成果転換</h3><p>Webサイトで、商品の購入や会員登録など、最終的な成果に至ること。「CV」と略す。</p>",
+        "short_description": "<h3>成果が出ること。</h3>",
+        "example": "「コンバージョン率(CVR)」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "セグメンテーション",
+        "slug": "segmentation",
+        "body": "<h3>市場細分化</h3><p>市場を年齢、性別、地域などで細かく分けること。</p>",
+        "short_description": "<h3>細かく分けること。</h3>",
+        "example": "「セグメンテーションを行う」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ターゲティング",
+        "slug": "targeting",
+        "body": "<h3>標的設定</h3><p>セグメント化された市場の中から、どのグループを狙うか決めること。</p>",
+        "short_description": "<h3>狙う客層を決める。</h3>",
+        "example": "「ターゲティング広告」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "チャネル",
+        "slug": "channel",
+        "body": "<h3>経路</h3><p>商品を売るルート（販売チャネル）や、集客する媒体（集客チャネル）。</p>",
+        "short_description": "<h3>販売や集客の経路。</h3>",
+        "example": "「販売チャネルの拡大」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ニッチ",
+        "slug": "niche-mkt",
+        "body": "<h3>隙間</h3><p>大手が狙わない小さな市場。特定のニーズを持つ層。</p>",
+        "short_description": "<h3>隙間市場。</h3>",
+        "example": "「ニッチ戦略」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "バズる",
+        "slug": "buzz",
+        "body": "<h3>爆発的拡散</h3><p>SNSなどで話題になり、一気に拡散されること。蜂の羽音(Buzz)が語源。</p>",
+        "short_description": "<h3>大流行する。</h3>",
+        "example": "「ツイートがバズった」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ブランディング",
+        "slug": "branding",
+        "body": "<h3>ブランド作り</h3><p>「この商品なら間違いない」という信頼や価値を作り上げること。</p>",
+        "short_description": "<h3>価値を高める活動。</h3>",
+        "example": "「セルフブランディング」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ペルソナ",
+        "slug": "persona-mkt",
+        "body": "<h3>架空の顧客像</h3><p>氏名、年齢、趣味などを具体的に設定した、架空のユーザー像。</p>",
+        "short_description": "<h3>典型的ユーザー像。</h3>",
+        "example": "「ペルソナ設計」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ポジショニング",
+        "slug": "positioning",
+        "body": "<h3>立ち位置</h3><p>競合他社との差別化を図り、自社の独自の立ち位置を確立すること。</p>",
+        "short_description": "<h3>差別化して位置取り。</h3>",
+        "example": "「市場でのポジショニング」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "マーケティング",
+        "slug": "marketing-term",
+        "body": "<h3>売れる仕組み作り</h3><p>商品が売れるための市場調査、商品開発、広告宣伝などの活動全般。</p>",
+        "short_description": "<h3>売れる仕組み作り。</h3>",
+        "example": "「Webマーケティング」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "マーチャンダイジング",
+        "slug": "merchandising",
+        "body": "<h3>商品計画</h3><p>適切な商品を、適切な場所・時期・数量・価格で提供する計画。</p>",
+        "short_description": "<h3>商品化計画。</h3>",
+        "example": "「MD（マーチャンダイザー）」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "リード",
+        "slug": "lead",
+        "body": "<h3>見込み客</h3><p>将来的に顧客になる可能性のある人や企業。「リード獲得」。</p>",
+        "short_description": "<h3>見込み客。</h3>",
+        "example": "「リードジェネレーション」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "リスティング広告",
+        "slug": "listing-ads",
+        "body": "<h3>検索連動型広告</h3><p>検索エンジンの検索結果に表示されるテキスト広告。</p>",
+        "short_description": "<h3>検索広告。</h3>",
+        "example": "「リスティング運用」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "リテンション",
+        "slug": "retention",
+        "body": "<h3>維持</h3><p>既存顧客との関係を維持すること。「リテンションマーケティング」。</p>",
+        "short_description": "<h3>顧客維持。</h3>",
+        "example": "「リテンション率」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ローンチ",
+        "slug": "launch-mkt",
+        "body": "<h3>公開</h3><p>新しいサービスや商品を世に出すこと。</p>",
+        "short_description": "<h3>公開、発売。</h3>",
+        "example": "「ローンチパーティー」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "アフィリエイト",
+        "slug": "affiliate",
+        "body": "<h3>成果報酬型広告</h3><p>ブログなどで商品を紹介し、購入されると紹介料が入る仕組み。</p>",
+        "short_description": "<h3>紹介料ビジネス。</h3>",
+        "example": "「アフィリエイトブログ」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "インバウンド",
+        "slug": "inbound",
+        "body": "<h3>内向き、訪日客</h3><p>外から中に入ってくること。観光では「訪日外国人」。マーケティングでは「顧客に見つけてもらう」手法。</p>",
+        "short_description": "<h3>外から来るもの。</h3>",
+        "example": "「インバウンド需要」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "アウトバウンド",
+        "slug": "outbound",
+        "body": "<h3>外向き</h3><p>中から外へ出ていくこと。日本人の海外旅行や、テレアポなどの売り込み営業。</p>",
+        "short_description": "<h3>外へ向かうもの。</h3>",
+        "example": "「アウトバウンド営業」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "オムニチャネル",
+        "slug": "omnichannel",
+        "body": "<h3>全販路連携</h3><p>ネットと実店舗をシームレスに連携させ、どこでも買えるようにする戦略。</p>",
+        "short_description": "<h3>ネットと店舗の融合。</h3>",
+        "example": "「オムニチャネル化」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "カニバリゼーション",
+        "slug": "cannibalization-mkt",
+        "body": "<h3>共食い</h3><p>自社の新商品が、既存商品の売上を奪ってしまうこと。</p>",
+        "short_description": "<h3>自社競合。</h3>",
+        "example": "「カニバリが起きる」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "クロスメディア",
+        "slug": "cross-media",
+        "body": "<h3>メディア連携</h3><p>テレビ、Web、雑誌など、複数のメディアを組み合わせて宣伝すること。</p>",
+        "short_description": "<h3>メディアの組み合わせ。</h3>",
+        "example": "「クロスメディア戦略」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ステルスマーケティング",
+        "slug": "stealth-marketing",
+        "body": "<h3>サクラ、やらせ</h3><p>「ステマ」。宣伝であることを隠して宣伝すること。今は法律で規制されている。</p>",
+        "short_description": "<h3>隠れて宣伝。</h3>",
+        "example": "「ステマ疑惑」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ダイレクトマーケティング",
+        "slug": "direct-marketing",
+        "body": "<h3>直接販売</h3><p>メーカーが顧客に直接商品を売る手法。通販など。</p>",
+        "short_description": "<h3>直接売る。</h3>",
+        "example": "「D2Cブランド」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ティザー",
+        "slug": "teaser",
+        "body": "<h3>じらし</h3><p>発売前に情報を小出しにして、期待感を煽る広告手法。「ティザーサイト」。</p>",
+        "short_description": "<h3>じらし広告。</h3>",
+        "example": "「ティザー映像」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ドミナント戦略",
+        "slug": "dominant-strategy",
+        "body": "<h3>地域集中出店</h3><p>特定の地域にコンビニなどを集中して出店し、その地域を制圧する戦略。</p>",
+        "short_description": "<h3>地域集中。</h3>",
+        "example": "「ドミナント出店」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "バイラルマーケティング",
+        "slug": "viral-marketing",
+        "body": "<h3>口コミ拡散</h3><p>ウイルス（Virus）のように、口コミで情報が広まることを狙う手法。</p>",
+        "short_description": "<h3>口コミ戦略。</h3>",
+        "example": "「バイラル動画」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "フリーミアム",
+        "slug": "freemium",
+        "body": "<h3>基本無料</h3><p>基本機能は無料で提供し、高度な機能を有料にするビジネスモデル。</p>",
+        "short_description": "<h3>基本無料ビジネス。</h3>",
+        "example": "「フリーミアムモデル」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ブルーオーシャン",
+        "slug": "blue-ocean-mkt",
+        "body": "<h3>未開拓市場</h3><p>競争相手がいない、穏やかで利益の出る市場。</p>",
+        "short_description": "<h3>独占市場。</h3>",
+        "example": "「ブルーオーシャンを探す」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "レッドオーシャン",
+        "slug": "red-ocean",
+        "body": "<h3>競争激化市場</h3><p>ライバルが多く、血で血を洗うような激しい競争市場。</p>",
+        "short_description": "<h3>激戦市場。</h3>",
+        "example": "「レッドオーシャン化」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ロングテール",
+        "slug": "long-tail",
+        "body": "<h3>塵も積もれば</h3><p>売れ筋ではないニッチな商品をたくさん扱うことで、全体で大きな売上を上げること。</p>",
+        "short_description": "<h3>多品種少量販売。</h3>",
+        "example": "「ロングテールSEO」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ワン・トゥ・ワン",
+        "slug": "one-to-one",
+        "body": "<h3>個別対応</h3><p>顧客一人ひとりの好みに合わせて、個別にアプローチすること。</p>",
+        "short_description": "<h3>個別対応。</h3>",
+        "example": "「One to Oneマーケティング」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "USP",
+        "slug": "usp",
+        "body": "<h3>独自の売り</h3><p>Unique Selling Proposition。他社にはない、その商品だけの強み。</p>",
+        "short_description": "<h3>独自の強み。</h3>",
+        "example": "「USPを明確にする」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "LTV",
+        "slug": "ltv",
+        "body": "<h3>顧客生涯価値</h3><p>Life Time Value。一人の顧客が生涯でどれだけ利益をもたらしてくれるか。</p>",
+        "short_description": "<h3>顧客生涯価値。</h3>",
+        "example": "「LTVを最大化する」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ROI",
+        "slug": "roi",
+        "body": "<h3>投資対効果</h3><p>Return On Investment。投資した費用に対して、どれだけ利益が出たか。</p>",
+        "short_description": "<h3>コスパ。</h3>",
+        "example": "「ROIが高い」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "SWOT分析",
+        "slug": "swot",
+        "body": "<h3>状況分析</h3><p>強み(Strength)、弱み(Weakness)、機会(Opportunity)、脅威(Threat)の4つで現状を分析する手法。</p>",
+        "short_description": "<h3>4要素分析。</h3>",
+        "example": "「SWOT分析を行う」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "3C分析",
+        "slug": "3c",
+        "body": "<h3>環境分析</h3><p>顧客(Customer)、競合(Competitor)、自社(Company)の3つの視点で分析する手法。</p>",
+        "short_description": "<h3>3視点分析。</h3>",
+        "example": "「3C分析で戦略立案」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "4P分析",
+        "slug": "4p",
+        "body": "<h3>戦略立案</h3><p>製品(Product)、価格(Price)、流通(Place)、販促(Promotion)の4要素を決めること。</p>",
+        "short_description": "<h3>4要素戦略。</h3>",
+        "example": "「マーケティングミックス(4P)」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "エンゲージメント",
+        "slug": "engagement-mkt",
+        "body": "<h3>絆、愛着</h3><p>顧客の企業に対する愛着心や、SNSでの反応率（いいね、RT）のこと。</p>",
+        "short_description": "<h3>愛着、反応率。</h3>",
+        "example": "「エンゲージメントを高める」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "オプトイン",
+        "slug": "opt-in-mkt",
+        "body": "<h3>事前承諾</h3><p>メール配信などを行う前に、ユーザーから許可を得ること。</p>",
+        "short_description": "<h3>同意。</h3>",
+        "example": "「オプトイン取得」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "キャッチコピー",
+        "slug": "catch-copy",
+        "body": "<h3>宣伝文句</h3><p>人の心を掴むための短い宣伝文句。</p>",
+        "short_description": "<h3>宣伝文句。</h3>",
+        "example": "「キャッチコピーを考える」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "クロージング",
+        "slug": "closing",
+        "body": "<h3>成約</h3><p>営業活動の最終段階で、契約を結ぶこと。</p>",
+        "short_description": "<h3>契約締結。</h3>",
+        "example": "「クロージングにかかる」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "シナジー",
+        "slug": "synergy-mkt",
+        "body": "<h3>相乗効果</h3><p>マーケティング施策同士を組み合わせて、より高い効果を出すこと。</p>",
+        "short_description": "<h3>相乗効果。</h3>",
+        "example": "「メディアシナジー」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "トラフィック",
+        "slug": "traffic",
+        "body": "<h3>通信量、アクセス数</h3><p>Webサイトへのアクセス数や、回線を流れるデータ量。</p>",
+        "short_description": "<h3>アクセス数。</h3>",
+        "example": "「トラフィックが増加」"
+    },
+    {
+        "category_slug": "marketing",
+        "scene_slugs": [
+            "marketing"
+        ],
+        "title": "ランディングページ",
+        "slug": "lp",
+        "body": "<h3>着地ページ</h3><p>「LP」。広告をクリックして最初に表示される、商品販売に特化した縦長のページ。</p>",
+        "short_description": "<h3>商品紹介ページ。</h3>",
+        "example": "「LPを制作する」"
+    }
+]

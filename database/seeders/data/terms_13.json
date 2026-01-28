@@ -1,0 +1,658 @@
+[
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ナーフ",
+        "slug": "nerf",
+        "body": "<h3>弱体化</h3><p>アップデートでキャラや武器が弱くなること。「強すぎたからナーフされた」。</p>",
+        "short_description": "<h3>弱体化されること。</h3>",
+        "example": "「愛用武器がナーフされた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "バフ",
+        "slug": "buff",
+        "body": "<h3>強化</h3><p>ステータスが上がること。またはアプデで強くなること。「攻撃力バフがかかる」。</p>",
+        "short_description": "<h3>強化されること。</h3>",
+        "example": "「味方にバフをかける」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "デバフ",
+        "slug": "debuff",
+        "body": "<h3>弱体化効果</h3><p>毒や麻痺など、ステータスが下がる悪い効果。「デバフ解除」。</p>",
+        "short_description": "<h3>悪い効果。</h3>",
+        "example": "「デバフを食らう」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "エイム",
+        "slug": "aim",
+        "body": "<h3>照準</h3><p>敵に狙いを定めること。「エイム力が高い」＝「狙った所に当てるのが上手い」。</p>",
+        "short_description": "<h3>狙いを定めること。</h3>",
+        "example": "「エイムがガバガバ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "キルレ",
+        "slug": "kd",
+        "body": "<h3>キルレート</h3><p>キル数とデス数の比率（KD比）。高いほど強い。「キルレ2.0超え」。</p>",
+        "short_description": "<h3>強さの指標。</h3>",
+        "example": "「キルレを気にする」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "芋",
+        "slug": "imo",
+        "body": "<h3>芋る</h3><p>安全な場所に隠れて動かない戦法。嫌われることが多い。「芋砂（スナイパー）」。</p>",
+        "short_description": "<h3>隠れて動かないこと。</h3>",
+        "example": "「ずっと芋ってる」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "エンジョイ勢",
+        "slug": "enjoy-sei",
+        "body": "<h3>楽しむ重視</h3><p>勝ち負けよりも楽しむことを優先するプレイヤー層。</p>",
+        "short_description": "<h3>楽しむ重視の人。</h3>",
+        "example": "「ガチ勢ではなくエンジョイ勢」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ガチ勢",
+        "slug": "gachi-sei",
+        "body": "<h3>本気の人</h3><p>勝つために本気でやり込んでいるプレイヤー層。</p>",
+        "short_description": "<h3>本気の人。</h3>",
+        "example": "「大会目指すガチ勢」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "姫プ",
+        "slug": "himepu",
+        "body": "<h3>姫プレイ</h3><p>周りの男性プレイヤーにチヤホヤされ、守られながらプレイすること。</p>",
+        "short_description": "<h3>チヤホヤされるプレイ。</h3>",
+        "example": "「姫プ乙」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "スマーフ",
+        "slug": "smurf",
+        "body": "<h3>初心者狩り</h3><p>上級者がサブアカウントを作って、初心者帯でプレイすること。マナー違反。</p>",
+        "short_description": "<h3>初心者狩り。</h3>",
+        "example": "「スマーフ行為は禁止」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "リセマラ",
+        "slug": "risemara",
+        "body": "<h3>リセットマラソン</h3><p>スマホゲームで、最初のガチャで良いキャラが出るまでインストールとアンインストールを繰り返すこと。</p>",
+        "short_description": "<h3>最初のガチャやり直し。</h3>",
+        "example": "「リセマラで疲れた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "凸",
+        "slug": "totsu",
+        "body": "<h3>突撃</h3><p>とつ。敵に突っ込むこと、または通話などに参加しに行くこと。「凸る」。</p>",
+        "short_description": "<h3>突撃すること。</h3>",
+        "example": "「敵陣に凸る」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "野良",
+        "slug": "nora",
+        "body": "<h3>一人で参加</h3><p>友達と組まずに、見知らぬ人とマッチングして遊ぶこと。「野良募集」。</p>",
+        "short_description": "<h3>知らない人と遊ぶ。</h3>",
+        "example": "「野良だから連携が取れない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "キャリー",
+        "slug": "carry",
+        "body": "<h3>味方を勝たせる</h3><p>強いプレイヤーが活躍して、チームを勝利に導くこと。「俺がキャリーする」。</p>",
+        "short_description": "<h3>味方を引っ張る。</h3>",
+        "example": "「キャリーありがとう」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ヌーブ",
+        "slug": "noob",
+        "body": "<h3>初心者</h3><p>Newbie（新入り）が語源。下手な人を馬鹿にする言葉としても使われる。</p>",
+        "short_description": "<h3>初心者、下手な人。</h3>",
+        "example": "「このNoobが！」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "確キル",
+        "slug": "kakukiru",
+        "body": "<h3>確実なキル</h3><p>ダウンしている敵にとどめを刺して、蘇生できないようにすること。</p>",
+        "short_description": "<h3>とどめを刺す。</h3>",
+        "example": "「確キルを入れる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ディスラプター",
+        "slug": "disruptor",
+        "body": "<h3>破壊的創造者</h3><p>既存の業界の秩序を破壊するような、革新的な企業やサービス。UberやAirbnbなど。</p>",
+        "short_description": "<h3>業界の破壊者。</h3>",
+        "example": "「デジタルディスラプター」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ユニコーン",
+        "slug": "unicorn",
+        "body": "<h3>巨大ベンチャー</h3><p>評価額が10億ドル以上の未上場スタートアップ企業。幻のように珍しいから。</p>",
+        "short_description": "<h3>すごいベンチャー企業。</h3>",
+        "example": "「次のユニコーン企業」",
+        "key_points": [
+            "評価額10億ドル(約1500億円)以上の未上場企業を指す",
+            "テクノロジー企業が多く、急成長していることが特徴",
+            "上場(IPO)するとユニコーンではなくなる"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🦄",
+                "title": "投資・ビジネスの会話",
+                "description": "「次のユニコーン企業を探す」といった文脈で"
+            },
+            {
+                "emoji": "📰",
+                "title": "ニュースを読む時",
+                "description": "「〇〇社がユニコーン入り」という見出しで"
+            },
+            {
+                "emoji": "💼",
+                "title": "就職・転職活動",
+                "description": "成長企業への転職を検討する際の条件として"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ピボット",
+        "slug": "pivot",
+        "body": "<h3>路線変更</h3><p>事業の方向きを大きく変えること。バスケのピボットターンから。</p>",
+        "short_description": "<h3>方向転換。</h3>",
+        "example": "「事業をピボットする」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マネタイズ",
+        "slug": "monetize",
+        "body": "<h3>収益化</h3><p>無料サービスなどから収益を生み出す仕組みを作ること。</p>",
+        "short_description": "<h3>お金にする仕組み。</h3>",
+        "example": "「どうやってマネタイズするか」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "デフォルト",
+        "slug": "default",
+        "body": "<h3>標準、初期設定</h3><p>「デフォ」と略す。「借金不履行」の意味もあるが、日常では「標準の状態」で使う。</p>",
+        "short_description": "<h3>標準。あたりまえ。</h3>",
+        "example": "「遅刻がデフォになっている」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "リソース",
+        "slug": "resource",
+        "body": "<h3>資源</h3><p>人、物、金、時間など。特に「人手」や「時間」を指すことが多い。</p>",
+        "short_description": "<h3>人手や時間。</h3>",
+        "example": "「リソースが足りない」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アサイン",
+        "slug": "assign",
+        "body": "<h3>任命、割り当て</h3><p>仕事や役職を割り当てること。「プロジェクトにアサインされた」。</p>",
+        "short_description": "<h3>任命されること。</h3>",
+        "example": "「リーダーにアサインする」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コミット",
+        "slug": "commit",
+        "body": "<h3>約束、責任を持つ</h3><p>結果を約束すること。「結果にコミットする」。</p>",
+        "short_description": "<h3>結果を約束する。</h3>",
+        "example": "「フルコミットで挑む」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "オプトイン",
+        "slug": "opt-in",
+        "body": "<h3>事前同意</h3><p>メール配信などで、事前に「送っていいですよ」と許可を得る方式。</p>",
+        "short_description": "<h3>同意すること。</h3>",
+        "example": "「オプトイン方式のメルマガ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "オプトアウト",
+        "slug": "opt-out",
+        "body": "<h3>拒否、離脱</h3><p>「送りつけないで」と拒否すること。または自動的に参加させられる状態から抜けること。</p>",
+        "short_description": "<h3>拒否すること。</h3>",
+        "example": "「オプトアウトの手続き」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "サスティナブル",
+        "slug": "sustainable",
+        "body": "<h3>持続可能</h3><p>環境に配慮し、将来もずっと続けていけること。「サステナブルな社会」。</p>",
+        "short_description": "<h3>ずっと続けられる。</h3>",
+        "example": "「サステナブルファッション」",
+        "key_points": [
+            "SDGs(持続可能な開発目標)と深く関連している概念",
+            "環境保護だけでなく、経済的な持続可能性も含まれる",
+            "ファッションや食品など、身近な製品選びの基準になる"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🌏",
+                "title": "環境問題の議論",
+                "description": "「サスティナブルな社会を目指す」という文脈で"
+            },
+            {
+                "emoji": "👗",
+                "title": "買い物の時",
+                "description": "「サスティナブル素材の服」などを選ぶ際に"
+            },
+            {
+                "emoji": "🏢",
+                "title": "企業の取り組み",
+                "description": "CSR活動や経営方針を説明する言葉として"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "インセンティブ",
+        "slug": "incentive",
+        "body": "<h3>報奨金</h3><p>やる気を引き出すためのご褒美。売上目標達成時のボーナスなど。</p>",
+        "short_description": "<h3>ご褒美。</h3>",
+        "example": "「インセンティブが入る」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ペルソナ",
+        "slug": "persona",
+        "body": "<h3>架空の顧客像</h3><p>商品開発などで設定する、詳細なターゲット像。「30代独身男性、趣味は...」など。</p>",
+        "short_description": "<h3>ターゲット人物像。</h3>",
+        "example": "「ペルソナを設定する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ニッチ",
+        "slug": "niche",
+        "body": "<h3>隙間</h3><p>大手が参入していない小さな市場。「ニッチ産業」。</p>",
+        "short_description": "<h3>マニアックな隙間。</h3>",
+        "example": "「ニッチな需要を狙う」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "カニバリ",
+        "slug": "cannibalization",
+        "body": "<h3>共食い</h3><p>Cannibalization。自社の製品同士で客を取り合ってしまうこと。「カニブる」。</p>",
+        "short_description": "<h3>自社製品での競合。</h3>",
+        "example": "「新商品が既存品とカニバる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "シナジー",
+        "slug": "synergy",
+        "body": "<h3>相乗効果</h3><p>1+1が2以上になるような、良い組み合わせ効果。「シナジーを生む」。</p>",
+        "short_description": "<h3>相乗効果。</h3>",
+        "example": "「グループ間のシナジー」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アジャイル",
+        "slug": "agile",
+        "body": "<h3>俊敏な開発</h3><p>計画・設計・実装・テストのサイクルを短期間で繰り返す開発手法。変化に柔軟に対応できる。</p>",
+        "short_description": "<h3>変化に強い開発手法。</h3>",
+        "example": "「アジャイル開発で進める」",
+        "key_points": [
+            "最初から完璧な計画を立てず、作りながら改善していく手法",
+            "「スプリント」と呼ばれる短い期間で開発を繰り返す",
+            "顧客の要望の変化に柔軟に対応できるのが強み"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💻",
+                "title": "プロジェクト開始時",
+                "description": "「今回はアジャイルで進めましょう」と提案する際に"
+            },
+            {
+                "emoji": "🔄",
+                "title": "仕様変更への対応",
+                "description": "「アジャイルだから変更も受け入れやすい」と説明する際に"
+            },
+            {
+                "emoji": "🏃",
+                "title": "スピード感のアピール",
+                "description": "「アジャイルに動いて市場に早く出す」といった文脈で"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "スクラム",
+        "slug": "scrum",
+        "body": "<h3>チーム戦</h3><p>アジャイル開発の代表的な手法の一つ。ラグビーのスクラムのように、チーム一丸となって開発を進める。</p>",
+        "short_description": "<h3>チームで進める開発手法。</h3>",
+        "example": "「朝会（デイリースクラム）をする」",
+        "key_points": [
+            "アジャイル開発の中で最も人気のあるフレームワーク",
+            "「スクラムマスター」や「プロダクトオーナー」といった役割がある",
+            "チームのコミュニケーションと自律性を重視する"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🏉",
+                "title": "チーム運営",
+                "description": "「スクラムを導入してチームの連携を高める」といった文脈で"
+            },
+            {
+                "emoji": "🌅",
+                "title": "毎日のミーティング",
+                "description": "「デイリースクラム（朝会）で進捗確認」する際に"
+            },
+            {
+                "emoji": "📋",
+                "title": "役割分担",
+                "description": "「誰がスクラムマスターをやる？」と決める際に"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "DX",
+        "slug": "dx-biz",
+        "body": "<h3>デジタル変革</h3><p>Digital Transformation。ITを使ってビジネスモデルや企業文化そのものを変革すること。単なるIT化とは違う。</p>",
+        "short_description": "<h3>ITでビジネスを変える。</h3>",
+        "example": "「DXを推進する」",
+        "key_points": [
+            "単にアナログをデジタルにする（デジタイゼーション）だけではない",
+            "デジタル技術を活用して、新しい価値や競争力を生み出すこと",
+            "「守りのDX（効率化）」と「攻めのDX（新規事業）」がある"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🏢",
+                "title": "経営戦略",
+                "description": "「わが社の最重要課題はDXだ」と宣言する際に"
+            },
+            {
+                "emoji": "🤖",
+                "title": "業務効率化",
+                "description": "「DXツールを導入して残業を減らす」といった文脈で"
+            },
+            {
+                "emoji": "🚀",
+                "title": "新規事業",
+                "description": "「デジタル技術で新しい顧客体験を作る（DX）」際に"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ステークホルダー",
+        "slug": "stakeholder",
+        "body": "<h3>利害関係者</h3><p>株主、社員、顧客、取引先など、その企業に関わる全ての人。</p>",
+        "short_description": "<h3>関係者全員。</h3>",
+        "example": "「ステークホルダーへの説明」",
+        "key_points": [
+            "株主だけ出なく、従業員、顧客、取引先、地域社会なども含む広い概念",
+            "企業活動はステークホルダーとの協力なしには成り立たない",
+            "「ステークホルダーマネジメント」は利害調整のこと"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤝",
+                "title": "利害調整",
+                "description": "「多くのステークホルダーが関わるプロジェクト」を回す際に"
+            },
+            {
+                "emoji": "📢",
+                "title": "広報・説明",
+                "description": "「ステークホルダーに向けて情報を開示する」際に"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンプライアンス",
+        "slug": "compliance",
+        "body": "<h3>法令遵守</h3><p>法律やルールを守ること。「コンプラ」。最近は特に厳しい。</p>",
+        "short_description": "<h3>ルールを守ること。</h3>",
+        "example": "「コンプラ違反で処分」",
+        "key_points": [
+            "法律だけでなく、社内規定や社会的な倫理観も守ること",
+            "コンプラ違反は企業の信頼を失墜させる重大なリスク",
+            "「コンプラ疲れ」と言われるほど、過剰に気にしすぎる傾向もある"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "⚠️",
+                "title": "注意喚起",
+                "description": "「それはコンプラ的にまずいですよ」と指摘する際に"
+            },
+            {
+                "emoji": "📚",
+                "title": "研修・教育",
+                "description": "「コンプライアンス研修を受ける」際に"
+            },
+            {
+                "emoji": "⚖️",
+                "title": "経営判断",
+                "description": "利益よりもコンプライアンスを優先すべき場面で"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ガバナンス",
+        "slug": "governance",
+        "body": "<h3>統治、管理</h3><p>企業が不正を行わないように管理・監督する仕組み。「コーポレートガバナンス」。</p>",
+        "short_description": "<h3>企業統治。</h3>",
+        "example": "「ガバナンス強化」",
+        "key_points": [
+            "企業が健全に運営されるための「監視・監督」の仕組み",
+            "株主や取締役会が経営者をチェックすること",
+            "コンプライアンス（法令遵守）を守らせるための土台となるもの"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🏛️",
+                "title": "組織体制の構築",
+                "description": "「ガバナンスの効いた組織を作る」といった文脈で"
+            },
+            {
+                "emoji": "🔍",
+                "title": "不祥事の対応",
+                "description": "「ガバナンスの欠如が原因だ」と批判される際に"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ダイバーシティ",
+        "slug": "diversity",
+        "body": "<h3>多様性</h3><p>性別、人種、国籍など、多様な人材を活用すること。「ダイバーシティ＆インクルージョン」。</p>",
+        "short_description": "<h3>多様性。</h3>",
+        "example": "「ダイバーシティ推進」",
+        "key_points": [
+            "性別や国籍だけでなく、働き方や価値観の多様性も含む",
+            "多様な人材が集まることで、イノベーションが生まれやすくなる",
+            "「インクルージョン（包摂）」とセットで語られることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🌍",
+                "title": "採用・人事",
+                "description": "「ダイバーシティ採用を進める」といった文脈で"
+            },
+            {
+                "emoji": "💡",
+                "title": "アイデア出し",
+                "description": "「ダイバーシティが生む新しい発想」を期待する際に"
+            }
+        ]
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "スキーム",
+        "slug": "scheme-biz",
+        "body": "<h3>計画、枠組み</h3><p>事業の仕組みのこと。「詐欺スキーム」など悪い意味でも使われるが、ビジネスでは中立。</p>",
+        "short_description": "<h3>仕組み。</h3>",
+        "example": "「課金スキーム」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "メソッド",
+        "slug": "method",
+        "body": "<h3>方法、方式</h3><p>体系化された方法論。「モンテッソーリ・メソッド」など。</p>",
+        "short_description": "<h3>方法論。</h3>",
+        "example": "「独自のメソッド」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ソリューション",
+        "slug": "solution",
+        "body": "<h3>解決策</h3><p>顧客の抱える問題を解決する製品やサービス。「ITソリューション」。</p>",
+        "short_description": "<h3>解決策。</h3>",
+        "example": "「最適なソリューションを提案」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "インプレッション",
+        "slug": "impression",
+        "body": "<h3>表示回数</h3><p>広告や投稿が表示された回数。「インプ稼ぎ」は表示回数を稼いで収益を得ようとする行為。</p>",
+        "short_description": "<h3>表示回数。</h3>",
+        "example": "「インプレゾンビがウザい」"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "マニュフェスト",
+        "slug": "manifesto",
+        "body": "<h3>政権公約</h3><p>選挙の際に政党が掲げる、具体的な政策目標。「公約」との違いは、数値目標や期限が入っていること。</p>",
+        "short_description": "<h3>政権公約。</h3>",
+        "example": "「マニフェスト選挙」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ポピュリズム",
+        "slug": "populism",
+        "body": "<h3>大衆迎合主義</h3><p>一般大衆の利益や権利を守ると主張し、既存のエリート層を攻撃する政治手法。</p>",
+        "short_description": "<h3>大衆迎合。</h3>",
+        "example": "「ポピュリズムの台頭」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "リベラル",
+        "slug": "liberal",
+        "body": "<h3>革新派</h3><p>個人の自由や多様性を重視し、社会的な平等をめざす考え方。「保守（コンサバ）」の対義語。</p>",
+        "short_description": "<h3>革新派。</h3>",
+        "example": "「リベラルな考え」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "保守",
+        "slug": "conservative",
+        "body": "<h3>伝統重視</h3><p>伝統や秩序を重視し、急激な変化を避ける考え方。「コンサバティブ」。</p>",
+        "short_description": "<h3>伝統重視派。</h3>",
+        "example": "「保守層の支持」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "閣議決定",
+        "slug": "cabinet-decision",
+        "body": "<h3>内閣の決定</h3><p>全閣僚の合意によって政府の方針を決めること。国会を通さずに決められることもある。</p>",
+        "short_description": "<h3>政府の決定。</h3>",
+        "example": "「閣議決定される」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "解散総選挙",
+        "slug": "dissolution-election",
+        "body": "<h3>衆議院選挙</h3><p>総理大臣が衆議院を解散し、全議員を選び直す選挙。「伝家の宝刀」と呼ばれる。</p>",
+        "short_description": "<h3>総選挙。</h3>",
+        "example": "「解散総選挙の時期」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ねじれ国会",
+        "slug": "twisted-diet",
+        "body": "<h3>衆参不一致</h3><p>衆議院と参議院で、多数派の政党が異なる状態。法案が通りにくくなる。</p>",
+        "short_description": "<h3>衆参の不一致。</h3>",
+        "example": "「ねじれ国会の弊害」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "派閥",
+        "slug": "faction",
+        "body": "<h3>党内グループ</h3><p>政党の中で、政策や利害を共有する議員のグループ。「派閥の論理」。</p>",
+        "short_description": "<h3>党内グループ。</h3>",
+        "example": "「派閥解消」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "コンプライアンス",
+        "slug": "compliance-soc",
+        "body": "<h3>法令遵守</h3><p>法律や社会的なルールを守ること。「コンプラ」。企業だけでなく、個人の行動にも求められる。</p>",
+        "short_description": "<h3>法令遵守。</h3>",
+        "example": "「コンプラ違反」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ガバナンス",
+        "slug": "governance",
+        "body": "<h3>統治</h3><p>組織を健全に管理・運営する仕組み。「コーポレート・ガバナンス（企業統治）」。</p>",
+        "short_description": "<h3>組織の統治。</h3>",
+        "example": "「ガバナンスが効いていない」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "SDGs",
+        "slug": "sdgs",
+        "body": "<h3>持続可能な開発目標</h3><p>Sustainable Development Goals。2030年までに達成すべき17の国際目標。</p>",
+        "short_description": "<h3>持続可能な目標。</h3>",
+        "example": "「SDGsバッジ」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "カーボンニュートラル",
+        "slug": "carbon-neutral",
+        "body": "<h3>炭素中立</h3><p>温室効果ガスの排出量と吸収量をプラスマイナスゼロにすること。</p>",
+        "short_description": "<h3>脱炭素。</h3>",
+        "example": "「2050年カーボンニュートラル」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "サステナブル",
+        "slug": "sustainable",
+        "body": "<h3>持続可能</h3><p>環境を破壊せず、将来にわたって続けていけること。「サステナブルな社会」。</p>",
+        "short_description": "<h3>持続可能。</h3>",
+        "example": "「サステナブルファッション」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ダイバーシティ",
+        "slug": "diversity",
+        "body": "<h3>多様性</h3><p>性別、人種、年齢など、多様な人材を受け入れること。「ダイバーシティ＆インクルージョン」。</p>",
+        "short_description": "<h3>多様性。</h3>",
+        "example": "「ダイバーシティ推進」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ジェンダー",
+        "slug": "gender",
+        "body": "<h3>社会的性差</h3><p>身体的な性別ではなく、社会や文化によって作られた性別の役割。「ジェンダー平等」。</p>",
+        "short_description": "<h3>社会的性差。</h3>",
+        "example": "「ジェンダーレス」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "LGBTQ",
+        "slug": "lgbtq",
+        "body": "<h3>性的マイノリティ</h3><p>Lesbian, Gay, Bisexual, Transgender, Queer/Questioningの総称。</p>",
+        "short_description": "<h3>性的マイノリティ。</h3>",
+        "example": "「LGBTQ支援」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "執行猶予",
+        "slug": "suspended-sentence",
+        "body": "<h3>刑の先送り</h3><p>有罪判決を受けても、一定期間悪いことをしなければ刑務所に行かなくて済む制度。</p>",
+        "short_description": "<h3>刑務所回避のチャンス。</h3>",
+        "example": "「執行猶予付き判決」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "不起訴",
+        "slug": "non-prosecution",
+        "body": "<h3>裁判なし</h3><p>検察官が、裁判にかける必要がない（または証拠不十分）と判断すること。前科はつかない。</p>",
+        "short_description": "<h3>裁判回避。</h3>",
+        "example": "「不起訴処分」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "示談",
+        "slug": "settlement",
+        "body": "<h3>話し合い解決</h3><p>裁判によらず、当事者同士の話し合いでお金などを払って解決すること。</p>",
+        "short_description": "<h3>話し合いで解決。</h3>",
+        "example": "「示談金」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "民事訴訟",
+        "slug": "civil-litigation",
+        "body": "<h3>個人の争い</h3><p>お金の貸し借りや離婚など、個人間の争いを解決する裁判。警察は介入しない。</p>",
+        "short_description": "<h3>個人間の裁判。</h3>",
+        "example": "「民事で訴える」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "刑事訴訟",
+        "slug": "criminal-litigation",
+        "body": "<h3>犯罪の裁判</h3><p>犯罪を犯した人を処罰するための裁判。検察官 vs 被告人。</p>",
+        "short_description": "<h3>犯罪の裁判。</h3>",
+        "example": "「刑事責任を問う」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ベーシックインカム",
+        "slug": "basic-income",
+        "body": "<h3>最低所得保障</h3><p>政府がすべての国民に、無条件で一定額のお金を配る制度。</p>",
+        "short_description": "<h3>全国民一律給付。</h3>",
+        "example": "「ベーシックインカム導入論」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ふるさと納税",
+        "slug": "furusato-tax",
+        "body": "<h3>寄付</h3><p>応援したい自治体に寄付ができる制度。返礼品がもらえる上、税金が控除される。</p>",
+        "short_description": "<h3>お得な寄付。</h3>",
+        "example": "「ふるさと納税で節税」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "NISA",
+        "slug": "nisa",
+        "body": "<h3>少額投資非課税制度</h3><p>投資で出た利益に税金がかからない制度。「つみたてNISA」など。</p>",
+        "short_description": "<h3>非課税投資。</h3>",
+        "example": "「新NISA」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "iDeCo",
+        "slug": "ideco",
+        "body": "<h3>個人型確定拠出年金</h3><p>自分で年金を作る制度。掛け金が全額所得控除になるなど節税効果が高い。</p>",
+        "short_description": "<h3>自分年金。</h3>",
+        "example": "「iDeCoを始める」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "マイナンバー",
+        "slug": "my-number",
+        "body": "<h3>個人番号</h3><p>日本に住民票があるすべての人に割り当てられる12桁の番号。</p>",
+        "short_description": "<h3>国民総背番号。</h3>",
+        "example": "「マイナンバーカード」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "DX",
+        "slug": "dx-soc",
+        "body": "<h3>デジタルトランスフォーメーション</h3><p>デジタル技術を使って、生活やビジネスをより良いものに変革すること。</p>",
+        "short_description": "<h3>デジタル変革。</h3>",
+        "example": "「行政のDX」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "インバウンド",
+        "slug": "inbound-tourism",
+        "body": "<h3>訪日外国人</h3><p>外国から日本へ来る旅行者のこと。観光公害（オーバーツーリズム）も問題に。</p>",
+        "short_description": "<h3>外国人観光客。</h3>",
+        "example": "「インバウンド需要」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ステークホルダー",
+        "slug": "stakeholder",
+        "body": "<h3>利害関係者</h3><p>企業の活動に関わるすべての人（株主、従業員、顧客、取引先、地域社会）。</p>",
+        "short_description": "<h3>利害関係者。</h3>",
+        "example": "「ステークホルダーへの説明」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "CSR",
+        "slug": "csr",
+        "body": "<h3>企業の社会的責任</h3><p>Corporate Social Responsibility。企業が利益追求だけでなく、社会に貢献する責任。</p>",
+        "short_description": "<h3>企業の社会貢献。</h3>",
+        "example": "「CSR活動」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "カルト",
+        "slug": "cult",
+        "body": "<h3>熱狂的集団</h3><p>特定の対象を熱狂的に崇拝する宗教団体や政治団体。反社会的な活動をすることがある。</p>",
+        "short_description": "<h3>熱狂的集団。</h3>",
+        "example": "「カルト問題」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "プロパガンダ",
+        "slug": "propaganda",
+        "body": "<h3>政治宣伝</h3><p>特定の考えを人々に植え付けるための宣伝活動。</p>",
+        "short_description": "<h3>政治宣伝。</h3>",
+        "example": "「戦時中のプロパガンダ」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "忖度",
+        "slug": "sontaku",
+        "body": "<h3>推し量る</h3><p>相手の気持ちを推し量って行動すること。政治の世界では悪い意味で使われることが多い。</p>",
+        "short_description": "<h3>空気を読む（政治）。</h3>",
+        "example": "「官僚の忖度」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "排他主義",
+        "slug": "exclusivism",
+        "body": "<h3>仲間以外排除</h3><p>自分たちの仲間以外を排除しようとする考え方。「排外主義」。</p>",
+        "short_description": "<h3>よそ者排除。</h3>",
+        "example": "「排他的なコミュニティ」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "グローバリズム",
+        "slug": "globalism",
+        "body": "<h3>地球規模化</h3><p>世界を一つの共同体として捉え、人やモノの移動を自由にしようとする考え方。</p>",
+        "short_description": "<h3>世界一体化。</h3>",
+        "example": "「反グローバリズム」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ナショナリズム",
+        "slug": "nationalism",
+        "body": "<h3>国家主義</h3><p>自国の利益や文化を統一・保持しようとする考え方。「愛国心」とも重なるが、排他的になることもある。</p>",
+        "short_description": "<h3>国家主義。</h3>",
+        "example": "「ナショナリズムの高揚」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "リテラシー",
+        "slug": "literacy-soc",
+        "body": "<h3>読み解く力</h3><p>情報を正しく理解し、活用する能力。「メディア・リテラシー」「金融リテラシー」。</p>",
+        "short_description": "<h3>活用能力。</h3>",
+        "example": "「リテラシーが低い」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "バイアス",
+        "slug": "bias-soc",
+        "body": "<h3>偏り</h3><p>偏見や先入観。「確証バイアス（自分に都合の良い情報ばかり集めること）」。</p>",
+        "short_description": "<h3>偏見、偏り。</h3>",
+        "example": "「バイアスがかかる」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ステレオタイプ",
+        "slug": "stereotype",
+        "body": "<h3>紋切り型</h3><p>「〇〇人は××だ」といった、固定化されたイメージ。</p>",
+        "short_description": "<h3>固定観念。</h3>",
+        "example": "「ステレオタイプな見方」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "同調圧力",
+        "slug": "peer-pressure",
+        "body": "<h3>空気読め</h3><p>集団の中で、他の人と同じ行動をするように無言で強制されること。</p>",
+        "short_description": "<h3>みんな一緒じゃなきゃダメ。</h3>",
+        "example": "「同調圧力に屈する」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "マウンティング",
+        "slug": "mounting",
+        "body": "<h3>格付け</h3><p>自分の方が優位であることを示そうとすること。「マウントを取る」。</p>",
+        "short_description": "<h3>優位性アピール。</h3>",
+        "example": "「学歴マウント」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "承認欲求",
+        "slug": "desire-for-approval",
+        "body": "<h3>認められたい</h3><p>他人から認められたい、尊敬されたいという欲求。SNSで顕著。</p>",
+        "short_description": "<h3>認められたい欲。</h3>",
+        "example": "「承認欲求モンスター」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "自己肯定感",
+        "slug": "self-esteem",
+        "body": "<h3>自分への自信</h3><p>自分の存在や価値を肯定できる感覚。「自己肯定感が低い」。</p>",
+        "short_description": "<h3>自分への自信。</h3>",
+        "example": "「自己肯定感を高める」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "コワーキング",
+        "slug": "coworking",
+        "body": "<h3>共有オフィス</h3><p>事務所を持たず、共有のスペースで仕事をすること。「コワーキングスペース」。</p>",
+        "short_description": "<h3>共有オフィス。</h3>",
+        "example": "「コワーキングで作業」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ミニマリスト",
+        "slug": "minimalist",
+        "body": "<h3>最小限主義者</h3><p>持ち物をできるだけ減らし、必要最小限のもので暮らす人。</p>",
+        "short_description": "<h3>持たない暮らし。</h3>",
+        "example": "「ミニマリスト生活」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "FIRE",
+        "slug": "fire",
+        "body": "<h3>早期リタイア</h3><p>Financial Independence, Retire Early。経済的自立と早期退職。</p>",
+        "short_description": "<h3>早期リタイア。</h3>",
+        "example": "「FIREを目指す」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "親ガチャ",
+        "slug": "parent-gacha",
+        "body": "<h3>生まれの運</h3><p>どんな親の元に生まれるかは運次第であり、それによって人生が決まるという考え。</p>",
+        "short_description": "<h3>親は選べない。</h3>",
+        "example": "「親ガチャ失敗」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "毒親",
+        "slug": "toxic-parents",
+        "body": "<h3>悪影響な親</h3><p>子供に悪影響を及ぼす親。過干渉、ネグレクト、暴力など。</p>",
+        "short_description": "<h3>子供に害のある親。</h3>",
+        "example": "「毒親育ち」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "ヤングケアラー",
+        "slug": "young-carer",
+        "body": "<h3>介護する子供</h3><p>本来は大人が担うような家事や家族の世話を日常的に行っている子供。</p>",
+        "short_description": "<h3>家族の世話をする子供。</h3>",
+        "example": "「ヤングケアラー支援」"
+    },
+    {
+        "category_slug": "society",
+        "scene_slugs": [
+            "legal"
+        ],
+        "title": "8050問題",
+        "slug": "8050-problem",
+        "body": "<h3>高齢引きこもり</h3><p>80代の親が、50代の引きこもりの子供を支えている問題。</p>",
+        "short_description": "<h3>高齢親子問題。</h3>",
+        "example": "「8050問題の深刻化」"
+    }
+]

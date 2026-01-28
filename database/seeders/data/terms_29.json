@@ -1,0 +1,550 @@
+[
+    {
+        "title": "サブスク",
+        "slug": "subscription",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>定額制サービス</h3><p>「サブスクリプション」の略。月額料金を払って利用するサービス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サブスク」は「サブスクリプション（subscription）」の略で、月額や年額の定額料金を支払って利用するサービスです。音楽配信、動画配信、ソフトウェアなど、様々な分野で普及しています。</p><p>SpotifyやNetflixなどが代表的なサブスクサービスで、所有ではなく利用する形態が主流になっています。</p>",
+        "example": "「音楽はサブスクで聴いてる」",
+        "is_published": true
+    },
+    {
+        "title": "ストリーミング",
+        "slug": "streaming",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>インターネット配信</h3><p>音楽や動画をダウンロードせずに、インターネット経由で再生すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ストリーミング（streaming）」は、音楽や動画をダウンロードせずに、インターネット経由でリアルタイムに再生することです。データを端末に保存しないため、容量を節約できます。</p><p>YouTube、Netflix、Spotifyなどのストリーミングサービスが普及し、エンタメの主流な視聴方法となっています。</p>",
+        "example": "「ストリーミングで映画を観る」",
+        "is_published": true
+    },
+    {
+        "title": "プレイリスト",
+        "slug": "playlist",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>曲のリスト</h3><p>好きな曲を集めて作る、自分だけの曲リスト。</p>",
+        "body": "<h3>詳しく解説</h3><p>「プレイリスト（playlist）」は、好きな曲を集めて作る曲のリストです。音楽ストリーミングサービスで、気分やシーンに合わせたプレイリストを作成・共有できます。</p><p>「作業用BGM」「ドライブ用」など、用途別のプレイリストが人気です。</p>",
+        "example": "「勉強用のプレイリストを作った」",
+        "is_published": true
+    },
+    {
+        "title": "ライブ配信",
+        "slug": "live-streaming",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>生放送配信</h3><p>インターネットでリアルタイムに映像を配信すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ライブ配信」は、インターネットでリアルタイムに映像や音声を配信することです。YouTubeライブ、Instagram Live、TwitchなどのプラットフォームでLive配信が行われています。</p><p>視聴者とリアルタイムでコミュニケーションを取れるのが特徴です。</p>",
+        "example": "「今夜ライブ配信するから見てね」",
+        "is_published": true
+    },
+    {
+        "title": "アーカイブ",
+        "slug": "archive",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>過去の配信の保存</h3><p>ライブ配信が終わった後も見られるように保存された動画。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アーカイブ（archive）」は、ライブ配信が終わった後も視聴できるように保存された動画です。リアルタイムで見られなかった人も、後から視聴できます。</p><p>「アーカイブ残す」「アーカイブで見る」など、配信文化で頻繁に使われる言葉です。</p>",
+        "example": "「ライブ見逃したから、アーカイブで見よう」",
+        "is_published": true
+    },
+    {
+        "title": "サムネ",
+        "slug": "thumbnail",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>動画の表紙画像</h3><p>「サムネイル」の略。動画の内容を表す小さな画像。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サムネ」は「サムネイル（thumbnail）」の略で、動画の内容を表す小さな画像です。YouTubeなどで、動画を選ぶ際の重要な判断材料となります。</p><p>魅力的なサムネを作ることで、クリック率が上がるため、クリエイターは工夫を凝らします。</p>",
+        "example": "「このサムネ、めっちゃ目を引くね」",
+        "is_published": true
+    },
+    {
+        "title": "チャンネル登録",
+        "slug": "subscribe-channel",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>YouTubeのフォロー</h3><p>YouTubeで、好きなクリエイターの新着動画を受け取るための登録。</p>",
+        "body": "<h3>詳しく解説</h3><p>「チャンネル登録」は、YouTubeで好きなクリエイターの新着動画を受け取るための機能です。登録すると、新しい動画がアップされた時に通知が来ます。</p><p>「チャンネル登録お願いします！」は、YouTuberの定番フレーズです。</p>",
+        "example": "「面白かったからチャンネル登録した」",
+        "is_published": true
+    },
+    {
+        "title": "高評価",
+        "slug": "like-button",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>いいねボタン</h3><p>YouTubeで、動画が良かったことを示すボタン。</p>",
+        "body": "<h3>詳しく解説</h3><p>「高評価」は、YouTubeで動画が良かったことを示す親指を立てたボタンです。高評価が多い動画は、おすすめに表示されやすくなります。</p><p>「高評価お願いします！」も、YouTuberの定番フレーズです。</p>",
+        "example": "「この動画、高評価押しとこう」",
+        "is_published": true
+    },
+    {
+        "title": "低評価",
+        "slug": "dislike-button",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>良くないボタン</h3><p>YouTubeで、動画が良くなかったことを示すボタン。</p>",
+        "body": "<h3>詳しく解説</h3><p>「低評価」は、YouTubeで動画が良くなかったことを示す親指を下げたボタンです。ただし、現在は低評価の数は非表示になっています。</p><p>批判的なコメントよりも、低評価ボタンで意思表示する人が多いです。</p>",
+        "example": "「この動画、低評価が多いみたい」",
+        "is_published": true
+    },
+    {
+        "title": "コメント欄",
+        "slug": "comment-section",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>視聴者の感想欄</h3><p>動画やSNS投稿に対して、視聴者が感想を書く場所。</p>",
+        "body": "<h3>詳しく解説</h3><p>「コメント欄」は、動画やSNS投稿に対して視聴者が感想や意見を書く場所です。クリエイターと視聴者、視聴者同士のコミュニケーションの場となっています。</p><p>「コメント欄が面白い」など、コメント欄自体がエンタメになることもあります。</p>",
+        "example": "「コメント欄で盛り上がってる」",
+        "is_published": true
+    },
+    {
+        "title": "炎上",
+        "slug": "flaming",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>ネット上で批判が殺到</h3><p>SNSなどで、不適切な発言や行動に対して批判が殺到すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「炎上」は、SNSなどで不適切な発言や行動に対して批判が殺到し、大きな騒動になることです。一度炎上すると、拡散が止まらず、社会的な影響を受けることもあります。</p><p>「炎上商法」は、わざと炎上させて注目を集める手法ですが、リスクも高いです。</p>",
+        "example": "「あの発言で炎上してる」",
+        "is_published": true
+    },
+    {
+        "title": "アンチ",
+        "slug": "hater",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>批判する人</h3><p>特定の人や物を執拗に批判する人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アンチ（anti）」は、特定の人や物を執拗に批判する人を指します。ファンの対義語で、嫌いなのに関わり続ける人を指すことが多いです。</p><p>有名人やインフルエンサーには、必ずアンチがつくと言われています。</p>",
+        "example": "「アンチのコメントは気にしない」",
+        "is_published": true
+    },
+    {
+        "title": "ファン",
+        "slug": "fan",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>熱心な支持者</h3><p>特定のアーティスト、スポーツチーム、作品などを熱心に応援する人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ファン（fan）」は、特定のアーティスト、スポーツチーム、作品などを熱心に応援する人です。元々は「fanatic（狂信者）」の略です。</p><p>ライブに行ったり、グッズを買ったり、SNSで応援したりと、様々な形でファン活動が行われます。</p>",
+        "example": "「彼の大ファンで、ライブは必ず行く」",
+        "is_published": true
+    },
+    {
+        "title": "オタク",
+        "slug": "otaku",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>特定分野に詳しい人</h3><p>アニメ、ゲーム、アイドルなど、特定の分野に深い知識と情熱を持つ人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オタク」は、アニメ、ゲーム、アイドルなど特定の分野に深い知識と情熱を持つ人を指します。かつてはネガティブなイメージでしたが、現在は「○○オタク」として、趣味に詳しい人という意味で広く使われています。</p><p>海外でも「Otaku」として知られ、日本のサブカルチャーを象徴する言葉です。</p>",
+        "example": "「アニメオタクで、毎シーズン10作品以上見てる」",
+        "is_published": true
+    },
+    {
+        "title": "ライブ",
+        "slug": "live-concert",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>生演奏の公演</h3><p>アーティストが観客の前で生演奏を行う公演。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ライブ（live）」は、アーティストが観客の前で生演奏を行う公演です。「コンサート」とほぼ同じ意味ですが、ライブの方がカジュアルなニュアンスがあります。</p><p>ライブハウス、アリーナ、スタジアムなど、様々な規模で開催されます。</p>",
+        "example": "「週末、好きなバンドのライブに行く」",
+        "is_published": true
+    },
+    {
+        "title": "フェス",
+        "slug": "festival",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>音楽祭</h3><p>「フェスティバル」の略。複数のアーティストが出演する大規模な音楽イベント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「フェス」は「フェスティバル（festival）」の略で、複数のアーティストが出演する大規模な音楽イベントです。野外で開催されることが多く、夏フェスが人気です。</p><p>FUJI ROCK FESTIVAL、SUMMER SONICなどが有名です。</p>",
+        "example": "「夏フェスに行くのが毎年の楽しみ」",
+        "is_published": true
+    },
+    {
+        "title": "セトリ",
+        "slug": "setlist",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>演奏曲目リスト</h3><p>「セットリスト」の略。ライブで演奏する曲の順番リスト。</p>",
+        "body": "<h3>詳しく解説</h3><p>「セトリ」は「セットリスト（setlist）」の略で、ライブで演奏する曲の順番を記したリストです。ファンは、ライブ後にセトリを共有し合います。</p><p>「神セトリ」は、選曲が素晴らしいセットリストを指します。</p>",
+        "example": "「今日のセトリ、最高だった！」",
+        "is_published": true
+    },
+    {
+        "title": "アンコール",
+        "slug": "encore",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>追加演奏</h3><p>ライブの最後に、観客の要望に応えて追加で演奏すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アンコール（encore）」は、ライブの最後に観客の要望に応えて追加で演奏することです。フランス語で「もう一度」という意味です。</p><p>観客が拍手や「アンコール！」の掛け声で、アーティストの再登場を促します。</p>",
+        "example": "「アンコールで一番好きな曲を演奏してくれた」",
+        "is_published": true
+    },
+    {
+        "title": "サイン会",
+        "slug": "autograph-session",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>サインをもらえるイベント</h3><p>アーティストや著名人が、ファンにサインをするイベント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サイン会」は、アーティストや著名人がファンにサインをするイベントです。CDやグッズを購入した人が参加できることが多いです。</p><p>直接会話できる貴重な機会として、ファンに人気です。</p>",
+        "example": "「サイン会で直接話せて嬉しかった」",
+        "is_published": true
+    },
+    {
+        "title": "握手会",
+        "slug": "handshake-event",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>握手できるイベント</h3><p>アイドルなどが、ファンと握手するイベント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「握手会」は、アイドルなどがファンと握手するイベントです。日本のアイドル文化特有のイベントで、CDに握手券が付いていることが多いです。</p><p>短時間ですが、推しと直接触れ合える貴重な機会です。</p>",
+        "example": "「握手会で推しに会えた！」",
+        "is_published": true
+    },
+    {
+        "title": "特典",
+        "slug": "bonus",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>おまけ</h3><p>CDやグッズを買った時についてくる、おまけのアイテム。</p>",
+        "body": "<h3>詳しく解説</h3><p>「特典」は、CDやグッズを購入した時についてくるおまけのアイテムです。ポスター、ブロマイド、握手券などが特典として付きます。</p><p>「初回限定特典」など、限定性を持たせることで購買意欲を高めます。</p>",
+        "example": "「初回限定特典が欲しくて予約した」",
+        "is_published": true
+    },
+    {
+        "title": "グッズ",
+        "slug": "goods",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>関連商品</h3><p>アーティストやキャラクターの関連商品。Tシャツ、タオル、キーホルダーなど。</p>",
+        "body": "<h3>詳しく解説</h3><p>「グッズ（goods）」は、アーティストやキャラクターの関連商品です。Tシャツ、タオル、キーホルダー、ペンライトなど、様々な種類があります。</p><p>ライブ会場やオンラインショップで販売され、ファンのコレクションアイテムとなっています。</p>",
+        "example": "「ライブグッズを買い込んだ」",
+        "is_published": true
+    },
+    {
+        "title": "ペンライト",
+        "slug": "penlight",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>応援用の光る棒</h3><p>ライブで振る、光る棒。色を変えられるものが人気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ペンライト」は、ライブで振る光る棒です。アイドルやアニメのライブでは必須アイテムで、推しメンバーのカラーに合わせて色を変えます。</p><p>「キンブレ（キングブレード）」という商品名で呼ばれることも多いです。</p>",
+        "example": "「ペンライトを推しの色に変えて応援する」",
+        "is_published": true
+    },
+    {
+        "title": "コール",
+        "slug": "call",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>応援の掛け声</h3><p>ライブで、曲に合わせて叫ぶ応援の掛け声。</p>",
+        "body": "<h3>詳しく解説</h3><p>「コール」は、ライブで曲に合わせて叫ぶ応援の掛け声です。アイドルやアニソンのライブでは、曲ごとに決まったコールがあります。</p><p>「MIX」と呼ばれる定番のコールもあり、ファン同士の一体感を生み出します。</p>",
+        "example": "「コールを覚えてライブに臨む」",
+        "is_published": true
+    },
+    {
+        "title": "オーディション",
+        "slug": "audition",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>選考試験</h3><p>アーティストや俳優などを選ぶための試験。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オーディション（audition）」は、アーティストや俳優などを選ぶための選考試験です。歌唱力、演技力、ダンスなどの実技審査が行われます。</p><p>アイドルグループのメンバーや、映画の出演者などがオーディションで選ばれます。</p>",
+        "example": "「オーディションに合格してデビューが決まった」",
+        "is_published": true
+    },
+    {
+        "title": "デビュー",
+        "slug": "debut",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>初登場</h3><p>アーティストや俳優が、初めて公の場に登場すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「デビュー（debut）」は、アーティストや俳優が初めて公の場に登場することです。CDデビュー、映画デビューなど、様々な形態があります。</p><p>デビュー作は、その人のキャリアの出発点として記憶されます。</p>",
+        "example": "「念願のメジャーデビューを果たした」",
+        "is_published": true
+    },
+    {
+        "title": "ブレイク",
+        "slug": "breakthrough",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>大ヒット、人気爆発</h3><p>急に人気が出て、有名になること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ブレイク（break）」は、急に人気が出て有名になることです。「大ブレイク」は特に大きな人気を得た状態を指します。</p><p>一発屋として一時的にブレイクする人もいれば、その後も活躍を続ける人もいます。</p>",
+        "example": "「あの曲で一気にブレイクした」",
+        "is_published": true
+    },
+    {
+        "title": "カバー",
+        "slug": "cover",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>他人の曲を歌う</h3><p>他のアーティストの曲を、自分なりにアレンジして歌うこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「カバー（cover）」は、他のアーティストの曲を自分なりにアレンジして歌うことです。原曲とは違った魅力を引き出すことができます。</p><p>YouTubeなどで、素人がカバー曲を投稿することも一般的になっています。</p>",
+        "example": "「あの名曲をカバーしてみた」",
+        "is_published": true
+    },
+    {
+        "title": "リミックス",
+        "slug": "remix",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>曲の再編集</h3><p>既存の曲を、別のアレンジで作り直すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リミックス（remix）」は、既存の曲を別のアレンジで作り直すことです。テンポを変えたり、新しい音を加えたりして、原曲とは異なる雰囲気に仕上げます。</p><p>EDMやヒップホップでは、リミックス文化が盛んです。</p>",
+        "example": "「この曲のリミックスバージョンが好き」",
+        "is_published": true
+    },
+    {
+        "title": "コラボ",
+        "slug": "collaboration",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>共同制作</h3><p>「コラボレーション」の略。複数のアーティストが共同で作品を作ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「コラボ」は「コラボレーション（collaboration）」の略で、複数のアーティストが共同で作品を作ることです。異なるジャンルのアーティストがコラボすることで、新しい化学反応が生まれます。</p><p>音楽だけでなく、ファッション、グルメなど様々な分野でコラボが行われています。</p>",
+        "example": "「人気アーティスト同士のコラボ曲が話題」",
+        "is_published": true
+    },
+    {
+        "title": "フィーチャリング",
+        "slug": "featuring",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>客演</h3><p>メインアーティストの曲に、別のアーティストが参加すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「フィーチャリング（featuring）」は、メインアーティストの曲に別のアーティストが客演として参加することです。「feat.」と略されます。</p><p>ヒップホップやR&Bでは、フィーチャリングが頻繁に行われます。</p>",
+        "example": "「この曲、有名ラッパーがfeat.してる」",
+        "is_published": true
+    },
+    {
+        "title": "ソロ",
+        "slug": "solo",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>一人での活動</h3><p>グループではなく、一人で活動すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ソロ（solo）」は、グループではなく一人で活動することです。「ソロデビュー」は、グループのメンバーが個人として活動を始めることを指します。</p><p>グループ活動と並行してソロ活動を行うアーティストも多いです。</p>",
+        "example": "「グループを卒業してソロデビューした」",
+        "is_published": true
+    },
+    {
+        "title": "ユニット",
+        "slug": "unit",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>小グループ</h3><p>大きなグループの中の、少人数のグループ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ユニット（unit）」は、大きなグループの中の少人数のグループです。アイドルグループでは、メンバーの一部が期間限定でユニットを組むことがあります。</p><p>異なる個性を持つメンバーの組み合わせで、新しい魅力を引き出します。</p>",
+        "example": "「人気メンバーで結成されたユニットが話題」",
+        "is_published": true
+    },
+    {
+        "title": "センター",
+        "slug": "center",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>中心メンバー</h3><p>アイドルグループで、真ん中に立つ中心メンバー。</p>",
+        "body": "<h3>詳しく解説</h3><p>「センター」は、アイドルグループで真ん中に立つ中心メンバーです。最も目立つポジションで、グループの顔として扱われます。</p><p>「センター争い」は、誰がセンターになるかを巡る競争を指します。</p>",
+        "example": "「今回の曲でセンターに選ばれた」",
+        "is_published": true
+    },
+    {
+        "title": "卒業",
+        "slug": "graduation",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>グループを辞める</h3><p>アイドルグループのメンバーが、グループを辞めること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「卒業」は、アイドルグループのメンバーがグループを辞めることです。「脱退」よりもポジティブなニュアンスで使われます。</p><p>卒業コンサートが開催され、ファンに別れを告げます。</p>",
+        "example": "「推しがグループを卒業すると発表した」",
+        "is_published": true
+    },
+    {
+        "title": "解散",
+        "slug": "disbandment",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>グループの終了</h3><p>グループとしての活動を終了すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「解散」は、グループとしての活動を終了することです。メンバー全員がグループを離れ、それぞれの道を歩みます。</p><p>解散ライブや解散コンサートが開催され、ファンに感謝を伝えます。</p>",
+        "example": "「長年活動してきたバンドが解散を発表した」",
+        "is_published": true
+    },
+    {
+        "title": "再結成",
+        "slug": "reunion",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>活動再開</h3><p>解散したグループが、再び活動を始めること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「再結成」は、解散したグループが再び活動を始めることです。ファンの要望や、メンバー間の再会がきっかけとなることが多いです。</p><p>「リユニオン（reunion）」とも呼ばれます。</p>",
+        "example": "「伝説のバンドが10年ぶりに再結成した」",
+        "is_published": true
+    },
+    {
+        "title": "レコーディング",
+        "slug": "recording",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>録音作業</h3><p>スタジオで曲を録音すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「レコーディング（recording）」は、スタジオで曲を録音することです。ボーカル、楽器、ミックス、マスタリングなど、複数の工程を経て完成します。</p><p>プロのアーティストだけでなく、個人でもレコーディングができる環境が整ってきています。</p>",
+        "example": "「新曲のレコーディングが終わった」",
+        "is_published": true
+    },
+    {
+        "title": "ミュージックビデオ",
+        "slug": "music-video",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>曲の映像作品</h3><p>曲に合わせて作られた映像作品。MVと略される。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ミュージックビデオ（music video）」は、曲に合わせて作られた映像作品です。「MV」と略されます。</p><p>アーティストの世界観を表現し、曲の魅力を視覚的に伝える重要なプロモーションツールです。</p>",
+        "example": "「新曲のMVがYouTubeで公開された」",
+        "is_published": true
+    },
+    {
+        "title": "PV",
+        "slug": "pv",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>プロモーションビデオ</h3><p>「Promotion Video」の略。ミュージックビデオと同じ意味。</p>",
+        "body": "<h3>詳しく解説</h3><p>「PV」は「Promotion Video（プロモーションビデオ）」の略で、ミュージックビデオと同じ意味です。日本では「PV」という呼び方が一般的でしたが、最近は「MV」が主流になっています。</p><p>曲の宣伝を目的とした映像作品です。</p>",
+        "example": "「新曲のPVが話題になってる」",
+        "is_published": true
+    },
+    {
+        "title": "シングル",
+        "slug": "single",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>1-3曲入りのCD</h3><p>メインの曲と、カップリング曲が収録されたCD。</p>",
+        "body": "<h3>詳しく解説</h3><p>「シングル（single）」は、メインの曲1曲と、カップリング曲（B面曲）が収録されたCDです。通常1-3曲程度が収録されます。</p><p>新曲のプロモーションとして、アルバムより先にシングルがリリースされることが多いです。</p>",
+        "example": "「新曲がシングルとしてリリースされた」",
+        "is_published": true
+    },
+    {
+        "title": "アルバム",
+        "slug": "album",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>複数曲入りのCD</h3><p>10曲前後の曲が収録されたCD。アーティストの作品集。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アルバム（album）」は、10曲前後の曲が収録されたCDです。アーティストの世界観を表現した作品集として、シングルよりも重要視されます。</p><p>「フルアルバム」は全曲新曲のアルバム、「ベストアルバム」は過去の人気曲を集めたアルバムです。</p>",
+        "example": "「待望のニューアルバムがリリースされた」",
+        "is_published": true
+    },
+    {
+        "title": "ベストアルバム",
+        "slug": "best-album",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>ヒット曲集</h3><p>過去の人気曲を集めたアルバム。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ベストアルバム」は、過去の人気曲を集めたアルバムです。「グレイテストヒッツ」とも呼ばれます。</p><p>アーティストの代表曲を一度に聴けるため、ファンだけでなく新規リスナーにも人気です。</p>",
+        "example": "「デビュー10周年記念のベストアルバムが発売された」",
+        "is_published": true
+    },
+    {
+        "title": "オリコン",
+        "slug": "oricon",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>音楽ランキング</h3><p>日本の音楽チャート。CDやダウンロードの売上ランキング。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オリコン」は、日本の音楽チャートを発表している会社「オリコン株式会社」の略称です。CDやダウンロードの売上を集計し、週間・月間ランキングを発表します。</p><p>「オリコン1位」は、アーティストにとって大きな名誉です。</p>",
+        "example": "「新曲がオリコン週間ランキング1位を獲得した」",
+        "is_published": true
+    },
+    {
+        "title": "チャート",
+        "slug": "chart",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>音楽ランキング</h3><p>音楽の人気ランキング。売上やストリーミング再生数で順位が決まる。</p>",
+        "body": "<h3>詳しく解説</h3><p>「チャート（chart）」は、音楽の人気ランキングです。CDの売上、ダウンロード数、ストリーミング再生数などを基に順位が決まります。</p><p>Billboard、Spotifyチャートなど、様々なチャートがあります。</p>",
+        "example": "「この曲、チャートで1位を獲得した」",
+        "is_published": true
+    },
+    {
+        "title": "バイラル",
+        "slug": "viral",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>急速に拡散</h3><p>SNSなどで急速に拡散され、話題になること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「バイラル（viral）」は、SNSなどで急速に拡散され、話題になることです。「ウイルスのように広がる」という意味から来ています。</p><p>「バイラルヒット」は、SNSでの拡散がきっかけで大ヒットした曲や動画を指します。</p>",
+        "example": "「この曲、TikTokでバイラルヒットした」",
+        "is_published": true
+    },
+    {
+        "title": "トレンド",
+        "slug": "trend",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>流行、話題</h3><p>今話題になっていること。SNSで多く語られているトピック。</p>",
+        "body": "<h3>詳しく解説</h3><p>「トレンド（trend）」は、今話題になっていること、流行を指します。Twitterでは「トレンド入り」することで、多くの人の目に触れます。</p><p>ファッション、音楽、グルメなど、様々な分野でトレンドがあります。</p>",
+        "example": "「この曲、Twitterでトレンド入りしてる」",
+        "is_published": true
+    },
+    {
+        "title": "ジャンル",
+        "slug": "genre",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>音楽の種類</h3><p>ロック、ポップス、ジャズなど、音楽の種類や分類。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ジャンル（genre）」は、音楽の種類や分類です。ロック、ポップス、ジャズ、クラシック、ヒップホップなど、様々なジャンルがあります。</p><p>最近は、複数のジャンルを融合した音楽も増えています。</p>",
+        "example": "「このアーティストは、ジャンルにとらわれない音楽を作る」",
+        "is_published": true
+    },
+    {
+        "title": "メロディ",
+        "slug": "melody",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>曲の旋律</h3><p>曲の主となる音の流れ。覚えやすいフレーズ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「メロディ（melody）」は、曲の主となる音の流れ、旋律です。覚えやすく、口ずさみやすいメロディは、ヒット曲の条件とされます。</p><p>「メロディアス」は、メロディが美しい、旋律的という意味です。</p>",
+        "example": "「この曲、メロディが美しくて何度も聴きたくなる」",
+        "is_published": true
+    },
+    {
+        "title": "リズム",
+        "slug": "rhythm",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>曲のテンポ、拍子</h3><p>音楽の時間的な流れ。ビートやテンポ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リズム（rhythm）」は、音楽の時間的な流れ、拍子です。ビート、テンポ、グルーヴなどがリズムを構成します。</p><p>「リズム感がある」は、音楽に合わせて体を動かせる能力を指します。</p>",
+        "example": "「このリズムに乗って踊りたくなる」",
+        "is_published": true
+    },
+    {
+        "title": "ハーモニー",
+        "slug": "harmony",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>和音、調和</h3><p>複数の音が同時に鳴って生まれる調和。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハーモニー（harmony）」は、複数の音が同時に鳴って生まれる調和、和音です。コーラスやアカペラでは、美しいハーモニーが重要です。</p><p>「ハモる」は、ハーモニーを奏でることを指す俗語です。</p>",
+        "example": "「この曲、ハーモニーが美しい」",
+        "is_published": true
+    },
+    {
+        "title": "歌詞",
+        "slug": "lyrics",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>曲の言葉</h3><p>歌の中で歌われる言葉。メッセージを伝える。</p>",
+        "body": "<h3>詳しく解説</h3><p>「歌詞」は、歌の中で歌われる言葉です。アーティストのメッセージや物語を伝える重要な要素で、共感できる歌詞は多くの人の心を掴みます。</p><p>「リリック（lyrics）」とも呼ばれます。</p>",
+        "example": "「この曲の歌詞が心に響く」",
+        "is_published": true
+    }
+]

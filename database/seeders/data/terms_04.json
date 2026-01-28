@@ -1,0 +1,310 @@
+[
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "wktk",
+        "slug": "wktk",
+        "body": "<h3>ワクワクテカテカ</h3><p>期待して待っている状態。死語になりつつある。</p>",
+        "short_description": "<h3>期待で胸が高鳴る様子。</h3>",
+        "example": "「新作発表wktk」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ggrks",
+        "slug": "ggrks",
+        "body": "<h3>ググれカス</h3><p>「そのくらいGoogleで検索しろ」という意味。初心者に冷たい言葉。</p>",
+        "short_description": "<h3>自分で検索しろ。</h3>",
+        "example": "「質問する前にggrks」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "情弱",
+        "slug": "jojaku",
+        "body": "<h3>情報弱者</h3><p>情報を知らずに損をしている人のこと。</p>",
+        "short_description": "<h3>情報を知らない人。</h3>",
+        "example": "「情弱だから高値で買っちゃった」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "特定",
+        "slug": "tokutei",
+        "body": "<h3>身元を暴くこと</h3><p>炎上した人の住所や本名を、ネット上の情報から割り出すこと。</p>",
+        "short_description": "<h3>身バレさせること。</h3>",
+        "example": "「犯人の住所が特定された」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "晒し",
+        "slug": "sarashi",
+        "body": "<h3>公開処刑</h3><p>DMのやり取りや個人情報を、公の場（TLなど）に公開して非難すること。</p>",
+        "short_description": "<h3>みんなに見せること。</h3>",
+        "example": "「DM晒されて炎上中」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "凸",
+        "slug": "totsu",
+        "body": "<h3>突撃</h3><p>電話をかけたり、直接会いに行ったり、リプライを送ったりすること。「電凸」＝「電話突撃」。</p>",
+        "short_description": "<h3>突撃すること。</h3>",
+        "example": "「アンチに凸した」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "自演",
+        "slug": "jien",
+        "body": "<h3>自作自演</h3><p>別人を装って自分を擁護したり、話題を作ったりすること。</p>",
+        "short_description": "<h3>自分で自分を褒めること。</h3>",
+        "example": "「自演バレてて草」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "釣り",
+        "slug": "tsuri",
+        "body": "<h3>騙すこと</h3><p>嘘のタイトルや内容で閲覧者を集めること。「釣りサムネ」など。</p>",
+        "short_description": "<h3>嘘で人を集めること。</h3>",
+        "example": "「なんだ、釣りかよ解散」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "オワコン",
+        "slug": "owakon",
+        "body": "<h3>終わったコンテンツ</h3><p>人気がなくなって廃れたもの。</p>",
+        "short_description": "<h3>ブームが去ったもの。</h3>",
+        "example": "「そのゲームはもうオワコン」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ステマ",
+        "slug": "sutema",
+        "body": "<h3>ステルスマーケティング</h3><p>宣伝であることを隠して宣伝すること。今は法律で規制されている。</p>",
+        "short_description": "<h3>隠れて宣伝すること。</h3>",
+        "example": "「これステマ臭いな」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ダイマ",
+        "slug": "daima",
+        "body": "<h3>ダイレクトマーケティング</h3><p>ステマの対義語。「これは宣伝です！」と開き直っておすすめすること。</p>",
+        "short_description": "<h3>堂々と宣伝すること。</h3>",
+        "example": "「推しの新作CDをダイマします」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "バズる",
+        "slug": "buzz",
+        "body": "<h3>大流行</h3><p>SNSで爆発的に拡散されること。</p>",
+        "short_description": "<h3>めっちゃ拡散されること。</h3>",
+        "example": "「ツイートがバズって通知が止まらない」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "インプレゾンビ",
+        "slug": "imprezombie",
+        "body": "<h3>閲覧数稼ぎのbot</h3><p>X（旧Twitter）で、収益化のために無関係なリプライを繰り返す迷惑アカウント。</p>",
+        "short_description": "<h3>邪魔なリプライbot。</h3>",
+        "example": "「リプ欄がインプレゾンビだらけ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ROM",
+        "slug": "rom",
+        "body": "<h3>見る専</h3><p>Read Only Member。書き込まずに見ているだけの人。「ROMる」＝「黙って見る」。</p>",
+        "short_description": "<h3>見てるだけの人。</h3>",
+        "example": "「半年ROMれ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "安価",
+        "slug": "anka",
+        "body": "<h3>アンカー</h3><p>掲示板で、次の行動を指示する番号。「安価で決める」＝「指定された番号の書き込みに従う」。</p>",
+        "short_description": "<h3>掲示板の指示。</h3>",
+        "example": "「夕飯のメニュー安価で決める」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "コピペ",
+        "slug": "copipe",
+        "body": "<h3>コピー＆ペースト</h3><p>文章をコピーして貼り付けること。ネットで有名な定型文のことも指す。</p>",
+        "short_description": "<h3>使い回しの文章。</h3>",
+        "example": "「その話、コピペだよ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "乙",
+        "slug": "otsu",
+        "body": "<h3>お疲れ様</h3><p>「お疲れ」→「おつ」→「乙」。皮肉で使うこともある。</p>",
+        "short_description": "<h3>お疲れ様。</h3>",
+        "example": "「自演乙」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "8888",
+        "slug": "pachi",
+        "body": "<h3>拍手</h3><p>パチパチパチパチという音を表している。</p>",
+        "short_description": "<h3>拍手喝采。</h3>",
+        "example": "「クリアおめでとう8888」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "kwsk",
+        "slug": "kwsk",
+        "body": "<h3>詳しく</h3><p>「KuWaShiKu」の頭文字。</p>",
+        "short_description": "<h3>詳しく教えて。</h3>",
+        "example": "「その話kwsk」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ktkr",
+        "slug": "ktkr",
+        "body": "<h3>キタコレ</h3><p>「KiTaKoRe」の頭文字。期待していたことが起きたときに使う。</p>",
+        "short_description": "<h3>来たこれ！</h3>",
+        "example": "「神アプデktkr」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "希ガス",
+        "slug": "kigasu",
+        "body": "<h3>気がする</h3><p>「きがする」の変換ミス（希ガス）が定着したもの。</p>",
+        "short_description": "<h3>～な気がする。</h3>",
+        "example": "「明日雨な希ガス」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "すこ",
+        "slug": "suko",
+        "body": "<h3>好き</h3><p>「すき」のタイピングミスから生まれた言葉。「すこる」＝「好きになる」。</p>",
+        "short_description": "<h3>好き。</h3>",
+        "example": "「この曲すこ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "無理",
+        "slug": "muri",
+        "body": "<h3>最高（または拒絶）</h3><p>若者言葉では「尊すぎて無理（最高）」の意味で使われることが多い。</p>",
+        "short_description": "<h3>良すぎて耐えられない。</h3>",
+        "example": "「顔が良すぎて無理」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "わかりみ",
+        "slug": "wakarimi",
+        "body": "<h3>共感</h3><p>わかる、理解できるという意味。「わかりみが深い」＝「めちゃくちゃわかる」。</p>",
+        "short_description": "<h3>わかる～。</h3>",
+        "example": "「その説、わかりみが深い」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "神",
+        "slug": "kami",
+        "body": "<h3>素晴らしい</h3><p>最高、天才、ありがとうの意味。「神対応」など。</p>",
+        "short_description": "<h3>最高。</h3>",
+        "example": "「運営が神」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "囲い",
+        "slug": "kakoi",
+        "body": "<h3>信者</h3><p>配信者などを全肯定して守ろうとするファンのこと。</p>",
+        "short_description": "<h3>全肯定ファン。</h3>",
+        "example": "「囲いが強すぎて批判できない」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "アンチ",
+        "slug": "anti",
+        "body": "<h3>反対派</h3><p>特定の人物や作品を嫌い、攻撃する人。</p>",
+        "short_description": "<h3>攻撃的な反対派。</h3>",
+        "example": "「人気が出るとアンチも湧く」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "信者",
+        "slug": "shinja",
+        "body": "<h3>熱心なファン</h3><p>宗教のように崇拝しているファン。ネガティブな意味で使われることもある。</p>",
+        "short_description": "<h3>熱狂的なファン。</h3>",
+        "example": "「〇〇信者が暴れてる」"
+    }
+]

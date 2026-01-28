@@ -1,0 +1,312 @@
+[
+    {
+        "title": "健康診断",
+        "slug": "health-checkup",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>健康状態の検査</h3><p>健康状態を調べるための検査。</p>",
+        "body": "<h3>詳しく解説</h3><p>「健康診断」は、健康状態を調べるための検査です。「健診」と略されます。</p><p>会社や学校で、定期的に実施されます。</p>",
+        "example": "「健康診断で異常が見つかった」",
+        "is_published": true
+    },
+    {
+        "title": "人間ドック",
+        "slug": "comprehensive-health-checkup",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>精密健康診断</h3><p>通常の健康診断より詳しい、精密な健康診断。</p>",
+        "body": "<h3>詳しく解説</h3><p>「人間ドック」は、通常の健康診断より詳しい精密な健康診断です。1-2日かけて、全身を詳しく検査します。</p><p>病気の早期発見に役立ちます。</p>",
+        "example": "「人間ドックを受けて、健康状態を確認する」",
+        "is_published": true
+    },
+    {
+        "title": "生活習慣病",
+        "slug": "lifestyle-disease",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>生活習慣が原因の病気</h3><p>食生活や運動不足など、生活習慣が原因で起こる病気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「生活習慣病」は、食生活や運動不足など生活習慣が原因で起こる病気です。糖尿病、高血圧、脂質異常症などが含まれます。</p><p>予防には、生活習慣の改善が重要です。</p>",
+        "example": "「生活習慣病を予防するため、食事に気をつける」",
+        "is_published": true
+    },
+    {
+        "title": "メタボ",
+        "slug": "metabolic-syndrome",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>メタボリックシンドローム</h3><p>「メタボリックシンドローム」の略。内臓脂肪型肥満に加え、高血圧や高血糖などが重なった状態。</p>",
+        "body": "<h3>詳しく解説</h3><p>「メタボ」は「メタボリックシンドローム（metabolic syndrome）」の略で、内臓脂肪型肥満に加え高血圧や高血糖などが重なった状態です。</p><p>生活習慣病のリスクが高まります。</p>",
+        "example": "「メタボ予防のため、ダイエットを始めた」",
+        "is_published": true
+    },
+    {
+        "title": "BMI",
+        "slug": "bmi",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>体格指数</h3><p>「Body Mass Index」の略。身長と体重から算出する、肥満度を表す指数。</p>",
+        "body": "<h3>詳しく解説</h3><p>「BMI」は「Body Mass Index（ボディ・マス・インデックス）」の略で、身長と体重から算出する肥満度を表す指数です。</p><p>BMI = 体重(kg) ÷ 身長(m)² で計算します。</p>",
+        "example": "「BMIを計算して、適正体重を知る」",
+        "is_published": true
+    },
+    {
+        "title": "糖質制限",
+        "slug": "low-carb",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>炭水化物を減らす</h3><p>炭水化物の摂取を制限するダイエット法。</p>",
+        "body": "<h3>詳しく解説</h3><p>「糖質制限」は、炭水化物の摂取を制限するダイエット法です。ご飯、パン、麺類などを減らします。</p><p>「ローカーボ（low-carb）」とも呼ばれます。</p>",
+        "example": "「糖質制限で体重を落とす」",
+        "is_published": true
+    },
+    {
+        "title": "筋トレ",
+        "slug": "muscle-training",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>筋肉トレーニング</h3><p>「筋肉トレーニング」の略。筋肉を鍛えるトレーニング。</p>",
+        "body": "<h3>詳しく解説</h3><p>「筋トレ」は「筋肉トレーニング」の略で、筋肉を鍛えるトレーニングです。腕立て伏せ、腹筋、スクワットなどが含まれます。</p><p>「ウエイトトレーニング」とも呼ばれます。</p>",
+        "example": "「筋トレして、体を引き締める」",
+        "is_published": true
+    },
+    {
+        "title": "有酸素運動",
+        "slug": "aerobic-exercise",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>酸素を使う運動</h3><p>酸素を使って、脂肪を燃焼させる運動。</p>",
+        "body": "<h3>詳しく解説</h3><p>「有酸素運動」は、酸素を使って脂肪を燃焼させる運動です。ジョギング、水泳、サイクリングなどが含まれます。</p><p>「エアロビクス（aerobics）」とも呼ばれます。</p>",
+        "example": "「有酸素運動で脂肪を燃やす」",
+        "is_published": true
+    },
+    {
+        "title": "無酸素運動",
+        "slug": "anaerobic-exercise",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>短時間の激しい運動</h3><p>短時間で激しく行う運動。筋肉を鍛える。</p>",
+        "body": "<h3>詳しく解説</h3><p>「無酸素運動」は、短時間で激しく行う運動です。筋トレ、短距離走などが含まれます。</p><p>筋肉量を増やし、基礎代謝を上げる効果があります。</p>",
+        "example": "「無酸素運動で筋肉をつける」",
+        "is_published": true
+    },
+    {
+        "title": "パーソナルトレーナー",
+        "slug": "personal-trainer",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>個人指導のトレーナー</h3><p>マンツーマンで指導してくれるトレーナー。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パーソナルトレーナー（personal trainer）」は、マンツーマンで指導してくれるトレーナーです。個人の目標に合わせた、オーダーメイドのトレーニングを提供します。</p><p>効率的に結果を出せます。</p>",
+        "example": "「パーソナルトレーナーをつけて、本格的にトレーニングする」",
+        "is_published": true
+    },
+    {
+        "title": "プロテイン",
+        "slug": "protein",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>タンパク質</h3><p>筋肉を作るために必要な、タンパク質。またはタンパク質を補給するサプリメント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「プロテイン（protein）」は、筋肉を作るために必要なタンパク質です。また、タンパク質を補給するサプリメントを指すこともあります。</p><p>筋トレ後に飲むと、筋肉の成長を促進します。</p>",
+        "example": "「プロテインを飲んで、筋肉をつける」",
+        "is_published": true
+    },
+    {
+        "title": "サプリメント",
+        "slug": "supplement",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>栄養補助食品</h3><p>不足しがちな栄養素を補う食品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サプリメント（supplement）」は、不足しがちな栄養素を補う食品です。「サプリ」と略されます。</p><p>ビタミン、ミネラル、プロテインなど、様々な種類があります。</p>",
+        "example": "「サプリメントで栄養を補給する」",
+        "is_published": true
+    },
+    {
+        "title": "マラソン",
+        "slug": "marathon",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>42.195kmの長距離走</h3><p>42.195kmを走る長距離走。</p>",
+        "body": "<h3>詳しく解説</h3><p>「マラソン（marathon）」は、42.195kmを走る長距離走です。市民マラソン大会が各地で開催され、多くの人が参加しています。</p><p>完走には、長期間のトレーニングが必要です。</p>",
+        "example": "「マラソン大会に出場して、完走を目指す」",
+        "is_published": true
+    },
+    {
+        "title": "ハーフマラソン",
+        "slug": "half-marathon",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>21.0975kmの長距離走</h3><p>マラソンの半分の距離、21.0975kmを走る長距離走。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハーフマラソン（half marathon）」は、マラソンの半分の距離21.0975kmを走る長距離走です。フルマラソンより挑戦しやすく、初心者にも人気です。</p><p>「ハーフ」と略されます。</p>",
+        "example": "「ハーフマラソンに挑戦する」",
+        "is_published": true
+    },
+    {
+        "title": "不眠症",
+        "slug": "insomnia",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>眠れない病気</h3><p>なかなか眠れない、または眠りが浅い病気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「不眠症」は、なかなか眠れない、または眠りが浅い病気です。ストレスや生活習慣の乱れが原因となることが多いです。</p><p>「インソムニア（insomnia）」とも呼ばれます。</p>",
+        "example": "「不眠症で悩んでいる」",
+        "is_published": true
+    },
+    {
+        "title": "ストレス",
+        "slug": "stress",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>精神的な圧力</h3><p>精神的・肉体的な圧力や緊張。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ストレス（stress）」は、精神的・肉体的な圧力や緊張です。適度なストレスは必要ですが、過度なストレスは健康に悪影響を与えます。</p><p>ストレス解消法を見つけることが大切です。</p>",
+        "example": "「ストレスが溜まって、体調を崩した」",
+        "is_published": true
+    },
+    {
+        "title": "リラックス",
+        "slug": "relax",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>くつろぐ</h3><p>緊張をほぐして、くつろぐこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リラックス（relax）」は、緊張をほぐしてくつろぐことです。音楽を聴く、お風呂に入る、マッサージを受けるなど、様々な方法があります。</p><p>ストレス解消に効果的です。</p>",
+        "example": "「リラックスして、心を落ち着ける」",
+        "is_published": true
+    },
+    {
+        "title": "メンタルヘルス",
+        "slug": "mental-health",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>心の健康</h3><p>心の健康状態。</p>",
+        "body": "<h3>詳しく解説</h3><p>「メンタルヘルス（mental health）」は、心の健康状態です。ストレスやうつ病など、心の問題に対処することが重要です。</p><p>「精神的健康」とも呼ばれます。</p>",
+        "example": "「メンタルヘルスを保つため、カウンセリングを受ける」",
+        "is_published": true
+    },
+    {
+        "title": "うつ病",
+        "slug": "depression",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>抑うつ状態が続く病気</h3><p>気分が落ち込み、何もやる気が起きない状態が続く病気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「うつ病」は、気分が落ち込み何もやる気が起きない状態が続く病気です。「抑うつ状態」が2週間以上続くと、うつ病と診断されます。</p><p>早期の治療が重要です。</p>",
+        "example": "「うつ病で休職した」",
+        "is_published": true
+    },
+    {
+        "title": "カウンセリング",
+        "slug": "counseling",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>心理相談</h3><p>専門家に心の悩みを相談すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「カウンセリング（counseling）」は、専門家に心の悩みを相談することです。カウンセラーが話を聞き、問題解決をサポートします。</p><p>「心理相談」とも呼ばれます。</p>",
+        "example": "「カウンセリングを受けて、心が軽くなった」",
+        "is_published": true
+    },
+    {
+        "title": "禁煙",
+        "slug": "quit-smoking",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>タバコをやめる</h3><p>タバコを吸うのをやめること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「禁煙」は、タバコを吸うのをやめることです。健康のために禁煙する人が増えています。</p><p>禁煙外来など、サポート体制も整っています。</p>",
+        "example": "「禁煙して、健康を取り戻す」",
+        "is_published": true
+    },
+    {
+        "title": "受動喫煙",
+        "slug": "secondhand-smoke",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>他人のタバコの煙を吸う</h3><p>自分は吸っていないのに、他人のタバコの煙を吸ってしまうこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「受動喫煙」は、自分は吸っていないのに他人のタバコの煙を吸ってしまうことです。健康被害があるため、公共の場での喫煙が規制されています。</p><p>「副流煙」とも呼ばれます。</p>",
+        "example": "「受動喫煙を避けるため、禁煙席を選ぶ」",
+        "is_published": true
+    },
+    {
+        "title": "アルコール依存症",
+        "slug": "alcoholism",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>お酒がやめられない病気</h3><p>お酒を飲むのがやめられなくなる病気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アルコール依存症」は、お酒を飲むのがやめられなくなる病気です。「アル中」とも呼ばれます。</p><p>専門的な治療が必要です。</p>",
+        "example": "「アルコール依存症の治療を受ける」",
+        "is_published": true
+    },
+    {
+        "title": "予防接種",
+        "slug": "vaccination",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>病気を予防する注射</h3><p>病気を予防するために、ワクチンを接種すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「予防接種」は、病気を予防するためにワクチンを接種することです。インフルエンザ、麻疹、風疹などのワクチンがあります。</p><p>「ワクチン接種」とも呼ばれます。</p>",
+        "example": "「予防接種を受けて、インフルエンザを予防する」",
+        "is_published": true
+    },
+    {
+        "title": "ワクチン",
+        "slug": "vaccine",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>予防接種の薬</h3><p>病気を予防するための薬。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ワクチン（vaccine）」は、病気を予防するための薬です。体内に抗体を作り、病気にかかりにくくします。</p><p>「予防薬」とも呼ばれます。</p>",
+        "example": "「ワクチンを接種して、感染症を予防する」",
+        "is_published": true
+    },
+    {
+        "title": "免疫",
+        "slug": "immunity",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>病気への抵抗力</h3><p>病原体から体を守る、抵抗力。</p>",
+        "body": "<h3>詳しく解説</h3><p>「免疫」は、病原体から体を守る抵抗力です。免疫力が高いと、病気にかかりにくくなります。</p><p>「イミュニティ（immunity）」とも呼ばれます。</p>",
+        "example": "「免疫力を高めるため、バランスの良い食事を取る」",
+        "is_published": true
+    },
+    {
+        "title": "抗体",
+        "slug": "antibody",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>病原体と戦うタンパク質</h3><p>体内で作られる、病原体と戦うタンパク質。</p>",
+        "body": "<h3>詳しく解説</h3><p>「抗体」は、体内で作られる病原体と戦うタンパク質です。一度病気にかかると、その病気に対する抗体ができます。</p><p>ワクチン接種でも、抗体を作ることができます。</p>",
+        "example": "「抗体検査で、免疫があるか確認する」",
+        "is_published": true
+    },
+    {
+        "title": "感染症",
+        "slug": "infectious-disease",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>うつる病気</h3><p>ウイルスや細菌によって、人から人へうつる病気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「感染症」は、ウイルスや細菌によって人から人へうつる病気です。インフルエンザ、新型コロナウイルスなどが含まれます。</p><p>「伝染病」とも呼ばれます。</p>",
+        "example": "「感染症対策として、手洗いうがいを徹底する」",
+        "is_published": true
+    },
+    {
+        "title": "消毒",
+        "slug": "disinfection",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>病原体を殺す</h3><p>アルコールなどで、病原体を殺すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「消毒」は、アルコールなどで病原体を殺すことです。手指消毒、器具の消毒など、感染症予防に重要です。</p><p>「除菌」より強力です。</p>",
+        "example": "「消毒液で手を消毒する」",
+        "is_published": true
+    },
+    {
+        "title": "処方箋",
+        "slug": "prescription",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>薬の指示書</h3><p>医師が出す、薬の種類や量を指示する書類。</p>",
+        "body": "<h3>詳しく解説</h3><p>「処方箋」は、医師が出す薬の種類や量を指示する書類です。薬局に持って行くと、薬を調剤してもらえます。</p><p>「処方せん」とも書きます。</p>",
+        "example": "「処方箋を薬局に持って行く」",
+        "is_published": true
+    },
+    {
+        "title": "ジェネリック医薬品",
+        "slug": "generic-drug",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>後発医薬品</h3><p>特許が切れた後に作られる、安価な薬。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ジェネリック医薬品（generic drug）」は、特許が切れた後に作られる安価な薬です。「後発医薬品」とも呼ばれます。</p><p>効果は先発医薬品と同じで、価格が安いのが特徴です。</p>",
+        "example": "「ジェネリック医薬品を選んで、医療費を節約する」",
+        "is_published": true
+    }
+]

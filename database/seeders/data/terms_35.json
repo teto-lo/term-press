@@ -1,0 +1,322 @@
+[
+    {
+        "title": "義務教育",
+        "slug": "compulsory-education",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>必ず受ける教育</h3><p>法律で定められた、子供が必ず受けなければならない教育。</p>",
+        "body": "<h3>詳しく解説</h3><p>「義務教育」は、法律で定められた子供が必ず受けなければならない教育です。日本では、小学校6年間と中学校3年間の計9年間が義務教育です。</p><p>保護者には、子供に教育を受けさせる義務があります。</p>",
+        "example": "「義務教育を終えて、高校に進学する」",
+        "is_published": true
+    },
+    {
+        "title": "大学",
+        "slug": "university",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>高等教育機関</h3><p>高校卒業後に進学する、高等教育機関。</p>",
+        "body": "<h3>詳しく解説</h3><p>「大学」は、高校卒業後に進学する高等教育機関です。通常4年間（医学部などは6年間）で、専門的な知識を学びます。</p><p>「大学生」は大学に通う学生を指します。</p>",
+        "example": "「大学で経済学を専攻する」",
+        "is_published": true
+    },
+    {
+        "title": "大学院",
+        "slug": "graduate-school",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>大学の上の教育機関</h3><p>大学卒業後に進学する、より高度な教育・研究機関。</p>",
+        "body": "<h3>詳しく解説</h3><p>「大学院」は、大学卒業後に進学するより高度な教育・研究機関です。修士課程（2年間）と博士課程（3年間）があります。</p><p>「大学院生」は大学院に通う学生を指します。</p>",
+        "example": "「大学院で研究を続ける」",
+        "is_published": true
+    },
+    {
+        "title": "専門学校",
+        "slug": "vocational-school",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>職業訓練の学校</h3><p>特定の職業に必要な知識・技術を学ぶ学校。</p>",
+        "body": "<h3>詳しく解説</h3><p>「専門学校」は、特定の職業に必要な知識・技術を学ぶ学校です。美容、調理、IT、医療など、様々な分野があります。</p><p>実践的なスキルを身につけられます。</p>",
+        "example": "「専門学校で調理師の資格を取る」",
+        "is_published": true
+    },
+    {
+        "title": "塾",
+        "slug": "cram-school",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学習塾</h3><p>学校の授業を補う、民間の教育機関。</p>",
+        "body": "<h3>詳しく解説</h3><p>「塾」は、学校の授業を補う民間の教育機関です。「学習塾」とも呼ばれます。受験対策や成績向上を目的に通います。</p><p>日本では、多くの生徒が塾に通っています。</p>",
+        "example": "「塾に通って受験勉強をする」",
+        "is_published": true
+    },
+    {
+        "title": "予備校",
+        "slug": "prep-school",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>大学受験の学校</h3><p>大学受験のための予備校。</p>",
+        "body": "<h3>詳しく解説</h3><p>「予備校」は、大学受験のための学校です。高校卒業後、浪人生が通うことが多いですが、現役高校生も通います。</p><p>受験に特化したカリキュラムが組まれています。</p>",
+        "example": "「予備校に通って、志望大学合格を目指す」",
+        "is_published": true
+    },
+    {
+        "title": "オンライン授業",
+        "slug": "online-class",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>インターネットの授業</h3><p>インターネットを通じて行われる授業。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オンライン授業」は、インターネットを通じて行われる授業です。コロナ禍で普及し、自宅で授業を受けられます。</p><p>「リモート授業」とも呼ばれます。</p>",
+        "example": "「オンライン授業で自宅から講義を受ける」",
+        "is_published": true
+    },
+    {
+        "title": "eラーニング",
+        "slug": "e-learning",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>電子学習</h3><p>インターネットを使った学習。</p>",
+        "body": "<h3>詳しく解説</h3><p>「eラーニング（e-learning）」は、インターネットを使った学習です。動画、クイズ、テストなどを通じて、自分のペースで学べます。</p><p>「電子学習」とも呼ばれます。</p>",
+        "example": "「eラーニングで資格の勉強をする」",
+        "is_published": true
+    },
+    {
+        "title": "通信教育",
+        "slug": "correspondence-education",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>郵送やネットで学ぶ</h3><p>郵送やインターネットで教材を受け取り、自宅で学ぶ教育。</p>",
+        "body": "<h3>詳しく解説</h3><p>「通信教育」は、郵送やインターネットで教材を受け取り自宅で学ぶ教育です。学校に通わずに、自分のペースで学習できます。</p><p>「通信講座」とも呼ばれます。</p>",
+        "example": "「通信教育で高校卒業資格を取る」",
+        "is_published": true
+    },
+    {
+        "title": "入学試験",
+        "slug": "entrance-exam",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>入学のための試験</h3><p>学校に入学するための試験。</p>",
+        "body": "<h3>詳しく解説</h3><p>「入学試験」は、学校に入学するための試験です。「入試」と略されます。</p><p>高校入試、大学入試など、進学の際に受けます。</p>",
+        "example": "「入学試験に合格して、志望校に入学する」",
+        "is_published": true
+    },
+    {
+        "title": "センター試験",
+        "slug": "center-test",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>大学入試の共通試験</h3><p>かつて行われていた、大学入試の共通試験。</p>",
+        "body": "<h3>詳しく解説</h3><p>「センター試験」は、かつて行われていた大学入試の共通試験です。正式には「大学入試センター試験」と言います。</p><p>2021年から「大学入学共通テスト」に変わりました。</p>",
+        "example": "「センター試験で高得点を取る」",
+        "is_published": true
+    },
+    {
+        "title": "共通テスト",
+        "slug": "common-test",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>大学入学共通テスト</h3><p>2021年から始まった、大学入試の共通試験。</p>",
+        "body": "<h3>詳しく解説</h3><p>「共通テスト」は、2021年から始まった大学入試の共通試験です。正式には「大学入学共通テスト」と言います。</p><p>センター試験に代わる試験です。</p>",
+        "example": "「共通テストを受けて、大学入試に臨む」",
+        "is_published": true
+    },
+    {
+        "title": "偏差値",
+        "slug": "deviation-value",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学力の指標</h3><p>テストの成績を、平均を50として数値化したもの。</p>",
+        "body": "<h3>詳しく解説</h3><p>「偏差値」は、テストの成績を平均を50として数値化したものです。自分の学力が、全体の中でどの位置にあるかを示します。</p><p>大学や高校の難易度を表す指標としても使われます。</p>",
+        "example": "「偏差値60の大学を目指す」",
+        "is_published": true
+    },
+    {
+        "title": "浪人",
+        "slug": "ronin",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>進学浪人</h3><p>大学に合格できず、翌年の受験を目指す人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「浪人」は、大学に合格できず翌年の受験を目指す人です。予備校に通って、再挑戦します。</p><p>「浪人生」とも呼ばれます。</p>",
+        "example": "「浪人して、志望大学に再挑戦する」",
+        "is_published": true
+    },
+    {
+        "title": "現役",
+        "slug": "current-student",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>在学中の学生</h3><p>高校3年生で大学を受験する人。浪人していない人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「現役」は、高校3年生で大学を受験する人を指します。浪人していない人です。</p><p>「現役合格」は、浪人せずに大学に合格することです。</p>",
+        "example": "「現役で志望大学に合格した」",
+        "is_published": true
+    },
+    {
+        "title": "AO入試",
+        "slug": "ao-admission",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>総合型選抜</h3><p>「Admissions Office」の略。学力試験だけでなく、面接や小論文で選抜する入試。</p>",
+        "body": "<h3>詳しく解説</h3><p>「AO入試」は「Admissions Office（アドミッションズ・オフィス）」の略で、学力試験だけでなく面接や小論文で選抜する入試です。</p><p>現在は「総合型選抜」と呼ばれています。</p>",
+        "example": "「AO入試で大学に合格した」",
+        "is_published": true
+    },
+    {
+        "title": "推薦入試",
+        "slug": "recommendation-admission",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>推薦による入試</h3><p>高校からの推薦を受けて受験する入試。</p>",
+        "body": "<h3>詳しく解説</h3><p>「推薦入試」は、高校からの推薦を受けて受験する入試です。成績や部活動の実績などが評価されます。</p><p>「学校推薦型選抜」とも呼ばれます。</p>",
+        "example": "「推薦入試で大学に合格した」",
+        "is_published": true
+    },
+    {
+        "title": "奨学金",
+        "slug": "scholarship",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学費の援助</h3><p>経済的に困難な学生に、学費を援助する制度。</p>",
+        "body": "<h3>詳しく解説</h3><p>「奨学金」は、経済的に困難な学生に学費を援助する制度です。返済不要の「給付型」と、返済が必要な「貸与型」があります。</p><p>多くの学生が奨学金を利用しています。</p>",
+        "example": "「奨学金を借りて、大学に通う」",
+        "is_published": true
+    },
+    {
+        "title": "学費",
+        "slug": "tuition",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学校にかかる費用</h3><p>学校に通うためにかかる費用。</p>",
+        "body": "<h3>詳しく解説</h3><p>「学費」は、学校に通うためにかかる費用です。授業料、入学金、教材費などが含まれます。</p><p>大学の学費は高額で、家計の大きな負担となります。</p>",
+        "example": "「学費を稼ぐため、アルバイトをする」",
+        "is_published": true
+    },
+    {
+        "title": "授業料",
+        "slug": "tuition-fee",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>授業の費用</h3><p>授業を受けるために支払う費用。</p>",
+        "body": "<h3>詳しく解説</h3><p>「授業料」は、授業を受けるために支払う費用です。学費の主要な部分を占めます。</p><p>国公立大学と私立大学で、授業料が大きく異なります。</p>",
+        "example": "「授業料を納めて、新学期を迎える」",
+        "is_published": true
+    },
+    {
+        "title": "レポート",
+        "slug": "report",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>報告書</h3><p>調べたことや考えたことをまとめた報告書。</p>",
+        "body": "<h3>詳しく解説</h3><p>「レポート（report）」は、調べたことや考えたことをまとめた報告書です。大学では、レポート提出が課題として出されることが多いです。</p><p>「報告書」とも呼ばれます。</p>",
+        "example": "「レポートを書いて、提出する」",
+        "is_published": true
+    },
+    {
+        "title": "論文",
+        "slug": "thesis",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学術的な文章</h3><p>研究成果をまとめた、学術的な文章。</p>",
+        "body": "<h3>詳しく解説</h3><p>「論文」は、研究成果をまとめた学術的な文章です。大学の卒業論文、修士論文、博士論文などがあります。</p><p>「ペーパー（paper）」とも呼ばれます。</p>",
+        "example": "「卒業論文を書いて、大学を卒業する」",
+        "is_published": true
+    },
+    {
+        "title": "卒論",
+        "slug": "graduation-thesis",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>卒業論文</h3><p>「卒業論文」の略。大学卒業のために書く論文。</p>",
+        "body": "<h3>詳しく解説</h3><p>「卒論」は「卒業論文」の略で、大学卒業のために書く論文です。4年間の学びの集大成として、研究成果をまとめます。</p><p>卒論の提出と審査が、卒業の条件となります。</p>",
+        "example": "「卒論を書き上げて、無事卒業できた」",
+        "is_published": true
+    },
+    {
+        "title": "単位",
+        "slug": "credit",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>授業の履修単位</h3><p>授業を履修し、試験に合格すると得られる単位。</p>",
+        "body": "<h3>詳しく解説</h3><p>「単位」は、授業を履修し試験に合格すると得られる単位です。大学では、卒業に必要な単位数が決まっています。</p><p>「クレジット（credit）」とも呼ばれます。</p>",
+        "example": "「単位を取得して、進級する」",
+        "is_published": true
+    },
+    {
+        "title": "履修",
+        "slug": "enrollment",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>授業を受けること</h3><p>授業を登録して、受けること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「履修」は、授業を登録して受けることです。大学では、自分で履修する授業を選びます。</p><p>「履修登録」は、受ける授業を登録する手続きです。</p>",
+        "example": "「興味のある授業を履修する」",
+        "is_published": true
+    },
+    {
+        "title": "必修科目",
+        "slug": "required-subject",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>必ず取る科目</h3><p>卒業のために、必ず履修しなければならない科目。</p>",
+        "body": "<h3>詳しく解説</h3><p>「必修科目」は、卒業のために必ず履修しなければならない科目です。「必修」と略されます。</p><p>選択の余地がなく、全員が受けます。</p>",
+        "example": "「必修科目を落とすと、卒業できない」",
+        "is_published": true
+    },
+    {
+        "title": "選択科目",
+        "slug": "elective-subject",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>選べる科目</h3><p>自分で選んで履修できる科目。</p>",
+        "body": "<h3>詳しく解説</h3><p>「選択科目」は、自分で選んで履修できる科目です。「選択」と略されます。</p><p>興味のある分野を深く学べます。</p>",
+        "example": "「選択科目で、心理学を学ぶ」",
+        "is_published": true
+    },
+    {
+        "title": "成績",
+        "slug": "grade",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学業の評価</h3><p>テストや授業態度などを総合した、学業の評価。</p>",
+        "body": "<h3>詳しく解説</h3><p>「成績」は、テストや授業態度などを総合した学業の評価です。A、B、C、D、Fなどの評価や、5段階評価で表されます。</p><p>「グレード（grade）」とも呼ばれます。</p>",
+        "example": "「成績が良くて、親に褒められた」",
+        "is_published": true
+    },
+    {
+        "title": "GPA",
+        "slug": "gpa",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>成績平均点</h3><p>「Grade Point Average」の略。成績の平均点。</p>",
+        "body": "<h3>詳しく解説</h3><p>「GPA」は「Grade Point Average（グレード・ポイント・アベレージ）」の略で、成績の平均点です。4.0満点で表されることが多いです。</p><p>就職活動や大学院進学で、GPAが重視されることがあります。</p>",
+        "example": "「GPAを上げるため、勉強を頑張る」",
+        "is_published": true
+    },
+    {
+        "title": "留年",
+        "slug": "repeat-year",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>同じ学年をやり直す</h3><p>単位不足などで、同じ学年をもう一度やり直すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「留年」は、単位不足などで同じ学年をもう一度やり直すことです。進級できずに、同じ学年に留まります。</p><p>「ダブる」とも言います。</p>",
+        "example": "「単位が足りず、留年してしまった」",
+        "is_published": true
+    },
+    {
+        "title": "卒業",
+        "slug": "graduation",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学校を終える</h3><p>学校の課程を修了すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「卒業」は、学校の課程を修了することです。卒業式で、卒業証書を受け取ります。</p><p>「卒業する」と動詞としても使われます。</p>",
+        "example": "「大学を卒業して、社会人になる」",
+        "is_published": true
+    },
+    {
+        "title": "サークル",
+        "slug": "circle",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>大学の同好会</h3><p>大学で行われる、学生の自主的な活動グループ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サークル（circle）」は、大学で行われる学生の自主的な活動グループです。部活より自由度が高く、様々な活動があります。</p><p>「同好会」とも呼ばれます。</p>",
+        "example": "「大学でテニスサークルに入った」",
+        "is_published": true
+    }
+]

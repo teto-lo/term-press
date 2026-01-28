@@ -1,0 +1,29 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('terms', function (Blueprint $table) {
+            $table->json('key_points')->nullable()->after('example');
+            $table->json('usage_scenarios')->nullable()->after('key_points');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('terms', function (Blueprint $table) {
+            $table->dropColumn(['key_points', 'usage_scenarios']);
+        });
+    }
+};

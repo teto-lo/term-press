@@ -1,0 +1,486 @@
+[
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "3PL",
+        "slug": "3pl",
+        "body": "<h3>物流一括受託</h3><p>Third Party Logistics。荷主でも運送業者でもない第三者が、物流業務全体を一括して請け負うこと。</p>",
+        "short_description": "<h3>物流のアウトソーシング。</h3>",
+        "example": "「3PL事業者」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ラストワンマイル",
+        "slug": "last-one-mile",
+        "body": "<h3>最後の区間</h3><p>配送センターから顧客の家までの最後の配送区間。最もコストがかかり、効率化が難しい。</p>",
+        "short_description": "<h3>配送の最終区間。</h3>",
+        "example": "「ラストワンマイル問題」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "モーダルシフト",
+        "slug": "modal-shift",
+        "body": "<h3>輸送手段転換</h3><p>トラック輸送から、鉄道や船など、環境負荷の少ない輸送手段に切り替えること。</p>",
+        "short_description": "<h3>エコな輸送へ。</h3>",
+        "example": "「政府推奨のモーダルシフト」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "クロスドッキング",
+        "slug": "cross-docking",
+        "body": "<h3>積み替え</h3><p>入荷した荷物を倉庫に保管せず、すぐに行き先別に仕分けして出荷する方法。</p>",
+        "short_description": "<h3>通過型物流。</h3>",
+        "example": "「クロスドック方式」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "マテハン",
+        "slug": "material-handling",
+        "body": "<h3>物流機器</h3><p>Material Handling。フォークリフト、コンベア、自動倉庫など、モノを運ぶための機械類。</p>",
+        "short_description": "<h3>運ぶ機械。</h3>",
+        "example": "「マテハン機器導入」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "パレット",
+        "slug": "pallet",
+        "body": "<h3>荷台</h3><p>荷物を載せるための台。フォークリフトで運ぶ。「パレ積み」「パレ降ろし」。</p>",
+        "short_description": "<h3>荷物を載せる台。</h3>",
+        "example": "「11型パレット」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "デバンニング",
+        "slug": "devanning",
+        "body": "<h3>荷出し</h3><p>コンテナから荷物を取り出す作業。「デバン」。夏場のデバンは地獄。</p>",
+        "short_description": "<h3>コンテナからの荷出し。</h3>",
+        "example": "「デバン作業」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "バンニング",
+        "slug": "vanning",
+        "body": "<h3>荷積み</h3><p>コンテナに荷物を詰め込む作業。隙間なく詰める技術が必要。</p>",
+        "short_description": "<h3>コンテナへの荷積み。</h3>",
+        "example": "「バンニングプラン」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ピッキング",
+        "slug": "picking",
+        "body": "<h3>取り出し</h3><p>注文伝票に従って、倉庫の棚から商品を集める作業。</p>",
+        "short_description": "<h3>商品集め。</h3>",
+        "example": "「ピッキングミス」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "アソート",
+        "slug": "assort",
+        "body": "<h3>仕分け</h3><p>ピッキングした商品を、配送先ごとに仕分ける作業。</p>",
+        "short_description": "<h3>配送先別仕分け。</h3>",
+        "example": "「アソートシステム」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "検品",
+        "slug": "inspection-log",
+        "body": "<h3>確認</h3><p>商品が破損していないか、種類や数量が合っているか確認する作業。</p>",
+        "short_description": "<h3>商品確認。</h3>",
+        "example": "「入荷検品」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "WMS",
+        "slug": "wms",
+        "body": "<h3>倉庫管理システム</h3><p>Warehouse Management System。在庫の入出荷や保管場所を管理するシステム。</p>",
+        "short_description": "<h3>倉庫システム。</h3>",
+        "example": "「WMS導入の効果」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "TMS",
+        "slug": "tms",
+        "body": "<h3>輸配送管理システム</h3><p>Transport Management System。トラックの配車やルートを最適化するシステム。</p>",
+        "short_description": "<h3>配車システム。</h3>",
+        "example": "「TMSで効率化」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "SKU",
+        "slug": "sku",
+        "body": "<h3>在庫管理単位</h3><p>Stock Keeping Unit。色やサイズごとの最小の管理単位。「Sサイズ赤」と「Mサイズ赤」は別SKU。</p>",
+        "short_description": "<h3>商品管理の最小単位。</h3>",
+        "example": "「SKU数が増える」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "TEU",
+        "slug": "teu",
+        "body": "<h3>コンテナ単位</h3><p>20フィートコンテナ換算個数。コンテナ船の積載能力などを表す。</p>",
+        "short_description": "<h3>コンテナの数え方。</h3>",
+        "example": "「2万TEUの巨大船」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "インコタームズ",
+        "slug": "incoterms",
+        "body": "<h3>貿易条件</h3><p>国際貿易における、運賃やリスク負担のルール。「FOB」「CIF」など。</p>",
+        "short_description": "<h3>貿易のルール。</h3>",
+        "example": "「最新のインコタームズ」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "FOB",
+        "slug": "fob",
+        "body": "<h3>本船渡し</h3><p>Free On Board。輸出側の港で船に荷物を載せた時点で、責任が輸入側に移る条件。</p>",
+        "short_description": "<h3>船積み渡し。</h3>",
+        "example": "「FOB価格」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "CIF",
+        "slug": "cif",
+        "body": "<h3>運賃保険料込み</h3><p>Cost, Insurance and Freight。輸出側が、輸入側の港までの運賃と保険料を負担する条件。</p>",
+        "short_description": "<h3>到着港渡し条件。</h3>",
+        "example": "「CIF契約」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "保税地域",
+        "slug": "bonded-area",
+        "body": "<h3>関税未払いエリア</h3><p>外国から来た荷物が、まだ通関手続きを終えていない状態で保管される場所。</p>",
+        "short_description": "<h3>関税保留エリア。</h3>",
+        "example": "「保税倉庫」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "通関",
+        "slug": "customs-clearance",
+        "body": "<h3>税関手続き</h3><p>輸出入の許可を税関から得ること。「通関士」という国家資格がある。</p>",
+        "short_description": "<h3>税関の許可。</h3>",
+        "example": "「通関業者にお願い」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "乙仲",
+        "slug": "otsunaka",
+        "body": "<h3>海運貨物取扱業者</h3><p>「おつなか」。今は「海貨業者（かいかぎょうしゃ）」が正式だが、現場ではまだ使われる。通関などの代行業者。</p>",
+        "short_description": "<h3>通関業者（通称）。</h3>",
+        "example": "「乙仲さんに連絡」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ドレージ",
+        "slug": "drayage",
+        "body": "<h3>コンテナ陸送</h3><p>港からコンテナをトレーラーで運ぶこと。「海コン」。</p>",
+        "short_description": "<h3>コンテナ輸送。</h3>",
+        "example": "「ドレージの手配」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "傭車",
+        "slug": "yoshar",
+        "body": "<h3>傭車（ようしゃ）</h3><p>自社のトラックが足りない時に、他の運送会社にお金（傭車料）を払って運んでもらうこと。</p>",
+        "short_description": "<h3>協力会社のトラック。</h3>",
+        "example": "「傭車を頼む」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "帰り便",
+        "slug": "return-trip",
+        "body": "<h3>復路の荷物</h3><p>荷物を届けた帰りに、空荷で走るのを避けるために積む荷物。運賃が安いことがある。</p>",
+        "short_description": "<h3>帰りのついで便。</h3>",
+        "example": "「帰り便を探す」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "混載",
+        "slug": "consolidation",
+        "body": "<h3>相乗り</h3><p>一つのトラックやコンテナに、複数の荷主の荷物を一緒に積むこと。「積み合わせ」。</p>",
+        "short_description": "<h3>荷物の相乗り。</h3>",
+        "example": "「混載便で送る」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "チャーター便",
+        "slug": "charter",
+        "body": "<h3>貸切</h3><p>トラックを一台丸ごと借り切って運ぶこと。「専属便」。料金は高いが早い。</p>",
+        "short_description": "<h3>貸切トラック。</h3>",
+        "example": "「急ぎなのでチャーター」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "着払い",
+        "slug": "cash-on-delivery",
+        "body": "<h3>受取人払い</h3><p>荷物を受け取る人が運賃を払うこと。</p>",
+        "short_description": "<h3>受け取る人が払う。</h3>",
+        "example": "「着払いで発送」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "元払い",
+        "slug": "prepayment",
+        "body": "<h3>発送人払い</h3><p>荷物を送る人が運賃を先に払うこと。</p>",
+        "short_description": "<h3>送る人が払う。</h3>",
+        "example": "「元払いが原則」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ウィング車",
+        "slug": "wing-body",
+        "body": "<h3>側面が開くトラック</h3><p>荷台の側面が鳥の翼のように跳ね上がるトラック。フォークリフトで横から積み下ろしができる。</p>",
+        "short_description": "<h3>横が開くトラック。</h3>",
+        "example": "「大型ウィング」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "平ボディ",
+        "slug": "flat-body",
+        "body": "<h3>屋根なしトラック</h3><p>荷台が平らで屋根がないトラック。高さのある荷物や、クレーンでの積み下ろしに向いている。</p>",
+        "short_description": "<h3>屋根なしトラック。</h3>",
+        "example": "「平ボテ」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ユニック車",
+        "slug": "unic",
+        "body": "<h3>クレーン付きトラック</h3><p>小型のクレーンがついたトラック。自分で荷物を釣り上げて積める。「ユニック」は商標。</p>",
+        "short_description": "<h3>クレーン付き。</h3>",
+        "example": "「ユニックを手配」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "デジタコ",
+        "slug": "digital-tachograph",
+        "body": "<h3>デジタル式運行記録計</h3><p>速度、時間、急ブレーキなどを記録する装置。ドライバーの監視に使われる。</p>",
+        "short_description": "<h3>運行記録計。</h3>",
+        "example": "「デジタコの義務化」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "アルコールチェック",
+        "slug": "alcohol-check",
+        "body": "<h3>飲酒検査</h3><p>乗務前後にアルコール検知器で飲酒していないか確認すること。義務。</p>",
+        "short_description": "<h3>飲酒運転防止。</h3>",
+        "example": "「アルチェックOK」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "2024年問題",
+        "slug": "2024-problem",
+        "body": "<h3>ドライバー不足</h3><p>働き方改革でドライバーの残業時間が規制され、物流が停滞する恐れがある問題。</p>",
+        "short_description": "<h3>運送業界の危機。</h3>",
+        "example": "「2024年問題への対応」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "コールドチェーン",
+        "slug": "cold-chain",
+        "body": "<h3>低温物流網</h3><p>冷凍・冷蔵商品を、生産地から消費地まで途切れずに低温で運ぶ仕組み。</p>",
+        "short_description": "<h3>冷たいまま運ぶ。</h3>",
+        "example": "「コールドチェーンの整備」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "フルフィルメント",
+        "slug": "fulfillment",
+        "body": "<h3>通販の一連業務</h3><p>ECサイトでの受注、梱包、発送、決済、返品対応までの一連の業務。</p>",
+        "short_description": "<h3>ECの裏側全部。</h3>",
+        "example": "「フルフィルメント代行」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "SCM",
+        "slug": "scm",
+        "body": "<h3>サプライチェーン管理</h3><p>Supply Chain Management。原料調達から販売までを全体最適化すること。</p>",
+        "short_description": "<h3>供給連鎖管理。</h3>",
+        "example": "「SCMの構築」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ロジスティクス",
+        "slug": "logistics-term",
+        "body": "<h3>戦略的物流</h3><p>単なる「輸送（運ぶこと）」だけでなく、在庫管理などを含めた全体最適を目指す物流管理。</p>",
+        "short_description": "<h3>戦略的物流。</h3>",
+        "example": "「ロジスティクス部」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ハブ・アンド・スポーク",
+        "slug": "hub-and-spoke",
+        "body": "<h3>拠点集中方式</h3><p>中心となる拠点（ハブ）に荷物を集め、そこから各地点（スポーク）に配送する方式。</p>",
+        "short_description": "<h3>拠点集約配送。</h3>",
+        "example": "「ハブ空港」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ミルクラン",
+        "slug": "milk-run",
+        "body": "<h3>巡回集荷</h3><p>1台のトラックが複数の仕入先を回って部品を集める方式。牛乳配達に由来。</p>",
+        "short_description": "<h3>巡回集荷。</h3>",
+        "example": "「ミルクラン方式」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "静脈物流",
+        "slug": "reverse-logistics",
+        "body": "<h3>回収物流</h3><p>返品やリサイクルのために、消費者から生産者へ戻る物流。動脈（届ける物流）の逆。</p>",
+        "short_description": "<h3>戻る物流。</h3>",
+        "example": "「静脈物流の効率化」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "オムニチャネル",
+        "slug": "omnichannel",
+        "body": "<h3>全販路統合</h3><p>実店舗もネットも区別なく、どこからでも購入・受取ができるようにすること。</p>",
+        "short_description": "<h3>店舗とネットの融合。</h3>",
+        "example": "「オムニチャネル戦略」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "ドローン配送",
+        "slug": "drone-delivery",
+        "body": "<h3>無人機配送</h3><p>ドローンを使って空から荷物を届けること。離島や山間部で期待される。</p>",
+        "short_description": "<h3>空飛ぶ宅配便。</h3>",
+        "example": "「ドローン配送実験」"
+    },
+    {
+        "category_slug": "logistics",
+        "scene_slugs": [
+            "logistics"
+        ],
+        "title": "自動運転",
+        "slug": "autonomous-driving",
+        "body": "<h3>無人トラック</h3><p>ドライバーなしで走るトラック。物流危機を救う切り札として期待される。</p>",
+        "short_description": "<h3>無人トラック。</h3>",
+        "example": "「隊列走行実験」"
+    }
+]

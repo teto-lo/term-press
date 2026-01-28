@@ -1,0 +1,541 @@
+[
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "アカハラ",
+        "slug": "academic-harassment",
+        "body": "<h3>教育上の嫌がらせ</h3><p>Academic Harassment。教授などが地位を利用して学生に嫌がらせを行うこと。</p>",
+        "short_description": "<h3>大学でのハラスメント。</h3>",
+        "example": "「アカハラ相談窓口」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "アブストラクト",
+        "slug": "abstract",
+        "body": "<h3>論文要旨</h3><p>論文の冒頭に書かれる、内容の短い要約。「アブスト」と略す。</p>",
+        "short_description": "<h3>論文の要約。</h3>",
+        "example": "「アブストを提出」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "インパクトファクター",
+        "slug": "impact-factor",
+        "body": "<h3>影響度係数</h3><p>その学術雑誌がどれくらい引用されているかを示す指標。「IF」とも。</p>",
+        "short_description": "<h3>雑誌の影響力。</h3>",
+        "example": "「IFが高い雑誌」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "エビデンス",
+        "slug": "evidence-aca",
+        "body": "<h3>根拠</h3><p>研究や議論において、主張を裏付ける証拠やデータ。</p>",
+        "short_description": "<h3>根拠データ。</h3>",
+        "example": "「エビデンスに基づく医療(EBM)」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "オーバードクター",
+        "slug": "over-doctor",
+        "body": "<h3>就職難の博士</h3><p>博士課程を修了しても、定職（大学教員など）に就けない状態の人。</p>",
+        "short_description": "<h3>就職できない博士。</h3>",
+        "example": "「オーバードクター問題」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "学振",
+        "slug": "gakushin",
+        "body": "<h3>日本学術振興会</h3><p>研究費の助成などを行う機関。特に「特別研究員」に採用されることを「学振に通る」と言う。</p>",
+        "short_description": "<h3>研究者の登竜門。</h3>",
+        "example": "「学振DC1」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "科研費",
+        "slug": "kakenhi",
+        "body": "<h3>科学研究費助成事業</h3><p>国から配分される研究費。獲得するために熾烈な競争がある。</p>",
+        "short_description": "<h3>国の研究費。</h3>",
+        "example": "「科研費の申請書」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "カンファレンス",
+        "slug": "conference",
+        "body": "<h3>学術会議</h3><p>研究成果を発表したり議論したりする大規模な会議。</p>",
+        "short_description": "<h3>学会、会議。</h3>",
+        "example": "「国際カンファレンス」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "共著",
+        "slug": "co-author",
+        "body": "<h3>共同執筆</h3><p>複数の著者で一つの論文や本を書くこと。「First Author（筆頭著者）」が重要視される。</p>",
+        "short_description": "<h3>共同執筆。</h3>",
+        "example": "「教授との共著」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "教授会",
+        "slug": "faculty-meeting",
+        "body": "<h3>最高議決機関</h3><p>大学や学部の重要事項を決定する会議。</p>",
+        "short_description": "<h3>大学の会議。</h3>",
+        "example": "「教授会の決定」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "査読",
+        "slug": "peer-review",
+        "body": "<h3>審査</h3><p>投稿された論文を、同じ分野の研究者が審査すること。「ピアレビュー」。</p>",
+        "short_description": "<h3>論文の審査。</h3>",
+        "example": "「査読付き論文」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "シラバス",
+        "slug": "syllabus",
+        "body": "<h3>講義要項</h3><p>授業の計画や成績評価の方法などが書かれた計画書。</p>",
+        "short_description": "<h3>授業計画書。</h3>",
+        "example": "「シラバスを確認」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "卒論",
+        "slug": "sotsuron",
+        "body": "<h3>卒業論文</h3><p>学部卒業のために書く論文。理系は実験、文系は文献調査が主。</p>",
+        "short_description": "<h3>卒業論文。</h3>",
+        "example": "「卒論地獄」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "テニュアトラック",
+        "slug": "tenure-track",
+        "body": "<h3>任期付き採用</h3><p>審査を経て終身雇用（テニュア）取得を目指す、任期付きの雇用形態。</p>",
+        "short_description": "<h3>審査付き雇用。</h3>",
+        "example": "「テニュア審査」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "ドクター",
+        "slug": "doctor",
+        "body": "<h3>博士号</h3><p>大学院博士課程を修了すると得られる学位。「Dr.」。</p>",
+        "short_description": "<h3>博士号。</h3>",
+        "example": "「ドクター持ち」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "ポスドク",
+        "slug": "postdoc",
+        "body": "<h3>博士研究員</h3><p>Post-doctoral fellow。博士号取得後、正規の職に就くまでの任期付き研究員。</p>",
+        "short_description": "<h3>任期付き研究員。</h3>",
+        "example": "「ポスドク問題」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "マスター",
+        "slug": "master",
+        "body": "<h3>修士号</h3><p>大学院修士課程（博士前期課程）を修了すると得られる学位。</p>",
+        "short_description": "<h3>修士号。</h3>",
+        "example": "「マスター進学」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "リジェクト",
+        "slug": "reject-aca",
+        "body": "<h3>不採択</h3><p>投稿した論文が審査で落とされること。「リジェられた」。</p>",
+        "short_description": "<h3>論文却下。</h3>",
+        "example": "「即リジェクト」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "レジュメ",
+        "slug": "resume-aca",
+        "body": "<h3>発表資料</h3><p>発表の内容を簡潔にまとめた資料。配布資料。</p>",
+        "short_description": "<h3>配布資料。</h3>",
+        "example": "「レジュメを作る」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "論文",
+        "slug": "thesis",
+        "body": "<h3>研究成果</h3><p>研究の結果を論理的にまとめて公表する文章。「ペーパー」とも。</p>",
+        "short_description": "<h3>研究発表の文章。</h3>",
+        "example": "「論文を書く」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "GPA",
+        "slug": "gpa",
+        "body": "<h3>成績平均値</h3><p>Grade Point Average。大学の成績を数値化したもの。留学などに影響する。</p>",
+        "short_description": "<h3>成績スコア。</h3>",
+        "example": "「GPAが低い」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "TA",
+        "slug": "ta",
+        "body": "<h3>ティーチングアシスタント</h3><p>教授の補佐として学部生の実験や演習を手伝う大学院生。</p>",
+        "short_description": "<h3>授業の助手。</h3>",
+        "example": "「TAのバイト」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "1限",
+        "slug": "1gen",
+        "body": "<h3>1時限目</h3><p>朝一番の授業。9時開始など。起きれない学生にとっての鬼門。</p>",
+        "short_description": "<h3>朝一の授業。</h3>",
+        "example": "「1限必修」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "空きコマ",
+        "slug": "akikoma",
+        "body": "<h3>空き時間</h3><p>授業が入っていない時間帯。</p>",
+        "short_description": "<h3>暇な時間。</h3>",
+        "example": "「空きコマ暇すぎ」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "一般教養",
+        "slug": "ippankyoyo",
+        "body": "<h3>基礎科目</h3><p>「般教（ぱんきょう）」。専門科目以外の、幅広い教養を身につける科目。</p>",
+        "short_description": "<h3>教養科目。</h3>",
+        "example": "「パンキョーで単位稼ぐ」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "インカレ",
+        "slug": "intercollege",
+        "body": "<h3>他大学交流</h3><p>複数の他大学の学生が参加するサークルやイベント。</p>",
+        "short_description": "<h3>他大との交流。</h3>",
+        "example": "「インカレサークル」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "学食",
+        "slug": "gakushoku",
+        "body": "<h3>学生食堂</h3><p>安くて量の多い、学生向けの食堂。</p>",
+        "short_description": "<h3>大学の食堂。</h3>",
+        "example": "「学食でランチ」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "休講",
+        "slug": "kyuko",
+        "body": "<h3>授業休み</h3><p>先生の都合などで授業が休みになること。掲示板で知る喜び。</p>",
+        "short_description": "<h3>授業がお休み。</h3>",
+        "example": "「まさかの休講」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "再履",
+        "slug": "sairi",
+        "body": "<h3>再履修</h3><p>単位を落とした科目を、もう一度受けること。</p>",
+        "short_description": "<h3>もう一度受ける。</h3>",
+        "example": "「再履確定」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "サークル",
+        "slug": "circle",
+        "body": "<h3>同好会</h3><p>部活よりもゆるい、趣味の集まり。「飲みサー」などもある。</p>",
+        "short_description": "<h3>同好会。</h3>",
+        "example": "「サークル勧誘」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "自主休講",
+        "slug": "jishukyuko",
+        "body": "<h3>サボり</h3><p>自分の意思で授業を休むこと。ただのサボり。</p>",
+        "short_description": "<h3>サボり。</h3>",
+        "example": "「今日は自主休講で」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "出席点",
+        "slug": "shusseki-ten",
+        "body": "<h3>出席評価</h3><p>テストの点数だけでなく、出席しているだけで貰える点数。</p>",
+        "short_description": "<h3>出席するだけで貰える点。</h3>",
+        "example": "「出席点がない授業」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "ゼミ",
+        "slug": "seminar",
+        "body": "<h3>演習</h3><p>少人数で教授の指導を受けながら研究する授業。Seminar。</p>",
+        "short_description": "<h3>少人数授業。</h3>",
+        "example": "「ゼミ合宿」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "単位",
+        "slug": "credit",
+        "body": "<h3>修了証明</h3><p>科目ごとに設定された学習量の基準。卒業には一定数が必要。</p>",
+        "short_description": "<h3>卒業に必要なポイント。</h3>",
+        "example": "「単位を落とす」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "長老",
+        "slug": "choro",
+        "body": "<h3>留年常連</h3><p>何度も留年していて、主のように大学にいる学生。</p>",
+        "short_description": "<h3>多留年生。</h3>",
+        "example": "「学科の長老」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "フル単",
+        "slug": "full-tan",
+        "body": "<h3>単位コンプ</h3><p>履修登録した全ての単位を取得すること。「フル単ならず」。</p>",
+        "short_description": "<h3>全単位取得。</h3>",
+        "example": "「前期はフル単だった」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "文献",
+        "slug": "bunken",
+        "body": "<h3>参考資料</h3><p>論文を書くために読む本や過去の論文。「文献をあたる」。</p>",
+        "short_description": "<h3>参考資料。</h3>",
+        "example": "「参考文献リスト」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "法学部砂漠",
+        "slug": "law-desert",
+        "body": "<h3>孤独な法学部</h3><p>法学部は出席不要の大教室授業が多く、友達ができにくいため砂漠と呼ばれる。</p>",
+        "short_description": "<h3>友達ができない法学部。</h3>",
+        "example": "「これが法学部砂漠か」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "持ち込み可",
+        "slug": "open-book",
+        "body": "<h3>資料見放題</h3><p>テスト中に教科書やノートを見ても良いこと。逆に難しいことが多い。</p>",
+        "short_description": "<h3>カンニング公認。</h3>",
+        "example": "「辞書持ち込み可」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "楽単",
+        "slug": "rakutan",
+        "body": "<h3>楽な単位</h3><p>簡単に出席点やレポートだけで単位が取れる授業。</p>",
+        "short_description": "<h3>楽勝科目。</h3>",
+        "example": "「楽単リスト」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "落単",
+        "slug": "rakutan-fail",
+        "body": "<h3>単位を落とす</h3><p>成績が悪くて単位がもらえなかったこと。「楽単」と発音は同じ。</p>",
+        "short_description": "<h3>不可。</h3>",
+        "example": "「必修を落単した」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "レポーター",
+        "slug": "reporter",
+        "body": "<h3>発表担当者</h3><p>その週の授業で発表を担当する学生。</p>",
+        "short_description": "<h3>発表者。</h3>",
+        "example": "「来週レポーターだ」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "論理性",
+        "slug": "logicality",
+        "body": "<h3>筋道</h3><p>話の筋が通っていること。大学で最も求められる能力。</p>",
+        "short_description": "<h3>筋道。</h3>",
+        "example": "「論理性が欠けている」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "理系",
+        "slug": "science-major",
+        "body": "<h3>科学系</h3><p>数学、物理、化学などを専攻する系統。実験などで忙しい。</p>",
+        "short_description": "<h3>科学専攻。</h3>",
+        "example": "「理系脳」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "文系",
+        "slug": "humanities-major",
+        "body": "<h3>人文系</h3><p>文学、経済、法学などを専攻する系統。理系よりは暇だと思われている。</p>",
+        "short_description": "<h3>人文専攻。</h3>",
+        "example": "「文系就職」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "アカデミズム",
+        "slug": "academism",
+        "body": "<h3>学問至上主義</h3><p>実用性よりも真理の探究を重んじる学問的態度。</p>",
+        "short_description": "<h3>学問の世界。</h3>",
+        "example": "「アカデミズムの世界」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "ディスカッション",
+        "slug": "discussion",
+        "body": "<h3>討論</h3><p>あるテーマについて意見を戦わせること。</p>",
+        "short_description": "<h3>討論。</h3>",
+        "example": "「グループディスカッション(GD)」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "フィールドワーク",
+        "slug": "fieldwork",
+        "body": "<h3>現地調査</h3><p>実際に現地に行って調査すること。</p>",
+        "short_description": "<h3>現地調査。</h3>",
+        "example": "「夏休みはフィールドワーク」"
+    },
+    {
+        "category_slug": "academic",
+        "scene_slugs": [
+            "university"
+        ],
+        "title": "インターンシップ",
+        "slug": "internship",
+        "body": "<h3>就業体験</h3><p>学生が企業で働く体験をすること。</p>",
+        "short_description": "<h3>職場体験。</h3>",
+        "example": "「サマーインターン」"
+    }
+]

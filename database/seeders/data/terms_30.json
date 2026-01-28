@@ -1,0 +1,396 @@
+[
+    {
+        "title": "トレンド",
+        "slug": "fashion-trend",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>流行のファッション</h3><p>今季流行っているファッションスタイルやアイテム。</p>",
+        "body": "<h3>詳しく解説</h3><p>ファッション業界における「トレンド」は、今季流行っているスタイルやアイテムを指します。パリコレクションやミラノコレクションなどで発表されたデザインが、トレンドの発信源となります。</p><p>「トレンドカラー」「トレンドアイテム」など、様々な要素でトレンドが語られます。</p>",
+        "example": "「今季のトレンドはオーバーサイズシルエット」",
+        "is_published": true
+    },
+    {
+        "title": "コーデ",
+        "slug": "coordinate",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "short_description": "<h3>服装の組み合わせ</h3><p>「コーディネート」の略。服や小物を組み合わせた全体の装い。</p>",
+        "body": "<h3>詳しく解説</h3><p>「コーデ」は「コーディネート（coordinate）」の略で、服や小物を組み合わせた全体の装いを指します。「今日のコーデ」をSNSに投稿するのが流行っています。</p><p>色の組み合わせ、アイテムのバランスなど、センスが問われます。</p>",
+        "example": "「今日のコーデ、どう思う？」",
+        "is_published": true
+    },
+    {
+        "title": "プチプラ",
+        "slug": "petite-price",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>安くて可愛い</h3><p>「プチプライス」の略。安価でおしゃれなファッションアイテム。</p>",
+        "body": "<h3>詳しく解説</h3><p>「プチプラ」は「プチプライス（petite price）」の略で、安価でおしゃれなファッションアイテムを指します。ユニクロ、GU、しまむらなどが代表的なプチプラブランドです。</p><p>「プチプラコーデ」は、安いアイテムを上手に組み合わせたコーディネートです。</p>",
+        "example": "「このバッグ、プチプラなのに高見えする」",
+        "is_published": true
+    },
+    {
+        "title": "高見え",
+        "slug": "looks-expensive",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>安いのに高級に見える</h3><p>実際の価格より高級に見えること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「高見え」は、実際の価格より高級に見えることです。プチプラアイテムでも、デザインや素材感が良ければ「高見え」すると評価されます。</p><p>コスパの良いファッションを楽しむための重要な概念です。</p>",
+        "example": "「このアクセサリー、プチプラなのに高見えする」",
+        "is_published": true
+    },
+    {
+        "title": "ファストファッション",
+        "slug": "fast-fashion",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>低価格の流行服</h3><p>最新トレンドを取り入れた、低価格の衣料品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ファストファッション（fast fashion）」は、最新トレンドを素早く取り入れた低価格の衣料品です。ZARA、H&M、ユニクロなどが代表的なブランドです。</p><p>手頃な価格で流行を楽しめる一方、環境問題や労働問題も指摘されています。</p>",
+        "example": "「ファストファッションで今季のトレンドアイテムを揃えた」",
+        "is_published": true
+    },
+    {
+        "title": "ハイブランド",
+        "slug": "high-brand",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>高級ブランド</h3><p>シャネル、エルメスなどの高級ファッションブランド。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハイブランド」は、シャネル、エルメス、ルイ・ヴィトンなどの高級ファッションブランドを指します。高品質な素材、職人技、ブランドの歴史などが価値を生み出しています。</p><p>「ラグジュアリーブランド」とも呼ばれます。</p>",
+        "example": "「憧れのハイブランドのバッグを買った」",
+        "is_published": true
+    },
+    {
+        "title": "セレクトショップ",
+        "slug": "select-shop",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>厳選商品の店</h3><p>様々なブランドから厳選した商品を扱う店。</p>",
+        "body": "<h3>詳しく解説</h3><p>「セレクトショップ」は、様々なブランドから厳選した商品を扱う店です。バイヤーのセンスで選ばれた、個性的なアイテムが揃います。</p><p>BEAMS、UNITED ARROWSなどが有名なセレクトショップです。</p>",
+        "example": "「セレクトショップで掘り出し物を見つけた」",
+        "is_published": true
+    },
+    {
+        "title": "古着",
+        "slug": "vintage-clothes",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>中古の服</h3><p>以前誰かが着ていた服。ヴィンテージとして価値があるものも。</p>",
+        "body": "<h3>詳しく解説</h3><p>「古着」は、以前誰かが着ていた中古の服です。年代物の「ヴィンテージ」として高値で取引されるものもあります。</p><p>環境に優しく、個性的なファッションを楽しめるとして、若者に人気です。</p>",
+        "example": "「古着屋で一点物のジャケットを見つけた」",
+        "is_published": true
+    },
+    {
+        "title": "ヴィンテージ",
+        "slug": "vintage",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>年代物の価値ある品</h3><p>古いが価値のある、年代物のファッションアイテム。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ヴィンテージ（vintage）」は、古いが価値のある年代物のファッションアイテムです。一般的に20-30年以上前のものを指します。</p><p>希少性やデザインの良さから、高値で取引されることもあります。</p>",
+        "example": "「ヴィンテージのデニムを探してる」",
+        "is_published": true
+    },
+    {
+        "title": "ドレスコード",
+        "slug": "dress-code-fashion",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>服装規定</h3><p>パーティーやレストランで求められる服装の基準。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ドレスコード（dress code）」は、パーティーやレストランで求められる服装の基準です。フォーマル、セミフォーマル、スマートカジュアルなど、レベルがあります。</p><p>場にふさわしい服装をすることが、マナーとされます。</p>",
+        "example": "「このパーティーのドレスコードはセミフォーマル」",
+        "is_published": true
+    },
+    {
+        "title": "スマートカジュアル",
+        "slug": "smart-casual",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>きれいめカジュアル</h3><p>カジュアルだが、きちんと感のある服装。</p>",
+        "body": "<h3>詳しく解説</h3><p>「スマートカジュアル（smart casual）」は、カジュアルだがきちんと感のある服装です。ジャケット、襟付きシャツ、チノパンなどが基本です。</p><p>レストランやホテルのドレスコードとして指定されることが多いです。</p>",
+        "example": "「スマートカジュアルで高級レストランへ」",
+        "is_published": true
+    },
+    {
+        "title": "オフィスカジュアル",
+        "slug": "office-casual",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>ビジネスカジュアル</h3><p>スーツほど堅くない、オフィスに適したカジュアルな服装。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オフィスカジュアル」は、スーツほど堅くないがオフィスに適したカジュアルな服装です。ジャケット、シャツ、スラックスなどが基本で、Tシャツやジーンズは避けます。</p><p>「ビジネスカジュアル」とも呼ばれます。</p>",
+        "example": "「うちの会社はオフィスカジュアルOKだから楽」",
+        "is_published": true
+    },
+    {
+        "title": "レイヤード",
+        "slug": "layered",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>重ね着</h3><p>複数の服を重ねて着るスタイル。</p>",
+        "body": "<h3>詳しく解説</h3><p>「レイヤード（layered）」は、複数の服を重ねて着るスタイルです。シャツの上にニット、その上にジャケットなど、層を作ることでおしゃれ度が増します。</p><p>「重ね着」とも言います。</p>",
+        "example": "「レイヤードスタイルで秋のコーデを楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "ワンマイルウェア",
+        "slug": "one-mile-wear",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>近所着</h3><p>近所へのちょっとした外出に適した、楽でおしゃれな服。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ワンマイルウェア（one mile wear）」は、近所へのちょっとした外出に適した、楽でおしゃれな服です。部屋着ほどラフではなく、外出できる程度のきちんと感があります。</p><p>コンビニやゴミ出しなど、近場への外出に便利です。</p>",
+        "example": "「ワンマイルウェアでコンビニへ」",
+        "is_published": true
+    },
+    {
+        "title": "ルームウェア",
+        "slug": "room-wear",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>部屋着</h3><p>家でリラックスして過ごすための服。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ルームウェア（room wear）」は、家でリラックスして過ごすための服です。パジャマより少しきちんとしていて、急な来客にも対応できます。</p><p>おしゃれなルームウェアが増え、在宅勤務でも活躍しています。</p>",
+        "example": "「おしゃれなルームウェアでリラックス」",
+        "is_published": true
+    },
+    {
+        "title": "アクセサリー",
+        "slug": "accessory",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>装飾品</h3><p>ネックレス、ピアス、指輪など、服装を引き立てる小物。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アクセサリー（accessory）」は、ネックレス、ピアス、指輪、ブレスレットなど、服装を引き立てる装飾品です。シンプルなコーデも、アクセサリーで華やかになります。</p><p>「アクセ」と略されることも多いです。</p>",
+        "example": "「シンプルな服にアクセサリーで華やかさをプラス」",
+        "is_published": true
+    },
+    {
+        "title": "パンプス",
+        "slug": "pumps",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>女性用の靴</h3><p>つま先とかかとが覆われた、女性用の靴。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パンプス（pumps）」は、つま先とかかとが覆われた女性用の靴です。ヒールの高さは様々で、フォーマルからカジュアルまで幅広く使えます。</p><p>ビジネスシーンでも定番のアイテムです。</p>",
+        "example": "「パンプスで足が痛くなった」",
+        "is_published": true
+    },
+    {
+        "title": "ヒール",
+        "slug": "heels",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>かかとが高い靴</h3><p>かかと部分が高くなっている靴。女性の足を美しく見せる。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ヒール（heels）」は、かかと部分が高くなっている靴です。ハイヒールは7cm以上、ローヒールは3cm以下が目安です。</p><p>足を長く、美しく見せる効果がありますが、歩きにくく疲れやすいのが難点です。</p>",
+        "example": "「ヒールを履くと背が高く見える」",
+        "is_published": true
+    },
+    {
+        "title": "サンダル",
+        "slug": "sandals",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>つま先が開いた靴</h3><p>つま先やかかとが開いた、夏向けの靴。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サンダル（sandals）」は、つま先やかかとが開いた夏向けの靴です。涼しく、リゾート感があります。</p><p>ビーチサンダル、スポーツサンダルなど、様々な種類があります。</p>",
+        "example": "「夏はサンダルで涼しく過ごす」",
+        "is_published": true
+    },
+    {
+        "title": "ブーツ",
+        "slug": "boots",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>長靴</h3><p>足首以上まである靴。秋冬の定番アイテム。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ブーツ（boots）」は、足首以上まである靴です。ショートブーツ、ロングブーツ、ムートンブーツなど、様々な種類があります。</p><p>秋冬のファッションの定番アイテムで、防寒性も高いです。</p>",
+        "example": "「ブーツを履いて秋冬コーデを楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "コスメ",
+        "slug": "cosmetics",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>化粧品</h3><p>「コスメティクス」の略。メイクやスキンケアに使う化粧品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「コスメ」は「コスメティクス（cosmetics）」の略で、メイクやスキンケアに使う化粧品です。ファンデーション、口紅、化粧水など、様々な種類があります。</p><p>「デパコス（デパートコスメ）」「プチプラコスメ」など、価格帯でも分類されます。</p>",
+        "example": "「新作コスメをチェックしに行こう」",
+        "is_published": true
+    },
+    {
+        "title": "デパコス",
+        "slug": "department-cosmetics",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>デパートの化粧品</h3><p>「デパートコスメ」の略。百貨店で売られる高級化粧品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「デパコス」は「デパートコスメ」の略で、百貨店で売られる高級化粧品です。シャネル、ディオール、エスティローダーなどが代表的です。</p><p>高品質で、パッケージも豪華なのが特徴です。</p>",
+        "example": "「憧れのデパコスを買った」",
+        "is_published": true
+    },
+    {
+        "title": "スキンケア",
+        "slug": "skincare",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>肌のお手入れ</h3><p>化粧水、乳液、美容液などで肌を整えること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「スキンケア（skincare）」は、化粧水、乳液、美容液などで肌を整えることです。洗顔後に行う基本的なお手入れで、美肌を保つために重要です。</p><p>「朝スキンケア」「夜スキンケア」など、時間帯によってケア方法が異なります。</p>",
+        "example": "「毎晩しっかりスキンケアをしてる」",
+        "is_published": true
+    },
+    {
+        "title": "美容液",
+        "slug": "serum",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>美容成分が濃縮された液</h3><p>保湿や美白など、特定の効果を持つ濃縮された化粧品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「美容液」は、保湿、美白、エイジングケアなど、特定の効果を持つ美容成分が濃縮された化粧品です。化粧水と乳液の間に使うのが一般的です。</p><p>「セラム（serum）」とも呼ばれます。</p>",
+        "example": "「美容液を使い始めたら、肌の調子が良くなった」",
+        "is_published": true
+    },
+    {
+        "title": "パック",
+        "slug": "face-pack",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>顔に貼るシート</h3><p>美容成分が染み込んだシートを顔に貼って、集中ケアすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パック」は、美容成分が染み込んだシートを顔に貼って集中ケアすることです。「フェイスマスク」とも呼ばれます。</p><p>保湿、美白、毛穴ケアなど、様々な効果のパックがあります。</p>",
+        "example": "「週に一度、パックでスペシャルケア」",
+        "is_published": true
+    },
+    {
+        "title": "日焼け止め",
+        "slug": "sunscreen",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>紫外線防止剤</h3><p>紫外線から肌を守るクリームやジェル。</p>",
+        "body": "<h3>詳しく解説</h3><p>「日焼け止め」は、紫外線から肌を守るクリームやジェルです。「サンスクリーン（sunscreen）」とも呼ばれます。</p><p>SPFやPAの数値が高いほど、紫外線防止効果が高いです。</p>",
+        "example": "「夏は日焼け止めを毎日塗る」",
+        "is_published": true
+    },
+    {
+        "title": "カラーリング",
+        "slug": "hair-coloring",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>髪を染めること</h3><p>髪の毛の色を変えること。ヘアカラー。</p>",
+        "body": "<h3>詳しく解説</h3><p>「カラーリング（coloring）」は、髪の毛の色を変えることです。「ヘアカラー」とも呼ばれます。</p><p>ブラウン、アッシュ、ピンクなど、様々な色があり、季節やファッションに合わせて楽しめます。</p>",
+        "example": "「カラーリングで髪色を明るくした」",
+        "is_published": true
+    },
+    {
+        "title": "パーマ",
+        "slug": "perm",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>髪にウェーブをかける</h3><p>薬剤を使って髪にカールやウェーブをかけること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パーマ（perm）」は、薬剤を使って髪にカールやウェーブをかけることです。「パーマネントウェーブ（permanent wave）」の略です。</p><p>ストレートヘアに動きを出したり、ボリュームを持たせたりできます。</p>",
+        "example": "「パーマをかけてふんわりヘアに」",
+        "is_published": true
+    },
+    {
+        "title": "ストレートパーマ",
+        "slug": "straight-perm",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>髪をまっすぐにする</h3><p>くせ毛をまっすぐにするパーマ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ストレートパーマ」は、くせ毛をまっすぐにするパーマです。「縮毛矯正」はより強力にストレートにする施術です。</p><p>サラサラのストレートヘアになれます。</p>",
+        "example": "「ストレートパーマでくせ毛を直した」",
+        "is_published": true
+    },
+    {
+        "title": "ネイル",
+        "slug": "nail",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>爪の手入れ、装飾</h3><p>爪を磨いたり、マニキュアを塗ったりすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ネイル（nail）」は、爪を磨いたり、マニキュアやジェルネイルを塗ったりすることです。爪を美しく見せるだけでなく、保護する役割もあります。</p><p>「ネイルサロン」で施術を受けるのが一般的です。</p>",
+        "example": "「ネイルサロンで可愛いデザインにしてもらった」",
+        "is_published": true
+    },
+    {
+        "title": "ジェルネイル",
+        "slug": "gel-nail",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>長持ちするネイル</h3><p>ジェル状の樹脂を爪に塗り、UVライトで固めるネイル。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ジェルネイル」は、ジェル状の樹脂を爪に塗り、UVライトやLEDライトで固めるネイルです。マニキュアより長持ちし、ツヤがあります。</p><p>3-4週間持つため、頻繁に塗り直す必要がありません。</p>",
+        "example": "「ジェルネイルなら長持ちするから便利」",
+        "is_published": true
+    },
+    {
+        "title": "マニキュア",
+        "slug": "manicure",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>爪に塗る液体</h3><p>爪に塗る液体の塗料。ネイルポリッシュ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「マニキュア（manicure）」は、爪に塗る液体の塗料です。「ネイルポリッシュ」とも呼ばれます。</p><p>様々な色があり、気分やファッションに合わせて楽しめます。ジェルネイルより手軽ですが、剥がれやすいです。</p>",
+        "example": "「マニキュアを塗って気分転換」",
+        "is_published": true
+    },
+    {
+        "title": "エステ",
+        "slug": "esthetic",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>美容施術</h3><p>「エステティック」の略。美容のための施術を受けること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「エステ」は「エステティック（esthetic）」の略で、美容のための施術を受けることです。フェイシャル、ボディ、脱毛など、様々なメニューがあります。</p><p>「エステサロン」で施術を受けるのが一般的です。</p>",
+        "example": "「エステでリラックスしながら美容ケア」",
+        "is_published": true
+    },
+    {
+        "title": "脱毛",
+        "slug": "hair-removal",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>体毛を取り除く</h3><p>レーザーや光を使って、体毛を取り除くこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「脱毛」は、レーザーや光を使って体毛を取り除くことです。医療脱毛とエステ脱毛があり、医療脱毛の方が効果が高いです。</p><p>自己処理の手間が省け、肌もきれいになります。</p>",
+        "example": "「脱毛サロンに通い始めた」",
+        "is_published": true
+    },
+    {
+        "title": "パーソナルトレーニング",
+        "slug": "personal-training",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>マンツーマン指導</h3><p>トレーナーとマンツーマンでトレーニングすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パーソナルトレーニング（personal training）」は、トレーナーとマンツーマンでトレーニングすることです。個人の目標や体力に合わせたメニューを組んでもらえます。</p><p>効率的に結果を出せますが、費用は高めです。</p>",
+        "example": "「パーソナルトレーニングで効率的にダイエット」",
+        "is_published": true
+    },
+    {
+        "title": "サプリメント",
+        "slug": "supplement",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>栄養補助食品</h3><p>不足しがちな栄養素を補うための食品。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サプリメント（supplement）」は、不足しがちな栄養素を補うための食品です。ビタミン、ミネラル、プロテインなど、様々な種類があります。</p><p>「サプリ」と略されることも多いです。</p>",
+        "example": "「サプリメントで栄養バランスを整える」",
+        "is_published": true
+    },
+    {
+        "title": "美容整形",
+        "slug": "cosmetic-surgery",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>外見を変える手術</h3><p>外見を美しくするための手術。</p>",
+        "body": "<h3>詳しく解説</h3><p>「美容整形」は、外見を美しくするための手術です。二重まぶた、鼻を高くする、脂肪吸引など、様々な施術があります。</p><p>「整形」と略されることも多いです。</p>",
+        "example": "「美容整形でコンプレックスを解消した」",
+        "is_published": true
+    },
+    {
+        "title": "プチ整形",
+        "slug": "petit-cosmetic-surgery",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>手軽な美容施術</h3><p>メスを使わない、手軽な美容施術。</p>",
+        "body": "<h3>詳しく解説</h3><p>「プチ整形」は、メスを使わない手軽な美容施術です。ボトックス注射、ヒアルロン酸注射などが代表的です。</p><p>ダウンタイムが短く、気軽に試せるのが特徴です。</p>",
+        "example": "「プチ整形で目元の印象を変えた」",
+        "is_published": true
+    },
+    {
+        "title": "アンチエイジング",
+        "slug": "anti-aging",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>老化防止</h3><p>老化を防ぎ、若々しさを保つための取り組み。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アンチエイジング（anti-aging）」は、老化を防ぎ若々しさを保つための取り組みです。スキンケア、食事、運動など、様々な方法があります。</p><p>「エイジングケア」とも呼ばれます。</p>",
+        "example": "「アンチエイジングのために美容液を使い始めた」",
+        "is_published": true
+    }
+]

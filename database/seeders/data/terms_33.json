@@ -1,0 +1,514 @@
+[
+    {
+        "title": "契約",
+        "slug": "contract",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>約束の取り決め</h3><p>当事者間で交わす、法的な約束。</p>",
+        "body": "<h3>詳しく解説</h3><p>「契約」は、当事者間で交わす法的な約束です。売買契約、賃貸契約、雇用契約など、様々な種類があります。</p><p>契約書を作成し、双方が署名・押印することで成立します。</p>",
+        "example": "「賃貸契約を結んで部屋を借りる」",
+        "is_published": true
+    },
+    {
+        "title": "契約書",
+        "slug": "contract-document",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>契約内容を記した書類</h3><p>契約の内容を記した正式な書類。</p>",
+        "body": "<h3>詳しく解説</h3><p>「契約書」は、契約の内容を記した正式な書類です。契約の条件、期間、金額などが明記されています。</p><p>トラブルを防ぐため、契約書の内容をよく確認してから署名することが重要です。</p>",
+        "example": "「契約書にサインする前に、内容をよく読む」",
+        "is_published": true
+    },
+    {
+        "title": "署名",
+        "slug": "signature",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>自分の名前を書く</h3><p>書類に自分の名前を書いて、同意を示すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「署名」は、書類に自分の名前を書いて同意を示すことです。「サイン」とも呼ばれます。</p><p>契約書などの重要な書類では、署名が必須です。</p>",
+        "example": "「契約書に署名して契約を成立させる」",
+        "is_published": true
+    },
+    {
+        "title": "押印",
+        "slug": "seal",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>印鑑を押す</h3><p>書類に印鑑を押すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「押印」は、書類に印鑑を押すことです。日本では、署名と押印の両方が求められることが多いです。</p><p>「捺印（なついん）」とも呼ばれます。</p>",
+        "example": "「契約書に押印する」",
+        "is_published": true
+    },
+    {
+        "title": "印鑑",
+        "slug": "seal-stamp",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>はんこ</h3><p>名前が彫られた、書類に押すための道具。</p>",
+        "body": "<h3>詳しく解説</h3><p>「印鑑」は、名前が彫られた書類に押すための道具です。「はんこ」「判子」とも呼ばれます。</p><p>実印、銀行印、認印など、用途によって使い分けます。</p>",
+        "example": "「契約書に印鑑を押す」",
+        "is_published": true
+    },
+    {
+        "title": "実印",
+        "slug": "registered-seal",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>登録された印鑑</h3><p>市区町村に登録した、正式な印鑑。</p>",
+        "body": "<h3>詳しく解説</h3><p>「実印」は、市区町村に登録した正式な印鑑です。不動産の売買、車の購入など、重要な契約で使います。</p><p>印鑑証明書と一緒に使うことで、本人確認ができます。</p>",
+        "example": "「家を買う時に実印が必要だ」",
+        "is_published": true
+    },
+    {
+        "title": "印鑑証明",
+        "slug": "seal-certificate",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>印鑑の証明書</h3><p>実印が本物であることを証明する書類。</p>",
+        "body": "<h3>詳しく解説</h3><p>「印鑑証明」は、実印が本物であることを証明する書類です。正式には「印鑑登録証明書」と言います。</p><p>市区町村の役所で発行してもらえます。</p>",
+        "example": "「不動産契約に印鑑証明が必要だ」",
+        "is_published": true
+    },
+    {
+        "title": "解約",
+        "slug": "cancellation",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>契約を終わらせる</h3><p>契約を終了させること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「解約」は、契約を終了させることです。携帯電話の解約、賃貸契約の解約など、様々な場面で使われます。</p><p>解約には、一定の手続きや期間が必要な場合が多いです。</p>",
+        "example": "「来月、携帯電話を解約する」",
+        "is_published": true
+    },
+    {
+        "title": "違約金",
+        "slug": "penalty-fee",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>契約違反の罰金</h3><p>契約を破った時に支払う罰金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「違約金」は、契約を破った時に支払う罰金です。契約期間中に解約した場合などに発生します。</p><p>契約書に違約金の金額や条件が記載されています。</p>",
+        "example": "「契約期間内に解約したら、違約金がかかる」",
+        "is_published": true
+    },
+    {
+        "title": "クーリングオフ",
+        "slug": "cooling-off",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>契約の取り消し</h3><p>一定期間内なら、無条件で契約を取り消せる制度。</p>",
+        "body": "<h3>詳しく解説</h3><p>「クーリングオフ（cooling-off）」は、一定期間内なら無条件で契約を取り消せる制度です。訪問販売や電話勧誘販売などで適用されます。</p><p>消費者を守るための制度です。</p>",
+        "example": "「クーリングオフで契約を取り消した」",
+        "is_published": true
+    },
+    {
+        "title": "訴訟",
+        "slug": "lawsuit",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>裁判を起こす</h3><p>裁判所に訴えて、争いを解決すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「訴訟」は、裁判所に訴えて争いを解決することです。民事訴訟と刑事訴訟があります。</p><p>「裁判」とほぼ同じ意味ですが、訴訟の方が法律的な用語です。</p>",
+        "example": "「損害賠償を求めて訴訟を起こす」",
+        "is_published": true
+    },
+    {
+        "title": "裁判",
+        "slug": "trial",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>法廷での審理</h3><p>裁判所で、裁判官が争いを判断すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「裁判」は、裁判所で裁判官が争いを判断することです。証拠を調べ、法律に基づいて判決を下します。</p><p>民事裁判と刑事裁判があります。</p>",
+        "example": "「裁判で白黒つける」",
+        "is_published": true
+    },
+    {
+        "title": "弁護士",
+        "slug": "lawyer",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>法律の専門家</h3><p>法律の専門知識を持ち、依頼人を代理する専門家。</p>",
+        "body": "<h3>詳しく解説</h3><p>「弁護士」は、法律の専門知識を持ち依頼人を代理する専門家です。裁判での弁護、契約書のチェック、法律相談などを行います。</p><p>「lawyer（ローヤー）」「attorney（アトーニー）」とも呼ばれます。</p>",
+        "example": "「弁護士に相談して法的アドバイスをもらう」",
+        "is_published": true
+    },
+    {
+        "title": "示談",
+        "slug": "settlement",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>裁判外の和解</h3><p>裁判を起こさずに、当事者間で話し合って解決すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「示談」は、裁判を起こさずに当事者間で話し合って解決することです。交通事故などで、加害者と被害者が賠償金を決めて和解します。</p><p>示談が成立すると、後から訴訟を起こせなくなります。</p>",
+        "example": "「示談で解決して裁判を避けた」",
+        "is_published": true
+    },
+    {
+        "title": "損害賠償",
+        "slug": "damages",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>損害の補償</h3><p>他人に与えた損害を、金銭で補償すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「損害賠償」は、他人に与えた損害を金銭で補償することです。交通事故、契約違反、名誉毀損などで発生します。</p><p>「賠償金」を支払うことで、損害を償います。</p>",
+        "example": "「損害賠償を請求された」",
+        "is_published": true
+    },
+    {
+        "title": "慰謝料",
+        "slug": "consolation-money",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>精神的苦痛の補償</h3><p>精神的な苦痛に対する補償金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「慰謝料」は、精神的な苦痛に対する補償金です。離婚、交通事故、名誉毀損などで支払われます。</p><p>損害賠償の一種です。</p>",
+        "example": "「離婚の際に慰謝料を請求する」",
+        "is_published": true
+    },
+    {
+        "title": "遺言",
+        "slug": "will",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>死後の意思表示</h3><p>自分が死んだ後の財産分与などについて、生前に意思を示すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「遺言（いごん・ゆいごん）」は、自分が死んだ後の財産分与などについて生前に意思を示すことです。「遺言書」に書き残します。</p><p>法的に有効な遺言書を作成することで、相続トラブルを防げます。</p>",
+        "example": "「遺言書を作成して、財産の分け方を決めておく」",
+        "is_published": true
+    },
+    {
+        "title": "相続",
+        "slug": "inheritance",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>財産を受け継ぐ</h3><p>亡くなった人の財産を、遺族が受け継ぐこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「相続」は、亡くなった人の財産を遺族が受け継ぐことです。法律で、相続人の範囲や相続分が決まっています。</p><p>相続税がかかる場合もあります。</p>",
+        "example": "「父の財産を相続した」",
+        "is_published": true
+    },
+    {
+        "title": "相続税",
+        "slug": "inheritance-tax",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>相続にかかる税金</h3><p>財産を相続した時にかかる税金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「相続税」は、財産を相続した時にかかる税金です。相続財産が一定額を超えると、課税されます。</p><p>基礎控除額があり、それを超えた分に税金がかかります。</p>",
+        "example": "「相続税の申告をする」",
+        "is_published": true
+    },
+    {
+        "title": "著作権",
+        "slug": "copyright",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>作品の権利</h3><p>作品を創作した人が持つ、独占的な権利。</p>",
+        "body": "<h3>詳しく解説</h3><p>「著作権」は、作品を創作した人が持つ独占的な権利です。小説、音楽、絵画、写真、プログラムなどが保護されます。</p><p>著作権を侵害すると、法的責任を問われます。</p>",
+        "example": "「他人の作品を無断で使うと、著作権侵害になる」",
+        "is_published": true
+    },
+    {
+        "title": "肖像権",
+        "slug": "portrait-rights",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>顔写真の権利</h3><p>自分の顔や姿を、無断で撮影・公開されない権利。</p>",
+        "body": "<h3>詳しく解説</h3><p>「肖像権」は、自分の顔や姿を無断で撮影・公開されない権利です。プライバシー権の一種です。</p><p>他人の顔を無断でSNSに投稿すると、肖像権侵害になる可能性があります。</p>",
+        "example": "「無断で写真を公開されて、肖像権を侵害された」",
+        "is_published": true
+    },
+    {
+        "title": "プライバシー",
+        "slug": "privacy",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>私生活の秘密</h3><p>個人の私生活や秘密を、他人に知られない権利。</p>",
+        "body": "<h3>詳しく解説</h3><p>「プライバシー（privacy）」は、個人の私生活や秘密を他人に知られない権利です。「私生活の自由」とも呼ばれます。</p><p>個人情報の保護は、プライバシー権の重要な要素です。</p>",
+        "example": "「プライバシーを守るため、個人情報を公開しない」",
+        "is_published": true
+    },
+    {
+        "title": "個人情報",
+        "slug": "personal-information",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>個人を特定できる情報</h3><p>名前、住所、電話番号など、個人を特定できる情報。</p>",
+        "body": "<h3>詳しく解説</h3><p>「個人情報」は、名前、住所、電話番号、メールアドレスなど個人を特定できる情報です。個人情報保護法で、適切な管理が義務付けられています。</p><p>個人情報の漏洩は、重大な問題です。</p>",
+        "example": "「個人情報を慎重に扱う」",
+        "is_published": true
+    },
+    {
+        "title": "守秘義務",
+        "slug": "confidentiality",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>秘密を守る義務</h3><p>業務上知った秘密を、他人に漏らさない義務。</p>",
+        "body": "<h3>詳しく解説</h3><p>「守秘義務」は、業務上知った秘密を他人に漏らさない義務です。医師、弁護士、公務員などには、法律で守秘義務が課されています。</p><p>一般企業でも、契約で守秘義務を定めることがあります。</p>",
+        "example": "「守秘義務があるので、顧客情報は漏らせない」",
+        "is_published": true
+    },
+    {
+        "title": "NDA",
+        "slug": "nda",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>秘密保持契約</h3><p>「Non-Disclosure Agreement」の略。秘密情報を漏らさないことを約束する契約。</p>",
+        "body": "<h3>詳しく解説</h3><p>「NDA」は「Non-Disclosure Agreement（秘密保持契約）」の略で、秘密情報を漏らさないことを約束する契約です。ビジネスの場で、機密情報を共有する前に締結します。</p><p>「秘密保持契約書」とも呼ばれます。</p>",
+        "example": "「新規取引先とNDAを締結した」",
+        "is_published": true
+    },
+    {
+        "title": "コンプライアンス",
+        "slug": "compliance",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>法令遵守</h3><p>法律や規則を守ること。企業倫理を守ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「コンプライアンス（compliance）」は、法律や規則を守ることです。企業が社会的責任を果たすため、法令遵守だけでなく企業倫理も含まれます。</p><p>「法令遵守」とも呼ばれます。</p>",
+        "example": "「コンプライアンスを徹底して、不正を防ぐ」",
+        "is_published": true
+    },
+    {
+        "title": "ハラスメント",
+        "slug": "harassment",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>嫌がらせ</h3><p>相手に不快感を与える言動。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ハラスメント（harassment）」は、相手に不快感を与える言動です。セクハラ、パワハラ、マタハラなど、様々な種類があります。</p><p>職場でのハラスメントは、法律で禁止されています。</p>",
+        "example": "「ハラスメント防止のための研修を受ける」",
+        "is_published": true
+    },
+    {
+        "title": "セクハラ",
+        "slug": "sexual-harassment",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>性的嫌がらせ</h3><p>「セクシャルハラスメント」の略。性的な言動による嫌がらせ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「セクハラ」は「セクシャルハラスメント（sexual harassment）」の略で、性的な言動による嫌がらせです。職場での性的な冗談、身体接触などが該当します。</p><p>被害者は、法的措置を取ることができます。</p>",
+        "example": "「セクハラを受けたら、すぐに相談する」",
+        "is_published": true
+    },
+    {
+        "title": "パワハラ",
+        "slug": "power-harassment",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>権力を使った嫌がらせ</h3><p>「パワーハラスメント」の略。上司が部下に対して行う、権力を使った嫌がらせ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「パワハラ」は「パワーハラスメント（power harassment）」の略で、上司が部下に対して行う権力を使った嫌がらせです。暴言、過度な叱責、無視などが該当します。</p><p>職場環境を悪化させる重大な問題です。</p>",
+        "example": "「パワハラで精神的に追い詰められた」",
+        "is_published": true
+    },
+    {
+        "title": "労働基準法",
+        "slug": "labor-standards-act",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>労働者を守る法律</h3><p>労働者の権利を守るための法律。</p>",
+        "body": "<h3>詳しく解説</h3><p>「労働基準法」は、労働者の権利を守るための法律です。労働時間、休日、賃金などの最低基準を定めています。</p><p>「労基法」と略されることもあります。</p>",
+        "example": "「労働基準法で、労働時間の上限が決まっている」",
+        "is_published": true
+    },
+    {
+        "title": "残業代",
+        "slug": "overtime-pay",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>時間外労働の賃金</h3><p>所定労働時間を超えて働いた時に支払われる賃金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「残業代」は、所定労働時間を超えて働いた時に支払われる賃金です。通常の賃金に割増率を加えた金額が支払われます。</p><p>「時間外手当」とも呼ばれます。</p>",
+        "example": "「残業代が正しく支払われているか確認する」",
+        "is_published": true
+    },
+    {
+        "title": "有給休暇",
+        "slug": "paid-leave",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>給料が出る休暇</h3><p>給料をもらいながら休める休暇。</p>",
+        "body": "<h3>詳しく解説</h3><p>「有給休暇」は、給料をもらいながら休める休暇です。「有休」「年休」と略されます。</p><p>労働基準法で、一定期間勤務した労働者に付与することが義務付けられています。</p>",
+        "example": "「有給休暇を使って旅行に行く」",
+        "is_published": true
+    },
+    {
+        "title": "解雇",
+        "slug": "dismissal",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>会社を辞めさせる</h3><p>会社が従業員を辞めさせること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「解雇」は、会社が従業員を辞めさせることです。「クビ」とも言います。</p><p>正当な理由なく解雇することは、法律で禁止されています（不当解雇）。</p>",
+        "example": "「不当解雇だと主張して、会社を訴える」",
+        "is_published": true
+    },
+    {
+        "title": "退職",
+        "slug": "resignation",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>会社を辞める</h3><p>従業員が自ら会社を辞めること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「退職」は、従業員が自ら会社を辞めることです。「退社」とも言います。</p><p>退職する際は、一定期間前に会社に伝える必要があります。</p>",
+        "example": "「来月末で退職する予定だ」",
+        "is_published": true
+    },
+    {
+        "title": "退職金",
+        "slug": "severance-pay",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>退職時の一時金</h3><p>退職する時に会社から支払われる一時金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「退職金」は、退職する時に会社から支払われる一時金です。勤続年数に応じて金額が決まることが多いです。</p><p>「退職手当」とも呼ばれます。</p>",
+        "example": "「退職金を受け取って、老後の資金にする」",
+        "is_published": true
+    },
+    {
+        "title": "内定",
+        "slug": "job-offer",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>採用の内定</h3><p>企業が、採用を約束すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「内定」は、企業が採用を約束することです。正式な雇用契約ではありませんが、採用が確定したことを意味します。</p><p>「内定通知書」が送られてきます。</p>",
+        "example": "「第一志望の会社から内定をもらった」",
+        "is_published": true
+    },
+    {
+        "title": "内定取り消し",
+        "slug": "job-offer-revocation",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>内定の撤回</h3><p>企業が、出した内定を取り消すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「内定取り消し」は、企業が出した内定を取り消すことです。正当な理由なく内定を取り消すことは、違法とされる場合があります。</p><p>経営悪化などが理由で、内定取り消しが行われることがあります。</p>",
+        "example": "「内定取り消しを受けて、就職活動を再開した」",
+        "is_published": true
+    },
+    {
+        "title": "試用期間",
+        "slug": "probation-period",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>お試し期間</h3><p>正式採用の前に、能力や適性を見るための期間。</p>",
+        "body": "<h3>詳しく解説</h3><p>「試用期間」は、正式採用の前に能力や適性を見るための期間です。通常3-6ヶ月程度で、この期間中は解雇されやすいです。</p><p>試用期間が終わると、正式に採用されます。</p>",
+        "example": "「試用期間を経て、正社員になった」",
+        "is_published": true
+    },
+    {
+        "title": "雇用契約",
+        "slug": "employment-contract",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>雇用の契約</h3><p>会社と従業員が結ぶ、雇用に関する契約。</p>",
+        "body": "<h3>詳しく解説</h3><p>「雇用契約」は、会社と従業員が結ぶ雇用に関する契約です。労働条件、給与、勤務時間などが定められます。</p><p>「雇用契約書」を交わすことで、契約が成立します。</p>",
+        "example": "「雇用契約書にサインして、入社が決まった」",
+        "is_published": true
+    },
+    {
+        "title": "就業規則",
+        "slug": "work-rules",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>会社のルール</h3><p>会社が定める、従業員が守るべきルール。</p>",
+        "body": "<h3>詳しく解説</h3><p>「就業規則」は、会社が定める従業員が守るべきルールです。労働時間、休日、服務規律などが記載されています。</p><p>常時10人以上の従業員がいる会社は、就業規則を作成する義務があります。</p>",
+        "example": "「就業規則を確認して、会社のルールを把握する」",
+        "is_published": true
+    },
+    {
+        "title": "懲戒処分",
+        "slug": "disciplinary-action",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>規律違反の罰</h3><p>就業規則に違反した従業員に対する罰。</p>",
+        "body": "<h3>詳しく解説</h3><p>「懲戒処分」は、就業規則に違反した従業員に対する罰です。戒告、減給、出勤停止、懲戒解雇などがあります。</p><p>重大な違反の場合、懲戒解雇になることもあります。</p>",
+        "example": "「不正行為で懲戒処分を受けた」",
+        "is_published": true
+    },
+    {
+        "title": "労働組合",
+        "slug": "labor-union",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>労働者の団体</h3><p>労働者が団結して、労働条件の改善を目指す団体。</p>",
+        "body": "<h3>詳しく解説</h3><p>「労働組合」は、労働者が団結して労働条件の改善を目指す団体です。会社と交渉し、賃上げや労働環境の改善を求めます。</p><p>「労組」と略されることもあります。</p>",
+        "example": "「労働組合に加入して、労働条件の改善を求める」",
+        "is_published": true
+    },
+    {
+        "title": "ストライキ",
+        "slug": "strike",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>同盟罷業</h3><p>労働者が要求を通すため、集団で仕事を放棄すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ストライキ（strike）」は、労働者が要求を通すため集団で仕事を放棄することです。「同盟罷業（どうめいひぎょう）」とも呼ばれます。</p><p>労働組合の権利として認められています。</p>",
+        "example": "「賃上げを求めてストライキを実施した」",
+        "is_published": true
+    },
+    {
+        "title": "労働災害",
+        "slug": "work-accident",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>仕事中の事故</h3><p>仕事中や通勤中に起こる事故や病気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「労働災害」は、仕事中や通勤中に起こる事故や病気です。「労災」と略されます。</p><p>労災保険で、治療費や休業補償が支払われます。</p>",
+        "example": "「工事現場で労災事故が起きた」",
+        "is_published": true
+    },
+    {
+        "title": "労災保険",
+        "slug": "workers-compensation-insurance",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>労災の保険</h3><p>労働災害に対する保険。</p>",
+        "body": "<h3>詳しく解説</h3><p>「労災保険」は、労働災害に対する保険です。仕事中や通勤中の事故で怪我をした場合、治療費や休業補償が支払われます。</p><p>全ての労働者が加入対象です。</p>",
+        "example": "「労災保険で治療費が補償された」",
+        "is_published": true
+    },
+    {
+        "title": "過労死",
+        "slug": "death-from-overwork",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>働きすぎによる死</h3><p>長時間労働やストレスが原因で死亡すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「過労死」は、長時間労働やストレスが原因で死亡することです。心筋梗塞、脳卒中、自殺などが含まれます。</p><p>日本特有の社会問題として、国際的にも「Karoshi」として知られています。</p>",
+        "example": "「過労死を防ぐため、労働時間の上限を設ける」",
+        "is_published": true
+    },
+    {
+        "title": "ブラック企業",
+        "slug": "black-company",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>劣悪な労働環境の会社</h3><p>長時間労働、低賃金、パワハラなど、劣悪な労働環境の会社。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ブラック企業」は、長時間労働、低賃金、パワハラなど劣悪な労働環境の会社です。従業員を使い捨てにする企業を指します。</p><p>社会問題として認識され、対策が求められています。</p>",
+        "example": "「ブラック企業で働いて、心身ともに疲弊した」",
+        "is_published": true
+    },
+    {
+        "title": "ホワイト企業",
+        "slug": "white-company",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>良好な労働環境の会社</h3><p>労働環境が良好で、従業員を大切にする会社。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ホワイト企業」は、労働環境が良好で従業員を大切にする会社です。ブラック企業の対義語です。</p><p>ワークライフバランスが取れ、働きやすい環境が整っています。</p>",
+        "example": "「ホワイト企業で働いて、充実した毎日を送っている」",
+        "is_published": true
+    }
+]

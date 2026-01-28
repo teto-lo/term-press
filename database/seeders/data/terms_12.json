@@ -1,0 +1,222 @@
+[
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "UX",
+        "slug": "ux",
+        "body": "<h3>ユーザー体験</h3><p>User Experience。サービスの使いやすさや感動など、体験そのもの。</p>",
+        "short_description": "<h3>使い心地、体験。</h3>",
+        "example": "「UXを改善する」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "UI",
+        "slug": "ui",
+        "body": "<h3>ユーザーインターフェース</h3><p>User Interface。画面のデザインやボタンの配置など、目に触れる部分。</p>",
+        "short_description": "<h3>画面の見た目。</h3>",
+        "example": "「UIが見にくい」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "バズる",
+        "slug": "buzz",
+        "body": "<h3>大流行する</h3><p>SNSで爆発的に拡散されること。</p>",
+        "short_description": "<h3>大流行すること。</h3>",
+        "example": "「ツイートがバズった」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ポチる",
+        "slug": "pochiru",
+        "body": "<h3>ネット通販で買う</h3><p>購入ボタンを「ポチッ」と押す音から。</p>",
+        "short_description": "<h3>ネットで買う。</h3>",
+        "example": "「Amazonでポチった」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "密林",
+        "slug": "mitsurin",
+        "body": "<h3>Amazon</h3><p>アマゾン＝密林という連想から。</p>",
+        "short_description": "<h3>Amazonのこと。</h3>",
+        "example": "「密林で探す」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "尼",
+        "slug": "ama",
+        "body": "<h3>Amazon</h3><p>アマゾンの略。尼さんではない。</p>",
+        "short_description": "<h3>Amazonのこと。</h3>",
+        "example": "「尼で注文した」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "つべ",
+        "slug": "tube",
+        "body": "<h3>YouTube</h3><p>You「Tube」から。「つべで見る」。</p>",
+        "short_description": "<h3>Youtubeのこと。</h3>",
+        "example": "「明日つべで配信する」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "DQN",
+        "slug": "dqn",
+        "body": "<h3>非常識な人</h3><p>ドキュン。マナーが悪かったり、粗暴な人たち。かつてのテレビ番組が由来。</p>",
+        "short_description": "<h3>ヤンキー、非常識人。</h3>",
+        "example": "「DQNネーム（キラキラネーム）」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "メンヘラ",
+        "slug": "menhera",
+        "body": "<h3>精神的に不安定</h3><p>メンタルヘルスに問題を抱えている人、またはそう見える言動をする人。「ヘラる」＝病む。</p>",
+        "short_description": "<h3>心病んでる系。</h3>",
+        "example": "「メンヘラ彼女」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "痛い",
+        "slug": "itai",
+        "body": "<h3>見ていて恥ずかしい</h3><p>言動が常識外れで、見ているこっちが恥ずかしくなる様。「痛い人」。</p>",
+        "short_description": "<h3>恥ずかしい人。</h3>",
+        "example": "「中二病は痛い」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "厨二病",
+        "slug": "chunibyo",
+        "body": "<h3>中二病</h3><p>中学2年生頃に見られる、背伸びした恥ずかしい言動。「自分には隠された力がある」と思い込むなど。</p>",
+        "short_description": "<h3>思春期の暴走。</h3>",
+        "example": "「黒歴史になる厨二病」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "草不可避",
+        "slug": "kusafukahi",
+        "body": "<h3>笑いを避けられない</h3><p>面白すぎて笑ってしまうこと。</p>",
+        "short_description": "<h3>どうしても笑っちゃう。</h3>",
+        "example": "「こんなの草不可避」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ポテンシャル",
+        "slug": "potential",
+        "body": "<h3>潜在能力</h3><p>まだ発揮されていない可能性。「ポテンシャル採用」＝能力より将来性を見て採用すること。</p>",
+        "short_description": "<h3>秘めたる能力。</h3>",
+        "example": "「彼のポテンシャルに期待する」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "マター",
+        "slug": "matter",
+        "body": "<h3>担当、責任</h3><p>誰が担当する案件か。「営業マター」＝営業部がやるべき仕事。</p>",
+        "short_description": "<h3>担当案件。</h3>",
+        "example": "「それは田中さんマターだ」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "シュリンク",
+        "slug": "shrink",
+        "body": "<h3>縮小する</h3><p>市場などが小さくなること。「市場がシュリンクしている」。</p>",
+        "short_description": "<h3>縮むこと。</h3>",
+        "example": "「業界全体がシュリンク傾向」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "スキーム",
+        "slug": "scheme",
+        "body": "<h3>枠組み、計画</h3><p>仕組みのこと。「課金スキーム」＝お金を稼ぐ仕組み。</p>",
+        "short_description": "<h3>仕組み。計画。</h3>",
+        "example": "「新しいビジネススキーム」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "KPI",
+        "slug": "kpi",
+        "body": "<h3>重要業績評価指標</h3><p>Key Performance Indicator。目標達成のための中間目標。数値で測る。</p>",
+        "short_description": "<h3>中間目標の数字。</h3>",
+        "example": "「KPIを達成する」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "KGI",
+        "slug": "kgi",
+        "body": "<h3>重要目標達成指標</h3><p>Key Goal Indicator。最終的なゴール（売上など）。KPIの親玉。</p>",
+        "short_description": "<h3>最終ゴールの数字。</h3>",
+        "example": "「KGIは売上1億円」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ロングテール",
+        "slug": "longtail",
+        "body": "<h3>ニッチな商品群</h3><p>売れ筋ではないが、数多くの種類がある商品群が全体の売上を支える現象。</p>",
+        "short_description": "<h3>塵も積もれば山となる。</h3>",
+        "example": "「ロングテールSEO」"
+    },
+    {
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ブルーオーシャン",
+        "slug": "blueocean",
+        "body": "<h3>競合がいない市場</h3><p>競争相手がいなくて利益が出しやすい未開拓の市場。対義語はレッドオーシャン（血みどろの競争）。</p>",
+        "short_description": "<h3>楽園市場。</h3>",
+        "example": "「ブルーオーシャンを見つける」"
+    }
+]

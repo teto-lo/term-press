@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "IC",
+        "slug": "informed-consent",
+        "body": "<h3>インフォームド・コンセント</h3><p>説明と同意。医師が病状や治療法を説明し、患者が納得して同意すること。</p>",
+        "short_description": "<h3>説明と同意。</h3>",
+        "example": "「ICを行う」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "QOL",
+        "slug": "qol",
+        "body": "<h3>生活の質</h3><p>Quality of Life。治療だけでなく、患者が人間らしく生活できているかどうかの指標。</p>",
+        "short_description": "<h3>生活の質。</h3>",
+        "example": "「QOLの向上」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "アナムネ",
+        "slug": "anamnesis",
+        "body": "<h3>問診、既往歴</h3><p>Anamnesis。患者の病歴や現在の症状を聞き取ること。「アナムネを取る」。</p>",
+        "short_description": "<h3>問診。</h3>",
+        "example": "「丁寧なアナムネ」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "エビデンス",
+        "slug": "evidence-med",
+        "body": "<h3>科学的根拠</h3><p>その治療法が効くという証拠。「エビデンスレベルが高い」。</p>",
+        "short_description": "<h3>治療の根拠。</h3>",
+        "example": "「エビデンスがない治療」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "オペ",
+        "slug": "operation",
+        "body": "<h3>手術</h3><p>Operation。「オペ室」「オペ出し」。</p>",
+        "short_description": "<h3>手術。</h3>",
+        "example": "「緊急オペ」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "カルテ",
+        "slug": "karte",
+        "body": "<h3>診療録</h3><p>患者の診療記録。ドイツ語由来。今は「電カル（電子カルテ）」が主流。</p>",
+        "short_description": "<h3>診療記録。</h3>",
+        "example": "「カルテ開示」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "コメディカル",
+        "slug": "comedical",
+        "body": "<h3>医療従事者</h3><p>医師以外の医療スタッフ（看護師、薬剤師、放射線技師など）。</p>",
+        "short_description": "<h3>医療スタッフ。</h3>",
+        "example": "「チーム医療」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "サマリー",
+        "slug": "summary-med",
+        "body": "<h3>要約</h3><p>退院時などに書く、病状経過のまとめ。「退院サマリー」。</p>",
+        "short_description": "<h3>経過のまとめ。</h3>",
+        "example": "「サマリーを書く」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ステる",
+        "slug": "sterben",
+        "body": "<h3>死亡する</h3><p>ドイツ語のSterben（死ぬ）から。隠語として使われるが、最近はあまり使わない。</p>",
+        "short_description": "<h3>亡くなる（隠語）。</h3>",
+        "example": "「患者さんがステった」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "セカンドオピニオン",
+        "slug": "second-opinion",
+        "body": "<h3>第二の意見</h3><p>主治医以外の医師に意見を求めること。</p>",
+        "short_description": "<h3>別の医師の意見。</h3>",
+        "example": "「セカンドオピニオン外来」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ターミナル",
+        "slug": "terminal-care",
+        "body": "<h3>終末期</h3><p>死期が迫った状態。「ターミナルケア（終末期医療）」。</p>",
+        "short_description": "<h3>終末期。</h3>",
+        "example": "「ターミナルの患者」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "バイタル",
+        "slug": "vital-signs",
+        "body": "<h3>生命兆候</h3><p>Vital signs。脈拍、血圧、体温、呼吸、意識レベルのこと。「バイタルチェック」。</p>",
+        "short_description": "<h3>脈や熱など。</h3>",
+        "example": "「バイタル安定」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "プラシーボ",
+        "slug": "placebo",
+        "body": "<h3>偽薬</h3><p>成分の入っていない偽の薬。思い込みで効いてしまうことを「プラシーボ効果」と言う。</p>",
+        "short_description": "<h3>偽薬効果。</h3>",
+        "example": "「プラシーボ対照試験」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ムンテラ",
+        "slug": "mund-therapie",
+        "body": "<h3>病状説明</h3><p>口（Mund）での治療（Therapie）。医師が患者や家族に病状を説明すること。</p>",
+        "short_description": "<h3>病状説明。</h3>",
+        "example": "「家族へのムンテラ」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "レセプト",
+        "slug": "receipt",
+        "body": "<h3>診療報酬明細書</h3><p>病院が保険組合にお金を請求するための明細書。「医療事務」の主な仕事。</p>",
+        "short_description": "<h3>請求明細書。</h3>",
+        "example": "「レセプト点検」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "主訴",
+        "slug": "chief-complaint",
+        "body": "<h3>主な症状</h3><p>患者が一番訴えている症状。「主訴：腹痛」。</p>",
+        "short_description": "<h3>一番辛い症状。</h3>",
+        "example": "「主訴を確認」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "浸潤",
+        "slug": "shinjun",
+        "body": "<h3>広がる</h3><p>がん細胞などが周囲の組織に入り込んで広がること。</p>",
+        "short_description": "<h3>病気が広がる。</h3>",
+        "example": "「周囲への浸潤」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "生検",
+        "slug": "biopsy",
+        "body": "<h3>組織検査</h3><p>体の一部を切り取って顕微鏡で調べる検査。「バイオプシー」。</p>",
+        "short_description": "<h3>細胞検査。</h3>",
+        "example": "「生検の結果」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "対症療法",
+        "slug": "symptomatic-treatment",
+        "body": "<h3>症状緩和</h3><p>原因を治すのではなく、痛みや熱などの症状を和らげる治療。風邪薬など。</p>",
+        "short_description": "<h3>症状を抑える治療。</h3>",
+        "example": "「対症療法しかない」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "当直",
+        "slug": "night-duty",
+        "body": "<h3>夜勤</h3><p>夜間の勤務。医師の当直は過酷で、寝られないことも多い。「寝当直（寝れる当直）」はレア。</p>",
+        "short_description": "<h3>夜勤。</h3>",
+        "example": "「当直明け」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "内服",
+        "slug": "naihuku",
+        "body": "<h3>飲み薬</h3><p>薬を飲むこと。「内服薬」。</p>",
+        "short_description": "<h3>飲む薬。</h3>",
+        "example": "「内服管理」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "予後",
+        "slug": "prognosis",
+        "body": "<h3>見通し</h3><p>病気の回復の見込み。「予後が良い（治りやすい）」「予後不良（治りにくい）」。</p>",
+        "short_description": "<h3>回復の見込み。</h3>",
+        "example": "「予後は良好」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "リハビリ",
+        "slug": "rehabilitation",
+        "body": "<h3>機能回復訓練</h3><p>Rehabilitation。怪我や病気で低下した機能を回復させる訓練。</p>",
+        "short_description": "<h3>回復訓練。</h3>",
+        "example": "「リハビリテーション」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "臨床",
+        "slug": "clinical",
+        "body": "<h3>現場</h3><p>実際に患者を診る医療現場のこと。「臨床医（現場の医師）」。対義語は「基礎（研究）」。</p>",
+        "short_description": "<h3>医療現場。</h3>",
+        "example": "「臨床経験」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ADL",
+        "slug": "adl",
+        "body": "<h3>日常生活動作</h3><p>Activities of Daily Living。食事、入浴、排泄など、生活に必要な動作ができるか。</p>",
+        "short_description": "<h3>生活動作能力。</h3>",
+        "example": "「ADLが低下」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "AED",
+        "slug": "aed",
+        "body": "<h3>自動体外式除細動器</h3><p>心停止した人に電気ショックを与えて蘇生させる機器。一般人も使える。</p>",
+        "short_description": "<h3>電気ショック救命器。</h3>",
+        "example": "「AEDを探す」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "COVID-19",
+        "slug": "covid-19",
+        "body": "<h3>新型コロナウイルス感染症</h3><p>2019年に発生した新型ウイルス。世界的なパンデミックを引き起こした。</p>",
+        "short_description": "<h3>新型コロナ。</h3>",
+        "example": "「COVIDの対応」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "CT",
+        "slug": "ct",
+        "body": "<h3>断層撮影</h3><p>X線を使って体の断面を撮影する検査。</p>",
+        "short_description": "<h3>X線断面撮影。</h3>",
+        "example": "「CTスキャン」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "MRI",
+        "slug": "mri",
+        "body": "<h3>磁気共鳴画像法</h3><p>磁力を使って体の断面を撮影する検査。被曝しないが時間がかかる。工事の音みたいな音がする。</p>",
+        "short_description": "<h3>磁力断面撮影。</h3>",
+        "example": "「脳のMRI」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ICU",
+        "slug": "icu",
+        "body": "<h3>集中治療室</h3><p>Intensive Care Unit。重症患者を24時間体制で管理する部屋。</p>",
+        "short_description": "<h3>集中治療室。</h3>",
+        "example": "「ICUに入る」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ジェネリック",
+        "slug": "generic",
+        "body": "<h3>後発医薬品</h3><p>特許が切れた後に作られる、同じ成分で安い薬。</p>",
+        "short_description": "<h3>安い後発薬。</h3>",
+        "example": "「ジェネリック希望」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "スクリーニング",
+        "slug": "screening-med",
+        "body": "<h3>ふるい分け</h3><p>病気の疑いがある人を見つけ出すための検査。「スクリーニング検査」。</p>",
+        "short_description": "<h3>選別検査。</h3>",
+        "example": "「発熱者をスクリーニング」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "トリアージ",
+        "slug": "triage",
+        "body": "<h3>治療選別</h3><p>災害時などに、治療の優先順位を決めること。黒（死亡）、赤（重体）、黄、緑のタグをつける。</p>",
+        "short_description": "<h3>命の優先順位。</h3>",
+        "example": "「トリアージタグ」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ガイドライン",
+        "slug": "guideline-med",
+        "body": "<h3>診療指針</h3><p>学会などが定めた、標準的な治療の指針。</p>",
+        "short_description": "<h3>治療の指針。</h3>",
+        "example": "「ガイドライン推奨」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "クラスター",
+        "slug": "cluster",
+        "body": "<h3>集団感染</h3><p>狭い範囲で感染者が多数発生すること。</p>",
+        "short_description": "<h3>集団感染。</h3>",
+        "example": "「クラスター発生」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "パンデミック",
+        "slug": "pandemic",
+        "body": "<h3>世界的流行</h3><p>感染症が世界規模で大流行すること。</p>",
+        "short_description": "<h3>世界的大流行。</h3>",
+        "example": "「パンデミック認定」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ロックダウン",
+        "slug": "lockdown",
+        "body": "<h3>都市封鎖</h3><p>感染拡大を防ぐために都市を封鎖し、外出を禁止すること。</p>",
+        "short_description": "<h3>都市封鎖。</h3>",
+        "example": "「ロックダウン解除」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "ワクチン",
+        "slug": "vaccine",
+        "body": "<h3>予防接種</h3><p>病原体の毒性を弱めたものを投与し、免疫をつける薬。</p>",
+        "short_description": "<h3>予防接種。</h3>",
+        "example": "「ワクチン接種」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "免疫",
+        "slug": "immunity",
+        "body": "<h3>防御システム</h3><p>体に入ってきた病原体と戦う仕組み。「免疫力」。</p>",
+        "short_description": "<h3>体の防御力。</h3>",
+        "example": "「免疫獲得」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "抗体",
+        "slug": "antibody",
+        "body": "<h3>武器</h3><p>免疫システムが作る、病原体を攻撃するタンパク質。</p>",
+        "short_description": "<h3>対ウイルス武器。</h3>",
+        "example": "「抗体ができる」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "処方箋",
+        "slug": "prescription",
+        "body": "<h3>薬の指示書</h3><p>医師が薬剤師に対して、どの薬を出すか指示した書類。</p>",
+        "short_description": "<h3>薬の指示書。</h3>",
+        "example": "「処方箋薬局」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "診療報酬",
+        "slug": "medical-fee",
+        "body": "<h3>医療費の公定価格</h3><p>医療行為ごとに国が決めた点数。1点10円。</p>",
+        "short_description": "<h3>医療サービスの値段。</h3>",
+        "example": "「診療報酬改定」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "自由診療",
+        "slug": "free-medical-care",
+        "body": "<h3>全額自己負担</h3><p>保険が効かない治療。美容整形や先進医療など。</p>",
+        "short_description": "<h3>保険外診療。</h3>",
+        "example": "「自由診療は高い」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "保険診療",
+        "slug": "insurance-medical-care",
+        "body": "<h3>保険適用</h3><p>健康保険が使え、3割負担などで済む治療。</p>",
+        "short_description": "<h3>保険が効く治療。</h3>",
+        "example": "「保険診療の範囲内」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "訪問看護",
+        "slug": "home-nursing",
+        "body": "<h3>自宅ケア</h3><p>看護師が自宅を訪問してケアを行うこと。</p>",
+        "short_description": "<h3>自宅への出張看護。</h3>",
+        "example": "「訪問看護ステーション」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "かかりつけ医",
+        "slug": "family-doctor",
+        "body": "<h3>身近な医師</h3><p>普段から健康相談に乗ってくれる近所の診療所。</p>",
+        "short_description": "<h3>いつものお医者さん。</h3>",
+        "example": "「かかりつけ医を持つ」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "紹介状",
+        "slug": "referral-letter",
+        "body": "<h3>診療情報提供書</h3><p>大きな病院にかかるときに必要な、かかりつけ医からの手紙。ないと追加料金がかかる。</p>",
+        "short_description": "<h3>医師の手紙。</h3>",
+        "example": "「紹介状がないと高い」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "既往歴",
+        "slug": "medical-history",
+        "body": "<h3>過去の病気</h3><p>今までにかかったことのある病気。</p>",
+        "short_description": "<h3>過去の病歴。</h3>",
+        "example": "「既往歴なし」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "BMI",
+        "slug": "bmi",
+        "body": "<h3>肥満度</h3><p>Body Mass Index。体重と身長から算出する肥満度指数。22が標準。</p>",
+        "short_description": "<h3>肥満指数。</h3>",
+        "example": "「BMIを計算」"
+    },
+    {
+        "category_slug": "medical",
+        "scene_slugs": [
+            "hospital"
+        ],
+        "title": "メタボ",
+        "slug": "metabo",
+        "body": "<h3>メタボリックシンドローム</h3><p>内臓脂肪症候群。お腹が出ていて、高血圧などのリスクが重なっている状態。</p>",
+        "short_description": "<h3>内臓脂肪ヤバい。</h3>",
+        "example": "「メタボ健診」"
+    }
+]

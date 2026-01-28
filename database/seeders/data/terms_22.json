@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "NISA",
+        "slug": "nisa-fin",
+        "body": "<h3>少額投資非課税制度</h3><p>投資で出た利益に税金（約20%）がかからないお得な制度。「つみたてNISA」など。</p>",
+        "short_description": "<h3>税金がかからない投資。</h3>",
+        "example": "「新NISAを始める」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "iDeCo",
+        "slug": "ideco-fin",
+        "body": "<h3>個人型確定拠出年金</h3><p>自分で作る年金。掛金が全額所得控除になり、節税効果が高いが、60歳まで引き出せない。</p>",
+        "short_description": "<h3>節税できる自分年金。</h3>",
+        "example": "「iDeCoで老後資金」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "IPO",
+        "slug": "ipo",
+        "body": "<h3>新規上場</h3><p>Initial Public Offering。未上場の企業が、新しく株式市場に上場すること。</p>",
+        "short_description": "<h3>株式上場。</h3>",
+        "example": "「IPO株の抽選」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "インフレ",
+        "slug": "inflation",
+        "body": "<h3>物価上昇</h3><p>物の値段が上がり続け、お金の価値が下がること。「インフレーション」。</p>",
+        "short_description": "<h3>物価が上がること。</h3>",
+        "example": "「インフレ対策」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "デフレ",
+        "slug": "deflation",
+        "body": "<h3>物価下落</h3><p>物の値段が下がり続け、不景気になること。「デフレーション」。</p>",
+        "short_description": "<h3>物価が下がること。</h3>",
+        "example": "「脱デフレ」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "円安",
+        "slug": "yen-depreciation",
+        "body": "<h3>円の価値ダウン</h3><p>海外の通貨に対して、円の価値が下がること。輸入品が高くなる。</p>",
+        "short_description": "<h3>円が安くなること。</h3>",
+        "example": "「円安の影響」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "円高",
+        "slug": "yen-appreciation",
+        "body": "<h3>円の価値アップ</h3><p>海外の通貨に対して、円の価値が上がること。海外旅行がお得になる。</p>",
+        "short_description": "<h3>円が高くなること。</h3>",
+        "example": "「円高還元セール」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "オルカン",
+        "slug": "all-country",
+        "body": "<h3>全世界株式</h3><p>「eMAXIS Slim 全世界株式（オール・カントリー）」という投資信託の略称。これ一本で世界中に投資できる。</p>",
+        "short_description": "<h3>全世界への投資。</h3>",
+        "example": "「オルカンに積立」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "S&P500",
+        "slug": "sp500",
+        "body": "<h3>米国株指数</h3><p>アメリカを代表する500社の株価指数。これに連動する投資信託が人気。</p>",
+        "short_description": "<h3>米国最強の500社。</h3>",
+        "example": "「S&P500を買う」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "GAFAM",
+        "slug": "gafam",
+        "body": "<h3>巨大IT企業</h3><p>Google, Apple, Facebook(Meta), Amazon, Microsoftの5社。</p>",
+        "short_description": "<h3>米国の巨大IT5社。</h3>",
+        "example": "「GAFAMの決算」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "キャピタルゲイン",
+        "slug": "capital-gain",
+        "body": "<h3>売却益</h3><p>株などを安く買って高く売った時に得られる利益。</p>",
+        "short_description": "<h3>値上がり益。</h3>",
+        "example": "「キャピタルゲイン狙い」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "インカムゲイン",
+        "slug": "income-gain",
+        "body": "<h3>配当益</h3><p>株を持っているだけで定期的に入ってくる配当金や利息。</p>",
+        "short_description": "<h3>配当金などの利益。</h3>",
+        "example": "「インカムゲイン重視」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "損切り",
+        "slug": "loss-cut",
+        "body": "<h3>損失確定</h3><p>値下がりした株を売って、損失を確定させること。これ以上の損を防ぐため。「ロスカット」。</p>",
+        "short_description": "<h3>損を確定させて逃げる。</h3>",
+        "example": "「早めの損切り」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "塩漬け",
+        "slug": "shiozuke",
+        "body": "<h3>売れない株</h3><p>値下がりして売るに売れず、長期間保有し続けている状態。</p>",
+        "short_description": "<h3>売れずに放置状態。</h3>",
+        "example": "「塩漬け株がある」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ナンピン",
+        "slug": "nanpin",
+        "body": "<h3>買い増し</h3><p>「難平」。買った株が下がった時に、買い増しして平均取得単価を下げること。さらに下がると地獄。</p>",
+        "short_description": "<h3>下がった時に買い増す。</h3>",
+        "example": "「ナンピン買い」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "PER",
+        "slug": "per",
+        "body": "<h3>株価収益率</h3><p>Price Earnings Ratio。株価が利益の何倍かを表す。割安かどうかの判断基準。</p>",
+        "short_description": "<h3>株の割安度（利益）。</h3>",
+        "example": "「PER15倍」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "PBR",
+        "slug": "pbr",
+        "body": "<h3>株価純資産倍率</h3><p>Price Book-value Ratio。株価が純資産の何倍かを表す。1倍を割ると解散価値より安い。</p>",
+        "short_description": "<h3>株の割安度（資産）。</h3>",
+        "example": "「PBR1倍割れ」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ROE",
+        "slug": "roe",
+        "body": "<h3>自己資本利益率</h3><p>Return On Equity。自分のお金（自己資本）を使ってどれだけ効率よく利益を出したか。</p>",
+        "short_description": "<h3>経営の効率性。</h3>",
+        "example": "「高ROE銘柄」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "配当金",
+        "slug": "dividend",
+        "body": "<h3>分配金</h3><p>企業が利益の一部を株主に還元するお金。</p>",
+        "short_description": "<h3>株主へのボーナス。</h3>",
+        "example": "「高配当株」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "株主優待",
+        "slug": "shareholder-benefits",
+        "body": "<h3>プレゼント</h3><p>企業が株主に自社製品や割引券などを贈ること。日本独特の制度。</p>",
+        "short_description": "<h3>株主へのプレゼント。</h3>",
+        "example": "「優待生活」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ETF",
+        "slug": "etf",
+        "body": "<h3>上場投資信託</h3><p>Exchange Traded Fund。株式市場に上場している投資信託。株と同じようにリアルタイムで売買できる。</p>",
+        "short_description": "<h3>上場している投資信託。</h3>",
+        "example": "「高配当ETF」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "REIT",
+        "slug": "reit",
+        "body": "<h3>不動産投資信託</h3><p>Real Estate Investment Trust。投資家から集めたお金で不動産を買い、家賃収入などを分配する。</p>",
+        "short_description": "<h3>不動産への投資。</h3>",
+        "example": "「J-REIT」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "FX",
+        "slug": "fx",
+        "body": "<h3>外国為替証拠金取引</h3><p>Foreign Exchange。通貨を売買して利益を狙う取引。レバレッジをかけられるためハイリスク。</p>",
+        "short_description": "<h3>通貨の取引。</h3>",
+        "example": "「FXで溶かす」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "仮想通貨",
+        "slug": "cryptocurrency",
+        "body": "<h3>暗号資産</h3><p>インターネット上でやり取りされる通貨。ビットコインなど。</p>",
+        "short_description": "<h3>暗号資産。</h3>",
+        "example": "「仮想通貨バブル」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ブロックチェーン",
+        "slug": "blockchain",
+        "body": "<h3>分散型台帳</h3><p>取引履歴を鎖のように繋げて記録する技術。改ざんが非常に困難。</p>",
+        "short_description": "<h3>改ざんできない台帳。</h3>",
+        "example": "「ブロックチェーン技術」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "NFT",
+        "slug": "nft",
+        "body": "<h3>非代替性トークン</h3><p>Non-Fungible Token。デジタルデータに「これが本物」という証明書をつける技術。</p>",
+        "short_description": "<h3>デジタルデータの鑑定書。</h3>",
+        "example": "「NFTアート」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "フィンテック",
+        "slug": "fintech",
+        "body": "<h3>金融IT</h3><p>Finance + Technology。ITを使った新しい金融サービス。スマホ決済など。</p>",
+        "short_description": "<h3>金融×IT。</h3>",
+        "example": "「フィンテック企業」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ポートフォリオ",
+        "slug": "portfolio-fin",
+        "body": "<h3>資産配分</h3><p>どんな資産（株、債券、現金）をどの割合で持っているかの組み合わせ。</p>",
+        "short_description": "<h3>資産の内訳。</h3>",
+        "example": "「ポートフォリオを見直す」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "アセットアロケーション",
+        "slug": "asset-allocation",
+        "body": "<h3>資産配分戦略</h3><p>どの資産クラスにどれくらい資金を振り分けるかを決めること。</p>",
+        "short_description": "<h3>資産配分。</h3>",
+        "example": "「アセットアロケーションが重要」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ドルコスト平均法",
+        "slug": "dollar-cost-averaging",
+        "body": "<h3>定額積立</h3><p>毎回決まった金額で買い続ける方法。高い時は少なく、安い時は多く買えるため、平均購入単価を下げられる。</p>",
+        "short_description": "<h3>コツコツ定額投資。</h3>",
+        "example": "「ドルコスト平均法のメリット」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "複利",
+        "slug": "compound-interest",
+        "body": "<h3>利息に利息</h3><p>運用で得た利益を元本に加えて再投資すること。雪だるま式に増える。「人類最大の発明（アインシュタイン）」。</p>",
+        "short_description": "<h3>雪だるま式。</h3>",
+        "example": "「複利効果」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "単利",
+        "slug": "simple-interest",
+        "body": "<h3>元本のみ利息</h3><p>最初の元本だけに利息がつくこと。増え方は直線的。</p>",
+        "short_description": "<h3>元本にだけ利息。</h3>",
+        "example": "「単利計算」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "債券",
+        "slug": "bond",
+        "body": "<h3>借用証書</h3><p>国や企業がお金を借りるために発行する券。「国債」「社債」。満期になると元本が戻ってくる。</p>",
+        "short_description": "<h3>国の借金など。</h3>",
+        "example": "「米国債を買う」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "金利",
+        "slug": "interest-rate",
+        "body": "<h3>お金のレンタル料</h3><p>お金を貸し借りする時の利息の割合。景気によって変動する。</p>",
+        "short_description": "<h3>お金の値段。</h3>",
+        "example": "「マイナス金利」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "量的緩和",
+        "slug": "quantitative-easing",
+        "body": "<h3>お金ばら撒き</h3><p>中央銀行（日銀など）が市場にお金を大量に供給して、景気を良くしようとする政策。</p>",
+        "short_description": "<h3>金融緩和政策。</h3>",
+        "example": "「異次元の量的緩和」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "FRB",
+        "slug": "frb",
+        "body": "<h3>連邦準備制度理事会</h3><p>アメリカの中央銀行制度の最高意思決定機関。世界経済に絶大な影響力を持つ。</p>",
+        "short_description": "<h3>アメリカの日銀。</h3>",
+        "example": "「FRBの利上げ」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "FOMC",
+        "slug": "fomc",
+        "body": "<h3>連邦公開市場委員会</h3><p>アメリカの金融政策を決める会議。投資家が最も注目するイベント。</p>",
+        "short_description": "<h3>米国の金融政策決定会合。</h3>",
+        "example": "「FOMC議事要旨」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "日銀短観",
+        "slug": "tankan",
+        "body": "<h3>企業短期経済観測調査</h3><p>日銀が企業に対して行う景気調査。「大企業・製造業」の数値が重要視される。</p>",
+        "short_description": "<h3>日銀の景気調査。</h3>",
+        "example": "「短観発表」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "GDP",
+        "slug": "gdp",
+        "body": "<h3>国内総生産</h3><p>国内で生み出された付加価値の合計。国の経済規模を表す。</p>",
+        "short_description": "<h3>国内総生産。</h3>",
+        "example": "「実質GDP成長率」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "CPI",
+        "slug": "cpi",
+        "body": "<h3>消費者物価指数</h3><p>消費者が買うモノやサービスの値段の動き。インフレ率の判断に使われる。</p>",
+        "short_description": "<h3>物価指数。</h3>",
+        "example": "「CPIショック」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "景気動向指数",
+        "slug": "business-cycle-indicator",
+        "body": "<h3>景気のバロメーター</h3><p>景気の現状や将来を予測するための指標。「先行」「一致」「遅行」がある。</p>",
+        "short_description": "<h3>景気の指標。</h3>",
+        "example": "「景気後退局面」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "リセッション",
+        "slug": "recession",
+        "body": "<h3>景気後退</h3><p>景気が悪くなっている局面。</p>",
+        "short_description": "<h3>不景気。</h3>",
+        "example": "「リセッション入り」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "スタグフレーション",
+        "slug": "stagflation",
+        "body": "<h3>不況下のインフレ</h3><p>不景気なのに物価が上がること。最悪の状態。</p>",
+        "short_description": "<h3>不景気＋物価高。</h3>",
+        "example": "「スタグフレーションの懸念」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ブラックマンデー",
+        "slug": "black-monday",
+        "body": "<h3>暗黒の月曜日</h3><p>1987年10月19日（月）に起きた、史上最大級の株価暴落。</p>",
+        "short_description": "<h3>株価大暴落。</h3>",
+        "example": "「ブラックマンデーの再来」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "リーマンショック",
+        "slug": "lehman-shock",
+        "body": "<h3>世界金融危機</h3><p>2008年、リーマン・ブラザーズの破綻をきっかけに起きた世界的な金融危機。</p>",
+        "short_description": "<h3>世界的大不況。</h3>",
+        "example": "「リーマン級の衝撃」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "バブル",
+        "slug": "bubble",
+        "body": "<h3>泡</h3><p>実態以上に資産価格が高騰すること。弾けると大暴落する。</p>",
+        "short_description": "<h3>価格の異常な高騰。</h3>",
+        "example": "「バブル崩壊」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "ストックオプション",
+        "slug": "stock-option",
+        "body": "<h3>自社株購入権</h3><p>従業員が自社の株をあらかじめ決められた価格で買う権利。株価が上がれば儲かる。</p>",
+        "short_description": "<h3>自社株を買う権利。</h3>",
+        "example": "「ストックオプション付与」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "M&A",
+        "slug": "m-and-a",
+        "body": "<h3>合併・買収</h3><p>Mergers and Acquisitions。企業の合併や買収。</p>",
+        "short_description": "<h3>会社の売買。</h3>",
+        "example": "「M&A仲介」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "TOB",
+        "slug": "tob",
+        "body": "<h3>株式公開買付け</h3><p>Take-Over Bid。期間や価格を公開して、株主から株を買い集めること。</p>",
+        "short_description": "<h3>株の買い集め。</h3>",
+        "example": "「敵対的TOB」"
+    },
+    {
+        "category_slug": "finance",
+        "scene_slugs": [
+            "finance"
+        ],
+        "title": "上場廃止",
+        "slug": "delisting",
+        "body": "<h3>市場撤退</h3><p>証券取引所での株の売買ができなくなること。倒産だけでなく、M&Aや戦略的撤退もある。</p>",
+        "short_description": "<h3>株式市場からの撤退。</h3>",
+        "example": "「上場廃止へ」"
+    }
+]

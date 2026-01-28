@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アジェンダ",
+        "slug": "agenda",
+        "body": "<h3>議題、行動計画</h3><p>会議の進行予定表。「今日のアジェンダを確認します」。</p>",
+        "short_description": "<h3>会議の議題。</h3>",
+        "example": "「アジェンダを作成する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "エビデンス",
+        "slug": "evidence",
+        "body": "<h3>証拠、根拠</h3><p>主張を裏付けるデータや事実。「その数字のエビデンスは？」</p>",
+        "short_description": "<h3>証拠。</h3>",
+        "example": "「エビデンスを残す」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "オンスケ",
+        "slug": "on-schedule",
+        "body": "<h3>予定通り</h3><p>on scheduleの略。進行が計画通りであること。「進捗はオンスケです」。</p>",
+        "short_description": "<h3>予定通り。</h3>",
+        "example": "「工期はオンスケ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "キャパ",
+        "slug": "capacity",
+        "body": "<h3>許容量</h3><p>Capacity。能力や収容の限界。「キャパオーバー」で限界を超えた状態。</p>",
+        "short_description": "<h3>余裕、限界。</h3>",
+        "example": "「キャパがいっぱい」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "サマリー",
+        "slug": "summary",
+        "body": "<h3>要約</h3><p>長い文章やデータの要点をまとめたもの。「議事録のサマリー」。</p>",
+        "short_description": "<h3>まとめ。</h3>",
+        "example": "「ニュースのサマリー」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ショート",
+        "slug": "short",
+        "body": "<h3>不足</h3><p>資金や在庫が足りなくなること。「資金がショートする」。</p>",
+        "short_description": "<h3>足りなくなること。</h3>",
+        "example": "「在庫ショート」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "スキーム",
+        "slug": "scheme",
+        "body": "<h3>枠組み</h3><p>事業や計画の仕組み。「課金スキームを考える」。</p>",
+        "short_description": "<h3>仕組み。</h3>",
+        "example": "「新しい販売スキーム」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "タスク",
+        "slug": "task",
+        "body": "<h3>作業、課題</h3><p>やるべき仕事の最小単位。「タスク管理」。</p>",
+        "short_description": "<h3>やるべき作業。</h3>",
+        "example": "「タスクを消化する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ナレッジ",
+        "slug": "knowledge",
+        "body": "<h3>知識、知見</h3><p>組織に蓄積された有益な情報やノウハウ。「ナレッジ共有」。</p>",
+        "short_description": "<h3>役立つ知識。</h3>",
+        "example": "「ナレッジベース」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バッファ",
+        "slug": "buffer",
+        "body": "<h3>余裕</h3><p>時間や予算にあらかじめ持たせておく余裕。「納期にバッファを設ける」。</p>",
+        "short_description": "<h3>余裕を持たせる。</h3>",
+        "example": "「バッファを見ておく」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィックス",
+        "slug": "fix",
+        "body": "<h3>決定、確定</h3><p>内容が最終決定すること。「仕様をフィックスする」。</p>",
+        "short_description": "<h3>確定すること。</h3>",
+        "example": "「スケジュールがフィックスした」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フェーズ",
+        "slug": "phase",
+        "body": "<h3>段階</h3><p>プロジェクトなどの区切り。「設計フェーズ」「テストフェーズ」。</p>",
+        "short_description": "<h3>段階。</h3>",
+        "example": "「次のフェーズに移る」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "プライオリティ",
+        "slug": "priority",
+        "body": "<h3>優先順位</h3><p>優先度。「プライオリティが高いタスク」。</p>",
+        "short_description": "<h3>優先度。</h3>",
+        "example": "「プライオリティをつけて」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ブラッシュアップ",
+        "slug": "brush-up",
+        "body": "<h3>磨き上げる</h3><p>現状のものをさらに良くすること。「企画書をブラッシュアップする」。</p>",
+        "short_description": "<h3>より良くする。</h3>",
+        "example": "「デザインのブラッシュアップ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ベネフィット",
+        "slug": "benefit",
+        "body": "<h3>利益、恩恵</h3><p>商品を使うことで顧客が得られる良い未来。「メリット」は特徴、「ベネフィット」は体験。</p>",
+        "short_description": "<h3>得られる恩恵。</h3>",
+        "example": "「ユーザーのベネフィット」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ペンディング",
+        "slug": "pending",
+        "body": "<h3>保留</h3><p>決定を先送りにすること。「この件は一旦ペンディングで」。</p>",
+        "short_description": "<h3>保留にする。</h3>",
+        "example": "「プロジェクトがペンディング」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ボトルネック",
+        "slug": "bottleneck",
+        "body": "<h3>障害、滞る箇所</h3><p>全体の進行を妨げている一番狭い部分。「処理速度のボトルネック」。</p>",
+        "short_description": "<h3>詰まっている箇所。</h3>",
+        "example": "「作業のボトルネック」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マイルストーン",
+        "slug": "milestone",
+        "body": "<h3>中間目標地点</h3><p>プロジェクトの節目。道路の標石が由来。「第一マイルストーン達成」。</p>",
+        "short_description": "<h3>節目、中間目標。</h3>",
+        "example": "「マイルストーンを置く」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "リスペクト",
+        "slug": "respect",
+        "body": "<h3>尊敬、尊重</h3><p>相手を尊重すること。「相手へのリスペクトが足りない」。</p>",
+        "short_description": "<h3>尊敬する。</h3>",
+        "example": "「リスペクトを持って接する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "リスケ",
+        "slug": "reschedule",
+        "body": "<h3>日程変更</h3><p>リスケジュールの略。予定を組み直すこと。「会議をリスケする」。</p>",
+        "short_description": "<h3>予定変更。</h3>",
+        "example": "「雨でリスケになった」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アライアンス",
+        "slug": "alliance",
+        "body": "<h3>提携</h3><p>複数の企業が協力関係を結ぶこと。「業務提携」など。</p>",
+        "short_description": "<h3>企業間の協力。</h3>",
+        "example": "「アライアンスを組む」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "イニシアチブ",
+        "slug": "initiative",
+        "body": "<h3>主導権</h3><p>リーダーシップを取って物事を進めること。「イニシアチブを握る」。</p>",
+        "short_description": "<h3>主導権。</h3>",
+        "example": "「彼がイニシアチブをとった」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ASAP",
+        "slug": "asap",
+        "body": "<h3>至急</h3><p>As Soon As Possible。「なる早」。「ASAPでお願いします」は「できるだけ早く」。</p>",
+        "short_description": "<h3>なる早で。</h3>",
+        "example": "「回答はASAPで」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "NR",
+        "slug": "nr",
+        "body": "<h3>ノーリターン</h3><p>外出先から会社に戻らず、そのまま帰宅すること。「直帰」。</p>",
+        "short_description": "<h3>直帰すること。</h3>",
+        "example": "「午後は○○社訪問後NR」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "OJT",
+        "slug": "ojt",
+        "body": "<h3>実務研修</h3><p>On the Job Training。実際の仕事をしながら仕事を覚える教育方法。</p>",
+        "short_description": "<h3>現場で覚える。</h3>",
+        "example": "「新人はOJTで教育」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "KPI",
+        "slug": "kpi",
+        "body": "<h3>重要業績評価指標</h3><p>Key Performance Indicator。目標達成のための中間目標の数値。「KPIを達成する」。</p>",
+        "short_description": "<h3>中間目標の数値。</h3>",
+        "example": "「KPIを設定する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "KGI",
+        "slug": "kgi",
+        "body": "<h3>重要目標達成指標</h3><p>Key Goal Indicator。最終的なゴールの数値（売上など）。</p>",
+        "short_description": "<h3>最終ゴールの数値。</h3>",
+        "example": "「KGIは売上10億円」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "PDCA",
+        "slug": "pdca",
+        "body": "<h3>改善サイクル</h3><p>Plan(計画)→Do(実行)→Check(評価)→Action(改善)を繰り返すこと。「PDCAを回す」。</p>",
+        "short_description": "<h3>改善の繰り返し。</h3>",
+        "example": "「高速でPDCAを回せ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "BtoB",
+        "slug": "btob",
+        "body": "<h3>対企業取引</h3><p>Business to Business。企業が企業に商品を売るビジネスモデル。</p>",
+        "short_description": "<h3>企業向けビジネス。</h3>",
+        "example": "「BtoBマーケティング」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "BtoC",
+        "slug": "btoc",
+        "body": "<h3>対消費者取引</h3><p>Business to Consumer。企業が一般消費者に商品を売るビジネスモデル。</p>",
+        "short_description": "<h3>消費者向けビジネス。</h3>",
+        "example": "「BtoCサイト」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンセンサス",
+        "slug": "consensus",
+        "body": "<h3>合意</h3><p>関係者の同意を得ること。「事前にコンセンサスを取っておく」。根回し。</p>",
+        "short_description": "<h3>合意、根回し。</h3>",
+        "example": "「コンセンサス不足」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "シナジー",
+        "slug": "synergy-biz",
+        "body": "<h3>相乗効果</h3><p>複数のものが組み合わさって、より大きな効果を生むこと。「グループシナジー」。</p>",
+        "short_description": "<h3>相乗効果。</h3>",
+        "example": "「シナジーが期待できる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "スキーム",
+        "slug": "scheme-biz",
+        "body": "<h3>枠組み</h3><p>物事を実行するための計画的な枠組みや仕組み。</p>",
+        "short_description": "<h3>仕組み。</h3>",
+        "example": "「新しいスキーム」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "スクリーニング",
+        "slug": "screening",
+        "body": "<h3>ふるい分け</h3><p>多くの候補から条件に合うものを選別すること。「採用スクリーニング」。</p>",
+        "short_description": "<h3>選別すること。</h3>",
+        "example": "「投資先をスクリーニング」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "セグメント",
+        "slug": "segment",
+        "body": "<h3>区分、客層</h3><p>市場を特定の条件で分けたグループ。「顧客セグメント」。</p>",
+        "short_description": "<h3>グループ分け。</h3>",
+        "example": "「富裕層セグメント」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ソリューション",
+        "slug": "solution-biz",
+        "body": "<h3>解決策</h3><p>顧客の問題を解決するシステムやサービスのこと。</p>",
+        "short_description": "<h3>問題解決策。</h3>",
+        "example": "「ITソリューション」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "デフォルト",
+        "slug": "default-biz",
+        "body": "<h3>債務不履行</h3><p>借金が返せなくなること。「国債のデフォルト」。IT用語の「初期設定」とは意味が違うので注意。</p>",
+        "short_description": "<h3>借金を返せないこと。</h3>",
+        "example": "「アルゼンチンがデフォルト」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "トップダウン",
+        "slug": "top-down",
+        "body": "<h3>上意下達</h3><p>上層部が決定し、現場に指示を下す方式。決断が早いが現場の不満が出やすい。</p>",
+        "short_description": "<h3>上からの命令。</h3>",
+        "example": "「トップダウンの経営」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ボトムアップ",
+        "slug": "bottom-up",
+        "body": "<h3>下意上達</h3><p>現場からの提案を吸い上げて全体の方針を決める方式。</p>",
+        "short_description": "<h3>下からの提案。</h3>",
+        "example": "「ボトムアップ型組織」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ニッチ",
+        "slug": "niche-biz",
+        "body": "<h3>隙間</h3><p>大手が参入しない小さな市場。「ニッチな産業」。</p>",
+        "short_description": "<h3>隙間市場。</h3>",
+        "example": "「ニッチトップを狙う」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バジェット",
+        "slug": "budget",
+        "body": "<h3>予算</h3><p>使えるお金の枠。「バジェットが足りない」。</p>",
+        "short_description": "<h3>予算。</h3>",
+        "example": "「バジェット管理」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "パラダイムシフト",
+        "slug": "paradigm-shift",
+        "body": "<h3>劇的変化</h3><p>その時代の常識や価値観が劇的に変化させられること。「天動説から地動説へ」のような。</p>",
+        "short_description": "<h3>常識の激変。</h3>",
+        "example": "「業界のパラダイムシフト」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィージビリティ",
+        "slug": "feasibility",
+        "body": "<h3>実現可能性</h3><p>その計画が実行可能かどうか。「フィジビリ調査（F/S）」。</p>",
+        "short_description": "<h3>実現可能性。</h3>",
+        "example": "「フィジビリを確認する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ブルーオーシャン",
+        "slug": "blue-ocean",
+        "body": "<h3>競争のない市場</h3><p>競合相手がいない未開拓の市場。血で血を洗う競争市場は「レッドオーシャン」。</p>",
+        "short_description": "<h3>独り勝ちできる市場。</h3>",
+        "example": "「ブルーオーシャン戦略」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "プロパー",
+        "slug": "proper",
+        "body": "<h3>正社員、生え抜き</h3><p>中途採用や外部委託ではない、新卒からの社員。「プロパー社員」。</p>",
+        "short_description": "<h3>生え抜き社員。</h3>",
+        "example": "「プロパーと外注」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マター",
+        "slug": "matter",
+        "body": "<h3>担当案件</h3><p>誰の責任・担当範囲か。「これは営業部マターです（営業部の責任です）」。</p>",
+        "short_description": "<h3>担当、責任。</h3>",
+        "example": "「田中マター」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "メソッド",
+        "slug": "method-biz",
+        "body": "<h3>手法</h3><p>体系化されたやり方。「メソッドを確立する」。</p>",
+        "short_description": "<h3>やり方。</h3>",
+        "example": "「独自のメソッド」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "メンター",
+        "slug": "mentor",
+        "body": "<h3>指導者</h3><p>仕事や人生の助言をしてくれる人。受ける側は「メンティー」。</p>",
+        "short_description": "<h3>お師匠さん。</h3>",
+        "example": "「メンター制度」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ローンチ",
+        "slug": "launch",
+        "body": "<h3>立ち上げ</h3><p>新サービスや新商品を公開・発売すること。「来月ローンチ予定」。</p>",
+        "short_description": "<h3>公開、発売。</h3>",
+        "example": "「プロダクトローンチ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ワークフロー",
+        "slug": "workflow",
+        "body": "<h3>業務手続き</h3><p>申請から承認までの一連の流れ。「ワークフローを申請する」。</p>",
+        "short_description": "<h3>手続きの流れ。</h3>",
+        "example": "「電子ワークフロー」"
+    }
+]

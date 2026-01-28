@@ -1,0 +1,494 @@
+[
+    {
+        "title": "不動産",
+        "slug": "real-estate",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>土地や建物</h3><p>土地や建物などの動かせない財産。</p>",
+        "body": "<h3>詳しく解説</h3><p>「不動産」は、土地や建物などの動かせない財産です。「動産（動かせる財産）」の対義語です。</p><p>不動産の売買、賃貸、管理などを行う業界を「不動産業界」と呼びます。</p>",
+        "example": "「不動産投資で資産を増やす」",
+        "is_published": true
+    },
+    {
+        "title": "賃貸",
+        "slug": "rental",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>借りること</h3><p>お金を払って、物件を借りること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「賃貸」は、お金を払って物件を借りることです。「賃貸物件」「賃貸マンション」など、借りる住宅を指すことが多いです。</p><p>「賃貸契約」を結んで、毎月家賃を支払います。</p>",
+        "example": "「賃貸アパートに住んでいる」",
+        "is_published": true
+    },
+    {
+        "title": "持ち家",
+        "slug": "owned-house",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>所有する家</h3><p>自分が所有している家。</p>",
+        "body": "<h3>詳しく解説</h3><p>「持ち家」は、自分が所有している家です。賃貸と違い、家賃を払う必要がありませんが、住宅ローンや固定資産税などの負担があります。</p><p>「マイホーム」とも呼ばれます。</p>",
+        "example": "「念願の持ち家を購入した」",
+        "is_published": true
+    },
+    {
+        "title": "マンション",
+        "slug": "mansion",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>集合住宅</h3><p>鉄筋コンクリート造の集合住宅。</p>",
+        "body": "<h3>詳しく解説</h3><p>「マンション（mansion）」は、日本では鉄筋コンクリート造の集合住宅を指します。英語の「mansion」は「大邸宅」の意味で、日本とは異なります。</p><p>「分譲マンション」は購入するマンション、「賃貸マンション」は借りるマンションです。</p>",
+        "example": "「駅近のマンションに住んでいる」",
+        "is_published": true
+    },
+    {
+        "title": "アパート",
+        "slug": "apartment",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>木造の集合住宅</h3><p>木造または軽量鉄骨造の集合住宅。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アパート（apartment）」は、木造または軽量鉄骨造の集合住宅です。マンションより家賃が安いことが多いです。</p><p>2階建てが多く、エレベーターがないことが一般的です。</p>",
+        "example": "「学生時代はアパートに住んでいた」",
+        "is_published": true
+    },
+    {
+        "title": "一戸建て",
+        "slug": "detached-house",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>独立した家</h3><p>他の住宅と壁を共有しない、独立した家。</p>",
+        "body": "<h3>詳しく解説</h3><p>「一戸建て」は、他の住宅と壁を共有しない独立した家です。庭や駐車場があることが多く、プライバシーが保たれます。</p><p>「戸建て」とも呼ばれます。</p>",
+        "example": "「庭付きの一戸建てに住むのが夢」",
+        "is_published": true
+    },
+    {
+        "title": "間取り",
+        "slug": "floor-plan",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>部屋の配置</h3><p>住宅の部屋の数や配置。</p>",
+        "body": "<h3>詳しく解説</h3><p>「間取り」は、住宅の部屋の数や配置です。「1K」「2LDK」などと表記されます。</p><p>「1K」は1部屋+キッチン、「2LDK」は2部屋+リビング・ダイニング・キッチンを意味します。</p>",
+        "example": "「2LDKの間取りの部屋を探している」",
+        "is_published": true
+    },
+    {
+        "title": "LDK",
+        "slug": "ldk",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>リビング・ダイニング・キッチン</h3><p>「Living」「Dining」「Kitchen」の略。居間、食堂、台所が一体になった空間。</p>",
+        "body": "<h3>詳しく解説</h3><p>「LDK」は「Living（居間）」「Dining（食堂）」「Kitchen（台所）」の略で、これらが一体になった空間を指します。</p><p>「2LDK」なら、LDKに加えて2つの部屋があることを意味します。</p>",
+        "example": "「広いLDKでゆったり過ごせる」",
+        "is_published": true
+    },
+    {
+        "title": "敷金",
+        "slug": "security-deposit",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>預け金</h3><p>賃貸契約時に、大家に預けるお金。退去時に返還される。</p>",
+        "body": "<h3>詳しく解説</h3><p>「敷金」は、賃貸契約時に大家に預けるお金です。部屋の修繕費用などに充てられ、退去時に残額が返還されます。</p><p>家賃の1-2ヶ月分が相場です。</p>",
+        "example": "「敷金として家賃2ヶ月分を払った」",
+        "is_published": true
+    },
+    {
+        "title": "礼金",
+        "slug": "key-money",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>お礼のお金</h3><p>賃貸契約時に、大家に支払うお礼のお金。返還されない。</p>",
+        "body": "<h3>詳しく解説</h3><p>「礼金」は、賃貸契約時に大家に支払うお礼のお金です。敷金と違い、退去時に返還されません。</p><p>日本独特の慣習で、最近は礼金なしの物件も増えています。</p>",
+        "example": "「礼金なしの物件を探している」",
+        "is_published": true
+    },
+    {
+        "title": "仲介手数料",
+        "slug": "brokerage-fee",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>不動産会社への手数料</h3><p>賃貸契約時に、不動産会社に支払う手数料。</p>",
+        "body": "<h3>詳しく解説</h3><p>「仲介手数料」は、賃貸契約時に不動産会社に支払う手数料です。物件を紹介してもらった対価として支払います。</p><p>家賃の1ヶ月分+消費税が上限です。</p>",
+        "example": "「仲介手数料として家賃1ヶ月分を払った」",
+        "is_published": true
+    },
+    {
+        "title": "更新料",
+        "slug": "renewal-fee",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>契約更新の費用</h3><p>賃貸契約を更新する時に支払う費用。</p>",
+        "body": "<h3>詳しく解説</h3><p>「更新料」は、賃貸契約を更新する時に支払う費用です。通常2年ごとに契約更新があり、家賃の1ヶ月分程度を支払います。</p><p>地域によっては更新料がない場合もあります。</p>",
+        "example": "「2年ごとに更新料がかかる」",
+        "is_published": true
+    },
+    {
+        "title": "内見",
+        "slug": "property-viewing",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>物件の下見</h3><p>賃貸物件を借りる前に、実際に見に行くこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「内見」は、賃貸物件を借りる前に実際に見に行くことです。部屋の広さ、日当たり、設備などを確認します。</p><p>「内覧」とも呼ばれます。</p>",
+        "example": "「週末に気になる物件の内見に行く」",
+        "is_published": true
+    },
+    {
+        "title": "築年数",
+        "slug": "building-age",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>建物の経過年数</h3><p>建物が建てられてからの年数。</p>",
+        "body": "<h3>詳しく解説</h3><p>「築年数」は、建物が建てられてからの年数です。「築10年」なら、建ってから10年経っている建物です。</p><p>築年数が古いほど、家賃は安くなる傾向があります。</p>",
+        "example": "「築5年の新しいマンションに住みたい」",
+        "is_published": true
+    },
+    {
+        "title": "駅近",
+        "slug": "near-station",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>駅に近い</h3><p>駅から徒歩圏内にあること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「駅近」は、駅から徒歩圏内にあることです。一般的に、駅から徒歩10分以内を「駅近」と呼びます。</p><p>通勤・通学に便利なため、人気が高く家賃も高めです。</p>",
+        "example": "「駅近の物件を探している」",
+        "is_published": true
+    },
+    {
+        "title": "南向き",
+        "slug": "south-facing",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>南に面している</h3><p>部屋のベランダや窓が南に面していること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「南向き」は、部屋のベランダや窓が南に面していることです。日当たりが良く、明るい部屋になります。</p><p>人気の条件で、家賃も高めになる傾向があります。</p>",
+        "example": "「南向きで日当たりの良い部屋が理想」",
+        "is_published": true
+    },
+    {
+        "title": "角部屋",
+        "slug": "corner-room",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>建物の角の部屋</h3><p>マンションやアパートの角にある部屋。</p>",
+        "body": "<h3>詳しく解説</h3><p>「角部屋」は、マンションやアパートの角にある部屋です。窓が2面以上あり、風通しや日当たりが良いです。</p><p>隣接する部屋が少なく、プライバシーも保たれます。</p>",
+        "example": "「角部屋で風通しが良い」",
+        "is_published": true
+    },
+    {
+        "title": "最上階",
+        "slug": "top-floor",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>一番上の階</h3><p>建物の一番上の階。</p>",
+        "body": "<h3>詳しく解説</h3><p>「最上階」は、建物の一番上の階です。眺望が良く、上階の足音などの騒音がありません。</p><p>人気が高く、家賃も高めです。</p>",
+        "example": "「最上階で眺めが最高」",
+        "is_published": true
+    },
+    {
+        "title": "オートロック",
+        "slug": "auto-lock",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>自動施錠</h3><p>エントランスが自動で施錠されるシステム。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オートロック（auto lock）」は、エントランスが自動で施錠されるシステムです。部外者が簡単に入れないため、セキュリティが高いです。</p><p>女性に人気の設備です。</p>",
+        "example": "「オートロック付きで安心」",
+        "is_published": true
+    },
+    {
+        "title": "宅配ボックス",
+        "slug": "delivery-box",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>荷物受取ボックス</h3><p>不在時でも荷物を受け取れるボックス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「宅配ボックス」は、不在時でも荷物を受け取れるボックスです。配達員が荷物を入れ、住人が後で取り出します。</p><p>ネット通販を頻繁に利用する人に便利な設備です。</p>",
+        "example": "「宅配ボックスがあるから再配達の心配なし」",
+        "is_published": true
+    },
+    {
+        "title": "ペット可",
+        "slug": "pet-friendly",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>ペット飼育OK</h3><p>ペットを飼うことが許可されている物件。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ペット可」は、ペットを飼うことが許可されている物件です。犬や猫などのペットと一緒に暮らせます。</p><p>ペット可物件は数が少なく、家賃も高めです。</p>",
+        "example": "「ペット可の物件で愛犬と暮らす」",
+        "is_published": true
+    },
+    {
+        "title": "楽器可",
+        "slug": "musical-instrument-allowed",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>楽器演奏OK</h3><p>楽器の演奏が許可されている物件。</p>",
+        "body": "<h3>詳しく解説</h3><p>「楽器可」は、楽器の演奏が許可されている物件です。防音設備が整っていることが多いです。</p><p>音楽家や音楽好きに人気の物件です。</p>",
+        "example": "「楽器可の物件でピアノを弾ける」",
+        "is_published": true
+    },
+    {
+        "title": "リノベーション",
+        "slug": "renovation",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>大規模改修</h3><p>古い建物を大規模に改修して、新しく生まれ変わらせること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リノベーション（renovation）」は、古い建物を大規模に改修して新しく生まれ変わらせることです。間取りを変更したり、設備を一新したりします。</p><p>「リフォーム」より大規模な改修を指します。</p>",
+        "example": "「古い物件をリノベーションしておしゃれに」",
+        "is_published": true
+    },
+    {
+        "title": "リフォーム",
+        "slug": "reform",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>改修、修繕</h3><p>古くなった部分を修繕したり、新しくしたりすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リフォーム（reform）」は、古くなった部分を修繕したり新しくしたりすることです。壁紙の張り替え、キッチンの交換などが含まれます。</p><p>リノベーションより小規模な改修を指します。</p>",
+        "example": "「キッチンをリフォームして使いやすくした」",
+        "is_published": true
+    },
+    {
+        "title": "住宅ローン",
+        "slug": "mortgage",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>住宅購入の借金</h3><p>住宅を購入するために、銀行から借りるお金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「住宅ローン」は、住宅を購入するために銀行から借りるお金です。長期間（20-35年）かけて返済します。</p><p>「モーゲージ（mortgage）」とも呼ばれます。</p>",
+        "example": "「住宅ローンを組んで家を買った」",
+        "is_published": true
+    },
+    {
+        "title": "頭金",
+        "slug": "down-payment",
+        "category_slug": "business",
+        "scene_slugs": [],
+        "short_description": "<h3>最初に払うお金</h3><p>住宅購入時に、最初に支払うお金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「頭金」は、住宅購入時に最初に支払うお金です。物件価格の一部を現金で払い、残りを住宅ローンで借ります。</p><p>頭金が多いほど、ローンの負担が軽くなります。</p>",
+        "example": "「頭金として500万円用意した」",
+        "is_published": true
+    },
+    {
+        "title": "固定資産税",
+        "slug": "property-tax",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>不動産の税金</h3><p>土地や建物を所有している人が払う税金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「固定資産税」は、土地や建物を所有している人が毎年払う税金です。市町村に納めます。</p><p>持ち家の場合、住宅ローンとは別に固定資産税の負担があります。</p>",
+        "example": "「固定資産税の納付書が届いた」",
+        "is_published": true
+    },
+    {
+        "title": "管理費",
+        "slug": "management-fee",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>マンションの維持費</h3><p>マンションの共用部分の維持管理にかかる費用。</p>",
+        "body": "<h3>詳しく解説</h3><p>「管理費」は、マンションの共用部分（エントランス、廊下、エレベーターなど）の維持管理にかかる費用です。毎月支払います。</p><p>分譲マンションでも、賃貸マンションでも発生します。</p>",
+        "example": "「家賃とは別に管理費がかかる」",
+        "is_published": true
+    },
+    {
+        "title": "修繕積立金",
+        "slug": "repair-reserve-fund",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>将来の修繕費用</h3><p>マンションの大規模修繕に備えて、毎月積み立てるお金。</p>",
+        "body": "<h3>詳しく解説</h3><p>「修繕積立金」は、マンションの大規模修繕（外壁塗装、屋上防水など）に備えて毎月積み立てるお金です。</p><p>分譲マンションの所有者が支払います。</p>",
+        "example": "「管理費と修繕積立金で月3万円かかる」",
+        "is_published": true
+    },
+    {
+        "title": "引っ越し",
+        "slug": "moving",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>住居の移動</h3><p>住んでいる場所を変えること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「引っ越し」は、住んでいる場所を変えることです。荷物を運び、新しい住居に移ります。</p><p>「引越し」「引越」とも書きます。</p>",
+        "example": "「来月、新しいアパートに引っ越す」",
+        "is_published": true
+    },
+    {
+        "title": "退去",
+        "slug": "move-out",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>部屋を出ること</h3><p>賃貸物件から出ていくこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「退去」は、賃貸物件から出ていくことです。退去時には、部屋をきれいに掃除し、原状回復する必要があります。</p><p>退去の1-2ヶ月前に、大家や管理会社に連絡する必要があります。</p>",
+        "example": "「来月末に退去する予定」",
+        "is_published": true
+    },
+    {
+        "title": "原状回復",
+        "slug": "restoration",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>元の状態に戻す</h3><p>賃貸物件を退去する時に、借りた時の状態に戻すこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「原状回復」は、賃貸物件を退去する時に借りた時の状態に戻すことです。ただし、通常の使用による劣化（経年劣化）は、借主の負担ではありません。</p><p>故意や過失による傷や汚れは、借主が修繕費用を負担します。</p>",
+        "example": "「退去時に原状回復費用を請求された」",
+        "is_published": true
+    },
+    {
+        "title": "シェアハウス",
+        "slug": "share-house",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>共同生活の家</h3><p>複数人で一つの家をシェアして住むこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「シェアハウス（share house）」は、複数人で一つの家をシェアして住むことです。個室は別々ですが、キッチンやリビングは共用です。</p><p>家賃が安く、他の住人と交流できるのが魅力です。</p>",
+        "example": "「シェアハウスで国際交流を楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "ルームシェア",
+        "slug": "room-share",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>部屋を共有</h3><p>友人などと一緒に部屋を借りて住むこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ルームシェア（room share）」は、友人などと一緒に部屋を借りて住むことです。家賃を折半できるため、経済的です。</p><p>シェアハウスと違い、知り合い同士で住むことが多いです。</p>",
+        "example": "「友達とルームシェアして家賃を節約」",
+        "is_published": true
+    },
+    {
+        "title": "タワーマンション",
+        "slug": "tower-mansion",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>超高層マンション</h3><p>20階以上の超高層マンション。</p>",
+        "body": "<h3>詳しく解説</h3><p>「タワーマンション」は、20階以上の超高層マンションです。「タワマン」と略されます。</p><p>眺望が良く、共用施設（ジム、ラウンジなど）が充実していることが多いです。</p>",
+        "example": "「憧れのタワーマンションに住む」",
+        "is_published": true
+    },
+    {
+        "title": "デザイナーズマンション",
+        "slug": "designers-mansion",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>デザイン性の高いマンション</h3><p>建築家やデザイナーがこだわって設計したマンション。</p>",
+        "body": "<h3>詳しく解説</h3><p>「デザイナーズマンション」は、建築家やデザイナーがこだわって設計したマンションです。おしゃれで個性的なデザインが特徴です。</p><p>見た目は良いですが、使い勝手が悪いこともあります。</p>",
+        "example": "「デザイナーズマンションでおしゃれに暮らす」",
+        "is_published": true
+    },
+    {
+        "title": "UR賃貸",
+        "slug": "ur-rental",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>公団住宅</h3><p>UR都市機構が管理する賃貸住宅。礼金・仲介手数料なし。</p>",
+        "body": "<h3>詳しく解説</h3><p>「UR賃貸」は、UR都市機構が管理する賃貸住宅です。礼金・仲介手数料・更新料がなく、初期費用を抑えられます。</p><p>「公団住宅」とも呼ばれます。</p>",
+        "example": "「UR賃貸なら初期費用が安い」",
+        "is_published": true
+    },
+    {
+        "title": "サービス付き高齢者向け住宅",
+        "slug": "senior-housing",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>高齢者向け住宅</h3><p>安否確認や生活相談などのサービスが付いた、高齢者向けの賃貸住宅。</p>",
+        "body": "<h3>詳しく解説</h3><p>「サービス付き高齢者向け住宅」は、安否確認や生活相談などのサービスが付いた高齢者向けの賃貸住宅です。「サ高住」と略されます。</p><p>介護が必要になっても、住み続けられる場合が多いです。</p>",
+        "example": "「親のためにサ高住を探している」",
+        "is_published": true
+    },
+    {
+        "title": "学生寮",
+        "slug": "student-dormitory",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>学生専用の寮</h3><p>大学や専門学校が提供する、学生専用の寮。</p>",
+        "body": "<h3>詳しく解説</h3><p>「学生寮」は、大学や専門学校が提供する学生専用の寮です。家賃が安く、食事付きの寮もあります。</p><p>同じ学校の学生と交流できるのも魅力です。</p>",
+        "example": "「学生寮に入って学費を節約」",
+        "is_published": true
+    },
+    {
+        "title": "社宅",
+        "slug": "company-housing",
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "short_description": "<h3>会社が用意する住宅</h3><p>会社が従業員のために用意する住宅。</p>",
+        "body": "<h3>詳しく解説</h3><p>「社宅」は、会社が従業員のために用意する住宅です。家賃が安い、または無料で住めることが多いです。</p><p>福利厚生の一環として提供されます。</p>",
+        "example": "「社宅に住んで家賃を節約できる」",
+        "is_published": true
+    },
+    {
+        "title": "住み替え",
+        "slug": "relocation",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>住居を変える</h3><p>今の家を売ったり出たりして、別の家に住むこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「住み替え」は、今の家を売ったり出たりして別の家に住むことです。ライフスタイルの変化に合わせて、住居を変えます。</p><p>「住み替えローン」など、住み替えを支援する制度もあります。</p>",
+        "example": "「子供が生まれたので、広い家に住み替える」",
+        "is_published": true
+    },
+    {
+        "title": "空き家",
+        "slug": "vacant-house",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>誰も住んでいない家</h3><p>誰も住んでいない、放置された家。</p>",
+        "body": "<h3>詳しく解説</h3><p>「空き家」は、誰も住んでいない放置された家です。日本では、人口減少や高齢化により空き家が増加しており、社会問題になっています。</p><p>空き家を活用する「空き家バンク」などの取り組みもあります。</p>",
+        "example": "「空き家を改修して住む」",
+        "is_published": true
+    },
+    {
+        "title": "空き家バンク",
+        "slug": "vacant-house-bank",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>空き家情報サイト</h3><p>自治体が運営する、空き家の情報を提供するサイト。</p>",
+        "body": "<h3>詳しく解説</h3><p>「空き家バンク」は、自治体が運営する空き家の情報を提供するサイトです。移住希望者と空き家所有者をマッチングします。</p><p>田舎暮らしを希望する人に人気です。</p>",
+        "example": "「空き家バンクで田舎の物件を探す」",
+        "is_published": true
+    },
+    {
+        "title": "二拠点生活",
+        "slug": "dual-residence",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>2つの家を行き来</h3><p>都市と地方など、2つの拠点を行き来する生活スタイル。</p>",
+        "body": "<h3>詳しく解説</h3><p>「二拠点生活」は、都市と地方など2つの拠点を行き来する生活スタイルです。平日は都市で働き、週末は地方で過ごすなど、ライフスタイルに合わせて使い分けます。</p><p>「デュアルライフ」とも呼ばれます。</p>",
+        "example": "「都会と田舎の二拠点生活を楽しむ」",
+        "is_published": true
+    },
+    {
+        "title": "移住",
+        "slug": "migration",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>住む場所を変える</h3><p>都市から地方、または海外など、住む場所を大きく変えること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「移住」は、都市から地方、または海外など住む場所を大きく変えることです。ライフスタイルを変えたい人や、自然豊かな環境で暮らしたい人が選択します。</p><p>自治体の移住支援制度を利用できることもあります。</p>",
+        "example": "「田舎に移住してスローライフを送る」",
+        "is_published": true
+    },
+    {
+        "title": "地方移住",
+        "slug": "rural-migration",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>地方への移住</h3><p>都市部から地方へ移住すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「地方移住」は、都市部から地方へ移住することです。自然豊かな環境、ゆったりとした生活、低い生活費などが魅力です。</p><p>リモートワークの普及で、地方移住を選択する人が増えています。</p>",
+        "example": "「地方移住して自然の中で暮らす」",
+        "is_published": true
+    },
+    {
+        "title": "Iターン",
+        "slug": "i-turn",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>都会から地方へ</h3><p>都会で生まれ育った人が、地方に移住すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「Iターン」は、都会で生まれ育った人が地方に移住することです。アルファベットの「I」のように、一方向に移動することから名付けられました。</p><p>「Uターン」「Jターン」と合わせて、移住のパターンを表します。</p>",
+        "example": "「Iターンで田舎暮らしを始めた」",
+        "is_published": true
+    },
+    {
+        "title": "Uターン",
+        "slug": "u-turn",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>地元に戻る</h3><p>地方出身者が、都会で働いた後、地元に戻ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「Uターン」は、地方出身者が都会で働いた後、地元に戻ることです。アルファベットの「U」のように、元の場所に戻ることから名付けられました。</p><p>親の介護や、地元での起業などがきっかけになることが多いです。</p>",
+        "example": "「Uターンして地元で就職した」",
+        "is_published": true
+    },
+    {
+        "title": "Jターン",
+        "slug": "j-turn",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>地方から都会、そして地方都市へ</h3><p>地方出身者が、都会で働いた後、地元近くの地方都市に移住すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「Jターン」は、地方出身者が都会で働いた後、地元近くの地方都市に移住することです。アルファベットの「J」のような移動パターンから名付けられました。</p><p>地元に戻りたいが、仕事がない場合などに選択されます。</p>",
+        "example": "「Jターンで地元近くの都市に住む」",
+        "is_published": true
+    }
+]

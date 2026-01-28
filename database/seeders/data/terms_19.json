@@ -1,0 +1,541 @@
+[
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "朝礼",
+        "slug": "chorei-con",
+        "body": "<h3>作業前の集まり</h3><p>現場で毎朝行われるミーティング。ラジオ体操や安全確認を行う。</p>",
+        "short_description": "<h3>朝のミーティング。</h3>",
+        "example": "「朝礼で周知する」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "安全帯",
+        "slug": "safety-belt",
+        "body": "<h3>命綱</h3><p>高所作業で墜落を防ぐためのベルト。今は「フルハーネス型」が主流。</p>",
+        "short_description": "<h3>命綱。</h3>",
+        "example": "「安全帯よし！」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "いってこい",
+        "slug": "ittekoi",
+        "body": "<h3>プラスマイナスゼロ</h3><p>出した分と入った分が同じになること。「チャラ」。壁の厚み分だけ部屋が狭くなる時などにも使う。</p>",
+        "short_description": "<h3>プラマイゼロ。</h3>",
+        "example": "「予算はいってこいだ」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "上物",
+        "slug": "uwamono",
+        "body": "<h3>建物本体</h3><p>土地の上にある建物のこと。「土地付き上物あり」。</p>",
+        "short_description": "<h3>建物。</h3>",
+        "example": "「上物の解体」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "親方",
+        "slug": "oyakata",
+        "body": "<h3>職人のボス</h3><p>職人たちを束ねるリーダー。絶対的存在。</p>",
+        "short_description": "<h3>職人のリーダー。</h3>",
+        "example": "「親方の指示」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "完工",
+        "slug": "kanko",
+        "body": "<h3>完了</h3><p>工事がすべて完了すること。「竣工」とも。</p>",
+        "short_description": "<h3>工事完了。</h3>",
+        "example": "「無事完工した」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "元請け",
+        "slug": "motouke",
+        "body": "<h3>発注元</h3><p>施主から直接工事を請け負った会社。ゼネコンなど。</p>",
+        "short_description": "<h3>親会社。</h3>",
+        "example": "「元請けの監督」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "下請け",
+        "slug": "shitauke",
+        "body": "<h3>協力会社</h3><p>元請けから仕事をもらう会社。孫請け、ひ孫請けと続く。</p>",
+        "short_description": "<h3>仕事をもらう会社。</h3>",
+        "example": "「下請けいじめ」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "KY",
+        "slug": "ky",
+        "body": "<h3>危険予知</h3><p>Kiken Yochi。作業前に危険なポイントを話し合う活動。「KY活動」「KYミーティング」。空気が読めないではない。</p>",
+        "short_description": "<h3>危険予知活動。</h3>",
+        "example": "「KY記入して」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "現調",
+        "slug": "gencho",
+        "body": "<h3>現地調査</h3><p>工事の前に現場を見に行くこと。</p>",
+        "short_description": "<h3>現場調査。</h3>",
+        "example": "「明日現調に行く」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "工期",
+        "slug": "kouki",
+        "body": "<h3>スケジュール</h3><p>工事が始まってから終わるまでの期間。「工期がない」は現場の合言葉。</p>",
+        "short_description": "<h3>工事期間。</h3>",
+        "example": "「工期カツカツ」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ご安全に",
+        "slug": "goanzen-ni",
+        "body": "<h3>挨拶</h3><p>現場での挨拶。「お疲れ様です」の代わりに使われる。「今日も一日ご安全に！」</p>",
+        "short_description": "<h3>現場の挨拶。</h3>",
+        "example": "「ご安全に！」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "指差呼称",
+        "slug": "shisa-kosho",
+        "body": "<h3>確認動作</h3><p>対象を指差し、「ヨシ！」と声を出す安全確認動作。</p>",
+        "short_description": "<h3>指差し確認。</h3>",
+        "example": "「右よし左よし」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "仕様書",
+        "slug": "shiyosho",
+        "body": "<h3>設計図書</h3><p>どんな材料を使い、どう作るかが書かれた指示書。</p>",
+        "short_description": "<h3>指示書。</h3>",
+        "example": "「仕様書通りに」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "是正",
+        "slug": "zesei",
+        "body": "<h3>手直し</h3><p>間違っている箇所や不具合を直すこと。「是正命令」。</p>",
+        "short_description": "<h3>修正すること。</h3>",
+        "example": "「是正処置」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ゼネコン",
+        "slug": "general-contractor",
+        "body": "<h3>総合建設業</h3><p>General Contractor。工事全体をまとめる大企業。</p>",
+        "short_description": "<h3>大手建設会社。</h3>",
+        "example": "「スーパーゼネコン」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "施主",
+        "slug": "seshu",
+        "body": "<h3>依頼主</h3><p>工事を注文し、お金を払う人。お客様さん。</p>",
+        "short_description": "<h3>お客さん。</h3>",
+        "example": "「施主検査」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "建屋",
+        "slug": "tateya",
+        "body": "<h3>建物</h3><p>工場や倉庫などの建物。「たてや」と読む。</p>",
+        "short_description": "<h3>建物。</h3>",
+        "example": "「原子炉建屋」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "丁張り",
+        "slug": "chobari",
+        "body": "<h3>位置出し</h3><p>工事の基準となる高さや位置を示す木の枠。</p>",
+        "short_description": "<h3>基準枠。</h3>",
+        "example": "「丁張りをかける」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "手戻り",
+        "slug": "temodori",
+        "body": "<h3>やり直し</h3><p>作業が最初に戻ってしまうこと。一番嫌われる。</p>",
+        "short_description": "<h3>やり直し。</h3>",
+        "example": "「手戻り発生」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "突貫工事",
+        "slug": "tokkan",
+        "body": "<h3>急ぎの工事</h3><p>休みなし、夜勤ありで無理やり間に合わせる工事。</p>",
+        "short_description": "<h3>超特急工事。</h3>",
+        "example": "「突貫工事で終わらせる」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ニッカポッカ",
+        "slug": "nikkapokka",
+        "body": "<h3>作業ズボン</h3><p>裾が絞られ、太ももがダブダブのズボン。動きやすく、触角の役割も果たす。</p>",
+        "short_description": "<h3>職人のズボン。</h3>",
+        "example": "「ニッカポッカを履く」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "人夫",
+        "slug": "nimpu",
+        "body": "<h3>作業員</h3><p>現場で働く作業員のこと。「人工（にんく）」は作業量。</p>",
+        "short_description": "<h3>作業員。</h3>",
+        "example": "「人夫出し」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "野丁場",
+        "slug": "nochoba",
+        "body": "<h3>現場仕事</h3><p>鍛冶屋や鳶（とび）などの現場仕事のこと。</p>",
+        "short_description": "<h3>現場仕事。</h3>",
+        "example": "「野丁場の職人」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "バール",
+        "slug": "crowbar",
+        "body": "<h3>釘抜き</h3><p>「L」字型の金属棒。釘を抜いたり、物をこじ開けたりする。「バールのようなもの」で有名。</p>",
+        "short_description": "<h3>こじ開ける道具。</h3>",
+        "example": "「バールでこじ開ける」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ハツリ",
+        "slug": "hatsuri",
+        "body": "<h3>削る</h3><p>コンクリートの壁や床を削ったり壊したりする作業。「ハツリ屋」。</p>",
+        "short_description": "<h3>コンクリ削り。</h3>",
+        "example": "「ハツリ工事」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "盤",
+        "slug": "ban",
+        "body": "<h3>配電盤</h3><p>電気のスイッチなどが集まっている箱。</p>",
+        "short_description": "<h3>電気の箱。</h3>",
+        "example": "「盤を開ける」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "歩掛",
+        "slug": "bu-gakari",
+        "body": "<h3>手間</h3><p>一つの作業をするのにどれくらい時間がかかるかの基準値。</p>",
+        "short_description": "<h3>作業の手間基準。</h3>",
+        "example": "「歩掛を見積もる」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "養生",
+        "slug": "yojo",
+        "body": "<h3>保護</h3><p>傷つかないようにシートやテープで覆うこと。「養生テープ」。</p>",
+        "short_description": "<h3>保護すること。</h3>",
+        "example": "「エレベーターの養生」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ラフター",
+        "slug": "rough-terrain-crane",
+        "body": "<h3>クレーン車</h3><p>ラフテレーンクレーン。タイヤで走れるクレーン車。</p>",
+        "short_description": "<h3>クレーン車。</h3>",
+        "example": "「ラフターを呼ぶ」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "生コン",
+        "slug": "namakon",
+        "body": "<h3>固まる前のコンクリート</h3><p>ミキサー車で運ばれてくるドロドロのコンクリート。時間との勝負。</p>",
+        "short_description": "<h3>液状コンクリート。</h3>",
+        "example": "「生コン打設」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ネコ",
+        "slug": "neko",
+        "body": "<h3>手押し車</h3><p>一輪車。土砂などを運ぶ道具。猫のように狭い道を通れるから。</p>",
+        "short_description": "<h3>一輪車。</h3>",
+        "example": "「ネコ車」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "レベル",
+        "slug": "level-con",
+        "body": "<h3>高さ</h3><p>地面からの高さや、水平のこと。「レベルを見る（水平を確認する）」。</p>",
+        "short_description": "<h3>高さ、水平。</h3>",
+        "example": "「レベル合わせ」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "スラブ",
+        "slug": "slab",
+        "body": "<h3>床版</h3><p>鉄筋コンクリート造の床や屋根のこと。</p>",
+        "short_description": "<h3>コンクリの床。</h3>",
+        "example": "「スラブ厚」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "墨出し",
+        "slug": "sumidashi",
+        "body": "<h3>基準線引き</h3><p>工事の基準となる線を床などに引く作業。昔は墨を使っていた。</p>",
+        "short_description": "<h3>線を引く作業。</h3>",
+        "example": "「墨出し屋さん」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "納まり",
+        "slug": "osamari",
+        "body": "<h3>仕上がり具合</h3><p>部材同士の接合部分が綺麗に収まっているか。「納まりが悪い」。</p>",
+        "short_description": "<h3>つなぎ目の仕上がり。</h3>",
+        "example": "「納まり図」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ガラ",
+        "slug": "gara",
+        "body": "<h3>産業廃棄物</h3><p>コンクリート片や廃材などのゴミ。「ガラ袋」に入れる。</p>",
+        "short_description": "<h3>建築ゴミ。</h3>",
+        "example": "「ガラ出し」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ユンボ",
+        "slug": "yumbo",
+        "body": "<h3>ショベルカー</h3><p>油圧ショベル。レンタルのニッケンによる登録商標だが、一般的に使われる。</p>",
+        "short_description": "<h3>ショベルカー。</h3>",
+        "example": "「ユンボの免許」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "鳶",
+        "slug": "tobi",
+        "body": "<h3>高所作業員</h3><p>「とび職」。足場を組んだり鉄骨を建てたりする、現場の花形。</p>",
+        "short_description": "<h3>高所のプロ。</h3>",
+        "example": "「足場鳶」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "CAD",
+        "slug": "cad",
+        "body": "<h3>設計支援ソフト</h3><p>Computer Aided Design。図面を描くソフト。「キャド」。</p>",
+        "short_description": "<h3>図面ソフト。</h3>",
+        "example": "「CADオペレーター」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "JW",
+        "slug": "jw_cad",
+        "body": "<h3>Jw_cad</h3><p>建築業界で標準的に使われている無料のCADソフト。</p>",
+        "short_description": "<h3>無料CADソフト。</h3>",
+        "example": "「JWで描く」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "工程表",
+        "slug": "schedule-chart",
+        "body": "<h3>スケジュール表</h3><p>いつ誰が何をするかを書いた表。「工程を引く」。</p>",
+        "short_description": "<h3>スケジュール表。</h3>",
+        "example": "「工程表通り」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "5S",
+        "slug": "5s",
+        "body": "<h3>環境美化</h3><p>整理・整頓・清掃・清潔・躾（しつけ）の頭文字。</p>",
+        "short_description": "<h3>整理整頓。</h3>",
+        "example": "「5S活動」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "ヒヤリハット",
+        "slug": "hiyari-hatto",
+        "body": "<h3>危ない瞬間</h3><p>重大な事故にはならなかったが、ヒヤリとしたりハッとした事例。</p>",
+        "short_description": "<h3>事故の一歩手前。</h3>",
+        "example": "「ヒヤリハット報告」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "一服",
+        "slug": "ippuku",
+        "body": "<h3>休憩</h3><p>10時と15時にある小休憩。缶コーヒーを飲む至福の時間。</p>",
+        "short_description": "<h3>休憩。</h3>",
+        "example": "「そろそろ一服するか」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "デベロッパー",
+        "slug": "developer",
+        "body": "<h3>開発業者</h3><p>大規模な宅地開発やマンション開発を行う不動産会社。</p>",
+        "short_description": "<h3>開発業者。</h3>",
+        "example": "「大手デベロッパー」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "リース",
+        "slug": "lease",
+        "body": "<h3>レンタル</h3><p>重機やトラックなどを借りること。「建機リース」。</p>",
+        "short_description": "<h3>レンタル。</h3>",
+        "example": "「リース契約」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "産廃",
+        "slug": "sanpai",
+        "body": "<h3>産業廃棄物</h3><p>事業活動に伴って出るゴミ。普通に捨ててはいけない。</p>",
+        "short_description": "<h3>産業ゴミ。</h3>",
+        "example": "「産廃業者」"
+    },
+    {
+        "category_slug": "construction",
+        "scene_slugs": [
+            "construction"
+        ],
+        "title": "マニフェスト",
+        "slug": "manifest",
+        "body": "<h3>管理票</h3><p>産業廃棄物が正しく処分されたかを確認する伝票。選挙公約ではない。</p>",
+        "short_description": "<h3>ゴミ処理伝票。</h3>",
+        "example": "「マニフェスト交付」"
+    }
+]

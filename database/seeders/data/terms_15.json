@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "AI",
+        "slug": "ai",
+        "body": "<h3>人工知能</h3><p>Artificial Intelligence。人間のような知能を持つコンピュータシステム。</p>",
+        "short_description": "<h3>人工知能。</h3>",
+        "example": "「生成AI」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "IoT",
+        "slug": "iot",
+        "body": "<h3>モノのインターネット</h3><p>Internet of Things。家電や車など、あらゆるモノがネットに繋がること。</p>",
+        "short_description": "<h3>モノがネットに繋がる。</h3>",
+        "example": "「IoT家電」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "API",
+        "slug": "api",
+        "body": "<h3>連携窓口</h3><p>Application Programming Interface。ソフト同士をつなぐ窓口。「GoogleマップAPI」。</p>",
+        "short_description": "<h3>ソフトの連携口。</h3>",
+        "example": "「APIを叩く」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "AWS",
+        "slug": "aws",
+        "body": "<h3>アマゾンのクラウド</h3><p>Amazon Web Services。Amazonが提供するWebサーバーなどのインフラサービス。</p>",
+        "short_description": "<h3>Amazonのサーバー。</h3>",
+        "example": "「AWSで運用する」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "SaaS",
+        "slug": "saas",
+        "body": "<h3>サース</h3><p>Software as a Service。ネット経由で利用するソフト。GmailやSlackなど。</p>",
+        "short_description": "<h3>ネットで使うソフト。</h3>",
+        "example": "「SaaS企業」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "DX",
+        "slug": "dx",
+        "body": "<h3>デジタルトランスフォーメーション</h3><p>ITを使ってビジネスや生活を劇的に変革すること。単なるIT化とは違う。</p>",
+        "short_description": "<h3>ITで大改革。</h3>",
+        "example": "「DX推進」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "GUI",
+        "slug": "gui",
+        "body": "<h3>直感的な操作画面</h3><p>Graphical User Interface。マウスや指で操作できる画面。対義語はCUI（黒い画面）。</p>",
+        "short_description": "<h3>マウスで操作する画面。</h3>",
+        "example": "「GUIで設定する」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "IPアドレス",
+        "slug": "ip-address",
+        "body": "<h3>ネット上の住所</h3><p>PCやスマホに割り当てられる識別番号。「192.168.0.1」など。</p>",
+        "short_description": "<h3>ネットの住所。</h3>",
+        "example": "「IPを固定する」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "OSS",
+        "slug": "oss",
+        "body": "<h3>オープンソース</h3><p>Open Source Software。設計図（ソースコード）が公開され、誰でも無料で使えるソフト。</p>",
+        "short_description": "<h3>無料公開ソフト。</h3>",
+        "example": "「OSSを活用する」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "SEO",
+        "slug": "seo",
+        "body": "<h3>検索エンジン最適化</h3><p>Search Engine Optimization。Google検索で上位に表示させるための対策。</p>",
+        "short_description": "<h3>検索上位対策。</h3>",
+        "example": "「SEO対策」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "UI",
+        "slug": "ui",
+        "body": "<h3>ユーザーインターフェース</h3><p>ユーザーの目に触れる部分。画面デザインやボタンの配置など。</p>",
+        "short_description": "<h3>見た目や操作性。</h3>",
+        "example": "「UIが見にくい」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "UX",
+        "slug": "ux",
+        "body": "<h3>ユーザー体験</h3><p>User Experience。サービスを通して得られる体験や感動。「UXが良い」。</p>",
+        "short_description": "<h3>利用体験。</h3>",
+        "example": "「UXを設計する」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "VPN",
+        "slug": "vpn",
+        "body": "<h3>仮想専用線</h3><p>Virtual Private Network。ネット上に作る暗号化された安全なトンネル。</p>",
+        "short_description": "<h3>安全な通信回線。</h3>",
+        "example": "「VPNで接続する」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "VR",
+        "slug": "vr",
+        "body": "<h3>仮想現実</h3><p>Virtual Reality。ゴーグル等を掛けて、デジタルの世界に入り込む技術。</p>",
+        "short_description": "<h3>仮想現実。</h3>",
+        "example": "「VRゲーム」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "AR",
+        "slug": "ar",
+        "body": "<h3>拡張現実</h3><p>Augmented Reality。現実の風景にデジタル情報を重ねる技術。ポケモンGOなど。</p>",
+        "short_description": "<h3>拡張現実。</h3>",
+        "example": "「ARアプリ」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "アカウント",
+        "slug": "account",
+        "body": "<h3>会員権</h3><p>サービスを利用するための権利。IDとパスワードのセット。</p>",
+        "short_description": "<h3>会員ID。</h3>",
+        "example": "「アカウントを作る」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "アルゴリズム",
+        "slug": "algorithm",
+        "body": "<h3>計算手順</h3><p>問題を解決するための計算の手順やルール。YouTubeのおすすめ機能など。</p>",
+        "short_description": "<h3>計算のルール。</h3>",
+        "example": "「検索アルゴリズム」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "インストール",
+        "slug": "install",
+        "body": "<h3>導入</h3><p>ソフトをPCやスマホに入れて使える状態にすること。</p>",
+        "short_description": "<h3>ソフトを入れる。</h3>",
+        "example": "「アプリをインストール」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "インフラ",
+        "slug": "infrastructure",
+        "body": "<h3>基盤</h3><p>インフラストラクチャー。ITではサーバーやネットワークのこと。「Webインフラ」。</p>",
+        "short_description": "<h3>基盤設備。</h3>",
+        "example": "「インフラエンジニア」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ウイルス",
+        "slug": "virus",
+        "body": "<h3>悪性プログラム</h3><p>コンピュータに侵入して悪さをするプログラム。「マルウェア」とも。</p>",
+        "short_description": "<h3>悪いプログラム。</h3>",
+        "example": "「ウイルスに感染」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "エビデンス",
+        "slug": "evidence-it",
+        "body": "<h3>証拠</h3><p>テスト結果のスクリーンショットなど、動作したことの証明。</p>",
+        "short_description": "<h3>証拠画像。</h3>",
+        "example": "「テストエビデンス」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "オンプレミス",
+        "slug": "on-premise",
+        "body": "<h3>自社運用</h3><p>「オンプレ」。サーバーを自社内に置いて運用すること。クラウドの対義語。</p>",
+        "short_description": "<h3>自社サーバー。</h3>",
+        "example": "「オンプレからクラウドへ」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "キャッシュ",
+        "slug": "cache",
+        "body": "<h3>一時保存</h3><p>一度読み込んだデータを一時的に保存して、次回表示を速くする仕組み。「キャッシュクリア」。</p>",
+        "short_description": "<h3>一時保存データ。</h3>",
+        "example": "「キャッシュが残ってる」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "クラウド",
+        "slug": "cloud",
+        "body": "<h3>雲、ネット上のサービス</h3><p>ネット経由でサーバーやストレージを利用する形態。iCloudやAWSなど。</p>",
+        "short_description": "<h3>ネット上のサービス。</h3>",
+        "example": "「クラウドに保存」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "クッキー",
+        "slug": "cookie",
+        "body": "<h3>Cookie</h3><p>Webサイトがブラウザに保存する、ユーザー識別情報。「クッキーを有効にする」。</p>",
+        "short_description": "<h3>ブラウザの保存情報。</h3>",
+        "example": "「クッキーを削除」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "コミット",
+        "slug": "commit-it",
+        "body": "<h3>保存、確定</h3><p>Gitなどのバージョン管理ツールで、変更内容を記録すること。</p>",
+        "short_description": "<h3>変更を記録する。</h3>",
+        "example": "「コードをコミットする」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "サーバー",
+        "slug": "server",
+        "body": "<h3>提供者</h3><p>Webページやメールを表示・配信する高性能なコンピュータ。</p>",
+        "short_description": "<h3>データ提供コンピュータ。</h3>",
+        "example": "「サーバーがダウン」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "サブスクリプション",
+        "slug": "subscription",
+        "body": "<h3>定額制</h3><p>「サブスク」。月額料金を払って利用するサービス。Netflixなど。</p>",
+        "short_description": "<h3>定額制サービス。</h3>",
+        "example": "「音楽サブスク」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "サムネイル",
+        "slug": "thumbnail",
+        "body": "<h3>縮小画像</h3><p>中身を一目で表す小さな画像。YouTubeの動画一覧画像など。</p>",
+        "short_description": "<h3>見本画像。</h3>",
+        "example": "「サムネ詐欺」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "GAFA",
+        "slug": "gafa",
+        "body": "<h3>米巨大IT4社</h3><p>Google, Apple, Facebook(Meta), Amazonの総称。今はMが入ってGAMAMとも。</p>",
+        "short_description": "<h3>巨大IT企業群。</h3>",
+        "example": "「GAFAの支配」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ストレージ",
+        "slug": "storage",
+        "body": "<h3>保存場所</h3><p>データを保存する場所。HDD、SSD、クラウドストレージなど。</p>",
+        "short_description": "<h3>データ保存場所。</h3>",
+        "example": "「ストレージが一杯」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ソースコード",
+        "slug": "source-code",
+        "body": "<h3>プログラムの原文</h3><p>プログラミング言語で書かれた設計図。単に「ソース」とも。</p>",
+        "short_description": "<h3>プログラムの中身。</h3>",
+        "example": "「ソースを見る」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "デバイス",
+        "slug": "device",
+        "body": "<h3>端末・機器</h3><p>スマホ、PC、タブレットなどの端末のこと。</p>",
+        "short_description": "<h3>端末。</h3>",
+        "example": "「デバイスを探す」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "テレワーク",
+        "slug": "telework",
+        "body": "<h3>遠隔勤務</h3><p>オフィスから離れて仕事をすること。リモートワークとほぼ同義。</p>",
+        "short_description": "<h3>在宅勤務など。</h3>",
+        "example": "「テレワーク推奨」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ドメイン",
+        "slug": "domain",
+        "body": "<h3>ネット上の住所表記</h3><p>URLの「yahoo.co.jp」の部分。インターネット上の住所。</p>",
+        "short_description": "<h3>URLの一部。</h3>",
+        "example": "「独自ドメイン」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "バグ",
+        "slug": "bug",
+        "body": "<h3>不具合</h3><p>プログラムの誤りや欠陥。虫（Bug）が語源。</p>",
+        "short_description": "<h3>不具合、エラー。</h3>",
+        "example": "「バグ修正」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ハッカー",
+        "slug": "hacker",
+        "body": "<h3>技術者</h3><p>本来は「高い技術力を持つ人」。悪いことをするのは「クラッカー」だが、混同されている。</p>",
+        "short_description": "<h3>凄腕エンジニア。</h3>",
+        "example": "「ホワイトハッカー」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ビッグデータ",
+        "slug": "big-data",
+        "body": "<h3>巨大データ群</h3><p>人間では扱いきれないほどの膨大なデータ。AI解析などに使われる。</p>",
+        "short_description": "<h3>膨大なデータ。</h3>",
+        "example": "「ビッグデータ活用」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "フィッシング",
+        "slug": "phishing",
+        "body": "<h3>詐欺</h3><p>偽サイトに誘導してパスワードなどを盗む詐欺。「釣り（Fishing）」ではない。</p>",
+        "short_description": "<h3>ネット詐欺。</h3>",
+        "example": "「フィッシングメール」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "プラットフォーム",
+        "slug": "platform",
+        "body": "<h3>基盤環境</h3><p>サービスを動かす土台。iOS、Android、Windows、LINEなど。</p>",
+        "short_description": "<h3>土台となる環境。</h3>",
+        "example": "「プラットフォーマー」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "プロトコル",
+        "slug": "protocol",
+        "body": "<h3>通信規約</h3><p>通信をするためのルール。HTTPやIPなど。</p>",
+        "short_description": "<h3>通信のルール。</h3>",
+        "example": "「通信プロトコル」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ブロックチェーン",
+        "slug": "blockchain",
+        "body": "<h3>分散型台帳</h3><p>ビットコインの基盤技術。改ざんが非常に困難なデータの記録技術。</p>",
+        "short_description": "<h3>仮想通貨の技術。</h3>",
+        "example": "「ブロックチェーン技術」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "メタバース",
+        "slug": "metaverse",
+        "body": "<h3>仮想空間</h3><p>インターネット上に構築された3次元の仮想空間。アバターで交流する。</p>",
+        "short_description": "<h3>3D仮想空間。</h3>",
+        "example": "「メタバース参入」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ユーザー",
+        "slug": "user",
+        "body": "<h3>利用者</h3><p>そのサービスや製品を使う人。</p>",
+        "short_description": "<h3>利用者。</h3>",
+        "example": "「ユーザー目線」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "リテラシー",
+        "slug": "literacy",
+        "body": "<h3>活用能力</h3><p>読み書き能力が語源。情報を正しく理解し活用する能力。「ITリテラシー」。</p>",
+        "short_description": "<h3>使いこなす能力。</h3>",
+        "example": "「リテラシーが低い」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "リモートワーク",
+        "slug": "remote-work",
+        "body": "<h3>遠隔勤務</h3><p>会社に行かずに自宅やカフェで仕事をすること。</p>",
+        "short_description": "<h3>場所を選ばない働き方。</h3>",
+        "example": "「リモートワーク普及」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ログイン",
+        "slug": "login",
+        "body": "<h3>認証して入る</h3><p>IDとパスワードを使って、サービスを使える状態にすること。</p>",
+        "short_description": "<h3>認証。</h3>",
+        "example": "「ログインできない」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "ログアウト",
+        "slug": "logout",
+        "body": "<h3>終了して出る</h3><p>サービスの利用を終了し、接続を切ること。</p>",
+        "short_description": "<h3>終了。</h3>",
+        "example": "「必ずログアウトする」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "Wi-Fi",
+        "slug": "wifi",
+        "body": "<h3>無線LAN</h3><p>無線でインターネットに繋ぐ技術。ワイファイ。</p>",
+        "short_description": "<h3>無線ネット。</h3>",
+        "example": "「フリーWi-Fi」"
+    },
+    {
+        "category_slug": "it",
+        "scene_slugs": [
+            "it-industry"
+        ],
+        "title": "5G",
+        "slug": "5g",
+        "body": "<h3>第5世代移動通信</h3><p>超高速・低遅延・多数同時接続が特徴の新しい通信規格。</p>",
+        "short_description": "<h3>超高速通信。</h3>",
+        "example": "「5G対応スマホ」"
+    }
+]

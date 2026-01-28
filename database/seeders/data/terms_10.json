@@ -1,0 +1,508 @@
+[
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "オルタナティブ",
+        "slug": "alternative",
+        "body": "<h3>代替案</h3><p>代わりになるもの。「二者択一」の意味でも使われる。</p>",
+        "short_description": "<h3>代わりの案。</h3>",
+        "example": "「オルタナティブを示す」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アジェンダ",
+        "slug": "agenda",
+        "body": "<h3>議題、行動計画</h3><p>会議で話し合う項目の一覧。「今日のアジェンダを確認します」と最初に言う。</p>",
+        "short_description": "<h3>会議の議題。</h3>",
+        "example": "「アジェンダを作成する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "エビデンス",
+        "slug": "evidence",
+        "body": "<h3>証拠、根拠</h3><p>言ったことの裏付け。「エビデンスあるの？」と詰められるのに使う。</p>",
+        "short_description": "<h3>証拠。根拠。</h3>",
+        "example": "「エビデンスを残しておく」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンセンサス",
+        "slug": "consensus",
+        "body": "<h3>合意</h3><p>関係者の同意を得ること。「コンセンサスを取る」＝「根回しして合意を得る」。</p>",
+        "short_description": "<h3>みんなの合意。</h3>",
+        "example": "「事前にコンセンサスを取っておく」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ペンディング",
+        "slug": "pending",
+        "body": "<h3>保留、先送り</h3><p>今は決めずに後回しにすること。「この件は一旦ペンディングで」。</p>",
+        "short_description": "<h3>保留。</h3>",
+        "example": "「予算不足でペンディングになった」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バッファ",
+        "slug": "buffer",
+        "body": "<h3>余裕、緩衝</h3><p>スケジュールや予算に持たせる余裕のこと。「バッファを見ておく」＝「予備日を設ける」。</p>",
+        "short_description": "<h3>余裕を持たせること。</h3>",
+        "example": "「納期にバッファを設ける」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "タイト",
+        "slug": "tight",
+        "body": "<h3>きつい、余裕がない</h3><p>スケジュールなどが厳しいこと。「タイトなスケジュール」。</p>",
+        "short_description": "<h3>カツカツで余裕がない。</h3>",
+        "example": "「今週は予定がタイトだ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アライアンス",
+        "slug": "alliance",
+        "body": "<h3>提携、同盟</h3><p>他の企業と協力関係を結ぶこと。</p>",
+        "short_description": "<h3>企業同士の提携。</h3>",
+        "example": "「業務提携アライアンスを結ぶ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィードフォワード",
+        "slug": "feedforward",
+        "body": "<h3>未来に向けた提言</h3><p>過去のダメ出し（フィードバック）ではなく、未来の解決策を提案すること。</p>",
+        "short_description": "<h3>未来志向のアドバイス。</h3>",
+        "example": "「フィードバックよりフィードフォワードを意識しよう」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "メンティー",
+        "slug": "mentee",
+        "body": "<h3>指導を受ける人</h3><p>メンター（指導者）から教えを受ける新人など。</p>",
+        "short_description": "<h3>教わる側の人。</h3>",
+        "example": "「メンティーの成長を見守る」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "キックオフ",
+        "slug": "kickoff",
+        "body": "<h3>開始</h3><p>プロジェクトの開始時に行う決起集会。「キックオフミーティング」。</p>",
+        "short_description": "<h3>プロジェクトの開始。</h3>",
+        "example": "「来週キックオフを開催する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ボトルネック",
+        "slug": "bottleneck",
+        "body": "<h3>滞りの原因</h3><p>全体の中で一番流れが悪く、足を引っ張っている部分。</p>",
+        "short_description": "<h3>進行を妨げる詰まり。</h3>",
+        "example": "「承認フローがこの案件のボトルネックだ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ブレスト",
+        "slug": "brainstorming",
+        "body": "<h3>ブレインストーミング</h3><p>みんなで自由にアイデアを出し合うこと。批判禁止がルール。</p>",
+        "short_description": "<h3>アイデア出し会議。</h3>",
+        "example": "「企画のブレストをしよう」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アイスブレイク",
+        "slug": "icebreak",
+        "body": "<h3>緊張ほぐし</h3><p>会議や研修の冒頭で話す、場を和ませるための雑談。</p>",
+        "short_description": "<h3>最初の雑談。</h3>",
+        "example": "「アイスブレイクで場の空気を温める」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンテクスト",
+        "slug": "context",
+        "body": "<h3>文脈、背景</h3><p>言葉の裏にある背景知識や共有すべき前提。「ハイコンテクスト」は「言わなくても分かる」文化。</p>",
+        "short_description": "<h3>文脈や背景。</h3>",
+        "example": "「文脈（コンテクスト）を読んで」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "パラレル",
+        "slug": "parallel",
+        "body": "<h3>並行して</h3><p>複数のタスクを同時に進めること。「パラで動く」。</p>",
+        "short_description": "<h3>同時に進めること。</h3>",
+        "example": "「A案とB案をパラレルで検討する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バイアス",
+        "slug": "bias",
+        "body": "<h3>偏見、先入観</h3><p>偏った見方のこと。「確証バイアス」など。</p>",
+        "short_description": "<h3>偏見。思い込み。</h3>",
+        "example": "「バイアスがかかっている」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フラット",
+        "slug": "flat",
+        "body": "<h3>対等、公平</h3><p>上下関係なく意見を言い合える状態。または感情を入れずに冷静な状態。</p>",
+        "short_description": "<h3>対等。冷静。</h3>",
+        "example": "「フラットな組織」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "リスケ",
+        "slug": "reschedule",
+        "body": "<h3>日程変更</h3><p>Reschedule。「リスケお願いします」は日常茶飯事。</p>",
+        "short_description": "<h3>予定の変更。</h3>",
+        "example": "「会議をリスケする」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アポ",
+        "slug": "appointment",
+        "body": "<h3>予約、約束</h3><p>Appointment。「テレアポ」は電話で約束を取り付けること。</p>",
+        "short_description": "<h3>約束。</h3>",
+        "example": "「明日の14時にアポが入っている」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "NR",
+        "slug": "nr",
+        "body": "<h3>ノーリターン</h3><p>No Return。外出先から会社に戻らず、そのまま帰宅すること。「直帰」。</p>",
+        "short_description": "<h3>直帰すること。</h3>",
+        "example": "「今日は営業先からNRします」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "GS",
+        "slug": "gs",
+        "body": "<h3>行ってきます</h3><p>Go Startの略？（和製英語説あり）。チャットなどで「GS（外出します）」と使う会社もある。</p>",
+        "short_description": "<h3>外出します。</h3>",
+        "example": "「13:00 GS」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "FYI",
+        "slug": "fyi",
+        "body": "<h3>ご参考までに</h3><p>For Your Information。メールの転送時などに使う。「参考情報です」の意味。</p>",
+        "short_description": "<h3>参考までに。</h3>",
+        "example": "「FYI: 競合のニュース」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "TBD",
+        "slug": "tbd",
+        "body": "<h3>未定</h3><p>To Be Determined。後ほど決定します、という意味。「場所：TBD」など。</p>",
+        "short_description": "<h3>あとで決める。</h3>",
+        "example": "「詳細はTBDで」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "WFH",
+        "slug": "wfh",
+        "body": "<h3>在宅勤務</h3><p>Work From Home。リモートワークのこと。</p>",
+        "short_description": "<h3>在宅ワーク。</h3>",
+        "example": "「明日はWFHします」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "BtoB",
+        "slug": "btob",
+        "body": "<h3>企業対企業</h3><p>Business to Business。法人向けのビジネス。</p>",
+        "short_description": "<h3>法人向けビジネス。</h3>",
+        "example": "「BtoBマーケティング」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "BtoC",
+        "slug": "btoc",
+        "body": "<h3>企業対消費者</h3><p>Business to Consumer。一般消費者向けのビジネス。</p>",
+        "short_description": "<h3>一般向けビジネス。</h3>",
+        "example": "「BtoCは感情に訴える」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "CtoC",
+        "slug": "ctoc",
+        "body": "<h3>個人間取引</h3><p>Consumer to Consumer。メルカリやヤフオクなど、個人同士の売買。</p>",
+        "short_description": "<h3>個人間の売買。</h3>",
+        "example": "「CtoCプラットフォーム」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "IPO",
+        "slug": "ipo",
+        "body": "<h3>新規株式公開</h3><p>Initial Public Offering。未上場企業が株を売り出して上場すること。</p>",
+        "short_description": "<h3>上場すること。</h3>",
+        "example": "「IPOを目指すスタートアップ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "M&A",
+        "slug": "ma",
+        "body": "<h3>合併・買収</h3><p>Mergers and Acquisitions。会社を買ったり合併したりすること。</p>",
+        "short_description": "<h3>会社の売買。</h3>",
+        "example": "「M&Aで事業拡大」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "CSR",
+        "slug": "csr",
+        "body": "<h3>企業の社会的責任</h3><p>Corporate Social Responsibility。ボランティアや環境保護など、利益以外の社会貢献活動。</p>",
+        "short_description": "<h3>企業の社会貢献。</h3>",
+        "example": "「CSR活動の一環」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "SDGs",
+        "slug": "sdgs",
+        "body": "<h3>持続可能な開発目標</h3><p>世界中で取り組むべき17の目標。カラフルなバッジをつけてるおじさんが多い。</p>",
+        "short_description": "<h3>サステナブルな目標。</h3>",
+        "example": "「SDGsバッジをつける」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンサル",
+        "slug": "consultant",
+        "body": "<h3>相談役</h3><p>コンサルタント。企業の経営課題を解決するアドバイザー。高い。</p>",
+        "short_description": "<h3>経営の先生。</h3>",
+        "example": "「コンサルを入れる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "インバウンド",
+        "slug": "inbound",
+        "body": "<h3>訪日外国人、または内向き</h3><p>海外から来る観光客のこと。ビジネスでは「顧客から問い合わせが来る」営業スタイルの意味もある。</p>",
+        "short_description": "<h3>外国人観光客。</h3>",
+        "example": "「インバウンド需要が回復」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アウトバウンド",
+        "slug": "outbound",
+        "body": "<h3>海外旅行、または外向き</h3><p>日本から海外へ行くこと。ビジネスでは「こちらから電話をかける」テレアポなどの営業スタイル。</p>",
+        "short_description": "<h3>自分から攻める営業。</h3>",
+        "example": "「アウトバウンドコール」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "クロスメディア",
+        "slug": "crossmedia",
+        "body": "<h3>複数媒体の連携</h3><p>TV、Web、SNSなど、複数のメディアを組み合わせて宣伝すること。「続きはWebで」。</p>",
+        "short_description": "<h3>メディアミックス。</h3>",
+        "example": "「クロスメディア戦略」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "オウンドメディア",
+        "slug": "ownedmedia",
+        "body": "<h3>自社媒体</h3><p>企業が自分で運営するブログやWebマガジンのこと。</p>",
+        "short_description": "<h3>自社のブログやサイト。</h3>",
+        "example": "「オウンドメディアで集客する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "アーリーアダプター",
+        "slug": "earlyadapter",
+        "body": "<h3>初期採用層</h3><p>新しい商品を早いうちから飛びついて買う流行に敏感な人たち。</p>",
+        "short_description": "<h3>流行りもの好き。</h3>",
+        "example": "「アーリーアダプターを取り込む」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "キャッチアップ",
+        "slug": "catchup",
+        "body": "<h3>追いつく</h3><p>遅れを取り戻すこと。新しい知識を勉強して追いつくこと。</p>",
+        "short_description": "<h3>追いつくこと。勉強。</h3>",
+        "example": "「最新技術をキャッチアップする」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ドライブ",
+        "slug": "drive",
+        "body": "<h3>推進する</h3><p>物事をぐいぐい前に進めること。「このプロジェクトをドライブしてくれ」。</p>",
+        "short_description": "<h3>推進すること。</h3>",
+        "example": "「リーダーがドライブする」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ドキュメント",
+        "slug": "document",
+        "body": "<h3>文書、資料</h3><p>仕様書や設計書、議事録などのこと。「ドキュメント残して」＝「資料に書いておいて」。</p>",
+        "short_description": "<h3>資料。書類。</h3>",
+        "example": "「ドキュメント管理」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ノウハウ",
+        "slug": "knowhow",
+        "body": "<h3>知識、秘訣</h3><p>物事をうまくやるための知恵や技術。</p>",
+        "short_description": "<h3>役立つ知識。</h3>",
+        "example": "「ノウハウを蓄積する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィジカル",
+        "slug": "physical",
+        "body": "<h3>物理的、身体的</h3><p>肉体のこと。「フィジカルが強い」＝「体力がすごい」。ITでは「物理サーバー」の意味でも使う。</p>",
+        "short_description": "<h3>肉体。物理。</h3>",
+        "example": "「最後はフィジカル勝負」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "メンタル",
+        "slug": "mental",
+        "body": "<h3>精神</h3><p>精神力のこと。「メンタルヘルス」は心の健康。</p>",
+        "short_description": "<h3>心。精神力。</h3>",
+        "example": "「メンタルをやられる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "モチベーション",
+        "slug": "motivation",
+        "body": "<h3>やる気</h3><p>動機づけ。「モチベ」と略す。</p>",
+        "short_description": "<h3>やる気。</h3>",
+        "example": "「モチベが上がらない」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "リスクヘッジ",
+        "slug": "riskhedge",
+        "body": "<h3>危険回避</h3><p>予測されるリスクに備えて、対策を打っておくこと。</p>",
+        "short_description": "<h3>リスクへの備え。</h3>",
+        "example": "「リスクヘッジしておく」"
+    }
+]

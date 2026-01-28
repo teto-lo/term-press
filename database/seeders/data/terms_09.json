@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "沸いた",
+        "slug": "waita",
+        "body": "<h3>テンション上がった</h3><p>興奮した、嬉しかったという意味。「推しの供給で沸いた」など。</p>",
+        "short_description": "<h3>最高！興奮した！</h3>",
+        "example": "「ライブ当選して沸いた」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "しんどい",
+        "slug": "shindoi",
+        "body": "<h3>好きすぎて辛い</h3><p>本来の意味（疲れた）ではなく、オタク用語では「尊すぎて息ができない」こと。</p>",
+        "short_description": "<h3>尊すぎて辛い。</h3>",
+        "example": "「今週の展開しんどい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "優勝",
+        "slug": "yusho",
+        "body": "<h3>一番いい</h3><p>何かをして最高の結果になったこと。「深夜のラーメン優勝」＝「深夜に食べるラーメン最高」。</p>",
+        "short_description": "<h3>最高の結果。勝ち。</h3>",
+        "example": "「推しのビジュが優勝してる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "飛ぶ",
+        "slug": "tobu",
+        "body": "<h3>いなくなる、連絡が取れなくなる</h3><p>約束をすっぽかしたり、バイトをバックレたりして音信普通になること。</p>",
+        "short_description": "<h3>バックレること。</h3>",
+        "example": "「新人が初日で飛んだ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "かまちょ",
+        "slug": "kamacho",
+        "body": "<h3>かまってちょうだい</h3><p>誰かに相手をしてほしい寂しがり屋な状態。</p>",
+        "short_description": "<h3>かまってほしい。</h3>",
+        "example": "「深夜のかまちょツイート」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "陽キャ",
+        "slug": "yokya",
+        "body": "<h3>陽気なキャラクター</h3><p>スクールカースト上位の、明るくてイケイケな人たち。</p>",
+        "short_description": "<h3>イケイケな人。</h3>",
+        "example": "「陽キャのノリについていけない」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "陰キャ",
+        "slug": "inkya",
+        "body": "<h3>陰気なキャラクター</h3><p>大人しくて地味な人たち。ネット弁慶なことも多い。</p>",
+        "short_description": "<h3>地味で大人しい人。</h3>",
+        "example": "「陰キャ同士で固まる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "マウント",
+        "slug": "mount",
+        "body": "<h3>優位性をアピール</h3><p>マウンティング。自分が相手より上だと誇示する行為。「マウントを取る」。</p>",
+        "short_description": "<h3>自慢して見下すこと。</h3>",
+        "example": "「学歴マウントやめて」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "スパダリ",
+        "slug": "supadari",
+        "body": "<h3>スーパーダーリン</h3><p>容姿端麗、高身長、高収入、性格良しなど、完璧なスペックを持つ彼氏のこと。主にBL界隈で使われる。</p>",
+        "short_description": "<h3>完璧な彼氏。</h3>",
+        "example": "「推しカプの攻めがスパダリすぎる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "バブみ",
+        "slug": "babumi",
+        "body": "<h3>母性を感じる</h3><p>年下のキャラなどが、母性をくすぐるような可愛さを持っていること。または逆に年上キャラに甘えたいときにも使う（バブみを感じる＝ママみを感じる）。用法が混乱している。</p>",
+        "short_description": "<h3>赤ちゃんみたいな可愛さ、または母性。</h3>",
+        "example": "「あの子バブみ強い」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "オキニ",
+        "slug": "okini",
+        "body": "<h3>お気に入り</h3><p>推しにとってのお気に入りファン、または自分が気に入っている推しのこと。</p>",
+        "short_description": "<h3>お気に入り。</h3>",
+        "example": "「認知されてオキニになりたい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "いつメン",
+        "slug": "itsumen",
+        "body": "<h3>いつものメンバー</h3><p>いつも一緒にいる仲良しグループ。</p>",
+        "short_description": "<h3>いつもの仲間。</h3>",
+        "example": "「放課後いつメンで遊ぶ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "メンブレ",
+        "slug": "menbure",
+        "body": "<h3>メンタルブレイク</h3><p>精神的にやられて落ち込んでいる状態。</p>",
+        "short_description": "<h3>精神崩壊。病んでる。</h3>",
+        "example": "「失敗してメンブレ中」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "豆腐メンタル",
+        "slug": "tofumental",
+        "body": "<h3>弱い精神力</h3><p>豆腐のように崩れやすいメンタルのこと。</p>",
+        "short_description": "<h3>すぐ傷つく心。</h3>",
+        "example": "「豆腐メンタルだから優しくして」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "ボッチ",
+        "slug": "bocchi",
+        "body": "<h3>ひとりぼっち</h3><p>友達がいなくて一人でいること。</p>",
+        "short_description": "<h3>ひとり。</h3>",
+        "example": "「ボッチ飯が一番気楽」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "エモい",
+        "slug": "emoi",
+        "body": "<h3>感情的、情緒的</h3><p>Emotionalが語源。「懐かしい」「切ない」「感動的」など、なんとも言えない良い雰囲気。</p>",
+        "short_description": "<h3>なんとも言えない良さ。</h3>",
+        "example": "「夕焼けがエモい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "チル",
+        "slug": "chill",
+        "body": "<h3>くつろぐ</h3><p>Chill out。まったりとリラックスして過ごすこと。</p>",
+        "short_description": "<h3>まったりする。</h3>",
+        "example": "「カフェでチルする」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ディスる",
+        "slug": "disuru",
+        "body": "<h3>侮辱する</h3><p>Disrespect（尊敬しない）の略。悪口を言うこと。</p>",
+        "short_description": "<h3>悪口を言う。</h3>",
+        "example": "「先輩をディスるな」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "領域展開",
+        "slug": "ryoikitenkai",
+        "body": "<h3>自分の世界を作る</h3><p>呪術廻戦の技。自分の得意な空間や雰囲気を作り出すこと。</p>",
+        "short_description": "<h3>自分の世界にする。</h3>",
+        "example": "「カラオケで領域展開した」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "港区女子",
+        "slug": "minatokujoshi",
+        "body": "<h3>ハイスペック狙いの女子</h3><p>東京の港区（六本木や麻布）で夜遊びし、金持ち男性と繋がりを持つキラキラ系女子。</p>",
+        "short_description": "<h3>港区で遊ぶキラキラ女子。</h3>",
+        "example": "「港区女子のインスタは眩しい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "パパ活",
+        "slug": "papakatsu",
+        "body": "<h3>年上男性との交際</h3><p>経済的援助をしてくれる年上の男性（パパ）を探して、食事やデートをする活動。</p>",
+        "short_description": "<h3>お小遣い稼ぎデート。</h3>",
+        "example": "「パパ活女子が増えている」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "垢抜け",
+        "slug": "akanuke",
+        "body": "<h3>洗練された</h3><p>おしゃれになって野暮ったさがなくなること。</p>",
+        "short_description": "<h3>可愛くなること。</h3>",
+        "example": "「大学入って垢抜けたね」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "イエベ",
+        "slug": "yebe",
+        "body": "<h3>イエローベース</h3><p>パーソナルカラー診断で、肌の色が黄色寄りの人。「イエベ春」「イエベ秋」がある。</p>",
+        "short_description": "<h3>黄みがかった肌色タイプ。</h3>",
+        "example": "「イエベに似合うリップ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ブルベ",
+        "slug": "burube",
+        "body": "<h3>ブルーベース</h3><p>パーソナルカラー診断で、肌の色が青色寄りの人。「ブルベ夏」「ブルベ冬」がある。</p>",
+        "short_description": "<h3>青みがかった肌色タイプ。</h3>",
+        "example": "「私はブルベ冬です」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "骨格ストレート",
+        "slug": "kokkaku-straight",
+        "body": "<h3>メリハリボディ</h3><p>骨格診断のタイプの一つ。体に厚みがあり、筋肉がつきやすい体型。「骨スト」とも。</p>",
+        "short_description": "<h3>メリハリのある体型。</h3>",
+        "example": "「骨ストだからタートルネックが似合わない」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "骨格ウェーブ",
+        "slug": "kokkaku-wave",
+        "body": "<h3>華奢なボディ</h3><p>骨格診断のタイプの一つ。上半身が薄く、下半身に重心がある体型。</p>",
+        "short_description": "<h3>華奢で曲線的な体型。</h3>",
+        "example": "「骨格ウェーブ優勝服」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "骨格ナチュラル",
+        "slug": "kokkaku-natural",
+        "body": "<h3>フレーム感のあるボディ</h3><p>骨格診断のタイプの一つ。骨や関節がしっかりしていて、モデルのような体型。</p>",
+        "short_description": "<h3>骨格しっかりモデル体型。</h3>",
+        "example": "「骨格ナチュラルはオーバーサイズが似合う」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "アサイーボウル",
+        "slug": "acaibowl",
+        "body": "<h3>おしゃれ朝食</h3><p>ハワイ発祥のスーパーフード「アサイー」を使ったスイーツ。映えるので女子に人気。</p>",
+        "short_description": "<h3>映えるヘルシーボウル。</h3>",
+        "example": "「アサイーボウル食べに行く」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "10円パン",
+        "slug": "10yenpan",
+        "body": "<h3>10円硬貨の形のパン</h3><p>韓国発祥のスイーツ。中にチーズが入っていて伸びるのが映える。</p>",
+        "short_description": "<h3>巨大な10円玉パン。</h3>",
+        "example": "「10円パン食べた」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "ヌン活",
+        "slug": "nunkatsu",
+        "body": "<h3>アフタヌーンティー活動</h3><p>ホテルのアフタヌーンティーに行って優雅な時間を過ごすこと。</p>",
+        "short_description": "<h3>優雅なお茶会活動。</h3>",
+        "example": "「週末はヌン活」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "サ活",
+        "slug": "sakatsu",
+        "body": "<h3>サウナ活動</h3><p>サウナに入って「ととのう」ことを目的に通うこと。</p>",
+        "short_description": "<h3>サウナに通うこと。</h3>",
+        "example": "「仕事終わりのサ活が生きがい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "MBTI",
+        "slug": "mbti",
+        "body": "<h3>性格診断テスト</h3><p>16種類の性格タイプに分類する診断。「INFP」などのアルファベット4文字で表される。自己紹介の定番。</p>",
+        "short_description": "<h3>16タイプの性格診断。</h3>",
+        "example": "「MBTI何だった？」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "スパチャ",
+        "slug": "superchat",
+        "body": "<h3>投げ銭</h3><p>YouTubeのSuper Chat機能。配信者にお金を送ること。「赤スパ」は高額（1万円以上）。</p>",
+        "short_description": "<h3>Youtubeの投げ銭。</h3>",
+        "example": "「推しの誕生日に赤スパ投げた」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "カースト",
+        "slug": "caste",
+        "body": "<h3>階級制度</h3><p>スクールカースト。クラス内での人気の序列。</p>",
+        "short_description": "<h3>クラス内の序列。</h3>",
+        "example": "「カースト最下位の日常」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "裏垢",
+        "slug": "uraaka",
+        "body": "<h3>裏アカウント</h3><p>本音や愚痴を吐き出すための秘密のアカウント。</p>",
+        "short_description": "<h3>秘密のサブ垢。</h3>",
+        "example": "「裏垢でストレス発散」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "本垢",
+        "slug": "honaka",
+        "body": "<h3>メインアカウント</h3><p>リアルな友達と繋がっている表向きのアカウント。</p>",
+        "short_description": "<h3>メインのアカウント。</h3>",
+        "example": "「本垢と間違えて投稿した」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "title": "じわる",
+        "slug": "jiwaru",
+        "body": "<h3>じわじわくる</h3><p>後から思い出し笑いをしてしまうような、じわじわと来る面白さ。</p>",
+        "short_description": "<h3>後から笑えてくる。</h3>",
+        "example": "「その顔じわる」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "草",
+        "slug": "kusa",
+        "body": "<h3>笑い</h3><p>「www」が草に見えることから。今は口頭でも「それは草」と言う。</p>",
+        "short_description": "<h3>笑える。ウケる。</h3>",
+        "example": "「大草原」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "乙",
+        "slug": "otsu-2",
+        "body": "<h3>お疲れ様</h3><p>ネットスラングだが、若者言葉としても定着。</p>",
+        "short_description": "<h3>おつかれ。</h3>",
+        "example": "「バイト乙」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "詰む",
+        "slug": "tsumu",
+        "body": "<h3>行き詰まる</h3><p>解決策がなくなること。</p>",
+        "short_description": "<h3>終わった。手詰まり。</h3>",
+        "example": "「課題終わらなくて詰んだ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "リア充",
+        "slug": "riaju",
+        "body": "<h3>リアルが充実している人</h3><p>恋人がいたりして私生活が充実している人。爆発しろと言われる運命。</p>",
+        "short_description": "<h3>リアルが充実してる人。</h3>",
+        "example": "「リア充爆発しろ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "非リア",
+        "slug": "hiria",
+        "body": "<h3>非リア充</h3><p>リア充の逆。恋人がいない、友達が少ないなど。</p>",
+        "short_description": "<h3>リア充じゃない人。</h3>",
+        "example": "「非リアのクリスマス会」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "オタ活",
+        "slug": "otakatsu",
+        "body": "<h3>オタク活動</h3><p>推し活とほぼ同じ。アニメを見たりイベントに行ったりすること。</p>",
+        "short_description": "<h3>オタク活動。</h3>",
+        "example": "「週末はオタ活で忙しい」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "切り抜き",
+        "slug": "kirinuki",
+        "body": "<h3>ダイジェスト動画</h3><p>長い配信の見どころだけを短く編集した動画。</p>",
+        "short_description": "<h3>配信のダイジェスト。</h3>",
+        "example": "「切り抜き見てファンになった」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "ショート",
+        "slug": "short-video",
+        "body": "<h3>短編動画</h3><p>YouTube ShortsやTikTokなどの縦型短尺動画。</p>",
+        "short_description": "<h3>短い縦動画。</h3>",
+        "example": "「ショート無限に見ちゃう」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "リポスト",
+        "slug": "repost",
+        "body": "<h3>再投稿</h3><p>Twitterのリツイート（RT）のこと。Xになって名称が変わった。</p>",
+        "short_description": "<h3>拡散すること。</h3>",
+        "example": "「面白いからリポストした」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "インフルエンサー",
+        "slug": "influencer",
+        "body": "<h3>影響力のある人</h3><p>SNSで多くのフォロワーを持ち、流行を発信する人。</p>",
+        "short_description": "<h3>影響力がある有名人。</h3>",
+        "example": "「憧れのインフルエンサー」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "PR",
+        "slug": "pr",
+        "body": "<h3>企業案件</h3><p>企業からお金をもらって商品を紹介すること。</p>",
+        "short_description": "<h3>宣伝。</h3>",
+        "example": "「これPR案件かよ」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "sns"
+        ],
+        "title": "サブスク",
+        "slug": "subscription",
+        "body": "<h3>定額制サービス</h3><p>Subscription。NetflixやSpotifyなど、月額課金で見放題・聴き放題のサービス。</p>",
+        "short_description": "<h3>定額使い放題。</h3>",
+        "example": "「サブスク貧乏」"
+    },
+    {
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok"
+        ],
+        "title": "Y2K",
+        "slug": "y2k",
+        "body": "<h3>2000年代ファッション</h3><p>Year 2000。2000年頃に流行ったルーズソックスやミニスカートなどのリバイバルブーム。</p>",
+        "short_description": "<h3>2000年代ギャルファッション。</h3>",
+        "example": "「Y2Kファッションが激アツ」"
+    }
+]

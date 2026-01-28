@@ -1,0 +1,222 @@
+[
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "モブ",
+        "slug": "mob",
+        "body": "<h3>雑魚キャラ</h3><p>Mobile Objectの略。背景にいる群衆や、名前のない敵キャラのこと。</p>",
+        "short_description": "<h3>その他大勢。</h3>",
+        "example": "「モブキャラ扱いされた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "NPC",
+        "slug": "npc",
+        "body": "<h3>ノンプレイヤーキャラクター</h3><p>プレイヤーが操作しないキャラクター。村人など。最近は「考えずに周りに合わせて動く人」の悪口としても使われる。</p>",
+        "short_description": "<h3>村人。自分で考えない人。</h3>",
+        "example": "「あいつNPCみたいな反応しかしない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "デバフ",
+        "slug": "debuff",
+        "body": "<h3>能力ダウン</h3><p>攻撃力や防御力が下がった状態。バフの逆。</p>",
+        "short_description": "<h3>弱体化すること。</h3>",
+        "example": "「デバフくらって動けない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "チート",
+        "slug": "cheat",
+        "body": "<h3>不正行為、詐欺</h3><p>ゲームのデータを改造して無敵になったりすること。転じて「強すぎてズルい」という意味でも使う。</p>",
+        "short_description": "<h3>イカサマ。強すぎること。</h3>",
+        "example": "「その能力はチートすぎる」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ロム",
+        "slug": "rom-game",
+        "body": "<h3>Read Only Memory</h3><p>ゲームのカセットやデータのこと。「ロムハック」など。</p>",
+        "short_description": "<h3>ゲームデータ。</h3>",
+        "example": "「ロム解析」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "カンスト",
+        "slug": "kanst",
+        "body": "<h3>カウンターストップ</h3><p>レベルや所持金が上限に達すること。</p>",
+        "short_description": "<h3>上限MAXになること。</h3>",
+        "example": "「レベルカンストした」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "エンカ",
+        "slug": "enka",
+        "body": "<h3>遭遇</h3><p>エンカウント（Encounter）の略。敵に出会うこと。オフ会で会うことも指す。</p>",
+        "short_description": "<h3>会うこと。</h3>",
+        "example": "「街でリア友とエンカした」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "クラン",
+        "slug": "clan",
+        "body": "<h3>チーム</h3><p>ゲーム内でのチームやギルドのこと。</p>",
+        "short_description": "<h3>ゲーム内のチーム。</h3>",
+        "example": "「クラン戦募集」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ピン",
+        "slug": "ping",
+        "body": "<h3>位置報告、または応答速度</h3><p>「ここに敵がいる」とマークをつけること（Pingを打つ）。または通信速度（Ping値）のこと。</p>",
+        "short_description": "<h3>合図。または回線速度。</h3>",
+        "example": "「敵の位置にピン・刺して」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ULT",
+        "slug": "ult",
+        "body": "<h3>必殺技</h3><p>アルティメットスキル（Ultimate Skill）の略。最強の技。</p>",
+        "short_description": "<h3>必殺技。</h3>",
+        "example": "「ウルト溜まった」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "CC",
+        "slug": "cc",
+        "body": "<h3>行動阻害</h3><p>Crowd Control。スタンや睡眠など、敵を動けなくする技。</p>",
+        "short_description": "<h3>敵を動けなくする技。</h3>",
+        "example": "「CC入れて止める」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "AoE",
+        "slug": "aoe",
+        "body": "<h3>範囲攻撃</h3><p>Area of Effect。指定した範囲にダメージを与える攻撃。</p>",
+        "short_description": "<h3>範囲攻撃。</h3>",
+        "example": "「AoEを避ける」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "DoT",
+        "slug": "dot",
+        "body": "<h3>継続ダメージ</h3><p>Damage over Time。毒や火傷のように、徐々にHPが減っていくダメージ。</p>",
+        "short_description": "<h3>毒などの継続ダメージ。</h3>",
+        "example": "「DoTが入って死んだ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "カイト",
+        "slug": "kite",
+        "body": "<h3>引き撃ち</h3><p>敵との距離を保ちながら、下がって攻撃すること。凧揚げ（Kite）のように敵を引っ張る動き。</p>",
+        "short_description": "<h3>逃げながら撃つ技術。</h3>",
+        "example": "「カイトして倒す」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ガンク",
+        "slug": "gank",
+        "body": "<h3>奇襲</h3><p>Gang Killの略。人数有利を作って敵を奇襲すること。</p>",
+        "short_description": "<h3>奇襲攻撃。</h3>",
+        "example": "「ジャングルからガンクが来た」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ファーム",
+        "slug": "farm",
+        "body": "<h3>育成</h3><p>敵と戦わずに、雑魚を倒してお金や経験値を稼ぐこと。農業（Farm）のように。</p>",
+        "short_description": "<h3>お金や経験値を稼ぐこと。</h3>",
+        "example": "「今はファームの時間」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "フィード",
+        "slug": "feed",
+        "body": "<h3>敵を育てること</h3><p>何度も死んで、敵に経験値やお金を与えてしまうこと。「利敵行為」として嫌われる。</p>",
+        "short_description": "<h3>死にまくって敵を強くすること。</h3>",
+        "example": "「フィーダー味方に引いた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "スロー",
+        "slug": "throw",
+        "body": "<h3>投げやり、わざと負ける</h3><p>勝てる試合を台無しにする行為。</p>",
+        "short_description": "<h3>試合を投げ捨てること。</h3>",
+        "example": "「最後でスローしたな」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ソルキャ",
+        "slug": "solocarry",
+        "body": "<h3>一人で勝たせる</h3><p>味方が弱くても、自分ひとりの力でチームを勝利に導くこと。</p>",
+        "short_description": "<h3>一人でチームを勝たせること。</h3>",
+        "example": "「エースがソルキャした」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "マクロ",
+        "slug": "macro",
+        "body": "<h3>大局的な動き</h3><p>目の前の戦闘（ミクロ）ではなく、マップ全体を見た戦略的な動き。</p>",
+        "short_description": "<h3>全体を見た戦略。</h3>",
+        "example": "「マクロの差で負けた」"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "アグロ",
+        "slug": "aggro",
+        "body": "<h3>速攻</h3><p>序盤から積極的に攻撃を仕掛け、短期決戦を狙う戦術。カードゲームなどで使う。</p>",
+        "short_description": "<h3>速攻戦術。</h3>",
+        "example": "「アグロデッキ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "インファイト",
+        "slug": "in-fight",
+        "body": "<h3>接近戦</h3><p>敵に近づいて戦うこと。ボクシング由来。</p>",
+        "short_description": "<h3>接近戦。</h3>",
+        "example": "「インファイトを仕掛ける」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "エアプ",
+        "slug": "air-p",
+        "body": "<h3>未経験者</h3><p>「エアプレイヤー」。実際はやっていないのに、知ったかぶりをする人。</p>",
+        "short_description": "<h3>知ったかぶり。</h3>",
+        "example": "「エアプ乙」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "エンドコンテンツ",
+        "slug": "end-content",
+        "body": "<h3>やり込み要素</h3><p>ストーリーをクリアした後に遊べる、高難易度のコンテンツ。</p>",
+        "short_description": "<h3>クリア後のやり込み。</h3>",
+        "example": "「エンドコンテンツに挑む」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "オープンワールド",
+        "slug": "open-world",
+        "body": "<h3>広大な世界</h3><p>マップ切り替えがなく、広大な世界を自由に移動できるゲーム。</p>",
+        "short_description": "<h3>自由な広大な世界。</h3>",
+        "example": "「オープンワールドRPG」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "落ちる",
+        "slug": "ochiru",
+        "body": "<h3>接続切れ</h3><p>ゲームや通話から切断されること。「回線落ち」。</p>",
+        "short_description": "<h3>切断される。</h3>",
+        "example": "「回線が悪くて落ちた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "カウンター",
+        "slug": "counter",
+        "body": "<h3>反撃</h3><p>敵の攻撃を利用して反撃すること。または有利な属性やキャラを当てること。</p>",
+        "short_description": "<h3>反撃。</h3>",
+        "example": "「カウンターを決める」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "壁打ち",
+        "slug": "kabeuchi",
+        "body": "<h3>一人練習</h3><p>対戦相手がいなくてもできる練習。または独り言をSNSに投稿すること。</p>",
+        "short_description": "<h3>一人練習、独り言。</h3>",
+        "example": "「壁打ち垢」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "カンスト",
+        "slug": "kan-suto",
+        "body": "<h3>カウンターストップ</h3><p>レベルや所持金などが上限に達すること。「レベルカンスト」。</p>",
+        "short_description": "<h3>上限到達。</h3>",
+        "example": "「所持金カンスト」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ギミック",
+        "slug": "gimmick",
+        "body": "<h3>仕掛け</h3><p>ステージの仕掛けや、敵の特殊な攻撃パターンのこと。</p>",
+        "short_description": "<h3>仕掛け。</h3>",
+        "example": "「ギミックを理解する」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "キャンプ",
+        "slug": "camp",
+        "body": "<h3>待ち伏せ</h3><p>特定の場所に居座って敵を待つ戦法。「キャンパー」。</p>",
+        "short_description": "<h3>待ち伏せ。</h3>",
+        "example": "「出口でキャンプする」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "クールタイム",
+        "slug": "cool-time",
+        "body": "<h3>再使用待機時間</h3><p>スキルを使ってから、次に使えるようになるまでの待ち時間。「CT」とも。</p>",
+        "short_description": "<h3>待ち時間。</h3>",
+        "example": "「クールタイム中」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "グリッチ",
+        "slug": "glitch",
+        "body": "<h3>バグ利用</h3><p>ゲームの不具合（バグ）を悪用して有利に進める不正行為。</p>",
+        "short_description": "<h3>バグ悪用。</h3>",
+        "example": "「グリッチ使い」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ゴースティング",
+        "slug": "ghosting",
+        "body": "<h3>配信覗き見</h3><p>配信者の生放送を見ながら、その位置を特定して狙う不正行為。</p>",
+        "short_description": "<h3>配信狙撃。</h3>",
+        "example": "「ゴースティング対策」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "コンボ",
+        "slug": "combo",
+        "body": "<h3>連続技</h3><p>連続して攻撃を当てること。</p>",
+        "short_description": "<h3>連続技。</h3>",
+        "example": "「コンボを決める」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "鯖",
+        "slug": "saba",
+        "body": "<h3>サーバー</h3><p>Server。ゲームの接続先。「日本鯖」「アジア鯖」。</p>",
+        "short_description": "<h3>サーバー。</h3>",
+        "example": "「鯖落ち」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "サンドバッグ",
+        "slug": "sandbag",
+        "body": "<h3>練習台</h3><p>一方的に攻撃される状態、またはその対象。「殴られ役」。</p>",
+        "short_description": "<h3>殴られ役。</h3>",
+        "example": "「完全にサンドバッグ状態」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "縛りプレイ",
+        "slug": "shibari",
+        "body": "<h3>制限プレイ</h3><p>自ら不利な条件（装備なし等）を課してクリアを目指すこと。</p>",
+        "short_description": "<h3>自分ルールで制限。</h3>",
+        "example": "「武器縛り」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ジャイロ",
+        "slug": "gyro",
+        "body": "<h3>傾き操作</h3><p>コントローラーを傾けて視点を操作する機能。「ジャイロエイム」。</p>",
+        "short_description": "<h3>傾けて操作。</h3>",
+        "example": "「ジャイロOFF」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "スキン",
+        "slug": "skin",
+        "body": "<h3>外見</h3><p>キャラや武器の見た目を変えるアイテム。性能は変わらないことが多い。</p>",
+        "short_description": "<h3>見た目変更アイテム。</h3>",
+        "example": "「限定スキン」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "スタック",
+        "slug": "stack",
+        "body": "<h3>詰まる、挟まる</h3><p>地形などに挟まって動けなくなること。バグの一種。</p>",
+        "short_description": "<h3>動けなくなるバグ。</h3>",
+        "example": "「岩にスタックした」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "スリップダメージ",
+        "slug": "slip-damage",
+        "body": "<h3>継続ダメージ</h3><p>毒や火傷のように、時間経過で徐々に減るダメージ。「DoT」とも。</p>",
+        "short_description": "<h3>徐々に減るダメージ。</h3>",
+        "example": "「毒のスリップダメージ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "全一",
+        "slug": "zen-ichi",
+        "body": "<h3>全国一位</h3><p>全国ランキング一位のプレイヤー。</p>",
+        "short_description": "<h3>全国一位。</h3>",
+        "example": "「全一プレイヤー」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "耐久",
+        "slug": "taikyu",
+        "body": "<h3>長時間続けること</h3><p>クリアするまで終わらない配信など。「耐久配信」。</p>",
+        "short_description": "<h3>長時間やり続ける。</h3>",
+        "example": "「24時間耐久」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "代行",
+        "slug": "daiko",
+        "body": "<h3>代理プレイ</h3><p>お金を払って上手い人にプレイしてもらい、ランクを上げること。不正行為。</p>",
+        "short_description": "<h3>代理プレイ（不正）。</h3>",
+        "example": "「代行業者」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "タゲ",
+        "slug": "tage",
+        "body": "<h3>ターゲット</h3><p>敵の攻撃対象。「タゲを取る（敵の注意を引きつける）」。</p>",
+        "short_description": "<h3>標的。</h3>",
+        "example": "「タゲが移った」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "チーター",
+        "slug": "cheater",
+        "body": "<h3>不正ツール使用者</h3><p>Cheat(ズル)をする人。無敵になったり壁を透視したりする。</p>",
+        "short_description": "<h3>不正行為者。</h3>",
+        "example": "「チーターに遭遇」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "積みゲー",
+        "slug": "tsumige",
+        "body": "<h3>未プレイのゲーム</h3><p>買ってあるけれど、まだ遊んでいないゲームが積まれている状態。</p>",
+        "short_description": "<h3>買ったけどやってない。</h3>",
+        "example": "「積みゲーを消化する」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "デスペナ",
+        "slug": "death-penalty",
+        "body": "<h3>死亡ペナルティ</h3><p>キャラが死んだ時に失う経験値やアイテムなどの罰則。</p>",
+        "short_description": "<h3>死んだ時の罰。</h3>",
+        "example": "「デスペナが重い」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "トロール",
+        "slug": "troll",
+        "body": "<h3>荒らし、利敵行為</h3><p>わざと負けるような行動をして味方を妨害する人。</p>",
+        "short_description": "<h3>荒らし、迷惑行為。</h3>",
+        "example": "「味方にトロールがいる」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "野良",
+        "slug": "nora-2",
+        "body": "<h3>一人で参加</h3><p>フレンドではなく、知らない人とマッチングして遊ぶこと。</p>",
+        "short_description": "<h3>知らない人と遊ぶ。</h3>",
+        "example": "「野良ランク」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "バトロワ",
+        "slug": "battle-royale",
+        "body": "<h3>バトルロイヤル</h3><p>最後の一人（または一チーム）になるまで戦うサバイバルゲーム形式。</p>",
+        "short_description": "<h3>生き残りゲーム。</h3>",
+        "example": "「バトロワ系FPS」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "人権",
+        "slug": "jinken",
+        "body": "<h3>必須級の強さ</h3><p>そのキャラやアイテムを持っていないと話にならない（人権がない）レベルで強いもの。</p>",
+        "short_description": "<h3>必須級の強キャラ。</h3>",
+        "example": "「人権キャラ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "フィジカル",
+        "slug": "physical",
+        "body": "<h3>操作精度</h3><p>エイム力や反射神経など、プレイヤー自身の基礎能力。</p>",
+        "short_description": "<h3>基礎操作能力。</h3>",
+        "example": "「フィジカルで勝つ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ブースト",
+        "slug": "boost",
+        "body": "<h3>加速、強化</h3><p>一時的に速度や能力を上げること。</p>",
+        "short_description": "<h3>加速、強化。</h3>",
+        "example": "「ブーストをかける」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "フレームレート",
+        "slug": "frame-rate",
+        "body": "<h3>fps</h3><p>1秒間に表示される画像の枚数。数値が高いほど映像がヌルヌル動く。「60fps」など。</p>",
+        "short_description": "<h3>映像の滑らかさ。</h3>",
+        "example": "「フレームレートが出ない」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ヘイト",
+        "slug": "hate",
+        "body": "<h3>敵対心</h3><p>敵から狙われる度合い。「ヘイトを買う（敵に狙われる）」。</p>",
+        "short_description": "<h3>敵に狙われる度合い。</h3>",
+        "example": "「タンクがヘイトを集める」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ボイチャ",
+        "slug": "voice-chat",
+        "body": "<h3>音声通話</h3><p>Voice Chat。「VC」とも。マイクを使って会話しながらゲームすること。</p>",
+        "short_description": "<h3>音声通話。</h3>",
+        "example": "「ボイチャON」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "マクロ",
+        "slug": "macro",
+        "body": "<h3>自動操作ツール</h3><p>操作を自動化するプログラム。ゲームによっては規約違反になる。</p>",
+        "short_description": "<h3>自動操作。</h3>",
+        "example": "「マクロ放置」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "マナー講師",
+        "slug": "manner-koushi",
+        "body": "<h3>口うるさい人</h3><p>ゲーム内の暗黙のルールを押し付けてくる人を皮肉った呼び方。</p>",
+        "short_description": "<h3>ルールを押し付ける人。</h3>",
+        "example": "「マナー講師が現れた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "無双",
+        "slug": "musou",
+        "body": "<h3>圧倒的活躍</h3><p>敵を一人で次々となぎ倒すこと。「三國無双」が由来。</p>",
+        "short_description": "<h3>一人で圧倒する。</h3>",
+        "example": "「大会で無双する」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "メタ",
+        "slug": "meta",
+        "body": "<h3>流行、最善策</h3><p>現環境で最も強いとされる戦術やキャラ。「メタが変わる」。</p>",
+        "short_description": "<h3>流行の戦術。</h3>",
+        "example": "「今のメタ構成」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "モブ",
+        "slug": "mob",
+        "body": "<h3>その他大勢</h3><p>名前のない背景キャラクター。Mob character。「モブキャラ」。</p>",
+        "short_description": "<h3>背景キャラ。</h3>",
+        "example": "「モブ扱い」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ラグい",
+        "slug": "lag",
+        "body": "<h3>遅延がある</h3><p>Lag（遅延）。通信状況が悪く、動きがカクカクしたり止まったりすること。</p>",
+        "short_description": "<h3>回線が遅い。</h3>",
+        "example": "「ラグくて撃ち負けた」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ラスアス",
+        "slug": "last-us",
+        "body": "<h3>The Last of Us</h3><p>人気サバイバルホラーゲームの略称。</p>",
+        "short_description": "<h3>人気ゲームの略。</h3>",
+        "example": "「ラスアスのドラマ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "リアル",
+        "slug": "real",
+        "body": "<h3>現実世界</h3><p>ゲームやネットではない、現実の生活。「リアルが忙しい（リア忙）」。</p>",
+        "short_description": "<h3>現実世界。</h3>",
+        "example": "「リアル優先」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "リスポーン",
+        "slug": "respawn",
+        "body": "<h3>復活</h3><p>死んだ後に再出現すること。「リスポ」と略す。「リスポ地点」。</p>",
+        "short_description": "<h3>再出現。</h3>",
+        "example": "「リスポーン待ち」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "レイド",
+        "slug": "raid",
+        "body": "<h3>大規模戦闘</h3><p>多数のプレイヤーで協力して、強力なボスを倒すイベント。</p>",
+        "short_description": "<h3>大人数ボス戦。</h3>",
+        "example": "「レイドボス」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ロムる",
+        "slug": "rom",
+        "body": "<h3>読むだけ</h3><p>ROM(Read Only Memory)。発言せずにチャットを読むだけにすること。</p>",
+        "short_description": "<h3>見る専。</h3>",
+        "example": "「半年ROMれ」"
+    },
+    {
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "title": "ワンチャン",
+        "slug": "one-chan",
+        "body": "<h3>可能性あり</h3><p>One Chance。もしかしたら勝てるかもしれない、という意味。「ワンチャンあるで」。</p>",
+        "short_description": "<h3>可能性がある。</h3>",
+        "example": "「ワンチャンいける」"
+    }
+]

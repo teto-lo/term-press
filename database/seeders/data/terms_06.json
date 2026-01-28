@@ -1,0 +1,310 @@
+[
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "イシュー",
+        "slug": "issue",
+        "body": "<h3>課題、論点</h3><p>解決すべき本質的な問題のこと。「イシューを特定せよ」は意識高い系の合言葉。</p>",
+        "short_description": "<h3>解決すべき本質的な問題。</h3>",
+        "example": "「その議論はイシューからズレてる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "サマリー",
+        "slug": "summary",
+        "body": "<h3>要約</h3><p>長い資料や報告書の内容を短くまとめたもの。</p>",
+        "short_description": "<h3>要約のこと。</h3>",
+        "example": "「会議のサマリーを送って」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マネタイズ",
+        "slug": "monetize",
+        "body": "<h3>収益化</h3><p>無料のサービスなどからどうやってお金を稼ぐかの仕組みを作ること。</p>",
+        "short_description": "<h3>お金を稼ぐ仕組み。</h3>",
+        "example": "「このアプリのマネタイズどうする？」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ドラスティック",
+        "slug": "drastic",
+        "body": "<h3>徹底的な、過激な</h3><p>根本から大きく変えること。「ドラスティックな改革」など。</p>",
+        "short_description": "<h3>思い切って変えること。</h3>",
+        "example": "「ドラスティックな組織変更が必要だ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィジビリ",
+        "slug": "feasibility",
+        "body": "<h3>実現可能性の調査</h3><p>Feasibility Studyの略。本格的にやる前に、本当にできるか試しにやってみること。</p>",
+        "short_description": "<h3>お試し期間。</h3>",
+        "example": "「まずはフィジビリで小規模に始めよう」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ジャストアイデア",
+        "slug": "justidea",
+        "body": "<h3>ただの思いつき</h3><p>深く考えてないけどとりあえず言ってみた、というときに使う免罪符。</p>",
+        "short_description": "<h3>ただの思いつき。</h3>",
+        "example": "「ジャストアイデアなんですが...」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マイルストーン",
+        "slug": "milestone",
+        "body": "<h3>中間地点</h3><p>プロジェクトの進捗を確認するための節目となるポイント。</p>",
+        "short_description": "<h3>進捗確認の節目。</h3>",
+        "example": "「次のマイルストーンまでに終わらせよう」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ローンチ",
+        "slug": "launch-2",
+        "body": "<h3>立ち上げ、公開</h3><p>新サービスや商品を世に出すこと。</p>",
+        "short_description": "<h3>サービス公開。</h3>",
+        "example": "「サイトのローンチ日が決まった」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ブルーオーシャン",
+        "slug": "blueocean",
+        "body": "<h3>競合がいない市場</h3><p>誰も手をつけていない、チャンスが広がっている市場のこと。逆はレッドオーシャン。</p>",
+        "short_description": "<h3>ライバル不在の楽園。</h3>",
+        "example": "「ニッチなブルーオーシャンを狙う」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コアコンピタンス",
+        "slug": "corecompetence",
+        "body": "<h3>中核となる強み</h3><p>他社には真似できない、その企業独自の強みのこと。</p>",
+        "short_description": "<h3>絶対負けない強み。</h3>",
+        "example": "「技術力が我が社のコアコンピタンスだ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "シナジー",
+        "slug": "synergy",
+        "body": "<h3>相乗効果</h3><p>1+1が2以上になるような効果のこと。「シナジーを生む」など。</p>",
+        "short_description": "<h3>相乗効果。</h3>",
+        "example": "「部署間の連携でシナジーを出せ」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "インセンティブ",
+        "slug": "incentive",
+        "body": "<h3>報奨金、動機付け</h3><p>成果を出したときにもらえるボーナスや、やる気を出させるための仕組み。</p>",
+        "short_description": "<h3>ご褒美。</h3>",
+        "example": "「契約取れたらインセンティブが出る」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "イニシアチブ",
+        "slug": "initiative",
+        "body": "<h3>主導権</h3><p>率先して物事を進めること。「イニシアチブをとる」＝「主導権を握る」。</p>",
+        "short_description": "<h3>主導権。</h3>",
+        "example": "「会議のイニシアチブを握る」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ハンドリング",
+        "slug": "handling",
+        "body": "<h3>運用、操作</h3><p>プロジェクトや状況をうまくコントロールすること。</p>",
+        "short_description": "<h3>うまく回すこと。</h3>",
+        "example": "「その案件のハンドリング任せた」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "フィックス",
+        "slug": "fix-2",
+        "body": "<h3>確定</h3><p>修正や変更が終わって、最終決定すること。</p>",
+        "short_description": "<h3>決定すること。</h3>",
+        "example": "「仕様はフィックスしました」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ベストプラクティス",
+        "slug": "bestpractice",
+        "body": "<h3>最良の事例</h3><p>過去の成功事例や、最も効率的な方法のこと。</p>",
+        "short_description": "<h3>一番いいやり方。</h3>",
+        "example": "「他社のベストプラクティスを参考にしよう」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ボール",
+        "slug": "ball",
+        "body": "<h3>担当者</h3><p>「今ボール誰持ってる？」＝「今誰の作業待ち？」。責任の所在。</p>",
+        "short_description": "<h3>作業のターン。</h3>",
+        "example": "「ボールは相手側にある」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "たたき台",
+        "slug": "tatakidai",
+        "body": "<h3>原案、草案</h3><p>議論を始めるためのとりあえずの案。叩かれて良くなるもの。</p>",
+        "short_description": "<h3>とりあえずの案。</h3>",
+        "example": "「たたき台作っといて」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "クロージング",
+        "slug": "closing",
+        "body": "<h3>契約締結</h3><p>営業活動の最後、契約を結ぶ段階のこと。</p>",
+        "short_description": "<h3>契約を決めること。</h3>",
+        "example": "「今月はクロージングに集中する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "コンプラ",
+        "slug": "compliance",
+        "body": "<h3>法令順守</h3><p>Compliance。法律やルールを守ること。「コンプラ的にNG」など。</p>",
+        "short_description": "<h3>ルール守れってこと。</h3>",
+        "example": "「それコンプラ的に大丈夫？」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "OJT",
+        "slug": "ojt",
+        "body": "<h3>実地研修</h3><p>On-the-Job Training。仕事をしながら仕事を覚えること。「習うより慣れろ」の現代版。</p>",
+        "short_description": "<h3>やりながら覚える研修。</h3>",
+        "example": "「新人はOJTで育てる」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "DX",
+        "slug": "dx",
+        "body": "<h3>デジタルトランスフォーメーション</h3><p>ITを使って業務やビジネスモデルを抜本的に変革すること。単なる電子化ではない。</p>",
+        "short_description": "<h3>ITで大改革すること。</h3>",
+        "example": "「我が社もDXを推進する」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "パラダイムシフト",
+        "slug": "paradigmshift",
+        "body": "<h3>劇的な変化</h3><p>当たり前だと思っていた常識や価値観が劇的に変わること。</p>",
+        "short_description": "<h3>常識が覆ること。</h3>",
+        "example": "「業界にパラダイムシフトが起きている」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ステークホルダー",
+        "slug": "stakeholder",
+        "body": "<h3>利害関係者</h3><p>株主、社員、顧客、取引先など、そのビジネスに関わる全ての人。</p>",
+        "short_description": "<h3>関係者全員。</h3>",
+        "example": "「ステークホルダーへの説明責任」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ディシジョン",
+        "slug": "decision",
+        "body": "<h3>決断、意思決定</h3><p>重要な決定を下すこと。</p>",
+        "short_description": "<h3>決断。</h3>",
+        "example": "「トップのディシジョン待ち」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "バジェット",
+        "slug": "budget",
+        "body": "<h3>予算</h3><p>使えるお金の枠。</p>",
+        "short_description": "<h3>予算のこと。</h3>",
+        "example": "「バジェットが足りない」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "マスト",
+        "slug": "must",
+        "body": "<h3>必須</h3><p>絶対にやらなければならないこと。「これマストで」と言われたら拒否権はない。</p>",
+        "short_description": "<h3>絶対やれ。</h3>",
+        "example": "「この機能はマスト要件です」"
+    },
+    {
+        "category_slug": "business",
+        "scene_slugs": [
+            "office"
+        ],
+        "title": "ウォント",
+        "slug": "want",
+        "body": "<h3>推奨、あったらいいな</h3><p>必須ではないけど、できれば欲しいもの。マストの対義語。</p>",
+        "short_description": "<h3>できれば欲しい。</h3>",
+        "example": "「それはマスト？それともウォント？」"
+    }
+]
