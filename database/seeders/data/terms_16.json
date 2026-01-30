@@ -8,7 +8,18 @@
         "slug": "aidma",
         "body": "<h3>消費行動プロセス</h3><p>Attention(注意)→Interest(関心)→Desire(欲求)→Memory(記憶)→Action(行動)の頭文字。</p>",
         "short_description": "<h3>消費者の心理プロセス。</h3>",
-        "example": "「AIDMAの法則」"
+        "example": "「AIDMAの法則」",
+        "key_points": [
+            "Attention（注意）、Interest（関心）、Desire（欲求）、Memory（記憶）、Action（行動）の略",
+            "消費者が商品を知ってから購入するまでの心理プロセス",
+            "古典的なモデルだが、今でも基本として重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「AIDMAに沿って広告戦略を練る」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -19,7 +30,18 @@
         "slug": "aisas",
         "body": "<h3>ネット時代の消費行動</h3><p>Attention→Interest→Search(検索)→Action→Share(共有)。検索と共有が特徴。</p>",
         "short_description": "<h3>ネット時代の消費行動。</h3>",
-        "example": "「AISASで考える」"
+        "example": "「AISASで考える」",
+        "key_points": [
+            "AIDMAのネット版モデル",
+            "Search（検索）とShare（共有）が含まれるのが特徴",
+            "「SNSで拡散（Share）される仕組み」を作ることが重要視される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "Webマーケ",
+                "description": "「AISASモデルに基づいたWebプロモーションを行う」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -30,7 +52,18 @@
         "slug": "insight",
         "body": "<h3>本音、洞察</h3><p>消費者自身も気づいていない隠れた欲求や動機。「顧客インサイトを探る」。</p>",
         "short_description": "<h3>隠れた本音。</h3>",
-        "example": "「インサイトを発見する」"
+        "example": "「インサイトを発見する」",
+        "key_points": [
+            "Consumer Insight（消費者洞察）",
+            "表面的なニーズではなく、本人も無自覚な「深層心理」や「動機」",
+            "ヒット商品はインサイトを突いていることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "商品開発",
+                "description": "「顧客のインサイトを深掘りして、全く新しい商品を開発する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -41,7 +74,18 @@
         "slug": "influencer",
         "body": "<h3>影響力のある人</h3><p>SNSなどで多くのフォロワーを持ち、購買行動に影響を与える人。</p>",
         "short_description": "<h3>影響力のある人。</h3>",
-        "example": "「インフルエンサーマーケティング」"
+        "example": "「インフルエンサーマーケティング」",
+        "key_points": [
+            "世間に与える影響力が大きい人物",
+            "YouTuberやインスタグラマーなどが代表的",
+            "企業案件で商品を紹介することも多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "PR",
+                "description": "「インフルエンサーに投稿してもらう」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -52,7 +96,18 @@
         "slug": "owned-media",
         "body": "<h3>自社メディア</h3><p>自社で保有・運営するWebサイトやブログ。「オウンドメディアを立ち上げる」。</p>",
         "short_description": "<h3>自社ブログなど。</h3>",
-        "example": "「オウンドメディアリクルーティング」"
+        "example": "「オウンドメディアリクルーティング」",
+        "key_points": [
+            "Owned Media（所有するメディア）",
+            "自社サイト、ブログ、広報誌など、企業が自ら管理するメディア",
+            "広告費をかけずに集客やファン作りができるが、運用は大変"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "採用",
+                "description": "「オウンドメディアで社員インタビューを発信して採用につなげる」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -63,7 +118,18 @@
         "slug": "curation",
         "body": "<h3>選別・編集</h3><p>膨大な情報の中から、特定のテーマに沿って情報を拾い集め、まとめること。</p>",
         "short_description": "<h3>情報のまとめ。</h3>",
-        "example": "「キュレーションサイト」"
+        "example": "「キュレーションサイト」",
+        "key_points": [
+            "Curation（学芸員などが展示品を選別すること）",
+            "ネット上の情報を収集・選別・編集して新たな価値を持たせること",
+            "「まとめサイト」もキュレーションメディアの一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "情報収集",
+                "description": "「ニュースアプリでキュレーションされた記事を読む」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -74,7 +140,18 @@
         "slug": "conversion",
         "body": "<h3>成果転換</h3><p>Webサイトで、商品の購入や会員登録など、最終的な成果に至ること。「CV」と略す。</p>",
         "short_description": "<h3>成果が出ること。</h3>",
-        "example": "「コンバージョン率(CVR)」"
+        "example": "「コンバージョン率(CVR)」",
+        "key_points": [
+            "Conversion（転換）",
+            "訪問者が「購入」「申し込み」などのアクションを起こして「顧客」に転換すること",
+            "Webマーケティングで最も重要な指標（KGI/KPI）になることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "分析",
+                "description": "「CV（コンバージョン）が落ちている原因を探る」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -85,7 +162,18 @@
         "slug": "segmentation",
         "body": "<h3>市場細分化</h3><p>市場を年齢、性別、地域などで細かく分けること。</p>",
         "short_description": "<h3>細かく分けること。</h3>",
-        "example": "「セグメンテーションを行う」"
+        "example": "「セグメンテーションを行う」",
+        "key_points": [
+            "不特定多数の人々を、属性やニーズでグループ分けすること",
+            "「20代男性」「アウトドア好き」のように分ける",
+            "マーケティングの第一歩"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「市場をセグメンテーションして、狙うべき層を明確にする」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -96,7 +184,18 @@
         "slug": "targeting",
         "body": "<h3>標的設定</h3><p>セグメント化された市場の中から、どのグループを狙うか決めること。</p>",
         "short_description": "<h3>狙う客層を決める。</h3>",
-        "example": "「ターゲティング広告」"
+        "example": "「ターゲティング広告」",
+        "key_points": [
+            "Targeting（標的を絞る）",
+            "セグメンテーションで分けたグループの中から、自社の商品を売る相手（ターゲット）を決めること",
+            "「誰に売るか」を決めないと、誰にも刺さらない商品になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広告",
+                "description": "「30代女性にターゲティングした広告を配信する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -107,7 +206,18 @@
         "slug": "channel",
         "body": "<h3>経路</h3><p>商品を売るルート（販売チャネル）や、集客する媒体（集客チャネル）。</p>",
         "short_description": "<h3>販売や集客の経路。</h3>",
-        "example": "「販売チャネルの拡大」"
+        "example": "「販売チャネルの拡大」",
+        "key_points": [
+            "Channel（水路、経路）",
+            "商品を顧客に届けるための流通経路や販売媒体のこと",
+            "「実店舗」「ECサイト」「代理店」など"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「販売チャネルを増やして売上を伸ばす」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -118,7 +228,18 @@
         "slug": "niche-mkt",
         "body": "<h3>隙間</h3><p>大手が狙わない小さな市場。特定のニーズを持つ層。</p>",
         "short_description": "<h3>隙間市場。</h3>",
-        "example": "「ニッチ戦略」"
+        "example": "「ニッチ戦略」",
+        "key_points": [
+            "Niche（隙間）",
+            "市場規模は小さいが、特定のコアな需要がある市場",
+            "競合が少ないため、固定ファンを作りやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「ニッチトップ（隙間市場での1位）を目指す」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -129,7 +250,18 @@
         "slug": "buzz",
         "body": "<h3>爆発的拡散</h3><p>SNSなどで話題になり、一気に拡散されること。蜂の羽音(Buzz)が語源。</p>",
         "short_description": "<h3>大流行する。</h3>",
-        "example": "「ツイートがバズった」"
+        "example": "「ツイートがバズった」",
+        "key_points": [
+            "Buzz（蜂がブンブン飛ぶ音、噂話）",
+            "短期間で爆発的に話題になり、拡散されること",
+            "狙ってバズらせるのは難しい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「何気ない投稿がバズって通知が止まらない」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -140,7 +272,18 @@
         "slug": "branding",
         "body": "<h3>ブランド作り</h3><p>「この商品なら間違いない」という信頼や価値を作り上げること。</p>",
         "short_description": "<h3>価値を高める活動。</h3>",
-        "example": "「セルフブランディング」"
+        "example": "「セルフブランディング」",
+        "key_points": [
+            "Brand（焼き印）が語源",
+            "企業や商品の「らしさ」や「価値」を顧客に認識させ、ファンになってもらう活動",
+            "価格競争に巻き込まれないために重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「リブランディングして若者向けのイメージに変える」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -151,7 +294,18 @@
         "slug": "persona-mkt",
         "body": "<h3>架空の顧客像</h3><p>氏名、年齢、趣味などを具体的に設定した、架空のユーザー像。</p>",
         "short_description": "<h3>典型的ユーザー像。</h3>",
-        "example": "「ペルソナ設計」"
+        "example": "「ペルソナ設計」",
+        "key_points": [
+            "Persona（仮面、人格）",
+            "ターゲット層をより具体的にした、架空の「たった一人の顧客像」",
+            "「都内在住、32歳OL、趣味はヨガ」のように詳細に決める"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「ペルソナに刺さるキャッチコピーを考える」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -162,7 +316,18 @@
         "slug": "positioning",
         "body": "<h3>立ち位置</h3><p>競合他社との差別化を図り、自社の独自の立ち位置を確立すること。</p>",
         "short_description": "<h3>差別化して位置取り。</h3>",
-        "example": "「市場でのポジショニング」"
+        "example": "「市場でのポジショニング」",
+        "key_points": [
+            "市場における自社の立ち位置（ポジション）を決めること",
+            "「高品質・高価格」か「手軽・低価格」かなど、競合と被らない場所を探す",
+            "ポジショニングマップ（分布図）を作って考える"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「競合が多いので、ポジショニングをずらして戦う」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -173,7 +338,18 @@
         "slug": "marketing-term",
         "body": "<h3>売れる仕組み作り</h3><p>商品が売れるための市場調査、商品開発、広告宣伝などの活動全般。</p>",
         "short_description": "<h3>売れる仕組み作り。</h3>",
-        "example": "「Webマーケティング」"
+        "example": "「Webマーケティング」",
+        "key_points": [
+            "「営業」が「売るための活動」なら、「マーケティング」は「売れる（自然に売れていく）仕組みを作ること」",
+            "市場調査から販売戦略まで幅広い活動を含む",
+            "ドラッカーいわく「マーケティングの目的は、販売を不要にすることだ」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「マーケティング部で新商品の販促を考える」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -184,7 +360,18 @@
         "slug": "merchandising",
         "body": "<h3>商品計画</h3><p>適切な商品を、適切な場所・時期・数量・価格で提供する計画。</p>",
         "short_description": "<h3>商品化計画。</h3>",
-        "example": "「MD（マーチャンダイザー）」"
+        "example": "「MD（マーチャンダイザー）」",
+        "key_points": [
+            "商品政策、商品化計画",
+            "消費者のニーズに合った商品を、適切なタイミングと場所で提供するための計画全般",
+            "アパレル業界などでよく使われる用語"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "アパレル",
+                "description": "「来季のマーチャンダイジング戦略を練る」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -195,7 +382,22 @@
         "slug": "lead",
         "body": "<h3>見込み客</h3><p>将来的に顧客になる可能性のある人や企業。「リード獲得」。</p>",
         "short_description": "<h3>見込み客。</h3>",
-        "example": "「リードジェネレーション」"
+        "example": "「リードジェネレーション」",
+        "key_points": [
+            "Lead（手がかり、先導）",
+            "見込み客（将来のお客さん）のこと",
+            "名刺交換や資料請求をしてくれた段階の人々"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「展示会で大量のリードを獲得する」時"
+            },
+            {
+                "title": "育成",
+                "description": "「獲得したリードをナーチャリング（育成）する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -206,7 +408,18 @@
         "slug": "listing-ads",
         "body": "<h3>検索連動型広告</h3><p>検索エンジンの検索結果に表示されるテキスト広告。</p>",
         "short_description": "<h3>検索広告。</h3>",
-        "example": "「リスティング運用」"
+        "example": "「リスティング運用」",
+        "key_points": [
+            "Googleなどで検索した時に、上部に「広告」として表示されるテキスト",
+            "検索キーワードに連動して表示されるため、購買意欲の高いユーザーにアプローチできる",
+            "PPC広告（クリック課金型）の一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広告",
+                "description": "「今すぐ客を集めるためにリスティング広告を出す」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -217,7 +430,18 @@
         "slug": "retention",
         "body": "<h3>維持</h3><p>既存顧客との関係を維持すること。「リテンションマーケティング」。</p>",
         "short_description": "<h3>顧客維持。</h3>",
-        "example": "「リテンション率」"
+        "example": "「リテンション率」",
+        "key_points": [
+            "Retention（保持、維持）",
+            "既存顧客が離脱しないように維持すること",
+            "新規顧客を獲得するコストは高いので、リテンションが重要視される（1:5の法則）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "サービス",
+                "description": "「解約率を下げるためのリテンション施策を行う」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -228,7 +452,18 @@
         "slug": "launch-mkt",
         "body": "<h3>公開</h3><p>新しいサービスや商品を世に出すこと。</p>",
         "short_description": "<h3>公開、発売。</h3>",
-        "example": "「ローンチパーティー」"
+        "example": "「ローンチパーティー」",
+        "key_points": [
+            "Launch（発射）",
+            "新商品や新サービスを発表・発売すること",
+            "マーケティング活動の山場"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広報",
+                "description": "「新ブランドをローンチしました！」とプレスリリースを打つ時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -239,7 +474,18 @@
         "slug": "affiliate",
         "body": "<h3>成果報酬型広告</h3><p>ブログなどで商品を紹介し、購入されると紹介料が入る仕組み。</p>",
         "short_description": "<h3>紹介料ビジネス。</h3>",
-        "example": "「アフィリエイトブログ」"
+        "example": "「アフィリエイトブログ」",
+        "key_points": [
+            "成果報酬型の広告プログラム",
+            "「アフィリエイター」は商品を紹介して報酬を得る人",
+            "副業として人気だが、稼ぐのは簡単ではない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブログ",
+                "description": "「おすすめ商品を紹介してアフィリエイト収入を得る」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -250,7 +496,18 @@
         "slug": "inbound",
         "body": "<h3>内向き、訪日客</h3><p>外から中に入ってくること。観光では「訪日外国人」。マーケティングでは「顧客に見つけてもらう」手法。</p>",
         "short_description": "<h3>外から来るもの。</h3>",
-        "example": "「インバウンド需要」"
+        "example": "「インバウンド需要」",
+        "key_points": [
+            "Inbound（入ってくる）",
+            "観光業では「訪日外国人旅行客」のこと",
+            "マーケティングでは、ブログやSNSで発信し、顧客の方から見つけてもらう手法（インバウンドマーケティング）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "観光",
+                "description": "「インバウンド需要でホテルが満室だ」という時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -261,7 +518,18 @@
         "slug": "outbound",
         "body": "<h3>外向き</h3><p>中から外へ出ていくこと。日本人の海外旅行や、テレアポなどの売り込み営業。</p>",
         "short_description": "<h3>外へ向かうもの。</h3>",
-        "example": "「アウトバウンド営業」"
+        "example": "「アウトバウンド営業」",
+        "key_points": [
+            "Outbound（外へ出ていく）",
+            "観光業では「日本人の海外旅行」のこと",
+            "営業では、テレアポや飛び込みなど、企業側から積極的に売り込む手法"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「アウトバウンドのコールセンター業務」をする時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -272,7 +540,18 @@
         "slug": "omnichannel",
         "body": "<h3>全販路連携</h3><p>ネットと実店舗をシームレスに連携させ、どこでも買えるようにする戦略。</p>",
         "short_description": "<h3>ネットと店舗の融合。</h3>",
-        "example": "「オムニチャネル化」"
+        "example": "「オムニチャネル化」",
+        "key_points": [
+            "Omni（すべて）＋Channel（経路）",
+            "実店舗、ECサイト、アプリなど、あらゆる販売経路を連携させること",
+            "「ネットで注文して店舗で受け取る」などが典型例"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "小売",
+                "description": "「オムニチャネル戦略で顧客の利便性を高める」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -283,7 +562,18 @@
         "slug": "cannibalization-mkt",
         "body": "<h3>共食い</h3><p>自社の新商品が、既存商品の売上を奪ってしまうこと。</p>",
         "short_description": "<h3>自社競合。</h3>",
-        "example": "「カニバリが起きる」"
+        "example": "「カニバリが起きる」",
+        "key_points": [
+            "Cannibalization（共食い）",
+            "「カニバリ」と略される",
+            "自社の店舗同士が近くにあって客を奪い合ったり、自社商品同士が競合したりすること"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "出店計画",
+                "description": "「ここに新店を出すと既存店とカニバリを起こす」と懸念する時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -294,7 +584,17 @@
         "slug": "cross-media",
         "body": "<h3>メディア連携</h3><p>テレビ、Web、雑誌など、複数のメディアを組み合わせて宣伝すること。</p>",
         "short_description": "<h3>メディアの組み合わせ。</h3>",
-        "example": "「クロスメディア戦略」"
+        "example": "「クロスメディア戦略」",
+        "key_points": [
+            "テレビCMで「続きはWebで」と誘導するように、複数のメディアを連動させる手法",
+            "メディアミックスと似ているが、相乗効果を重視する点が特徴"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広告",
+                "description": "「テレビとSNSを連動させたクロスメディア展開を行う」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -305,7 +605,18 @@
         "slug": "stealth-marketing",
         "body": "<h3>サクラ、やらせ</h3><p>「ステマ」。宣伝であることを隠して宣伝すること。今は法律で規制されている。</p>",
         "short_description": "<h3>隠れて宣伝。</h3>",
-        "example": "「ステマ疑惑」"
+        "example": "「ステマ疑惑」",
+        "key_points": [
+            "Stealth（こっそり行う）Marketing",
+            "一般人の口コミを装って商品を宣伝する行為（サクラ、やらせ）",
+            "消費者を騙す行為として厳しく批判され、法規制も進んでいる（景品表示法違反など）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "炎上",
+                "description": "「ステマがバレて炎上する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -316,7 +627,18 @@
         "slug": "direct-marketing",
         "body": "<h3>直接販売</h3><p>メーカーが顧客に直接商品を売る手法。通販など。</p>",
         "short_description": "<h3>直接売る。</h3>",
-        "example": "「D2Cブランド」"
+        "example": "「D2Cブランド」",
+        "key_points": [
+            "卸業者や小売店を通さず、企業が消費者に直接アプローチして商品を売る手法",
+            "通信販売やDM（ダイレクトメール）が代表例",
+            "顧客データを直接取得できるのが強み"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "通販",
+                "description": "「ダイレクトマーケティングでリピーターを獲得する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -327,7 +649,22 @@
         "slug": "teaser",
         "body": "<h3>じらし</h3><p>発売前に情報を小出しにして、期待感を煽る広告手法。「ティザーサイト」。</p>",
         "short_description": "<h3>じらし広告。</h3>",
-        "example": "「ティザー映像」"
+        "example": "「ティザー映像」",
+        "key_points": [
+            "Tease（じらす）",
+            "商品の全貌を隠し、断片的な情報だけを見せて興味を引く手法",
+            "「近日公開！」「謎のカウントダウン」など"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "映画",
+                "description": "「ティザー予告を見て公開が待ちきれなくなる」時"
+            },
+            {
+                "title": "ゲーム",
+                "description": "「新作ゲームのティザーサイトが公開された」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -338,7 +675,18 @@
         "slug": "dominant-strategy",
         "body": "<h3>地域集中出店</h3><p>特定の地域にコンビニなどを集中して出店し、その地域を制圧する戦略。</p>",
         "short_description": "<h3>地域集中。</h3>",
-        "example": "「ドミナント出店」"
+        "example": "「ドミナント出店」",
+        "key_points": [
+            "Dominant（支配的な）",
+            "特定のエリアに店舗を密集させて、物流効率を高めたり、知名度を上げたりする戦略",
+            "セブン-イレブンなどが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「近所に同じコンビニばかりあるのはドミナント戦略のせいだ」と気づく時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -349,7 +697,18 @@
         "slug": "viral-marketing",
         "body": "<h3>口コミ拡散</h3><p>ウイルス（Virus）のように、口コミで情報が広まることを狙う手法。</p>",
         "short_description": "<h3>口コミ戦略。</h3>",
-        "example": "「バイラル動画」"
+        "example": "「バイラル動画」",
+        "key_points": [
+            "Viral（感染的な）",
+            "人から人へ口コミで情報が広がっていく仕組みを意図的に作ること",
+            "「友達紹介キャンペーン」などもこれに含まれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「思わずシェアしたくなるバイラルコンテンツを作る」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -360,7 +719,18 @@
         "slug": "freemium",
         "body": "<h3>基本無料</h3><p>基本機能は無料で提供し、高度な機能を有料にするビジネスモデル。</p>",
         "short_description": "<h3>基本無料ビジネス。</h3>",
-        "example": "「フリーミアムモデル」"
+        "example": "「フリーミアムモデル」",
+        "key_points": [
+            "Free（無料）＋Premium（割増）",
+            "スマホアプリやWebサービスの多くで採用されているモデル",
+            "「課金ユーザー」が「無料ユーザー」を支える構造"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "アプリ",
+                "description": "「無料だと広告が出るから、課金してプレミアム会員になる」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -371,7 +741,18 @@
         "slug": "blue-ocean-mkt",
         "body": "<h3>未開拓市場</h3><p>競争相手がいない、穏やかで利益の出る市場。</p>",
         "short_description": "<h3>独占市場。</h3>",
-        "example": "「ブルーオーシャンを探す」"
+        "example": "「ブルーオーシャンを探す」",
+        "key_points": [
+            "競争のない未開拓市場のこと",
+            "対義語は「レッドオーシャン（血みどろの競争市場）」",
+            "新しい価値を創造して、競争を無意味にすることを目指す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "起業",
+                "description": "「誰もやっていないニッチな分野でブルーオーシャンを見つける」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -382,7 +763,18 @@
         "slug": "red-ocean",
         "body": "<h3>競争激化市場</h3><p>ライバルが多く、血で血を洗うような激しい競争市場。</p>",
         "short_description": "<h3>激戦市場。</h3>",
-        "example": "「レッドオーシャン化」"
+        "example": "「レッドオーシャン化」",
+        "key_points": [
+            "血で赤く染まった海のような、競争の激しい市場",
+            "価格競争になりやすく、利益を出しにくい",
+            "ラーメン屋やコンビニ業界など"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "参入",
+                "description": "「今から参入してもレッドオーシャンだから厳しい」と諦める時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -393,7 +785,22 @@
         "slug": "long-tail",
         "body": "<h3>塵も積もれば</h3><p>売れ筋ではないニッチな商品をたくさん扱うことで、全体で大きな売上を上げること。</p>",
         "short_description": "<h3>多品種少量販売。</h3>",
-        "example": "「ロングテールSEO」"
+        "example": "「ロングテールSEO」",
+        "key_points": [
+            "恐竜の尻尾のように長く伸びるグラフの形から",
+            "Amazonのように、あまり売れない商品でも膨大な種類を扱うことで、全体の売上の大部分を稼ぐモデル",
+            "実店舗では在庫スペースに限りがあるため難しい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "EC",
+                "description": "「ロングテール商品を揃えてニッチな需要に応える」時"
+            },
+            {
+                "title": "SEO",
+                "description": "「ビッグワードではなく、細かいキーワード（ロングテールキーワード）で検索流入を稼ぐ」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -404,7 +811,18 @@
         "slug": "one-to-one",
         "body": "<h3>個別対応</h3><p>顧客一人ひとりの好みに合わせて、個別にアプローチすること。</p>",
         "short_description": "<h3>個別対応。</h3>",
-        "example": "「One to Oneマーケティング」"
+        "example": "「One to Oneマーケティング」",
+        "key_points": [
+            "One to One（1対1）",
+            "十把一絡げではなく、一人の顧客の嗜好や履歴に合わせて最適な提案をすること",
+            "Amazonの「あなたへのおすすめ」などが典型"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "メール",
+                "description": "「誕生日おめでとうメールを送る（One to One）」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -415,7 +833,18 @@
         "slug": "usp",
         "body": "<h3>独自の売り</h3><p>Unique Selling Proposition。他社にはない、その商品だけの強み。</p>",
         "short_description": "<h3>独自の強み。</h3>",
-        "example": "「USPを明確にする」"
+        "example": "「USPを明確にする」",
+        "key_points": [
+            "Unique Selling Proposition（独自の売り提案）",
+            "「顧客に対して、自社だけが提供できる独自の価値・メリット」のこと",
+            "「ドミノ・ピザ」の「30分以内に届けられなければ無料」などが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブランディング",
+                "description": "「競合と差別化するために自社のUSPを再定義する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -426,7 +855,18 @@
         "slug": "ltv",
         "body": "<h3>顧客生涯価値</h3><p>Life Time Value。一人の顧客が生涯でどれだけ利益をもたらしてくれるか。</p>",
         "short_description": "<h3>顧客生涯価値。</h3>",
-        "example": "「LTVを最大化する」"
+        "example": "「LTVを最大化する」",
+        "key_points": [
+            "Life Time Value（顧客生涯価値）",
+            "一人の顧客が取引期間を通じて企業にもたらす利益の総額",
+            "サブスク型ビジネスでは特に重要視される指標"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「初回特典で赤字でも、長く使ってもらってLTVで回収する」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -437,7 +877,18 @@
         "slug": "roi",
         "body": "<h3>投資対効果</h3><p>Return On Investment。投資した費用に対して、どれだけ利益が出たか。</p>",
         "short_description": "<h3>コスパ。</h3>",
-        "example": "「ROIが高い」"
+        "example": "「ROIが高い」",
+        "key_points": [
+            "Return On Investment（投資利益率）",
+            "投資したお金に対して、どれだけ儲かったかの割合",
+            "いわゆる「コスパ（費用対効果）」を数字で表したもの"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広告",
+                "description": "「この広告は全然売れないからROIが悪い（赤字だ）」と判断する時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -448,7 +899,18 @@
         "slug": "swot",
         "body": "<h3>状況分析</h3><p>強み(Strength)、弱み(Weakness)、機会(Opportunity)、脅威(Threat)の4つで現状を分析する手法。</p>",
         "short_description": "<h3>4要素分析。</h3>",
-        "example": "「SWOT分析を行う」"
+        "example": "「SWOT分析を行う」",
+        "key_points": [
+            "Strength（強み）、Weakness（弱み）、Opportunity（機会）、Threat（脅威）の頭文字",
+            "自社の内部環境（強み・弱み）と外部環境（機会・脅威）を整理するフレームワーク",
+            "戦略を立てる前の現状把握に使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "事業計画",
+                "description": "「SWOT分析で自社の立ち位置を客観的に見る」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -459,7 +921,18 @@
         "slug": "3c",
         "body": "<h3>環境分析</h3><p>顧客(Customer)、競合(Competitor)、自社(Company)の3つの視点で分析する手法。</p>",
         "short_description": "<h3>3視点分析。</h3>",
-        "example": "「3C分析で戦略立案」"
+        "example": "「3C分析で戦略立案」",
+        "key_points": [
+            "Customer（市場・顧客）、Competitor（競合）、Company（自社）の頭文字",
+            "マーケティング環境を分析するための基本的なフレームワーク",
+            "「敵を知り（競合）、己を知れば（自社）、百戦危うからず」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「まずは3C分析をして市場環境を把握しよう」と提案する時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -470,7 +943,18 @@
         "slug": "4p",
         "body": "<h3>戦略立案</h3><p>製品(Product)、価格(Price)、流通(Place)、販促(Promotion)の4要素を決めること。</p>",
         "short_description": "<h3>4要素戦略。</h3>",
-        "example": "「マーケティングミックス(4P)」"
+        "example": "「マーケティングミックス(4P)」",
+        "key_points": [
+            "マーケティング・ミックスの4要素（Product, Price, Place, Promotion）",
+            "「何を、いくらで、どこで、どうやって売るか」を決めること",
+            "売り手視点（4P）だけでなく、買い手視点（4C）も大事"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "商品企画",
+                "description": "「4Pのバランスを考えて販売戦略を立てる」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -481,7 +965,18 @@
         "slug": "engagement-mkt",
         "body": "<h3>絆、愛着</h3><p>顧客の企業に対する愛着心や、SNSでの反応率（いいね、RT）のこと。</p>",
         "short_description": "<h3>愛着、反応率。</h3>",
-        "example": "「エンゲージメントを高める」"
+        "example": "「エンゲージメントを高める」",
+        "key_points": [
+            "Engagement（約束、婚約、絆）",
+            "企業と顧客のつながりの深さ",
+            "SNSでは「いいね」「コメント」「シェア」などの反応率を指す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS運用",
+                "description": "「フォロワー数は多いがエンゲージメントが低い（反応がない）」と悩む時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -492,7 +987,19 @@
         "slug": "opt-in-mkt",
         "body": "<h3>事前承諾</h3><p>メール配信などを行う前に、ユーザーから許可を得ること。</p>",
         "short_description": "<h3>同意。</h3>",
-        "example": "「オプトイン取得」"
+        "example": "「オプトイン取得」",
+        "key_points": [
+            "Opt-in（参加する）",
+            "ユーザーからの「事前許可」を得ること",
+            "メルマガ配信などはオプトイン方式が法律で義務付けられている",
+            "対義語は「オプトアウト（事後拒否）」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "メルマガ",
+                "description": "「登録時に『メルマガを受け取る』にチェックを入れてもらう（オプトイン）」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -503,7 +1010,18 @@
         "slug": "catch-copy",
         "body": "<h3>宣伝文句</h3><p>人の心を掴むための短い宣伝文句。</p>",
         "short_description": "<h3>宣伝文句。</h3>",
-        "example": "「キャッチコピーを考える」"
+        "example": "「キャッチコピーを考える」",
+        "key_points": [
+            "Catch Copy（人の心を掴む文句）",
+            "商品やサービスの魅力を短く伝えて、興味を引くための言葉",
+            "英語では「Tagline（タグライン）」と言うことが多い（キャッチコピーは和製英語に近い）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広告",
+                "description": "「刺さるキャッチコピーでクリック率を上げる」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -514,7 +1032,18 @@
         "slug": "closing",
         "body": "<h3>成約</h3><p>営業活動の最終段階で、契約を結ぶこと。</p>",
         "short_description": "<h3>契約締結。</h3>",
-        "example": "「クロージングにかかる」"
+        "example": "「クロージングにかかる」",
+        "key_points": [
+            "Closing（閉じる、締めくくる）",
+            "商談の最終段階で、顧客に契約や購入を決断させること",
+            "ここで失敗すると今までの努力が水の泡になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「今月中に契約してもらえるようクロージングをかける」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -525,7 +1054,18 @@
         "slug": "synergy-mkt",
         "body": "<h3>相乗効果</h3><p>マーケティング施策同士を組み合わせて、より高い効果を出すこと。</p>",
         "short_description": "<h3>相乗効果。</h3>",
-        "example": "「メディアシナジー」"
+        "example": "「メディアシナジー」",
+        "key_points": [
+            "Synergy（相乗効果）",
+            "複数の施策やメディアを組み合わせて、単体よりも大きな効果を生むこと",
+            "「テレビCM×SNSキャンペーン」など"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「リアルイベントとWebのシナジー効果を狙う」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -536,7 +1076,18 @@
         "slug": "traffic",
         "body": "<h3>通信量、アクセス数</h3><p>Webサイトへのアクセス数や、回線を流れるデータ量。</p>",
         "short_description": "<h3>アクセス数。</h3>",
-        "example": "「トラフィックが増加」"
+        "example": "「トラフィックが増加」",
+        "key_points": [
+            "Traffic（交通量）",
+            "Webサイトへの訪問者数や、ネットワーク上の通信量",
+            "「渋滞（トラフィック過多）」でサイトが重くなることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "Web解析",
+                "description": "「広告を出したらサイトのトラフィックが急増した」時"
+            }
+        ]
     },
     {
         "category_slug": "marketing",
@@ -547,6 +1098,17 @@
         "slug": "lp",
         "body": "<h3>着地ページ</h3><p>「LP」。広告をクリックして最初に表示される、商品販売に特化した縦長のページ。</p>",
         "short_description": "<h3>商品紹介ページ。</h3>",
-        "example": "「LPを制作する」"
+        "example": "「LPを制作する」",
+        "key_points": [
+            "Landing Page（着地ページ）",
+            "広告をクリックしたユーザーが最初に見るページ（LP）",
+            "商品購入や問い合わせに特化した、縦長の1枚ページであることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "Web制作",
+                "description": "「売れるLPを作ってコンバージョン率を上げる」時"
+            }
+        ]
     }
 ]

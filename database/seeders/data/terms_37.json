@@ -1,0 +1,618 @@
+[
+    {
+        "title": "インプレゾンビ",
+        "slug": "impression-zombie",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>インプレッション稼ぎのアカウント</h3><p>SNSで閲覧数（インプレッション）を稼ぐために、無意味なリプライを繰り返すスパムアカウント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「インプレゾンビ」は、SNS（特にX）で閲覧数を稼いで収益を得るために、バズった投稿に無関係な返信やコピペ返信を大量に行うアカウントのことです。</p><p>ゾンビのように湧いてくることからこう呼ばれます。</p>",
+        "example": "「災害情報のリプ欄がインプレゾンビだらけで役に立たない」",
+        "key_points": [
+            "収益化機能の弊害",
+            "海外アカウントが多い",
+            "通報・ブロック推奨"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🧟",
+                "title": "X（旧Twitter）",
+                "description": "「トレンドワードを見たらインプレゾンビばかりでうんざりする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "シャドウバン",
+        "slug": "shadowban",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>気づかないうちに制限</h3><p>運営側から密かにアカウントの表示を制限されること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「シャドウバン（shadowban）」は、本人に通知されずに、投稿が検索結果に表示されなくなったり、他のユーザーから見えにくくなったりするペナルティです。</p><p>「シャドウ（影）」のように密かに行われるため、気づきにくいです。</p>",
+        "example": "「最近インプレッションが激減したので、シャドウバンを疑う」",
+        "key_points": [
+            "検索除外",
+            "解除されるまで待つしかない",
+            "チェッカーサイトで確認"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "👻",
+                "title": "SNS運用",
+                "description": "「急に「いいね」がつかなくなってシャドウバンを心配する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "デジタルタトゥー",
+        "slug": "digital-tattoo",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>消えないネットの記録</h3><p>一度インターネット上に公開された情報は、完全に消すことが難しいことの比喩。</p>",
+        "body": "<h3>詳しく解説</h3><p>「デジタルタトゥー」は、一度ネットに公開された画像や書き込みは、コピーされて拡散し続けるため、入れ墨（タトゥー）のように完全に消すことが難しいことを指します。</p><p>若気の至りでの投稿が、就職や結婚に影響することもあります。</p>",
+        "example": "「不適切な動画を投稿してしまい、デジタルタトゥーとして残ってしまった」",
+        "key_points": [
+            "就活での採用調査（裏垢特定）",
+            "リベンジポルノ",
+            "投稿前の確認が重要"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "⚠️",
+                "title": "教育",
+                "description": "「SNSの使い方について学校でデジタルタトゥーの恐ろしさを学ぶ」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "特定班",
+        "slug": "identification-squad",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>ネットの探偵</h3><p>SNSの投稿画像や書き込みから、個人の住所や氏名などを特定するユーザーたち。</p>",
+        "body": "<h3>詳しく解説</h3><p>「特定班」は、炎上した人物などの投稿画像（背景の景色、瞳に映った景色など）から、個人情報を特定しようとするネットユーザーのことです。</p><p>驚異的な分析力を持ちますが、プライバシー侵害の問題もあります。</p>",
+        "example": "「不用意な写真をアップして、特定班に自宅を特定される」",
+        "key_points": [
+            "Googleストリートビューを駆使",
+            "電柱の広告やマンホールから特定",
+            "正義感の暴走"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🕵️",
+                "title": "炎上",
+                "description": "「迷惑行為動画の投稿者が特定班によって身元を暴かれる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "開示請求",
+        "slug": "disclosure-request",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>発信者情報の開示</h3><p>ネット上の誹謗中傷などで、投稿者の個人情報をプロバイダに請求すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「開示請求」は、SNSや掲示板で誹謗中傷や権利侵害を受けた際に、プロバイダ責任制限法に基づいて、発信者の情報（氏名、住所など）の開示を求める手続きです。</p><p>近年、手続きが簡素化されつつあります。</p>",
+        "example": "「悪質な誹謗中傷に対し、発信者情報開示請求を行う」",
+        "key_points": [
+            "誹謗中傷対策",
+            "匿名でも特定される",
+            "損害賠償請求"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "⚖️",
+                "title": "トラブル",
+                "description": "「匿名アカウントからの執拗な攻撃に対して法的手段に出る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "無断転載",
+        "slug": "unauthorized-reproduction",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>勝手に載せること</h3><p>他人のイラストや文章などを、許可なく自分のSNSやサイトに載せること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「無断転載」は、著作権者の許可を得ずに、他人の作品（イラスト、写真、文章など）をコピーして公開することです。</p><p>「自作発言」とセットで行われることもあります。</p>",
+        "example": "「イラストが無断転載されて困っている」",
+        "key_points": [
+            "著作権侵害",
+            "「拾い画です」は言い訳にならない",
+            "リポスト（リツイート）はOK"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🚫",
+                "title": "創作活動",
+                "description": "「プロフィールに『無断転載禁止』と記載する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "自作発言",
+        "slug": "false-claim-of-authorship",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>自分が作ったと嘘をつく</h3><p>他人の作品を、自分が作ったものだと偽って公開すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「自作発言」は、他人のイラストや写真を無断転載し、さらに「これ描きました」などと自分が作者であるかのように振る舞うことです。</p><p>創作界隈で最も嫌われる行為の一つです。</p>",
+        "example": "「無断転載した画像を自作発言して、炎上する」",
+        "key_points": [
+            "承認欲求の成れの果て",
+            "すぐにバレる",
+            "信用を失う"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤥",
+                "title": "SNS",
+                "description": "「他人の絵をアイコンにして自作発言をしている人が叩かれているのを見る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "トレパク",
+        "slug": "tracing-plagiarism",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>トレースとパクリ</h3><p>他人の絵や写真をなぞって（トレースして）、自分の作品として発表すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「トレパク」は、「トレース（なぞる）」と「パクリ（盗作）」を合わせた言葉です。他人の作品をトレスして、オリジナルのように発表する行為です。</p><p>構図やポーズの丸パクリも含まれることがあります。</p>",
+        "example": "「有名絵師がトレパク疑惑で炎上した」",
+        "key_points": [
+            "検証画像で比較される",
+            "練習のためのトレースはOK（公開しなければ）",
+            "商用利用はNG"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎨",
+                "title": "イラスト",
+                "description": "「大好きな絵師さんがトレパク疑惑をかけられてショックを受ける」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "鍵垢",
+        "slug": "locked-account",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>非公開アカウント</h3><p>SNSで、承認したフォロワーにしか投稿を公開しない設定のアカウント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「鍵垢（かぎあか）」は、投稿を非公開設定（鍵をかける）にしているアカウントです。X（旧Twitter）やInstagramでよく使われます。</p><p>プライベートな内容や、愚痴をこぼすためなどに使われます。</p>",
+        "example": "「愚痴は鍵垢でつぶやくことにする」",
+        "key_points": [
+            "鍵パカ（鍵をかけ忘れて投稿すること）",
+            "引用リツイートできない",
+            "安心感"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔒",
+                "title": "SNS",
+                "description": "「身内ネタで盛り上がるために一時的に鍵垢にする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "裏垢",
+        "slug": "alt-account",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>裏のアカウント</h3><p>本アカウント（本垢）とは別に持つ、趣味や愚痴用のアカウント。</p>",
+        "body": "<h3>詳しく解説</h3><p>「裏垢（うらあか）」は、メインのアカウント（本垢・表垢）とは別に、素の自分を出したり、特定の趣味に特化したりするためのアカウントです。</p><p>誰にも知られずに運用することもあれば、親しい人だけに教えることもあります。</p>",
+        "example": "「裏垢で日頃のストレスを発散する」",
+        "key_points": [
+            "誤爆（アカウントを間違えて投稿）に注意",
+            "裏垢特定",
+            "闇が深いことも"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎭",
+                "title": "秘密",
+                "description": "「会社の人には絶対に教えられない裏垢がある」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "垢BAN",
+        "slug": "account-ban",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>アカウント停止</h3><p>規約違反などで、アカウントが停止・削除されること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「垢BAN（あかバン）」は、アカウント（垢）がBAN（禁止）されること、つまり運営によってアカウントを停止・削除されることです。</p><p>スパム行為や暴言などが原因となります。</p>",
+        "example": "「規約違反を繰り返して、垢BANされた」",
+        "key_points": [
+            "永久凍結",
+            "一発BAN",
+            "転生（新しくアカウントを作り直す）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "⚰️",
+                "title": "ゲーム",
+                "description": "「チート行為をしたプレイヤーが一斉に垢BANされる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "凍結",
+        "slug": "account-suspension",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>アカウント利用制限</h3><p>SNSの運営によって、アカウントが一時的または永久に利用できなくなること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「凍結」は、SNS（特にTwitter/X）で規約違反などを理由にアカウントがロックされ、使えなくなることです。「凍結祭り」は、大規模な一斉凍結が起きることを指します。</p><p>解除申請をして復活できる場合もあります。</p>",
+        "example": "「身に覚えがないのに、アカウントが凍結された」",
+        "key_points": [
+            "異議申し立て",
+            "永久凍結",
+            "春のBAN祭り"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "❄️",
+                "title": "トラブル",
+                "description": "「朝起きたらTwitterが凍結されていて絶望する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "センシティブ",
+        "slug": "sensitive-content",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>閲覧注意</h3><p>性的、暴力的、または不快感を与える可能性のあるコンテンツ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「センシティブ」は、SNSで「センシティブな内容が含まれている可能性があるため表示できません」のように警告されるコンテンツです。</p><p>設定を変更しないと見られないようになっています。</p>",
+        "example": "「センシティブな画像として設定して投稿する」",
+        "key_points": [
+            "R-18",
+            "グロ注意",
+            "ワンクッション置くマナー"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔞",
+                "title": "設定",
+                "description": "「センシティブ解除の方法を検索する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "FF外",
+        "slug": "non-follower",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>フォロー・フォロワーの関係ではない</h3><p>お互いにフォローしていない関係。</p>",
+        "body": "<h3>詳しく解説</h3><p>「FF外（エフエフがい）」は、フォロー（Follow）・フォロワー（Follower）の関係ではない、つまり赤の他人のことです。</p><p>「FF外から失礼します」は、知らない人にリプライを送る際の挨拶として使われます（不要論もあります）。</p>",
+        "example": "「FF外から失礼します。その意見に共感しました」",
+        "key_points": [
+            "日本特有の謎マナー",
+            "「FF比」（フォローとフォロワーの比率）",
+            "FF内（相互フォロワー）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "👋",
+                "title": "挨拶",
+                "description": "「バズったツイートにFF外からリプを送る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "巻き込みリプ",
+        "slug": "unintended-reply",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>関係ない人を巻き込む返信</h3><p>リプライをする際、会話に関係ない第三者も宛先に含めてしまうこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「巻き込みリプ」は、Twitterなどで複数の宛先が入っていることに気づかず、関係ない人にも通知が行くようにリプライを送ってしまうことです。</p><p>迷惑行為とされるため、宛先の確認が必要です。</p>",
+        "example": "「巻き込みリプにご注意ください」",
+        "key_points": [
+            "通知がうるさい",
+            "「巻き込んでますよ」と指摘される",
+            "全員に返信ボタンの罠"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📢",
+                "title": "マナー",
+                "description": "「有名人へのリプで、元ツイート主を巻き込んで送信してしまう」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "クソリプ",
+        "slug": "toxic-reply",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>不快な返信</h3><p>見当違いな批判、暴言、自分語りなど、相手を不快にさせるリプライ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「クソリプ」は、SNSで送られてくる「クソ（役に立たない・不快な）なリプライ」のことです。論点のすり替え、上から目線のアドバイス、関係ない自分語りなどがあります。</p><p>「クソリプおじさん」という言葉もあります。</p>",
+        "example": "「クソリプが来て面倒くさいのでミュートした」",
+        "key_points": [
+            "スルー検定（無視するスキル）",
+            "FF外から失礼してクソリプ",
+            "言葉の通じない相手"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💩",
+                "title": "SNS疲れ",
+                "description": "「楽しかった投稿にクソリプがついて気分が下がる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "エアリプ",
+        "slug": "air-reply",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>宛先なしの返信</h3><p>特定の人へのメッセージだが、あえてリプライ機能を使わずに独り言のように投稿すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「エアリプ（空リプ）」は、直接リプライ機能を使わずに、タイムライン上で特定の人や話題について言及することです。</p><p>「今のあれ、私のことかな？」と相手に気づかせるテクニックとしても使われます。</p>",
+        "example": "「エアリプで文句を言う」",
+        "key_points": [
+            "察してちゃん",
+            "TLでの会話",
+            "陰口にも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🗣️",
+                "title": "コミュニケーション",
+                "description": "「友達のツイートを見て、リプせずに感想をエアリプでつぶやく」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "スペース",
+        "slug": "twitter-spaces",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>音声会話機能</h3><p>X（旧Twitter）上で、リアルタイムで音声会話ができる機能。</p>",
+        "body": "<h3>詳しく解説</h3><p>「スペース（Space）」は、X（旧Twitter）の機能で、ホストがルームを作成し、他のユーザーと音声で会話したり、リスナーとして聞いたりできる機能です。</p><p>「スペ」と略されます。</p>",
+        "example": "「夜にスペースを開いて雑談する」",
+        "key_points": [
+            "ラジオ感覚",
+            "聞き専（聞くだけの人）",
+            "アーカイブ（録音）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎙️",
+                "title": "夜ふかし",
+                "description": "「推しのスペースを聞きながら寝落ちする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "DM解放",
+        "slug": "dm-open",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>誰からでもメッセージ受信OK</h3><p>ダイレクトメッセージ（DM）を全てのユーザーから受信できるように設定すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「DM解放」は、フォローしていない相手からもDMを受け取れるように設定することです。仕事の依頼を受けたり、フォロワーと交流したりするために行います。</p><p>スパムメールが届くリスクもあります。</p>",
+        "example": "「仕事用アカウントなのでDM解放しています」",
+        "key_points": [
+            "FF外からのDM",
+            "設定画面で変更",
+            "勧誘に注意"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📨",
+                "title": "募集",
+                "description": "「質問箱の代わりにDMを解放して質問を受け付ける」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "バズる",
+        "slug": "go-viral",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>爆発的に拡散される</h3><p>SNSなどで、短期間に爆発的に話題になり拡散されること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「バズる」は、SNSでの投稿が多くの人に「いいね」やリツイート（リポスト）され、爆発的に拡散することです。「Buzz（蜂がブンブン飛ぶ音・噂話）」が語源です。</p><p>承認欲求が満たされる一方で、意図せず炎上する場合もあります。</p>",
+        "example": "「何気ないつぶやきがバズって通知が止まらない」",
+        "key_points": [
+            "万バズ（1万いいね以上）",
+            "宣伝（バズったら宣伝していい風潮）",
+            "通知の嵐"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📈",
+                "title": "驚き",
+                "description": "「朝起きたらツイートがバズっていてビビる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "炎上",
+        "slug": "online-flaming",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>批判が殺到する</h3><p>ネット上の発言や行動に対して、批判や誹謗中傷が殺到すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「炎上」は、不適切な発言や行動がSNSで拡散され、多くの人から批判や非難を浴びる状態です。</p><p>個人だけでなく、企業の広告やキャンペーンが炎上することもあります。</p>",
+        "example": "「バイトテロ動画が拡散されて大炎上した」",
+        "key_points": [
+            "デジタルタトゥー",
+            "特定班の出現",
+            "謝罪文"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔥",
+                "title": "ニュース",
+                "description": "「有名人の失言がまた炎上しているのを見る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "リツイート",
+        "slug": "retweet",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>再投稿</h3><p>他人の投稿を、自分のフォロワーに再投稿して拡散すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リツイート（RT）」は、Twitter（現X）で他人の投稿を拡散する機能です。現在は「リポスト（Repost）」と名称が変わりましたが、依然として「RT」と呼ばれることが多いです。</p><p>情報の拡散に役立ちます。</p>",
+        "example": "「面白い投稿を見つけたのでリツイートする」",
+        "key_points": [
+            "拡散希望",
+            "引用リツイート（コメント付き）",
+            "リポスト"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔁",
+                "title": "応援",
+                "description": "「推しの宣伝ツイートを脊髄反射でリツイートする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "フォロバ",
+        "slug": "follow-back",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>フォロー返し</h3><p>フォローしてくれた相手を、自分もフォローすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「フォロバ」は「フォローバック」の略で、フォローしてくれた相手に対して、お返しにフォローすることです。「フォロバ100%」は、フォローされたら必ずフォロバするという意味です。</p><p>相互フォロー（相互）になるための行為です。</p>",
+        "example": "「趣味が合いそうな人からフォローされたのでフォロバした」",
+        "key_points": [
+            "フォロバ目的",
+            "リムられたらリムる",
+            "相互フォロー"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤝",
+                "title": "交流",
+                "description": "「タグで繋がった人をフォロバして挨拶する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "リムる",
+        "slug": "unfollow",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>フォローを外す</h3><p>フォローしていた相手のフォローを解除すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リムる」は「リムーブ（Remove）」する、つまりフォローを外すことです。「リムられる」はフォローを外されることを指します。</p><p>「お別れはブロ解で」など、独特のマナーが存在することもあります。</p>",
+        "example": "「最近ツイートがつまらないのでリムった」",
+        "key_points": [
+            "リム通（リムーブ通知）",
+            "フォロワー整理",
+            "悲しい"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "👋",
+                "title": "整理",
+                "description": "「長期間動いていないアカウントを整理するためにリムる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ブロ解",
+        "slug": "block-unblock",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>ブロックしてすぐ解除</h3><p>相手をブロックし、すぐにブロックを解除することで、相互フォロー状態を強制的に解除する方法。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ブロ解（ぶろかい）」は、相手をブロックしてすぐに解除する行為です。これにより、相手からのフォローも外れるため、角を立てずに関係を断ちたい時に使われます。</p><p>「お別れはブロ解で」とプロフィールに書く人もいます。</p>",
+        "example": "「円満に縁を切りたいのでブロ解した」",
+        "key_points": [
+            "フォロー強制解除",
+            "気づかれないように",
+            "SNSの断捨離"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "✂️",
+                "title": "人間関係",
+                "description": "「喧嘩別れではなく静かに関係を終わりにするためにブロ解する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ネットリテラシー",
+        "slug": "digital-literacy",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>ネットを使う能力</h3><p>インターネットの情報を正しく理解し、適切に活用する能力。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ネットリテラシー」は、インターネット上の洪水のような情報から正しい情報を見極め、トラブルに巻き込まれないように適切に振る舞う能力です。</p><p>「ネチケット」は死語になりつつありますが、マナーは重要です。</p>",
+        "example": "「ネットリテラシーを高めて、デマに騙されないようにする」",
+        "key_points": [
+            "情報の真偽を見極める",
+            "個人情報の管理",
+            "誹謗中傷をしない"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🧠",
+                "title": "教育",
+                "description": "「怪しいサイトをクリックしないよう子供にネットリテラシーを教える」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "承認欲求",
+        "slug": "desire-for-approval",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>認められたい気持ち</h3><p>他人から認められたい、自分を価値ある存在だと思いたい欲求。</p>",
+        "body": "<h3>詳しく解説</h3><p>「承認欲求」は、他人に認められたいという欲求です。SNSの「いいね」やフォロワー数は、承認欲求を満たす手段になりやすく、依存してしまう人もいます。</p><p>モンスター化すると「承認欲求モンスター」と呼ばれます。</p>",
+        "example": "「承認欲求を満たすために、映える写真をアップする」",
+        "key_points": [
+            "マズローの欲求5段階説",
+            "SNS疲れの原因",
+            "自己肯定感"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💖",
+                "title": "心理",
+                "description": "「いいねの数ばかり気にしてしまい、自分の承認欲求の強さに気づく」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "匂わせ",
+        "slug": "hinting",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>恋人の存在をチラつかせる</h3><p>恋人がいることを直接言わずに、写真や文章でそれとなくアピールすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「匂わせ」は、SNSで恋人の手や服の一部が見切れた写真や、二人分のご飯の写真をアップするなどして、パートナーの存在をほのめかす行為です。</p><p>アイドルがこれをやると大炎上します。</p>",
+        "example": "「インスタのストーリーで彼氏とのデートを匂わせる」",
+        "key_points": [
+            "縦読み",
+            "お揃いのアクセサリー",
+            "ファンの監視の目は誤魔化せない"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "😏",
+                "title": "恋愛",
+                "description": "「直接言うのは恥ずかしいが誰かに気づいてほしいので匂わせ投稿をする」時"
+            }
+        ],
+        "is_published": true
+    }
+]

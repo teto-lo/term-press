@@ -8,7 +8,18 @@
         "slug": "manifesto",
         "body": "<h3>政権公約</h3><p>選挙の際に政党が掲げる、具体的な政策目標。「公約」との違いは、数値目標や期限が入っていること。</p>",
         "short_description": "<h3>政権公約。</h3>",
-        "example": "「マニフェスト選挙」"
+        "example": "「マニフェスト選挙」",
+        "key_points": [
+            "期限と財源を明示した政権公約",
+            "「やります」だけでなく「いつまでに、いくらかけてやります」と宣言するもの",
+            "当選後に検証可能である点が重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "政治",
+                "description": "「マニフェストの達成率をチェックする」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -19,7 +30,18 @@
         "slug": "populism",
         "body": "<h3>大衆迎合主義</h3><p>一般大衆の利益や権利を守ると主張し、既存のエリート層を攻撃する政治手法。</p>",
         "short_description": "<h3>大衆迎合。</h3>",
-        "example": "「ポピュリズムの台頭」"
+        "example": "「ポピュリズムの台頭」",
+        "key_points": [
+            "エリート vs 大衆という対立構造を作る政治手法",
+            "複雑な問題を単純化し、大衆に耳当たりの良いことを言う",
+            "扇動的になりやすく、民主主義を脅かすリスクもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "政治",
+                "description": "「あの政治家の発言はポピュリズムだ」と批判する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -30,7 +52,18 @@
         "slug": "liberal",
         "body": "<h3>革新派</h3><p>個人の自由や多様性を重視し、社会的な平等をめざす考え方。「保守（コンサバ）」の対義語。</p>",
         "short_description": "<h3>革新派。</h3>",
-        "example": "「リベラルな考え」"
+        "example": "「リベラルな考え」",
+        "key_points": [
+            "自由主義、革新派",
+            "現状を変えて、個人の自由や権利を拡大しようとする立場",
+            "「左派」と重なることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "思想",
+                "description": "「自分はリベラル寄りだ」と政治的スタンスを語る時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -41,7 +74,18 @@
         "slug": "conservative",
         "body": "<h3>伝統重視</h3><p>伝統や秩序を重視し、急激な変化を避ける考え方。「コンサバティブ」。</p>",
         "short_description": "<h3>伝統重視派。</h3>",
-        "example": "「保守層の支持」"
+        "example": "「保守層の支持」",
+        "key_points": [
+            "Conservative（保守的）",
+            "伝統、歴史、既存の社会秩序を守ろうとする立場",
+            "「右派」と重なることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ファッション",
+                "description": "「コンサバなファッションで好感度を狙う」時（政治以外での用法）"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -52,7 +96,18 @@
         "slug": "cabinet-decision",
         "body": "<h3>内閣の決定</h3><p>全閣僚の合意によって政府の方針を決めること。国会を通さずに決められることもある。</p>",
         "short_description": "<h3>政府の決定。</h3>",
-        "example": "「閣議決定される」"
+        "example": "「閣議決定される」",
+        "key_points": [
+            "内閣の意思決定",
+            "全会一致が原則",
+            "国会の審議を経ずに重要な方針が決まることもあるため、批判されることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「質問主意書に対する答弁書が閣議決定された」と報道される時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -63,7 +118,18 @@
         "slug": "dissolution-election",
         "body": "<h3>衆議院選挙</h3><p>総理大臣が衆議院を解散し、全議員を選び直す選挙。「伝家の宝刀」と呼ばれる。</p>",
         "short_description": "<h3>総選挙。</h3>",
-        "example": "「解散総選挙の時期」"
+        "example": "「解散総選挙の時期」",
+        "key_points": [
+            "衆議院の解散に伴う総選挙",
+            "首相が自分のタイミングで解散できるため「伝家の宝刀」と呼ばれる",
+            "「〇〇解散」とネーミングされるのが恒例"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "予想",
+                "description": "「年内の解散総選挙はあるか？」と政治談義する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -74,7 +140,18 @@
         "slug": "twisted-diet",
         "body": "<h3>衆参不一致</h3><p>衆議院と参議院で、多数派の政党が異なる状態。法案が通りにくくなる。</p>",
         "short_description": "<h3>衆参の不一致。</h3>",
-        "example": "「ねじれ国会の弊害」"
+        "example": "「ねじれ国会の弊害」",
+        "key_points": [
+            "衆議院と参議院で、与党と野党の多数派が逆転している状態",
+            "法案がなかなか成立しない（決められない政治）原因になる",
+            "衆議院で再可決するという強行手段もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "選挙後",
+                "description": "「参院選で与党が負けてねじれ国会になった」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -85,7 +162,18 @@
         "slug": "faction",
         "body": "<h3>党内グループ</h3><p>政党の中で、政策や利害を共有する議員のグループ。「派閥の論理」。</p>",
         "short_description": "<h3>党内グループ。</h3>",
-        "example": "「派閥解消」"
+        "example": "「派閥解消」",
+        "key_points": [
+            "同じ政党内のグループ",
+            "総裁選（党のトップ選び）での票読みや、ポスト（大臣など）の配分に影響する",
+            "「お金」と「人事」が派閥の力の源泉"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "政治",
+                "description": "「派閥の意向で大臣が決まるのはおかしい」と憤る時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -96,7 +184,18 @@
         "slug": "compliance-soc",
         "body": "<h3>法令遵守</h3><p>法律や社会的なルールを守ること。「コンプラ」。企業だけでなく、個人の行動にも求められる。</p>",
         "short_description": "<h3>法令遵守。</h3>",
-        "example": "「コンプラ違反」"
+        "example": "「コンプラ違反」",
+        "key_points": [
+            "Compliance（命令・要求に従うこと）",
+            "法令だけでなく、社会規範や倫理観を守ることも含む",
+            "「コンプラ的にアウト」はNGワード"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「その接待はコンプラ違反になる可能性がある」と警告する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -107,7 +206,18 @@
         "slug": "governance",
         "body": "<h3>統治</h3><p>組織を健全に管理・運営する仕組み。「コーポレート・ガバナンス（企業統治）」。</p>",
         "short_description": "<h3>組織の統治。</h3>",
-        "example": "「ガバナンスが効いていない」"
+        "example": "「ガバナンスが効いていない」",
+        "key_points": [
+            "Governance（統治、管理）",
+            "不正を防ぎ、企業価値を高めるための管理体制",
+            "「ガバナンスの欠如」は不祥事の原因になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "不祥事",
+                "description": "「トップの暴走を止められないのはガバナンスの問題だ」と言う時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -118,7 +228,18 @@
         "slug": "sdgs",
         "body": "<h3>持続可能な開発目標</h3><p>Sustainable Development Goals。2030年までに達成すべき17の国際目標。</p>",
         "short_description": "<h3>持続可能な目標。</h3>",
-        "example": "「SDGsバッジ」"
+        "example": "「SDGsバッジ」",
+        "key_points": [
+            "Sustainable Development Goals（持続可能な開発目標）",
+            "「誰一人取り残さない」をスローガンにした17の目標",
+            "カラフルな正方形のバッジをつけているビジネスマンが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企業アピール",
+                "description": "「弊社はSDGsに取り組んでいます」とアピールする時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -129,7 +250,18 @@
         "slug": "carbon-neutral",
         "body": "<h3>炭素中立</h3><p>温室効果ガスの排出量と吸収量をプラスマイナスゼロにすること。</p>",
         "short_description": "<h3>脱炭素。</h3>",
-        "example": "「2050年カーボンニュートラル」"
+        "example": "「2050年カーボンニュートラル」",
+        "key_points": [
+            "CO2の排出量と吸収量（森林などによる除去）を均衡させて実質ゼロにすること",
+            "気候変動対策の切り札",
+            "EV（電気自動車）シフトなどの背景"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "環境",
+                "description": "「カーボンニュートラルの実現には再生可能エネルギーが不可欠だ」と議論する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -140,7 +272,18 @@
         "slug": "sustainable",
         "body": "<h3>持続可能</h3><p>環境を破壊せず、将来にわたって続けていけること。「サステナブルな社会」。</p>",
         "short_description": "<h3>持続可能。</h3>",
-        "example": "「サステナブルファッション」"
+        "example": "「サステナブルファッション」",
+        "key_points": [
+            "Sustainable（維持できる、耐えうる）",
+            "環境保護と経済活動を両立させる考え方",
+            "「サステナブル素材（リサイクル素材など）」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "買い物",
+                "description": "「サステナブルな商品を選ぶようにしている」と意識高い系になる時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -151,7 +294,18 @@
         "slug": "diversity",
         "body": "<h3>多様性</h3><p>性別、人種、年齢など、多様な人材を受け入れること。「ダイバーシティ＆インクルージョン」。</p>",
         "short_description": "<h3>多様性。</h3>",
-        "example": "「ダイバーシティ推進」"
+        "example": "「ダイバーシティ推進」",
+        "key_points": [
+            "Diversity（多様性）",
+            "画一的な集団ではなく、多様な属性や価値観を持つ人が共存すること",
+            "イノベーションを生む土壌になるとされる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "職場",
+                "description": "「我が社はダイバーシティを推進し、外国籍社員も積極的に採用する」と宣言する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -162,7 +316,18 @@
         "slug": "gender",
         "body": "<h3>社会的性差</h3><p>身体的な性別ではなく、社会や文化によって作られた性別の役割。「ジェンダー平等」。</p>",
         "short_description": "<h3>社会的性差。</h3>",
-        "example": "「ジェンダーレス」"
+        "example": "「ジェンダーレス」",
+        "key_points": [
+            "生物学的な性（Sex）ではなく、社会的・文化的な性別（Gender）",
+            "「男らしさ」「女らしさ」の押し付けなど",
+            "ジェンダーギャップ指数で日本はいつも低い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "議論",
+                "description": "「それはジェンダーバイアスがかかった見方だ」と指摘する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -173,7 +338,18 @@
         "slug": "lgbtq",
         "body": "<h3>性的マイノリティ</h3><p>Lesbian, Gay, Bisexual, Transgender, Queer/Questioningの総称。</p>",
         "short_description": "<h3>性的マイノリティ。</h3>",
-        "example": "「LGBTQ支援」"
+        "example": "「LGBTQ支援」",
+        "key_points": [
+            "性的少数者の総称",
+            "QはQueer（クイア）またはQuestioning（自分の性を決めかねている人）",
+            "レインボーフラッグがシンボル"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "イベント",
+                "description": "「レインボープライド（パレード）に参加して多様性を祝う」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -184,7 +360,18 @@
         "slug": "suspended-sentence",
         "body": "<h3>刑の先送り</h3><p>有罪判決を受けても、一定期間悪いことをしなければ刑務所に行かなくて済む制度。</p>",
         "short_description": "<h3>刑務所回避のチャンス。</h3>",
-        "example": "「執行猶予付き判決」"
+        "example": "「執行猶予付き判決」",
+        "key_points": [
+            "刑の執行を一定期間待ってくれる制度",
+            "猶予期間中に犯罪を犯さなければ、刑の言い渡しは無効になる（刑務所に行かなくていい）",
+            "「実刑」は即刑務所行き"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「初犯なので執行猶予がつくと予想される」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -195,7 +382,18 @@
         "slug": "non-prosecution",
         "body": "<h3>裁判なし</h3><p>検察官が、裁判にかける必要がない（または証拠不十分）と判断すること。前科はつかない。</p>",
         "short_description": "<h3>裁判回避。</h3>",
-        "example": "「不起訴処分」"
+        "example": "「不起訴処分」",
+        "key_points": [
+            "検察官が起訴（裁判にかけること）をしない処分",
+            "「嫌疑不十分」や「起訴猶予（罪は認めるが反省してるので許す）」などがある",
+            "前科はつかないが、前歴は残る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "逮捕後",
+                "description": "「示談が成立して不起訴になった」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -206,7 +404,18 @@
         "slug": "settlement",
         "body": "<h3>話し合い解決</h3><p>裁判によらず、当事者同士の話し合いでお金などを払って解決すること。</p>",
         "short_description": "<h3>話し合いで解決。</h3>",
-        "example": "「示談金」"
+        "example": "「示談金」",
+        "key_points": [
+            "当事者間の合意による解決",
+            "被害届を取り下げてもらう条件として示談金を払うことが多い",
+            "「お金で解決した」と言われることもあるが、早期解決のメリットもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「弁護士を入れて示談交渉を行う」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -217,7 +426,18 @@
         "slug": "civil-litigation",
         "body": "<h3>個人の争い</h3><p>お金の貸し借りや離婚など、個人間の争いを解決する裁判。警察は介入しない。</p>",
         "short_description": "<h3>個人間の裁判。</h3>",
-        "example": "「民事で訴える」"
+        "example": "「民事で訴える」",
+        "key_points": [
+            "私人と私人の争いを解決する裁判",
+            "賠償金や慰謝料の支払いを命じる判決が出る",
+            "「民事不介入」原則により警察は手を出せない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「話し合いで解決しないので民事訴訟を起こす」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -228,7 +448,18 @@
         "slug": "criminal-litigation",
         "body": "<h3>犯罪の裁判</h3><p>犯罪を犯した人を処罰するための裁判。検察官 vs 被告人。</p>",
         "short_description": "<h3>犯罪の裁判。</h3>",
-        "example": "「刑事責任を問う」"
+        "example": "「刑事責任を問う」",
+        "key_points": [
+            "国家が犯罪者を裁く裁判",
+            "有罪になれば刑罰（懲役や罰金）が科される",
+            "「疑わしきは罰せず」が原則"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「刑事裁判が始まり、被告は無罪を主張した」と聞く時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -239,7 +470,18 @@
         "slug": "basic-income",
         "body": "<h3>最低所得保障</h3><p>政府がすべての国民に、無条件で一定額のお金を配る制度。</p>",
         "short_description": "<h3>全国民一律給付。</h3>",
-        "example": "「ベーシックインカム導入論」"
+        "example": "「ベーシックインカム導入論」",
+        "key_points": [
+            "最低限の生活費を一律給付する構想",
+            "「働かなくなる人が増える」「貧困対策になる」など賛否両論",
+            "AIに仕事を奪われた未来の社会システムとして注目されている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "未来",
+                "description": "「働きたくないから早くベーシックインカム導入してほしい」と願う時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -250,7 +492,18 @@
         "slug": "furusato-tax",
         "body": "<h3>寄付</h3><p>応援したい自治体に寄付ができる制度。返礼品がもらえる上、税金が控除される。</p>",
         "short_description": "<h3>お得な寄付。</h3>",
-        "example": "「ふるさと納税で節税」"
+        "example": "「ふるさと納税で節税」",
+        "key_points": [
+            "実質2000円の負担で、各地の特産品（肉、カニ、果物など）がもらえる制度",
+            "本来住んでいる場所に払う住民税を、他の自治体に寄付する仕組み",
+            "年末のサラリーマンの楽しみかつ義務（？）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "年末",
+                "description": "「駆け込みでふるさと納税をする」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -261,7 +514,18 @@
         "slug": "nisa",
         "body": "<h3>少額投資非課税制度</h3><p>投資で出た利益に税金がかからない制度。「つみたてNISA」など。</p>",
         "short_description": "<h3>非課税投資。</h3>",
-        "example": "「新NISA」"
+        "example": "「新NISA」",
+        "key_points": [
+            "Nippon Individual Savings Account",
+            "通常約20%かかる投資利益への税金がゼロになる神制度",
+            "「貯蓄から投資へ」の流れで大幅に拡充された（新NISA）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "資産形成",
+                "description": "「とりあえずS&P500のインデックスファンドをNISAで買う」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -272,7 +536,18 @@
         "slug": "ideco",
         "body": "<h3>個人型確定拠出年金</h3><p>自分で年金を作る制度。掛け金が全額所得控除になるなど節税効果が高い。</p>",
         "short_description": "<h3>自分年金。</h3>",
-        "example": "「iDeCoを始める」"
+        "example": "「iDeCoを始める」",
+        "key_points": [
+            "老後資金を自分で作るための私的年金",
+            "掛け金が全額所得控除（節税）になる最強のメリットがある",
+            "原則60歳まで引き出せないのがデメリット（資金拘束）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "老後",
+                "description": "「老後2000万円問題に備えてiDeCoをやる」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -283,7 +558,18 @@
         "slug": "my-number",
         "body": "<h3>個人番号</h3><p>日本に住民票があるすべての人に割り当てられる12桁の番号。</p>",
         "short_description": "<h3>国民総背番号。</h3>",
-        "example": "「マイナンバーカード」"
+        "example": "「マイナンバーカード」",
+        "key_points": [
+            "行政手続きの効率化のために導入された共通番号",
+            "マイナンバーカード取得は任意だが、保険証との一体化などで事実上の義務化へ",
+            "「ポイントもらえるから作った」という人も多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "役所",
+                "description": "「マイナンバーカードでコンビニ交付をする」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -294,7 +580,18 @@
         "slug": "dx-soc",
         "body": "<h3>デジタルトランスフォーメーション</h3><p>デジタル技術を使って、生活やビジネスをより良いものに変革すること。</p>",
         "short_description": "<h3>デジタル変革。</h3>",
-        "example": "「行政のDX」"
+        "example": "「行政のDX」",
+        "key_points": [
+            "Digital Transformation",
+            "単なるIT化（守り）ではなく、デジタル技術前提でビジネスモデルや組織を変革すること（攻め）",
+            "「ハンコ廃止」などもその一環"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「DX推進担当に任命されたが何をしていいか分からない」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -305,7 +602,18 @@
         "slug": "inbound-tourism",
         "body": "<h3>訪日外国人</h3><p>外国から日本へ来る旅行者のこと。観光公害（オーバーツーリズム）も問題に。</p>",
         "short_description": "<h3>外国人観光客。</h3>",
-        "example": "「インバウンド需要」"
+        "example": "「インバウンド需要」",
+        "key_points": [
+            "訪日外国人観光客のこと",
+            "円安などの影響で爆買いや観光消費が期待される（外貨獲得）",
+            "京都などの観光地ではバスに乗れないなどの弊害も"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "観光",
+                "description": "「インバウンド価格（外国人向けの超高額メニュー）に驚く」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -316,7 +624,18 @@
         "slug": "stakeholder",
         "body": "<h3>利害関係者</h3><p>企業の活動に関わるすべての人（株主、従業員、顧客、取引先、地域社会）。</p>",
         "short_description": "<h3>利害関係者。</h3>",
-        "example": "「ステークホルダーへの説明」"
+        "example": "「ステークホルダーへの説明」",
+        "key_points": [
+            "企業の活動によって影響を受ける人たち全般",
+            "株主（Shareholder）だけでなく、もっと広い範囲を指す",
+            "「ステークホルダー資本主義（株主利益だけでなく全体の利益を考える）」が注目されている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「あらゆるステークホルダーに配慮した経営」を掲げる時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -327,7 +646,18 @@
         "slug": "csr",
         "body": "<h3>企業の社会的責任</h3><p>Corporate Social Responsibility。企業が利益追求だけでなく、社会に貢献する責任。</p>",
         "short_description": "<h3>企業の社会貢献。</h3>",
-        "example": "「CSR活動」"
+        "example": "「CSR活動」",
+        "key_points": [
+            "企業の社会的責任",
+            "環境保護活動や地域貢献活動など、本業以外の社会貢献活動を指すことが多い",
+            "最近はCSV（共通価値の創造）やSDGsに発展している"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企業サイト",
+                "description": "「CSRレポートで植林活動などをアピールする」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -338,7 +668,18 @@
         "slug": "cult",
         "body": "<h3>熱狂的集団</h3><p>特定の対象を熱狂的に崇拝する宗教団体や政治団体。反社会的な活動をすることがある。</p>",
         "short_description": "<h3>熱狂的集団。</h3>",
-        "example": "「カルト問題」"
+        "example": "「カルト問題」",
+        "key_points": [
+            "カリスマ的指導者を絶対視し、外部社会と隔絶した集団",
+            "マインドコントロールによって信者を支配する",
+            "オカルト（超常現象）とは別物"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "警戒",
+                "description": "「大学のサークル勧誘の中にカルトが混じっている」と注意喚起する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -349,7 +690,18 @@
         "slug": "propaganda",
         "body": "<h3>政治宣伝</h3><p>特定の考えを人々に植え付けるための宣伝活動。</p>",
         "short_description": "<h3>政治宣伝。</h3>",
-        "example": "「戦時中のプロパガンダ」"
+        "example": "「戦時中のプロパガンダ」",
+        "key_points": [
+            "特定の政治的思想世論へ誘導するための宣伝",
+            "情報操作やフェイクニュースも利用される",
+            "「大本営発表」は典型的なプロパガンダ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "見極め",
+                "description": "「この映画は国威発揚のためのプロパガンダではないか」と疑う時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -360,7 +712,18 @@
         "slug": "sontaku",
         "body": "<h3>推し量る</h3><p>相手の気持ちを推し量って行動すること。政治の世界では悪い意味で使われることが多い。</p>",
         "short_description": "<h3>空気を読む（政治）。</h3>",
-        "example": "「官僚の忖度」"
+        "example": "「官僚の忖度」",
+        "key_points": [
+            "他人の内心を推し量ること",
+            "本来は奥ゆかしい気配りを意味する言葉だったが、某学園問題で「上の意向を察して不正をする」という悪い意味で定着した",
+            "「忖度まんじゅう」が売られたことも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "組織",
+                "description": "「上司に忖度して誰も反対意見を言えない」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -371,7 +734,18 @@
         "slug": "exclusivism",
         "body": "<h3>仲間以外排除</h3><p>自分たちの仲間以外を排除しようとする考え方。「排外主義」。</p>",
         "short_description": "<h3>よそ者排除。</h3>",
-        "example": "「排他的なコミュニティ」"
+        "example": "「排他的なコミュニティ」",
+        "key_points": [
+            "外部の人間や異質なものを排除しようとする態度",
+            "移民排斥運動などはこれにあたる",
+            "内輪だけで固まること"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "コミュニティ",
+                "description": "「古参ユーザーが排他的で新規が入りにくい」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -382,7 +756,18 @@
         "slug": "globalism",
         "body": "<h3>地球規模化</h3><p>世界を一つの共同体として捉え、人やモノの移動を自由にしようとする考え方。</p>",
         "short_description": "<h3>世界一体化。</h3>",
-        "example": "「反グローバリズム」"
+        "example": "「反グローバリズム」",
+        "key_points": [
+            "ヒト・モノ・カネ・情報が国境を越えて自由に行き来する考え方",
+            "経済効率は上がるが、格差の拡大や文化の均質化などの副作用もある",
+            "「トランプ現象」などは反グローバリズムの一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "議論",
+                "description": "「グローバリズムの弊害について議論する」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -393,7 +778,18 @@
         "slug": "nationalism",
         "body": "<h3>国家主義</h3><p>自国の利益や文化を統一・保持しようとする考え方。「愛国心」とも重なるが、排他的になることもある。</p>",
         "short_description": "<h3>国家主義。</h3>",
-        "example": "「ナショナリズムの高揚」"
+        "example": "「ナショナリズムの高揚」",
+        "key_points": [
+            "国家・民族の統一や独立、発展を推し進めようとする思想",
+            "ポジティブな愛国心として現れることもあれば、排外的な攻撃性として現れることもある",
+            "オリンピックなどで高揚しやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スポーツ",
+                "description": "「ワールドカップでナショナリズムが爆発する」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -404,7 +800,18 @@
         "slug": "literacy-soc",
         "body": "<h3>読み解く力</h3><p>情報を正しく理解し、活用する能力。「メディア・リテラシー」「金融リテラシー」。</p>",
         "short_description": "<h3>活用能力。</h3>",
-        "example": "「リテラシーが低い」"
+        "example": "「リテラシーが低い」",
+        "key_points": [
+            "読み書き能力が原義",
+            "特定の分野の知識を理解し活用する能力",
+            "「ネットリテラシー（ネット情報の真偽を見抜く力）」が現代人には必須"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ネット",
+                "description": "「デマを拡散するのはリテラシーが低い証拠だ」と呆れる時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -415,7 +822,18 @@
         "slug": "bias-soc",
         "body": "<h3>偏り</h3><p>偏見や先入観。「確証バイアス（自分に都合の良い情報ばかり集めること）」。</p>",
         "short_description": "<h3>偏見、偏り。</h3>",
-        "example": "「バイアスがかかる」"
+        "example": "「バイアスがかかる」",
+        "key_points": [
+            "Bias（偏り、斜め）",
+            "思考や判断の偏り、先入観",
+            "「無意識のバイアス（Unconscious Bias）」に気づくことが重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "判断",
+                "description": "「その意見にはバイアスがかかっている」と指摘する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -426,7 +844,18 @@
         "slug": "stereotype",
         "body": "<h3>紋切り型</h3><p>「〇〇人は××だ」といった、固定化されたイメージ。</p>",
         "short_description": "<h3>固定観念。</h3>",
-        "example": "「ステレオタイプな見方」"
+        "example": "「ステレオタイプな見方」",
+        "key_points": [
+            "多くの人に浸透している固定観念や偏見",
+            "「血液型占い」も一種のステレオタイプ",
+            "型にはめて考えると楽だが、個々の本質を見誤る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "批判",
+                "description": "「関西人＝面白いというのはステレオタイプだ」と反論する時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -437,7 +866,18 @@
         "slug": "peer-pressure",
         "body": "<h3>空気読め</h3><p>集団の中で、他の人と同じ行動をするように無言で強制されること。</p>",
         "short_description": "<h3>みんな一緒じゃなきゃダメ。</h3>",
-        "example": "「同調圧力に屈する」"
+        "example": "「同調圧力に屈する」",
+        "key_points": [
+            "集団において、少数意見を持つ人に対して、周囲と同じ行動をとるよう無言の圧力をかけること",
+            "日本社会の得意技であり、生きづらさの根源",
+            "「マスク警察」などもこれ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "職場",
+                "description": "「定時で帰りたいのに、誰も帰らないという同調圧力」を感じる時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -448,7 +888,18 @@
         "slug": "mounting",
         "body": "<h3>格付け</h3><p>自分の方が優位であることを示そうとすること。「マウントを取る」。</p>",
         "short_description": "<h3>優位性アピール。</h3>",
-        "example": "「学歴マウント」"
+        "example": "「学歴マウント」",
+        "key_points": [
+            "本来は動物が相手に乗りかかって優位を示す行動",
+            "人間界では、言葉の端々で「私の方がすごい/幸せだ」とアピールすること",
+            "「マウントを取る」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "女子会",
+                "description": "「さりげない彼氏自慢でマウンティング合戦が始まる」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -459,7 +910,18 @@
         "slug": "desire-for-approval",
         "body": "<h3>認められたい</h3><p>他人から認められたい、尊敬されたいという欲求。SNSで顕著。</p>",
         "short_description": "<h3>認められたい欲。</h3>",
-        "example": "「承認欲求モンスター」"
+        "example": "「承認欲求モンスター」",
+        "key_points": [
+            "他人から評価されたい、認められたいという欲求",
+            "マズローの欲求段階説の4段階目",
+            "SNSの「いいね」は承認欲求を満たす装置"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「承認欲求を満たすために映え写真を投稿する」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -470,7 +932,18 @@
         "slug": "self-esteem",
         "body": "<h3>自分への自信</h3><p>自分の存在や価値を肯定できる感覚。「自己肯定感が低い」。</p>",
         "short_description": "<h3>自分への自信。</h3>",
-        "example": "「自己肯定感を高める」"
+        "example": "「自己肯定感を高める」",
+        "key_points": [
+            "ありのままの自分を肯定する感覚",
+            "これが低いと生きるのが辛くなる",
+            "「自己肯定感を高める」が現代のホットワード"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "メンタル",
+                "description": "「失敗続きで自己肯定感が底辺まで下がる」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -481,7 +954,18 @@
         "slug": "coworking",
         "body": "<h3>共有オフィス</h3><p>事務所を持たず、共有のスペースで仕事をすること。「コワーキングスペース」。</p>",
         "short_description": "<h3>共有オフィス。</h3>",
-        "example": "「コワーキングで作業」"
+        "example": "「コワーキングで作業」",
+        "key_points": [
+            "Co（共に）Working（働く）",
+            "フリーランスやリモートワーカーが共有オフィスで働くスタイル",
+            "利用者同士の交流（コミュニティ）が生まれるのが特徴"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「カフェだと長居しにくいからコワーキングスペースを契約する」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -492,7 +976,18 @@
         "slug": "minimalist",
         "body": "<h3>最小限主義者</h3><p>持ち物をできるだけ減らし、必要最小限のもので暮らす人。</p>",
         "short_description": "<h3>持たない暮らし。</h3>",
-        "example": "「ミニマリスト生活」"
+        "example": "「ミニマリスト生活」",
+        "key_points": [
+            "Minimal（最小限）の持ち物で暮らす人",
+            "「断捨離」の究極形",
+            "モノを減らすことで心の豊かさを得ようとするライフスタイル"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "生活",
+                "description": "「ミニマリストに憧れて部屋の物を全部捨てたら不便になった」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -503,7 +998,18 @@
         "slug": "fire",
         "body": "<h3>早期リタイア</h3><p>Financial Independence, Retire Early。経済的自立と早期退職。</p>",
         "short_description": "<h3>早期リタイア。</h3>",
-        "example": "「FIREを目指す」"
+        "example": "「FIREを目指す」",
+        "key_points": [
+            "Financial Independence, Retire Early（経済的自立と早期退職）",
+            "投資の運用益などで生活費を賄い、定年前に引退すること",
+            "若者の憧れのライフスタイルだが、暴落時が怖い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "資産運用",
+                "description": "「不労所得でFIREして南の島で暮らしたい」と夢見る時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -514,7 +1020,18 @@
         "slug": "parent-gacha",
         "body": "<h3>生まれの運</h3><p>どんな親の元に生まれるかは運次第であり、それによって人生が決まるという考え。</p>",
         "short_description": "<h3>親は選べない。</h3>",
-        "example": "「親ガチャ失敗」"
+        "example": "「親ガチャ失敗」",
+        "key_points": [
+            "「親は選べない」ことを、スマホゲームのガチャに例えた言葉",
+            "経済力や容姿、虐待の有無など、本人の努力ではどうにもならない格差を表す",
+            "「ハズレ」を引くと人生ハードモード"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "嘆き",
+                "description": "「金持ちの家に生まれたかった…親ガチャ失敗だ」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -525,7 +1042,18 @@
         "slug": "toxic-parents",
         "body": "<h3>悪影響な親</h3><p>子供に悪影響を及ぼす親。過干渉、ネグレクト、暴力など。</p>",
         "short_description": "<h3>子供に害のある親。</h3>",
-        "example": "「毒親育ち」"
+        "example": "「毒親育ち」",
+        "key_points": [
+            "Toxic Parents（毒になる親）",
+            "支配的、暴力的、過干渉など、子供の人生に害悪を及ぼす親",
+            "「毒親から逃げる（絶縁する）」ことも選択肢"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "相談",
+                "description": "「母からの着信を見るだけで動悸がする、あれは毒親だ」と気づく時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -536,7 +1064,18 @@
         "slug": "young-carer",
         "body": "<h3>介護する子供</h3><p>本来は大人が担うような家事や家族の世話を日常的に行っている子供。</p>",
         "short_description": "<h3>家族の世話をする子供。</h3>",
-        "example": "「ヤングケアラー支援」"
+        "example": "「ヤングケアラー支援」",
+        "key_points": [
+            "家族（親や祖父母、きょうだい）の介護や世話を担う18歳未満の子供",
+            "学業や友人関係、就職に支障が出ることが社会問題化している",
+            "家庭内の問題として見えにくい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "学校",
+                "description": "「家事と介護で勉強する時間がなく、進学を諦める」時"
+            }
+        ]
     },
     {
         "category_slug": "society",
@@ -547,6 +1086,17 @@
         "slug": "8050-problem",
         "body": "<h3>高齢引きこもり</h3><p>80代の親が、50代の引きこもりの子供を支えている問題。</p>",
         "short_description": "<h3>高齢親子問題。</h3>",
-        "example": "「8050問題の深刻化」"
+        "example": "「8050問題の深刻化」",
+        "key_points": [
+            "80代の親と50代の引きこもりの子が同居し、社会から孤立する問題",
+            "親が亡くなると子の生活が破綻する",
+            "長期化した引きこもりの末路"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「孤独死した高齢者の横で50代の息子が衰弱していた」という事件を聞く時"
+            }
+        ]
     }
 ]

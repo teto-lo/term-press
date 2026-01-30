@@ -8,7 +8,18 @@
         "slug": "3pl",
         "body": "<h3>物流一括受託</h3><p>Third Party Logistics。荷主でも運送業者でもない第三者が、物流業務全体を一括して請け負うこと。</p>",
         "short_description": "<h3>物流のアウトソーシング。</h3>",
-        "example": "「3PL事業者」"
+        "example": "「3PL事業者」",
+        "key_points": [
+            "物流業務を丸ごとプロに任せること",
+            "自社で倉庫やトラックを持たなくて済む",
+            "3PL事業者は物流のコンサルティングも行う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「3PLに委託して物流コストを削減する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -19,7 +30,18 @@
         "slug": "last-one-mile",
         "body": "<h3>最後の区間</h3><p>配送センターから顧客の家までの最後の配送区間。最もコストがかかり、効率化が難しい。</p>",
         "short_description": "<h3>配送の最終区間。</h3>",
-        "example": "「ラストワンマイル問題」"
+        "example": "「ラストワンマイル問題」",
+        "key_points": [
+            "顧客に届ける最後の接点",
+            "再配達が大きな社会問題（ドライバーの負担増）になっている",
+            "ドローンやロボット配送の主戦場"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "通販",
+                "description": "「置き配を利用してラストワンマイルの負担を減らす」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -30,7 +52,18 @@
         "slug": "modal-shift",
         "body": "<h3>輸送手段転換</h3><p>トラック輸送から、鉄道や船など、環境負荷の少ない輸送手段に切り替えること。</p>",
         "short_description": "<h3>エコな輸送へ。</h3>",
-        "example": "「政府推奨のモーダルシフト」"
+        "example": "「政府推奨のモーダルシフト」",
+        "key_points": [
+            "トラックから鉄道や船へ切り替えること",
+            "CO2削減とドライバー不足解消の一石二鳥",
+            "JR貨物への期待が高まっている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "環境",
+                "description": "「SDGsの観点からモーダルシフトを推進する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -41,7 +74,18 @@
         "slug": "cross-docking",
         "body": "<h3>積み替え</h3><p>入荷した荷物を倉庫に保管せず、すぐに行き先別に仕分けして出荷する方法。</p>",
         "short_description": "<h3>通過型物流。</h3>",
-        "example": "「クロスドック方式」"
+        "example": "「クロスドック方式」",
+        "key_points": [
+            "在庫を持たずに、右から左へ流す物流方式",
+            "保管コストがかからず、鮮度が重要な食品などで使われる",
+            "TC（トランスファーセンター）と呼ばれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "物流",
+                "description": "「生鮮食品をクロスドッキングで素早く店舗に届ける」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -52,7 +96,18 @@
         "slug": "material-handling",
         "body": "<h3>物流機器</h3><p>Material Handling。フォークリフト、コンベア、自動倉庫など、モノを運ぶための機械類。</p>",
         "short_description": "<h3>運ぶ機械。</h3>",
-        "example": "「マテハン機器導入」"
+        "example": "「マテハン機器導入」",
+        "key_points": [
+            "物流センターで活躍する機械たち",
+            "最近はAGV（無人搬送車）やロボットアームが人気",
+            "ダイフクなどのメーカーが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設備投資",
+                "description": "「最新のマテハン機器を導入して省人化を図る」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -63,7 +118,18 @@
         "slug": "pallet",
         "body": "<h3>荷台</h3><p>荷物を載せるための台。フォークリフトで運ぶ。「パレ積み」「パレ降ろし」。</p>",
         "short_description": "<h3>荷物を載せる台。</h3>",
-        "example": "「11型パレット」"
+        "example": "「11型パレット」",
+        "key_points": [
+            "物流の基本単位となる台座",
+            "「イチイチ（1100mm×1100mm）」が標準サイズだが、業界によってバラバラで困っている",
+            "手積み手降ろし（バラ積み）はドライバー殺し"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「パレ積み指定だから楽勝だ」とドライバーが喜ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -74,7 +140,18 @@
         "slug": "devanning",
         "body": "<h3>荷出し</h3><p>コンテナから荷物を取り出す作業。「デバン」。夏場のデバンは地獄。</p>",
         "short_description": "<h3>コンテナからの荷出し。</h3>",
-        "example": "「デバン作業」"
+        "example": "「デバン作業」",
+        "key_points": [
+            "コンテナから荷物を手作業で降ろすこと",
+            "真夏のコンテナ内は50度を超えるサウナ状態",
+            "腰をやる作業No.1"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "バイト",
+                "description": "「デバンのバイトを1日でバックれる」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -85,7 +162,18 @@
         "slug": "vanning",
         "body": "<h3>荷積み</h3><p>コンテナに荷物を詰め込む作業。隙間なく詰める技術が必要。</p>",
         "short_description": "<h3>コンテナへの荷積み。</h3>",
-        "example": "「バンニングプラン」"
+        "example": "「バンニングプラン」",
+        "key_points": [
+            "コンテナにテトリスのように荷物を詰め込むこと",
+            "積み方を間違えると荷崩れしたり、入り切らなかったりする",
+            "「バン詰め」とも言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "輸出",
+                "description": "「バンニングプランを作成して効率よく積む」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -96,7 +184,18 @@
         "slug": "picking",
         "body": "<h3>取り出し</h3><p>注文伝票に従って、倉庫の棚から商品を集める作業。</p>",
         "short_description": "<h3>商品集め。</h3>",
-        "example": "「ピッキングミス」"
+        "example": "「ピッキングミス」",
+        "key_points": [
+            "倉庫内を歩き回って商品を集める作業",
+            "最近はロボットが棚ごと持ってきてくれる倉庫（GTP）も増えた",
+            "万引きの手口（Pickpocketing）とは違う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "倉庫",
+                "description": "「デジタルピッキングシステムでランプが光った場所の商品を取る」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -107,7 +206,18 @@
         "slug": "assort",
         "body": "<h3>仕分け</h3><p>ピッキングした商品を、配送先ごとに仕分ける作業。</p>",
         "short_description": "<h3>配送先別仕分け。</h3>",
-        "example": "「アソートシステム」"
+        "example": "「アソートシステム」",
+        "key_points": [
+            "集めた商品を、さらに店別や個人別に分ける作業",
+            "「種まき方式」とも呼ばれる",
+            "ここを間違えると誤配送になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "倉庫",
+                "description": "「アソーター（自動仕分け機）で高速に仕分ける」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -118,7 +228,18 @@
         "slug": "inspection-log",
         "body": "<h3>確認</h3><p>商品が破損していないか、種類や数量が合っているか確認する作業。</p>",
         "short_description": "<h3>商品確認。</h3>",
-        "example": "「入荷検品」"
+        "example": "「入荷検品」",
+        "key_points": [
+            "入荷時と出荷時に行うチェック",
+            "バーコードスキャンで行うのが一般的",
+            "目視検品はヒューマンエラーの温床"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「検品で見落としがあってクレームになる」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -129,7 +250,18 @@
         "slug": "wms",
         "body": "<h3>倉庫管理システム</h3><p>Warehouse Management System。在庫の入出荷や保管場所を管理するシステム。</p>",
         "short_description": "<h3>倉庫システム。</h3>",
-        "example": "「WMS導入の効果」"
+        "example": "「WMS導入の効果」",
+        "key_points": [
+            "倉庫の頭脳",
+            "「どこに・何が・いくつあるか」をリアルタイムで把握する",
+            "これがないと広い倉庫ではモノが見つからなくなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "DX",
+                "description": "「WMSを入替えて在庫精度を向上させる」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -140,7 +272,18 @@
         "slug": "tms",
         "body": "<h3>輸配送管理システム</h3><p>Transport Management System。トラックの配車やルートを最適化するシステム。</p>",
         "short_description": "<h3>配車システム。</h3>",
-        "example": "「TMSで効率化」"
+        "example": "「TMSで効率化」",
+        "key_points": [
+            "配送の最適化システム",
+            "「どのトラックで・どのルートで・何を運ぶか」を自動計算する",
+            "ベテラン配車マンの頭の中をシステム化するもの"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配車",
+                "description": "「TMSが弾き出したルートが現実的じゃないとドライバーが怒る」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -151,7 +294,18 @@
         "slug": "sku",
         "body": "<h3>在庫管理単位</h3><p>Stock Keeping Unit。色やサイズごとの最小の管理単位。「Sサイズ赤」と「Mサイズ赤」は別SKU。</p>",
         "short_description": "<h3>商品管理の最小単位。</h3>",
-        "example": "「SKU数が増える」"
+        "example": "「SKU数が増える」",
+        "key_points": [
+            "在庫管理の最小単位",
+            "同じ商品でもサイズや色が違えば別SKU",
+            "SKU数が多すぎると管理が大変になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "EC",
+                "description": "「SKUごとに商品画像を登録するのが面倒だ」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -162,7 +316,18 @@
         "slug": "teu",
         "body": "<h3>コンテナ単位</h3><p>20フィートコンテナ換算個数。コンテナ船の積載能力などを表す。</p>",
         "short_description": "<h3>コンテナの数え方。</h3>",
-        "example": "「2万TEUの巨大船」"
+        "example": "「2万TEUの巨大船」",
+        "key_points": [
+            "Twenty-foot Equivalent Unit",
+            "20フィートコンテナ1個分を1TEUと数える",
+            "40フィートコンテナは2TEU"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "海運",
+                "description": "「世界最大のコンテナ船は何万TEU積めるか」という話をする時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -173,7 +338,18 @@
         "slug": "incoterms",
         "body": "<h3>貿易条件</h3><p>国際貿易における、運賃やリスク負担のルール。「FOB」「CIF」など。</p>",
         "short_description": "<h3>貿易のルール。</h3>",
-        "example": "「最新のインコタームズ」"
+        "example": "「最新のインコタームズ」",
+        "key_points": [
+            "国際商工会議所（ICC）が定めた貿易取引条件の国際基準",
+            "「どこまで売主が負担して、どこから買主が負担するか」を決めたもの",
+            "定期的に改定される（2020年版など）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "貿易",
+                "description": "「契約書でインコタームズを確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -184,7 +360,18 @@
         "slug": "fob",
         "body": "<h3>本船渡し</h3><p>Free On Board。輸出側の港で船に荷物を載せた時点で、責任が輸入側に移る条件。</p>",
         "short_description": "<h3>船積み渡し。</h3>",
-        "example": "「FOB価格」"
+        "example": "「FOB価格」",
+        "key_points": [
+            "船に乗せるまでは売主の責任、乗ってからは買主の責任",
+            "貿易実務で最もよく使われる条件の一つ",
+            "買主が運賃と保険料を払う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "見積もり",
+                "description": "「FOB価格で見積もりをもらう」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -195,7 +382,18 @@
         "slug": "cif",
         "body": "<h3>運賃保険料込み</h3><p>Cost, Insurance and Freight。輸出側が、輸入側の港までの運賃と保険料を負担する条件。</p>",
         "short_description": "<h3>到着港渡し条件。</h3>",
-        "example": "「CIF契約」"
+        "example": "「CIF契約」",
+        "key_points": [
+            "売主が運賃と保険料込みで請求する条件",
+            "「シフ」と呼ぶ",
+            "輸入側にとっては計算が楽"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "契約",
+                "description": "「CIFなら日本の港までの輸送費は込みですよ」と説明する時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -206,7 +404,18 @@
         "slug": "bonded-area",
         "body": "<h3>関税未払いエリア</h3><p>外国から来た荷物が、まだ通関手続きを終えていない状態で保管される場所。</p>",
         "short_description": "<h3>関税保留エリア。</h3>",
-        "example": "「保税倉庫」"
+        "example": "「保税倉庫」",
+        "key_points": [
+            "まだ日本国内に入った扱いにならないエリア",
+            "ここで通関許可が降りると、晴れて国内貨物になる",
+            "空港の免税店なども一種の保税地域"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "通関",
+                "description": "「保税倉庫から荷物を出庫する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -217,7 +426,18 @@
         "slug": "customs-clearance",
         "body": "<h3>税関手続き</h3><p>輸出入の許可を税関から得ること。「通関士」という国家資格がある。</p>",
         "short_description": "<h3>税関の許可。</h3>",
-        "example": "「通関業者にお願い」"
+        "example": "「通関業者にお願い」",
+        "key_points": [
+            "税関を通す手続き",
+            "書類に不備があると止められる",
+            "「通関が切れる（許可が降りる）」と言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "輸入",
+                "description": "「通関で引っかかって納期が遅れる」と冷や汗をかく時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -228,7 +448,18 @@
         "slug": "otsunaka",
         "body": "<h3>海運貨物取扱業者</h3><p>「おつなか」。今は「海貨業者（かいかぎょうしゃ）」が正式だが、現場ではまだ使われる。通関などの代行業者。</p>",
         "short_description": "<h3>通関業者（通称）。</h3>",
-        "example": "「乙仲さんに連絡」"
+        "example": "「乙仲さんに連絡」",
+        "key_points": [
+            "昔の法律用語が生き残っている業界用語",
+            "輸入の手続きを全部やってくれる頼れるプロ",
+            "フォワーダー（Forwarder）とも呼ばれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "業務",
+                "description": "「乙仲手配を忘れていた」と焦る時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -239,7 +470,18 @@
         "slug": "drayage",
         "body": "<h3>コンテナ陸送</h3><p>港からコンテナをトレーラーで運ぶこと。「海コン」。</p>",
         "short_description": "<h3>コンテナ輸送。</h3>",
-        "example": "「ドレージの手配」"
+        "example": "「ドレージの手配」",
+        "key_points": [
+            "コンテナを引っ張るトレーラー輸送のこと",
+            "運転席（ヘッド）と荷台（シャーシ）が分離できる",
+            "港周辺でよく見る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "輸送",
+                "description": "「ドレージ料金が高騰している」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -250,7 +492,18 @@
         "slug": "yoshar",
         "body": "<h3>傭車（ようしゃ）</h3><p>自社のトラックが足りない時に、他の運送会社にお金（傭車料）を払って運んでもらうこと。</p>",
         "short_description": "<h3>協力会社のトラック。</h3>",
-        "example": "「傭車を頼む」"
+        "example": "「傭車を頼む」",
+        "key_points": [
+            "傭兵の車版",
+            "自社便だけでは賄えない繁忙期などに頼む",
+            "「ヨウシャ」であって「容赦」ではない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配車",
+                "description": "「傭車が見つからなくて荷物が運べない」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -261,7 +514,18 @@
         "slug": "return-trip",
         "body": "<h3>復路の荷物</h3><p>荷物を届けた帰りに、空荷で走るのを避けるために積む荷物。運賃が安いことがある。</p>",
         "short_description": "<h3>帰りのついで便。</h3>",
-        "example": "「帰り便を探す」"
+        "example": "「帰り便を探す」",
+        "key_points": [
+            "空気を運ぶよりマシなので、安くても受けたい仕事",
+            "「バックハウル」とも言う",
+            "マッチングングサイトなどで探すことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "節約",
+                "description": "「帰り便を利用して格安で引越しをする」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -272,7 +536,18 @@
         "slug": "consolidation",
         "body": "<h3>相乗り</h3><p>一つのトラックやコンテナに、複数の荷主の荷物を一緒に積むこと。「積み合わせ」。</p>",
         "short_description": "<h3>荷物の相乗り。</h3>",
-        "example": "「混載便で送る」"
+        "example": "「混載便で送る」",
+        "key_points": [
+            "LCL (Less than Container Load) とも呼ばれる",
+            "1個のコンテナを借りるほどでもない量の時に使う",
+            "コストは安いが、他の荷待ちなどで時間はかかる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "輸送",
+                "description": "「小口貨物を混載便で送る」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -283,7 +558,18 @@
         "slug": "charter",
         "body": "<h3>貸切</h3><p>トラックを一台丸ごと借り切って運ぶこと。「専属便」。料金は高いが早い。</p>",
         "short_description": "<h3>貸切トラック。</h3>",
-        "example": "「急ぎなのでチャーター」"
+        "example": "「急ぎなのでチャーター」",
+        "key_points": [
+            "トラックをタクシーのように使うこと",
+            "指定した時間に直行してくれる",
+            "緊急配送（赤帽など）もチャーターの一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "緊急",
+                "description": "「工場のラインを止めるな！赤帽チャーターで部品を運べ！」と叫ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -294,7 +580,18 @@
         "slug": "cash-on-delivery",
         "body": "<h3>受取人払い</h3><p>荷物を受け取る人が運賃を払うこと。</p>",
         "short_description": "<h3>受け取る人が払う。</h3>",
-        "example": "「着払いで発送」"
+        "example": "「着払いで発送」",
+        "key_points": [
+            "運賃を受け取る側が払うシステム",
+            "代引き（代金引換）とは違う（代引きは商品代金も払う）",
+            "メルカリなどで着払いにすると売れにくい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "返品",
+                "description": "「不良品を着払いで送り返す」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -305,7 +602,18 @@
         "slug": "prepayment",
         "body": "<h3>発送人払い</h3><p>荷物を送る人が運賃を先に払うこと。</p>",
         "short_description": "<h3>送る人が払う。</h3>",
-        "example": "「元払いが原則」"
+        "example": "「元払いが原則」",
+        "key_points": [
+            "運賃を送る側が払うシステム",
+            "一般的な宅配便はこれ",
+            "「元」は「発送元」の意味"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "発送",
+                "description": "「元払いでお願いします」とコンビニで言う時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -316,7 +624,18 @@
         "slug": "wing-body",
         "body": "<h3>側面が開くトラック</h3><p>荷台の側面が鳥の翼のように跳ね上がるトラック。フォークリフトで横から積み下ろしができる。</p>",
         "short_description": "<h3>横が開くトラック。</h3>",
-        "example": "「大型ウィング」"
+        "example": "「大型ウィング」",
+        "key_points": [
+            "日本のトラックの標準的な形態",
+            "雨に濡れずに横からフォークリフトで積めるのが画期的だった",
+            "ガルウィングドアのトラック版"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "積み込み",
+                "description": "「ウィングを開けてパレットを積み込む」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -327,7 +646,18 @@
         "slug": "flat-body",
         "body": "<h3>屋根なしトラック</h3><p>荷台が平らで屋根がないトラック。高さのある荷物や、クレーンでの積み下ろしに向いている。</p>",
         "short_description": "<h3>屋根なしトラック。</h3>",
-        "example": "「平ボテ」"
+        "example": "「平ボテ」",
+        "key_points": [
+            "昔ながらの屋根なしトラック",
+            "雨に濡れるのでシート掛け（職人芸）が必要",
+            "長尺物や機械などを運ぶのに使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "建設",
+                "description": "「現場に鉄骨を運ぶために平ボディを手配する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -338,7 +668,18 @@
         "slug": "unic",
         "body": "<h3>クレーン付きトラック</h3><p>小型のクレーンがついたトラック。自分で荷物を釣り上げて積める。「ユニック」は商標。</p>",
         "short_description": "<h3>クレーン付き。</h3>",
-        "example": "「ユニックを手配」"
+        "example": "「ユニックを手配」",
+        "key_points": [
+            "キャブの後ろにクレーンがついたトラック",
+            "正式名称は「搭載型トラッククレーン」だが、誰も呼ばない",
+            "古河ユニック社の登録商標"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "搬入",
+                "description": "「フォークリフトがない現場にユニックで納品する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -349,7 +690,18 @@
         "slug": "digital-tachograph",
         "body": "<h3>デジタル式運行記録計</h3><p>速度、時間、急ブレーキなどを記録する装置。ドライバーの監視に使われる。</p>",
         "short_description": "<h3>運行記録計。</h3>",
-        "example": "「デジタコの義務化」"
+        "example": "「デジタコの義務化」",
+        "key_points": [
+            "デジタルのタコグラフ（運行記録計）",
+            "ドライバーの運転挙動（速度オーバーや休憩時間）を秒単位で記録する",
+            "「監視されているようで嫌だ」と言うドライバーもいる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "管理",
+                "description": "「デジタコの点数が悪くて指導される」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -360,7 +712,18 @@
         "slug": "alcohol-check",
         "body": "<h3>飲酒検査</h3><p>乗務前後にアルコール検知器で飲酒していないか確認すること。義務。</p>",
         "short_description": "<h3>飲酒運転防止。</h3>",
-        "example": "「アルチェックOK」"
+        "example": "「アルチェックOK」",
+        "key_points": [
+            "緑ナンバー（営業用）事業者の絶対義務",
+            "白ナンバー（社用車）でも一定台数以上なら義務化された",
+            "前日はお酒を控えるのが常識"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "点呼",
+                "description": "「アルコールチェックで反応が出てしまい乗務停止になる」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -371,7 +734,18 @@
         "slug": "2024-problem",
         "body": "<h3>ドライバー不足</h3><p>働き方改革でドライバーの残業時間が規制され、物流が停滞する恐れがある問題。</p>",
         "short_description": "<h3>運送業界の危機。</h3>",
-        "example": "「2024年問題への対応」"
+        "example": "「2024年問題への対応」",
+        "key_points": [
+            "ドライバーの時間外労働規制による物流危機",
+            "「運べなくなる」「運賃が上がる」と言われている",
+            "長距離輸送が特に厳しくなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「2024年問題で翌日配送ができなくなる」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -382,7 +756,18 @@
         "slug": "cold-chain",
         "body": "<h3>低温物流網</h3><p>冷凍・冷蔵商品を、生産地から消費地まで途切れずに低温で運ぶ仕組み。</p>",
         "short_description": "<h3>冷たいまま運ぶ。</h3>",
-        "example": "「コールドチェーンの整備」"
+        "example": "「コールドチェーンの整備」",
+        "key_points": [
+            "生鮮食品や医薬品を運ぶための温度管理された物流ネットワーク",
+            "途中で常温に戻ると台無しになる",
+            "日本のコールドチェーン技術は世界トップレベル（たまに放置されて溶ける事故もあるが）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "海外",
+                "description": "「アジアのコールドチェーン市場に進出する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -393,7 +778,18 @@
         "slug": "fulfillment",
         "body": "<h3>通販の一連業務</h3><p>ECサイトでの受注、梱包、発送、決済、返品対応までの一連の業務。</p>",
         "short_description": "<h3>ECの裏側全部。</h3>",
-        "example": "「フルフィルメント代行」"
+        "example": "「フルフィルメント代行」",
+        "key_points": [
+            "ECサイトのバックヤード業務全般",
+            "「Amazon FBA（フルフィルメント by Amazon）」が有名",
+            "ここを外部委託すると「売る」ことに専念できる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "EC",
+                "description": "「発送作業が大変になってきたのでフルフィルメントサービスを使う」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -404,7 +800,18 @@
         "slug": "scm",
         "body": "<h3>サプライチェーン管理</h3><p>Supply Chain Management。原料調達から販売までを全体最適化すること。</p>",
         "short_description": "<h3>供給連鎖管理。</h3>",
-        "example": "「SCMの構築」"
+        "example": "「SCMの構築」",
+        "key_points": [
+            "部分最適ではなく全体最適を目指す経営手法",
+            "情報を共有して無駄をなくす",
+            "ブルウィップ効果（需要予測のズレが増幅する現象）を防ぐのが目的の一つ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「SCMを導入して在庫回転率を上げる」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -415,7 +822,18 @@
         "slug": "logistics-term",
         "body": "<h3>戦略的物流</h3><p>単なる「輸送（運ぶこと）」だけでなく、在庫管理などを含めた全体最適を目指す物流管理。</p>",
         "short_description": "<h3>戦略的物流。</h3>",
-        "example": "「ロジスティクス部」"
+        "example": "「ロジスティクス部」",
+        "key_points": [
+            "元々は軍事用語（兵站）",
+            "必要なものを、必要な時に、必要なだけ、必要な場所に届ける戦略",
+            "「物流」よりカッコいい響き"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「サード・パーティ・ロジスティクス（3PL）」と言う時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -426,7 +844,18 @@
         "slug": "hub-and-spoke",
         "body": "<h3>拠点集中方式</h3><p>中心となる拠点（ハブ）に荷物を集め、そこから各地点（スポーク）に配送する方式。</p>",
         "short_description": "<h3>拠点集約配送。</h3>",
-        "example": "「ハブ空港」"
+        "example": "「ハブ空港」",
+        "key_points": [
+            "効率的な配送ネットワークの形",
+            "自転車の車輪（ハブとスポーク）に似ていることから命名",
+            "クロネコヤマトなどの宅配便もこの方式"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "物流設計",
+                "description": "「ハブセンターを新設して配送網を再構築する」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -437,7 +866,18 @@
         "slug": "milk-run",
         "body": "<h3>巡回集荷</h3><p>1台のトラックが複数の仕入先を回って部品を集める方式。牛乳配達に由来。</p>",
         "short_description": "<h3>巡回集荷。</h3>",
-        "example": "「ミルクラン方式」"
+        "example": "「ミルクラン方式」",
+        "key_points": [
+            "メーカー側がトラックを出して、部品メーカーを回って集荷すること",
+            "輸送効率が良くなる",
+            "昔の牛乳配達が空き瓶を回収しながら回ったことに由来"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "調達",
+                "description": "「ミルクラン方式に切り替えて調達物流費を下げる」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -448,7 +888,18 @@
         "slug": "reverse-logistics",
         "body": "<h3>回収物流</h3><p>返品やリサイクルのために、消費者から生産者へ戻る物流。動脈（届ける物流）の逆。</p>",
         "short_description": "<h3>戻る物流。</h3>",
-        "example": "「静脈物流の効率化」"
+        "example": "「静脈物流の効率化」",
+        "key_points": [
+            "リバースロジスティクス",
+            "廃棄物やリサイクル品を回収する流れ",
+            "循環型社会では重要性が増している"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "リサイクル",
+                "description": "「使用済み家電を回収する静脈物流ルート」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -459,7 +910,18 @@
         "slug": "omnichannel",
         "body": "<h3>全販路統合</h3><p>実店舗もネットも区別なく、どこからでも購入・受取ができるようにすること。</p>",
         "short_description": "<h3>店舗とネットの融合。</h3>",
-        "example": "「オムニチャネル戦略」"
+        "example": "「オムニチャネル戦略」",
+        "key_points": [
+            "リアル店舗とECサイトの垣根をなくすこと",
+            "ネットで注文して店舗で受け取る（BOPIS）など",
+            "在庫の一元管理が必須"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "買い物",
+                "description": "「アプリで在庫確認して店に取りに行く」時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -470,7 +932,18 @@
         "slug": "drone-delivery",
         "body": "<h3>無人機配送</h3><p>ドローンを使って空から荷物を届けること。離島や山間部で期待される。</p>",
         "short_description": "<h3>空飛ぶ宅配便。</h3>",
-        "example": "「ドローン配送実験」"
+        "example": "「ドローン配送実験」",
+        "key_points": [
+            "空の産業革命",
+            "過疎地や災害時の物資輸送に役立つ",
+            "都市部では墜落リスクやプライバシー問題などでハードルが高い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "未来",
+                "description": "「ベランダにドローンがピザを届けてくれる未来」を想像する時"
+            }
+        ]
     },
     {
         "category_slug": "logistics",
@@ -481,6 +954,17 @@
         "slug": "autonomous-driving",
         "body": "<h3>無人トラック</h3><p>ドライバーなしで走るトラック。物流危機を救う切り札として期待される。</p>",
         "short_description": "<h3>無人トラック。</h3>",
-        "example": "「隊列走行実験」"
+        "example": "「隊列走行実験」",
+        "key_points": [
+            "ドライバー不足の解決策として大本命",
+            "高速道路でのトラック隊列走行（先頭だけ人が運転）の実証実験が進んでいる",
+            "完全自動化にはまだ時間がかかりそう"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「レベル4自動運転トラックが公道を走る」時"
+            }
+        ]
     }
 ]

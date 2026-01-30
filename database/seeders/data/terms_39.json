@@ -1,0 +1,494 @@
+[
+    {
+        "title": "タイパ",
+        "slug": "time-performance",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>タイムパフォーマンス</h3><p>費やした時間に対する満足度や効果（時間対効果）。</p>",
+        "body": "<h3>詳しく解説</h3><p>「タイパ」は「タイムパフォーマンス（Time Performance）」の略です。コスパ（コストパフォーマンス）の時間版で、短い時間で効率よく情報を得たり、楽しんだりすることを重視する考え方です。</p><p>倍速視聴などが象徴的です。</p>",
+        "example": "「タイパを重視して、映画を倍速で見る」",
+        "key_points": [
+            "Z世代の価値観",
+            "ショート動画の流行",
+            "ネタバレを見てから安心してみる"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "⏱️",
+                "title": "日常",
+                "description": "「長編動画を見るのはタイパが悪いと感じる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "蛙化現象",
+        "slug": "frog-phenomenon",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>好きな人が急に気持ち悪くなる</h3><p>片思いの相手が振り向いてくれた途端に、相手のことを気持ち悪いと感じてしまう現象。</p>",
+        "body": "<h3>詳しく解説</h3><p>「蛙化現象（かえるかげんしょう）」は、グリム童話「カエルの王様」が由来です。近年では意味が変化し、好きな人の些細な行動（フードコートで盆を持ってキョロキョロするなど）を見て幻滅することも指します。</p><p>理不尽な冷め方をします。</p>",
+        "example": "「彼氏の財布がマジックテープ式なのを見て蛙化した」",
+        "key_points": [
+            "理想と現実のギャップ",
+            "自己肯定感の低さが関係？",
+            "蛇化現象（対義語）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🐸",
+                "title": "恋愛",
+                "description": "「交際が始まった途端に生理的に無理になってしまう」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "蛇化現象",
+        "slug": "snake-phenomenon",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>何でも可愛く見える</h3><p>好きな人のダサい行動や変な行動さえも、全て可愛く見えてしまう現象。</p>",
+        "body": "<h3>詳しく解説</h3><p>「蛇化現象（へびかげんしょう）」は、蛙化現象の対義語として生まれたTikTok発の言葉です。「獲物を逃さない蛇」のように、相手の全てを受け入れる（飲み込む）溺愛状態を指します。</p><p>ポジティブな意味で使われます。</p>",
+        "example": "「彼氏が鼻毛が出ていても蛇化しているので可愛い」",
+        "key_points": [
+            "あばたもえくぼ",
+            "全肯定",
+            "ラブラブ状態"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🐍",
+                "title": "恋愛",
+                "description": "「変なダンスを踊る彼氏を見て愛おしさが爆発する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "チルい",
+        "slug": "chill",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>まったりする</h3><p>落ち着いていて、リラックスできる雰囲気。</p>",
+        "body": "<h3>詳しく解説</h3><p>「チルい」は、英語の「Chill out（落ち着く）」が語源です。カフェでまったりしたり、綺麗な夕日を見たりして、心が穏やかになる状態を指します。</p><p>「チルする」とも言います。</p>",
+        "example": "「夜の公園でチルい時間を過ごす」",
+        "key_points": [
+            "シーシャ（水タバコ）",
+            "Lo-Fi Hip Hop",
+            "エモいと似ている"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "☕",
+                "title": "休日",
+                "description": "「焚き火を見ながらチルな音楽を聴く」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "エモい",
+        "slug": "emotional",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>感情が揺さぶられる</h3><p>何とも言えない感慨深さや、懐かしさ、切なさを表す言葉。</p>",
+        "body": "<h3>詳しく解説</h3><p>「エモい」は、「Emotional（エモーショナル）」が語源です。言葉でうまく表現できない感動や哀愁を、一言で表せる便利な言葉です。</p><p>レトロな風景や、青春っぽいシチュエーションによく使われます。</p>",
+        "example": "「夕暮れの教室ってエモいよね」",
+        "key_points": [
+            "語彙力の低下？",
+            "ノスタルジー",
+            "フィルムカメラ"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🌇",
+                "title": "感動",
+                "description": "「卒業式で黒板アートを見てエモい気持ちになる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "好ハオ",
+        "slug": "hao",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>好き</h3><p>「好き」という意味の中国語「好（ハオ）」から来た言葉。</p>",
+        "body": "<h3>詳しく解説</h3><p>「好ハオ（ハオ）」は、推しや好きなものに対して「好き！」「尊い！」という感情を表す言葉です。中華風メイク（チャイボーグ）の流行とともに広まりました。</p><p>「顔面国宝すぎて好ハオ」のように使います。</p>",
+        "example": "「このビジュ、マジで好ハオ」",
+        "key_points": [
+            "中華メイク",
+            "推しへの愛",
+            "SNSスラング"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🐼",
+                "title": "推し活",
+                "description": "「推しの新しい写真を見てとっさに『好ハオ』とつぶやく」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "てぇてぇ",
+        "slug": "precious",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "short_description": "<h3>尊い</h3><p>「尊い（とうとい）」がなまって変化した言葉。</p>",
+        "body": "<h3>詳しく解説</h3><p>「てぇてぇ」は、Vtuber界隈から広まった言葉で、キャラクター同士の仲が良い様子や、微笑ましい関係性を見て「尊い」と感じた時に使われます。</p><p>「とぉとぉ」→「てぇてぇ」と変化しました。</p>",
+        "example": "「〇〇と××の絡みがてぇてぇ」",
+        "key_points": [
+            "百合営業",
+            "カップリング",
+            "拝みたくなる"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🙏",
+                "title": "推し活",
+                "description": "「推しカップルの仲睦まじい様子を見て天を仰ぐ」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "沼",
+        "slug": "obsession",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>ハマって抜け出せない</h3><p>ある物事や人物に熱中し、抜け出せなくなる状態。</p>",
+        "body": "<h3>詳しく解説</h3><p>「沼（ぬま）」は、底なし沼のように深くハマってしまうことを指します。「沼る（ぬまる）」「沼落ち」とも言います。</p><p>「底なし沼」が語源です。</p>",
+        "example": "「韓ドラの沼にハマって、徹夜で見続ける」",
+        "key_points": [
+            "沼ガチャ（ソシャゲ用語）",
+            "布教活動",
+            "時間と金の消費"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🕳️",
+                "title": "趣味",
+                "description": "「軽い気持ちで動画を見たら完全に沼ってしまった」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "優勝",
+        "slug": "victory",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>最高</h3><p>最高に良い状態、または最高の出来事。</p>",
+        "body": "<h3>詳しく解説</h3><p>「優勝」は、文字通りの優勝ではなく、「最高に可愛い」「すごく美味しい」など、圧倒的に素晴らしい体験をした時に使われます。</p><p>「〇〇しか勝たん」と似たニュアンスです。</p>",
+        "example": "「深夜に食べるカップ麺、優勝すぎる」",
+        "key_points": [
+            "優勝していく",
+            "圧倒的勝利",
+            "語彙力喪失"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🏆",
+                "title": "食事",
+                "description": "「仕事終わりのビールが美味しすぎて優勝する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "しか勝たん",
+        "slug": "nothing-beats",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>〜が一番</h3><p>「〜しか勝たない」、つまり〜が最高で一番だという意味。</p>",
+        "body": "<h3>詳しく解説</h3><p>「しか勝たん（しかかたん）」は、特定の人物やものを絶対的に肯定する言葉です。推しを称える時によく使われます。</p><p>「推ししか勝たん」が定番フレーズです。</p>",
+        "example": "「やっぱり冬はこたつしか勝たん」",
+        "key_points": [
+            "盲信的",
+            "絶対王者",
+            "○○ is No.1"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🥇",
+                "title": "主張",
+                "description": "「いろいろ浮気したけどやっぱり元祖の推ししか勝たん」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "知らんけど",
+        "slug": "i-dont-know-though",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>責任逃れ</h3><p>発言の最後に付けて、情報の正確性や責任を回避する言葉。</p>",
+        "body": "<h3>詳しく解説</h3><p>「知らんけど」は、元々は関西弁ですが、全国的に若者の間で流行しました。自分の意見を言った後に、「確証はないけどね」「責任は持たないよ」と保険をかけるニュアンスで使います。</p><p>会話のオチとしても便利です。</p>",
+        "example": "「この店美味しいらしいよ、知らんけど」",
+        "key_points": [
+            "関西人の口癖",
+            "責任回避",
+            "文末の魔法の言葉"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤷",
+                "title": "会話",
+                "description": "「熱く語った後に急に冷静になって『知らんけど』と締める」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ビジュ",
+        "slug": "visual",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>見た目</h3><p>「ビジュアル（Visual）」の略。主に容姿の良さを褒める時に使う。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ビジュ」は、アイドルやキャラクターの見た目（顔、髪型、衣装など）を指します。「ビジュが良い」「ビジュ爆発」のように使います。</p><p>韓国アイドル界隈でよく使われます。</p>",
+        "example": "「今度の新曲のビジュが最高すぎる」",
+        "key_points": [
+            "顔面国宝",
+            "ビジュ担（見た目担当）",
+            "盛れている"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "✨",
+                "title": "推し活",
+                "description": "「推しの髪型が変わってビジュが神がかっている」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ワンチャン",
+        "slug": "one-chance",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>もしかしたら</h3><p>「ワンチャンス（One Chance）」の略。可能性は低いがあるかもしれないこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ワンチャン」は、「もしかしたら」「ひょっとすると」という意味で使われます。「ワンチャンいける」は「もしかしたら成功するかも」という意味です。</p><p>麻雀用語から広まった説があります。</p>",
+        "example": "「ワンチャン、明日晴れるかもしれない」",
+        "key_points": [
+            "期待",
+            "微粒子レベルの可能性",
+            "「ワンチャンあり」"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤞",
+                "title": "希望",
+                "description": "「遅刻確定だがワンチャン間に合うかもしれないと走る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "それな",
+        "slug": "agreed",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>同感</h3><p>相手の意見に強く同意する時の相槌。</p>",
+        "body": "<h3>詳しく解説</h3><p>「それな」は、「そうだね」「その通りだね」という意味の軽い相槌です。会話の手を止めることなく、テンポよく同意を示すことができます。</p><p>スタンプ１つで済ませる感覚に近い言葉です。</p>",
+        "example": "「A：今日暑すぎない？ B：それな」",
+        "key_points": [
+            "共感",
+            "会話終了の合図にもなる",
+            "「それな」禁止ゲーム"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "👍",
+                "title": "会話",
+                "description": "「友達の愚痴にひたすら『それな』で相槌を打つ」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "飛ぶ",
+        "slug": "disappear",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>連絡を断って消える</h3><p>約束をすっぽかしたり、連絡がつかなくなったりすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「飛ぶ（とぶ）」は、本来いるべき場所からいなくなること、または薬物などで意識がトリップすることを指す場合もありますが、若者言葉では「バックれる」の意味でよく使われます。</p><p>「バイトが飛んだ」は、バイトが急に来なくなったことを指します。</p>",
+        "example": "「飲み会の約束をしていたのに、当日相手が飛んだ」",
+        "key_points": [
+            "ドタキャン",
+            "バックレ",
+            "音信不通"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💨",
+                "title": "トラブル",
+                "description": "「シフトに入っていたバイト君が飛んで店が回らない」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "詰む",
+        "slug": "checkmate",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "short_description": "<h3>手詰まり</h3><p>解決策がなくなり、どうしようもない状態になること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「詰む（つむ）」は、将棋の「詰み」が由来です。ゲームや人生において、もう打つ手がなくなり、終わり（ゲームオーバー）が確定した状態を指します。</p><p>「人生詰んだ」のように使います。</p>",
+        "example": "「テスト前日なのに全く勉強していなくて詰んだ」",
+        "key_points": [
+            "絶望",
+            "オワタ",
+            "無理ゲー"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "♟️",
+                "title": "ピンチ",
+                "description": "「財布を落として家に帰れなくなり詰んだ」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "陽キャ",
+        "slug": "extrovert",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "short_description": "<h3>陽気なキャラクター</h3><p>明るく活発で、社交的な性格の人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「陽キャ（ようキャ）」は、スクールカーストの上位にいるような、コミュニケーション能力が高く友人が多い人を指します。「リア充」と重なる部分が多いです。</p><p>対義語は「陰キャ」です。</p>",
+        "example": "「陽キャのグループに入っていく勇気がない」",
+        "key_points": [
+            "ウェーイ系",
+            "アウトドア派",
+            "クラスの中心人物"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "☀️",
+                "title": "学校",
+                "description": "「文化祭で盛り上がっている陽キャたちを遠くから見る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "陰キャ",
+        "slug": "introvert",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "school"
+        ],
+        "short_description": "<h3>陰気なキャラクター</h3><p>内向的で目立たない、地味な性格の人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「陰キャ（いんキャ）」は、教室の隅にいるような、大人しくて人付き合いが苦手な人を指します。ネガティブな意味で使われることが多いですが、自虐ネタとしても使われます。</p><p>ネット弁慶な場合もあります。</p>",
+        "example": "「陰キャなので、休日は家でゲームをしている」",
+        "key_points": [
+            "コミュ障",
+            "インドア派",
+            "根暗"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "☁️",
+                "title": "自己紹介",
+                "description": "「自分は陰キャだと前置きしてハードルを下げる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "親ガチャ",
+        "slug": "parent-gacha",
+        "category_slug": "society",
+        "scene_slugs": [],
+        "short_description": "<h3>親は選べない</h3><p>生まれてくる子供は親を選べないことを、スマホゲームの「ガチャ」に例えた言葉。</p>",
+        "body": "<h3>詳しく解説</h3><p>「親ガチャ」は、裕福な親や優しい親の元に生まれるか、貧乏な親や毒親の元に生まれるかは運次第であることを、運任せのアイテム課金システム「ガチャ」になぞらえた表現です。</p><p>格差社会を反映した言葉として議論になりました。</p>",
+        "example": "「親ガチャに失敗して苦労している」",
+        "key_points": [
+            "環境決定論",
+            "毒親",
+            "配属ガチャ（会社版）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎰",
+                "title": "人生",
+                "description": "「成功した二世タレントを見て親ガチャの当たり外れを感じる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "界隈",
+        "slug": "community",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>特定のコミュニティ</h3><p>共通の趣味や興味を持つ人々の集まり。</p>",
+        "body": "<h3>詳しく解説</h3><p>「界隈（かいわい）」は、元々は「近所」「付近」という意味ですが、ネットスラングでは「〇〇ファンの集まり」「〇〇業界」という意味で使われます。</p><p>「ジャニオタ界隈」「Vtuber界隈」などと使います。</p>",
+        "example": "「界隈によってマナーが違う」",
+        "key_points": [
+            "暗黙の了解",
+            "村社会",
+            "界隈の有名人"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🏘️",
+                "title": "ネット",
+                "description": "「自分の界隈だけで通じるニッチなネタで盛り上がる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "スパダリ",
+        "slug": "super-darling",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>スーパーダーリン</h3><p>高身長、高学歴、高収入で、性格も優しくて家事もできる、完璧な彼氏。</p>",
+        "body": "<h3>詳しく解説</h3><p>「スパダリ」は、BL（ボーイズラブ）界隈発祥の言葉で、スペックが高くパートナーを溺愛する完璧な攻め（彼氏役）を指します。</p><p>現在は一般の理想の彼氏像としても使われます。</p>",
+        "example": "「推しカプの攻めがスパダリすぎる」",
+        "key_points": [
+            "ハイスペック",
+            "包容力",
+            "理想の具現化"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤴",
+                "title": "妄想",
+                "description": "「こんなスパダリが現れないかと現実逃避する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "平成レトロ",
+        "slug": "heisei-retro",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>平成初期を懐かしむ</h3><p>平成時代（特に1990年代〜2000年代初頭）の文化をレトロで可愛いと感じる流行。</p>",
+        "body": "<h3>詳しく解説</h3><p>「平成レトロ」は、昭和レトロに続くブームで、たまごっち、ギャルファッション、デコ電など、平成初期のポップカルチャーがZ世代に「エモい」として再評価されています。</p><p>Y2Kファッションとも関連します。</p>",
+        "example": "「使い捨てカメラで平成レトロな写真を撮る」",
+        "key_points": [
+            "Y2K（Year 2000）",
+            "ルーズソックス",
+            "あゆ（浜崎あゆみ）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📟",
+                "title": "流行",
+                "description": "「昔のガラケーをデコって平成レトロを楽しむ」時"
+            }
+        ],
+        "is_published": true
+    }
+]

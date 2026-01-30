@@ -8,7 +8,22 @@
         "slug": "ban",
         "body": "<h3>アカウント停止</h3><p>利用規約違反などで、アカウントを削除・凍結されること。「垢バン」と呼ばれる。</p>",
         "short_description": "<h3>アカウント凍結。</h3>",
-        "example": "「暴言でBANされた」"
+        "example": "「暴言でBANされた」",
+        "key_points": [
+            "Ban（禁止する）が語源",
+            "ゲームのチート行為や、SNSでの迷惑行為に対する最も重い処罰",
+            "「永久BAN（永バン）」されたら二度と戻ってこれない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「チーターを通報してBANさせる」時"
+            },
+            {
+                "title": "配信",
+                "description": "「不適切な発言をして配信アカウントがBANされた」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -19,7 +34,22 @@
         "slug": "reply",
         "body": "<h3>返信</h3><p>Reply。Twitterなどでコメントを返すこと。「リプライ」。</p>",
         "short_description": "<h3>返信。</h3>",
-        "example": "「リプを送る」"
+        "example": "「リプを送る」",
+        "key_points": [
+            "Reply（返信）の略",
+            "相手の投稿（ツイート）に対して返事を送ること",
+            "しつこく送りすぎると「クソリプ」と言われて嫌われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "交流",
+                "description": "「推しからリプ返（返事）が来て死にそう」と喜ぶ時"
+            },
+            {
+                "title": "論争",
+                "description": "「FF外から失礼します」と礼儀正しくリプを送って殴り込む時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -30,7 +60,22 @@
         "slug": "kagiaka",
         "body": "<h3>非公開アカウント</h3><p>許可したフォロワーしか見られないように鍵をかけたアカウント。</p>",
         "short_description": "<h3>非公開アカウント。</h3>",
-        "example": "「鍵垢に引きこもる」"
+        "example": "「鍵垢に引きこもる」",
+        "key_points": [
+            "非公開設定にしたアカウント。鍵のアイコンがつくことから",
+            "承認したフォロワーしか内容を見ることができない",
+            "愚痴や身内ネタ、過激な妄想を垂れ流すのに最適"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「炎上したので一時的に鍵垢にします」と逃亡する時"
+            },
+            {
+                "title": "秘密",
+                "description": "「鍵垢のパスワード忘れてログインできない（黒歴史の封印）」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -41,7 +86,22 @@
         "slug": "ffgai",
         "body": "<h3>フォロー・フォロワーの関係ではない</h3><p>お互いにフォローし合っていない状態。「FF外から失礼します」とリプを送る文化がある。</p>",
         "short_description": "<h3>赤の他人。</h3>",
-        "example": "「FF外から失礼します」"
+        "example": "「FF外から失礼します」",
+        "key_points": [
+            "Follow / Follower 外（関係がない）",
+            "赤の他人に話しかける際のマナーとして「FF外から失礼します（F外失）」と前置きする謎文化",
+            "「FF比（フォローとフォロワーの比率）」を気にする人もいる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "指摘",
+                "description": "「FF外から失礼します。その情報はデマですよ」と訂正する時"
+            },
+            {
+                "title": "許可",
+                "description": "「FF外ですが保存してもいいですか？」と画像の使用許可を求める時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -52,7 +112,22 @@
         "slug": "jien",
         "body": "<h3>自作自演</h3><p>自分で自分を褒めるコメントなどを書き込むこと。</p>",
         "short_description": "<h3>自作自演。</h3>",
-        "example": "「自演乙」"
+        "example": "「自演乙」",
+        "key_points": [
+            "「自作自演」の略",
+            "別人のふりをして自分を擁護したり、対立を煽ったりする行為",
+            "IDの切り替え忘れなどでバレると祭りになる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "発覚",
+                "description": "「ID同じですよ（自演バレ）」と指摘されて赤っ恥をかく時"
+            },
+            {
+                "title": "煽り",
+                "description": "「自演乙」と書き込んで相手を挑発する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -63,7 +138,22 @@
         "slug": "tsuri",
         "body": "<h3>嘘タイトルで釣る</h3><p>衝撃的なタイトルで興味を引き、中身は大したことない、または嘘の記事やスレッドのこと。</p>",
         "short_description": "<h3>嘘ネタ。</h3>",
-        "example": "「釣りタイトルに騙された」"
+        "example": "「釣りタイトルに騙された」",
+        "key_points": [
+            "魚を釣るように、ユーザーの関心を引いて騙すこと",
+            "「釣り針がでかい（嘘が分かりやすすぎる）」と表現することもある",
+            "エイプリルフールなどは「公式による釣り」が横行する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "掲示板",
+                "description": "「期待して開いたら釣りスレだった（画像なし）」時"
+            },
+            {
+                "title": "動画",
+                "description": "「サムネ詐欺の釣り動画に時間を無駄にされた」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -74,7 +164,22 @@
         "slug": "tokutei",
         "body": "<h3>個人情報を割り出す</h3><p>写真や書き込みから、個人の住所や氏名を割り出すこと。「特定班」と呼ばれる人たちがいる。</p>",
         "short_description": "<h3>身バレさせること。</h3>",
-        "example": "「住所特定された」"
+        "example": "「住所特定された」",
+        "key_points": [
+            "ネット上の断片的な情報（写真の背景、瞳の映り込み等）から個人情報を暴くこと",
+            "「特定班」と呼ばれる特殊能力を持った暇人たちがいる",
+            "犯罪に繋がるケースもあるので要注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "炎上",
+                "description": "「バイトテロ動画の犯人の学校が特定される」時"
+            },
+            {
+                "title": "推し活",
+                "description": "「アイドルが使ってる香水を特定して同じものを買う」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -85,7 +190,22 @@
         "slug": "enjou",
         "body": "<h3>批判殺到</h3><p>不適切な発言などに対して、大量の批判コメントが寄せられること。</p>",
         "short_description": "<h3>批判が殺到すること。</h3>",
-        "example": "「バイトテロで炎上」"
+        "example": "「バイトテロで炎上」",
+        "key_points": [
+            "不祥事や失言に対し、批判が殺到して収集がつかなくなる状態",
+            "火のない所に煙は立たないが、最近は放火魔も多い",
+            "「炎上商法（わざと炎上して注目を集める）」もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「失言ツイートが拡散されて大炎上中」の時"
+            },
+            {
+                "title": "ニュース",
+                "description": "「回転寿司の迷惑動画が炎上」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -96,7 +216,22 @@
         "slug": "digital-tattoo",
         "body": "<h3>消えない過去</h3><p>一度ネットに公開された情報は、完全に消去するのが難しく、タトゥーのように残り続けること。</p>",
         "short_description": "<h3>ネットに残る黒歴史。</h3>",
-        "example": "「デジタルタトゥーが怖い」"
+        "example": "「デジタルタトゥーが怖い」",
+        "key_points": [
+            "入れ墨（タトゥー）のように、一度刻まれると簡単には消せないネット上の記録",
+            "若気の至りで投稿した写真が、就活や結婚の時に掘り起こされるリスク",
+            "「魚拓（ウェブアーカイブ）」を取られると削除しても無駄"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "教育",
+                "description": "「変な写真は絶対アップするな、デジタルタトゥーになるぞ」と警告する時"
+            },
+            {
+                "title": "後悔",
+                "description": "「昔の痛いポエムブログが発掘されて死にたい」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -107,7 +242,22 @@
         "slug": "rom",
         "body": "<h3>見るだけ</h3><p>Read Only Member。書き込まずに読むだけの人。「ROMる」。</p>",
         "short_description": "<h3>見る専。</h3>",
-        "example": "「半年ROMれ」"
+        "example": "「半年ROMれ」",
+        "key_points": [
+            "Read Only Member（読むだけのメンバー）",
+            "コミュニティに参加せず、閲覧だけしている人",
+            "「半年ROMれ（空気が読めるようになるまで書き込むな）」は古のネットスラング"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ライブ配信",
+                "description": "「今日はコメントせずにROMります」と宣言する時（宣言しなくていい）"
+            },
+            {
+                "title": "掲示板",
+                "description": "「ROM専だったけど初めて書き込みます」と緊張する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -118,7 +268,22 @@
         "slug": "sabaochi",
         "body": "<h3>サーバーダウン</h3><p>アクセス集中などでサーバーが停止し、サイトやゲームに繋がらなくなること。</p>",
         "short_description": "<h3>サーバーダウン。</h3>",
-        "example": "「アクセス集中で鯖落ち」"
+        "example": "「アクセス集中で鯖落ち」",
+        "key_points": [
+            "Server（サーバー）＋落ちる（ダウンする）",
+            "人気チケットの発売日や、大型アップデートの直後によく発生する",
+            "運営のサーバー増強を祈るしかない時間"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「メンテ明けと同時にログインしようとしたら鯖落ちした」時"
+            },
+            {
+                "title": "SNS",
+                "description": "「Twitterが鯖落ちして避難所に集まる」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -129,7 +294,22 @@
         "slug": "ragui",
         "body": "<h3>通信遅延</h3><p>Lag（遅れ）があること。ゲームで動きがカクつくこと。</p>",
         "short_description": "<h3>回線が遅い。</h3>",
-        "example": "「ラグくて撃ち負けた」"
+        "example": "「ラグくて撃ち負けた」",
+        "key_points": [
+            "Lag（遅延）＋い",
+            "通信回線の状態が悪く、操作と画面の動きにズレが生じること",
+            "FPSや格闘ゲームでは命取りになる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「相手がラグすぎて瞬間移動してる」と文句を言う時"
+            },
+            {
+                "title": "リモート会議",
+                "description": "「音声がラグいのでカメラ切ります」と調整する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -140,7 +320,22 @@
         "slug": "bug",
         "body": "<h3>不具合</h3><p>プログラムの誤り。転じて、頭がおかしくなった時にも「頭バグった」と言う。</p>",
         "short_description": "<h3>不具合。故障。</h3>",
-        "example": "「このゲームバグ多すぎ」"
+        "example": "「このゲームバグ多すぎ」",
+        "key_points": [
+            "Bug（虫）が語源",
+            "プログラムの不具合全般を指す",
+            "「バグる（おかしくなる）」という動詞として日常会話でも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "日常",
+                "description": "「忙しすぎて金銭感覚がバグった」と散財する時"
+            },
+            {
+                "title": "ゲーム",
+                "description": "「壁をすり抜ける裏技（バグ）を見つけた」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -151,7 +346,22 @@
         "slug": "copipe",
         "body": "<h3>コピー＆ペースト</h3><p>文章を複製して貼り付けること。ネット上の定番ネタ文章を「コピペ」と呼ぶこともある。</p>",
         "short_description": "<h3>コピペ。</h3>",
-        "example": "「課題をコピペで済ます」"
+        "example": "「課題をコピペで済ます」",
+        "key_points": [
+            "Copy & Paste（コピーアンドペースト）の略",
+            "ネット上で改変されながら広まる定番のネタ文章（コピペブログ等）も指す",
+            "大学のレポートでやるとバレて単位を落とす"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "作業",
+                "description": "「単純作業はショートカットキーでコピペ連打」する時"
+            },
+            {
+                "title": "ネタ",
+                "description": "「吉野家のコピペ（ゴノレゴ）」を見て懐かしむ時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -162,7 +372,22 @@
         "slug": "up",
         "body": "<h3>アップロード</h3><p>画像を投稿したりすること。「うp主」は投稿者のこと。</p>",
         "short_description": "<h3>投稿すること。</h3>",
-        "example": "「画像をうpした」"
+        "example": "「画像をうpした」",
+        "key_points": [
+            "Up（Upload）を日本語入力モードで打つと「うp」になることから",
+            "「うp主（アップロードした人＝動画投稿者）」という言葉はニコニコ動画などで定着した",
+            "最近は普通に「投稿」「アップ」と言うことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "掲示板",
+                "description": "「証拠写真はよ（うpろ）」と煽られる時"
+            },
+            {
+                "title": "動画",
+                "description": "「うp主失踪シリーズ（続きが投稿されない）」タグを見る時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -173,7 +398,22 @@
         "slug": "kwsk",
         "body": "<h3>詳しく</h3><p>「くわしく」のローマ字子音。「詳細求む」の意味。</p>",
         "short_description": "<h3>詳しく教えて。</h3>",
-        "example": "「その話kwsk」"
+        "example": "「その話kwsk」",
+        "key_points": [
+            "KuWaShiKu（詳しく）の子音",
+            "もっと詳細を聞きたい時に短く尋ねる言葉",
+            "死語になりつつある２ちゃんねる用語"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "掲示板",
+                "description": "「元カノに復縁迫られた」「スペックkwsk」のようなやり取りをする時"
+            },
+            {
+                "title": "興味",
+                "description": "「kwsk（もっと話して）」と食いつく時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -184,7 +424,22 @@
         "slug": "ggrks",
         "body": "<h3>ググれカス</h3><p>「自分でGoogle検索しろ」というきつい言葉。初心者に冷たい。</p>",
         "short_description": "<h3>自分で検索しろ。</h3>",
-        "example": "「ggrksと言われた」"
+        "example": "「ggrksと言われた」",
+        "key_points": [
+            "「ググれ（Googleで検索しろ）カス」の略",
+            "なんでもすぐに人に聞く「クレクレ君」への冷たい返し言葉",
+            "今はSiriやChatGPTに聞く時代かもしれない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "初心者",
+                "description": "「質問する前にggrks（検索しましたか？）」と注意される時"
+            },
+            {
+                "title": "古参",
+                "description": "「ggrksなんて言葉、今の若者は知らない」とジェネレーションギャップを感じる時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -195,7 +450,22 @@
         "slug": "jojaku",
         "body": "<h3>情報弱者</h3><p>情報を知らずに損をする人。ネットリテラシーが低い人。</p>",
         "short_description": "<h3>情報に疎い人。</h3>",
-        "example": "「情弱ビジネスに騙されるな」"
+        "example": "「情弱ビジネスに騙されるな」",
+        "key_points": [
+            "「情報弱者」の略",
+            "必要な情報を収集・活用できないため、損をしたり騙されたりする人",
+            "煽り言葉として使われることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "買い物",
+                "description": "「キャリアで高いスマホ買うのは情弱」とマウントを取られる時"
+            },
+            {
+                "title": "警告",
+                "description": "「これは情弱狩り（詐欺）だから気をつけろ」と注意喚起する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -206,7 +476,22 @@
         "slug": "stema",
         "body": "<h3>ステルスマーケティング</h3><p>宣伝であることを隠して宣伝すること。今は法律で規制されている。</p>",
         "short_description": "<h3>隠れて宣伝すること。</h3>",
-        "example": "「ステマ疑惑」"
+        "example": "「ステマ疑惑」",
+        "key_points": [
+            "Stealth Marketing（忍び寄るマーケティング）",
+            "消費者を騙して、一般人の口コミを装って商品を宣伝する行為",
+            "発覚すると信用を失い、大炎上する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "疑念",
+                "description": "「このランキング、全部ステマ臭い」と疑う時"
+            },
+            {
+                "title": "規制",
+                "description": "「ステマ規制法によりPR表記が必須になった」と確認する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -217,7 +502,22 @@
         "slug": "literacy",
         "body": "<h3>活用能力</h3><p>ネットリテラシー。情報の真偽を見抜いたり、適切に使いこなす能力。</p>",
         "short_description": "<h3>使いこなす能力。</h3>",
-        "example": "「ネットリテラシーが低い」"
+        "example": "「ネットリテラシーが低い」",
+        "key_points": [
+            "読み書き能力（Literacy）が語源",
+            "ITリテラシー、金融リテラシーなど、特定の分野の知識や活用能力を指す",
+            "ネットの情報を鵜呑みにしない能力が現代では必須"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "教育",
+                "description": "「子供にスマホを持たせる前にネットリテラシーを教える」時"
+            },
+            {
+                "title": "炎上",
+                "description": "「リテラシーが低い投稿で自滅した」人を見る時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -228,7 +528,22 @@
         "slug": "cloud",
         "body": "<h3>ネット上の保管場所</h3><p>Cloud（雲）。データを自分のPCではなく、インターネット上のサーバーに保存する仕組み。</p>",
         "short_description": "<h3>ネット上に保存。</h3>",
-        "example": "「写真をクラウドに保存する」"
+        "example": "「写真をクラウドに保存する」",
+        "key_points": [
+            "雲（Cloud）＝インターネットの向こう側",
+            "GoogleドライブやiCloudなど、端末を選ばずにデータにアクセスできる技術",
+            "PCが壊れてもデータが消えないので安心"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「ファイルはクラウドに上げといて」と指示する時"
+            },
+            {
+                "title": "トラブル",
+                "description": "「クラウドの容量がいっぱいでバックアップできない」と焦る時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -239,7 +554,22 @@
         "slug": "iot",
         "body": "<h3>モノのインターネット</h3><p>Internet of Things。家電などがネットに繋がること。</p>",
         "short_description": "<h3>家電がネットに繋がる。</h3>",
-        "example": "「IoT家電で生活を便利に」"
+        "example": "「IoT家電で生活を便利に」",
+        "key_points": [
+            "Internet of Things（モノのインターネット）",
+            "スマホで操作できるエアコンや、中身を管理できる冷蔵庫など",
+            "全てがネットに繋がることで便利になる反面、セキュリティリスクも増える"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "生活",
+                "description": "「帰宅前にスマホでお風呂を沸かす（IoT）」時"
+            },
+            {
+                "title": "未来",
+                "description": "「すべてのモノがネットに繋がるIoT社会」を想像する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -250,7 +580,22 @@
         "slug": "ai",
         "body": "<h3>人工知能</h3><p>Artificial Intelligence。人間のような知能を持つコンピュータ。</p>",
         "short_description": "<h3>人工知能。</h3>",
-        "example": "「AIが仕事を奪う？」"
+        "example": "「AIが仕事を奪う？」",
+        "key_points": [
+            "Artificial Intelligence（人工知能）",
+            "ChatGPTや画像生成AIなどの進化で身近になった",
+            "「シンギュラリティ（AIが人類を超える点）」が議論されている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "学習",
+                "description": "「レポートの構成をAIに考えてもらう」時"
+            },
+            {
+                "title": "仕事",
+                "description": "「単純作業はAIに任せて創造的な仕事をしよう」と提案する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -261,7 +606,22 @@
         "slug": "dx",
         "body": "<h3>デジタルトランスフォーメーション</h3><p>デジタル技術で生活やビジネスを変革すること。単なるIT化ではない。</p>",
         "short_description": "<h3>デジタル変革。</h3>",
-        "example": "「社内のDXを推進する」"
+        "example": "「社内のDXを推進する」",
+        "key_points": [
+            "Digital Transformation（デジタルによる変革）。TransをXと略す",
+            "単にパソコンを入れることではなく、ビジネスモデルそのものをデジタル前提に変えること",
+            "「DX推進部」を作っただけで満足してしまう企業が多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「ハンコを廃止して電子契約にするのもDXの第一歩」と説く時"
+            },
+            {
+                "title": "不満",
+                "description": "「紙の書類をPDFにするだけじゃDXとは言えない」とツッコむ時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -272,7 +632,22 @@
         "slug": "metaverse",
         "body": "<h3>仮想空間</h3><p>インターネット上の3次元仮想空間。アバターを使って交流する。</p>",
         "short_description": "<h3>仮想空間。</h3>",
-        "example": "「メタバースで会議」"
+        "example": "「メタバースで会議」",
+        "key_points": [
+            "Meta（超越）＋Universe（宇宙）",
+            "アバター（分身）になって生活や経済活動ができる仮想空間",
+            "セカンドライフの再来とも言われるが、技術進化で没入感が増している"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "遊び",
+                "description": "「メタバース上の土地が高騰している」と聞いて驚く時"
+            },
+            {
+                "title": "交流",
+                "description": "「VRChat（メタバース）で友達作り」をする時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -283,7 +658,22 @@
         "slug": "nft",
         "body": "<h3>非代替性トークン</h3><p>デジタルデータに「本物」である証明書をつける技術。アートなどが高値で取引された。</p>",
         "short_description": "<h3>デジタル証明書。</h3>",
-        "example": "「NFTアートを買う」"
+        "example": "「NFTアートを買う」",
+        "key_points": [
+            "Non-Fungible Token（代替不可能なトークン）",
+            "コピー可能なデジタルデータに、ブロックチェーン技術で「唯一無二」の証明書をつけること",
+            "デジタルアートやゲームのアイテムが高値で売買される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「NFT投資で億り人を目指す」時"
+            },
+            {
+                "title": "疑問",
+                "description": "「ただの画像データになんでこんな価値があるの？」と理解できない時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -294,7 +684,22 @@
         "slug": "blockchain",
         "body": "<h3>分散型台帳</h3><p>ビットコインなどの基盤技術。データをみんなで管理して改ざんを防ぐ。</p>",
         "short_description": "<h3>仮想通貨の技術。</h3>",
-        "example": "「ブロックチェーン技術の活用」"
+        "example": "「ブロックチェーン技術の活用」",
+        "key_points": [
+            "取引履歴を鎖（チェーン）のように繋げて、多数の参加者で分散管理する技術",
+            "改ざんが事実上不可能で、信頼性が高い",
+            "仮想通貨（暗号資産）の基盤となっている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "技術",
+                "description": "「ブロックチェーンは通貨以外にも応用できる革命的な技術だ」と語る時"
+            },
+            {
+                "title": "ニュース",
+                "description": "「ハッキング事件があってもブロックチェーン自体の仕組みは破られていない」と擁護する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -305,7 +710,22 @@
         "slug": "5g",
         "body": "<h3>第5世代移動通信システム</h3><p>高速で大容量の通信ができる新しい規格。</p>",
         "short_description": "<h3>超高速通信。</h3>",
-        "example": "「5G対応スマホ」"
+        "example": "「5G対応スマホ」",
+        "key_points": [
+            "5th Generation（第5世代）",
+            "「高速大容量」「低遅延」「多数同時接続」が特徴",
+            "2時間の映画が数秒でダウンロードできる（理論上は）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スマホ",
+                "description": "「まだエリア外で5Gの恩恵を受けていない」時"
+            },
+            {
+                "title": "イベント",
+                "description": "「5Gを活用したVRライブ配信」を楽しむ時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -316,7 +736,22 @@
         "slug": "gafa",
         "body": "<h3>巨大IT企業</h3><p>Google, Apple, Facebook(Meta), Amazonの4社。世界を支配している。</p>",
         "short_description": "<h3>ITの巨人たち。</h3>",
-        "example": "「GAFAの独占禁止」"
+        "example": "「GAFAの独占禁止」",
+        "key_points": [
+            "Google, Apple, Facebook (Meta), Amazonの頭文字",
+            "世界のIT産業を支配するアメリカの巨大企業群",
+            "Microsoftを入れて「GAFAM」と呼ぶこともある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "就活",
+                "description": "「GAFA出身のエンジニアは年収が桁違い」と噂する時"
+            },
+            {
+                "title": "社会",
+                "description": "「個人情報は全てGAFAに握られている」と恐れる時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -327,6 +762,21 @@
         "slug": "saas",
         "body": "<h3>サービスとしてのソフトウェア</h3><p>Software as a Service。ソフトを買わずに、ネット経由で利用する形態。SlackやZoomなど。</p>",
         "short_description": "<h3>クラウドサービス。</h3>",
-        "example": "「SaaS企業に就職」"
+        "example": "「SaaS企業に就職」",
+        "key_points": [
+            "Software as a Service（サース）",
+            "パッケージソフトを購入・インストールするのではなく、月額課金などでネット経由で利用するサービス",
+            "Salesforce、Slack、Zoomなどが代表例"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「SaaSを導入して業務効率化を図る」時"
+            },
+            {
+                "title": "トレンド",
+                "description": "「SaaS業界は転職市場で人気」と聞く時"
+            }
+        ]
     }
 ]

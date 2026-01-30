@@ -8,7 +8,22 @@
         "slug": "nakanohito",
         "body": "<h3>運営者、声優</h3><p>企業の公式アカウントを運用している担当者や、着ぐるみの役者、キャラの声優など。</p>",
         "short_description": "<h3>運営してる人。声優。</h3>",
-        "example": "「公式の中の人面白い」"
+        "example": "「公式の中の人面白い」",
+        "key_points": [
+            "キャラクターや組織の「中に入って動かしている人」のこと",
+            "着ぐるみ、Vtuber、企業公式SNSアカウントなどで使われる",
+            "「中の人などいない！」とネタで返すのがお約束"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「SHARPさんの中の人、センスあるわ」と公式アカウントを褒める時"
+            },
+            {
+                "title": "Vtuber",
+                "description": "「中の人の前世（前の活動）が気になる」と詮索する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -19,7 +34,22 @@
         "slug": "aka",
         "body": "<h3>アカウント</h3><p>Account→アカ→垢。「本垢」「裏垢」など。</p>",
         "short_description": "<h3>アカウントのこと。</h3>",
-        "example": "「垢消しするわ」"
+        "example": "「垢消しするわ」",
+        "key_points": [
+            "アカウント（Account）の略語。「アカ」→「垢」と変換されたのが定着",
+            "「本垢（メイン）」「サブ垢（予備）」「裏垢（本音）」「リア垢（リアル友達用）」など使い分けるのが現代人",
+            "「垢BAN（バン）」はアカウント停止のこと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "挨拶",
+                "description": "「ゲーム垢作りました！フォローお願いします」と自己紹介する時"
+            },
+            {
+                "title": "トラブル",
+                "description": "「裏垢がバレて炎上した」と震え上がる時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -30,7 +60,22 @@
         "slug": "ban",
         "body": "<h3>追放</h3><p>アカウントが停止・削除されること。「垢バン」とも言う。</p>",
         "short_description": "<h3>アカウント停止。</h3>",
-        "example": "「規約違反でBANされた」"
+        "example": "「規約違反でBANされた」",
+        "key_points": [
+            "Ban（禁止する、追放する）",
+            "利用規約違反などで、サービスから強制退場させられること",
+            "「シャドウバン（本人に通知なくこっそり表示されなくなる）」という恐ろしい措置もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配信",
+                "description": "「不適切な発言で配信BANされた」と報告する時"
+            },
+            {
+                "title": "ゲーム",
+                "description": "「チーター通報したらBAN通知きた」と喜ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -41,7 +86,22 @@
         "slug": "ripu",
         "body": "<h3>返信</h3><p>Reply（リプライ）の略。Twitterなどで返信すること。</p>",
         "short_description": "<h3>返信のこと。</h3>",
-        "example": "「リプありがとう」"
+        "example": "「リプありがとう」",
+        "key_points": [
+            "Reply（返信）の略",
+            "「リプ禁（返信禁止）」「クソリプ（的外れで不快な返信）」など派生語が多い",
+            "「巻き込みリプ（関係ない人まで宛先に入れてしまう）」はマナー違反"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "お礼",
+                "description": "「お祝いリプありがとうございます！」と感謝する時"
+            },
+            {
+                "title": "愚痴",
+                "description": "「知らないおじさんからクソリプ来た」とブロックする時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -52,7 +112,22 @@
         "slug": "favo",
         "body": "<h3>いいね</h3><p>昔のTwitterの「Favorite（お気に入り）」機能から。今は「いいね」だが、古参は「ふぁぼ」と言う。</p>",
         "short_description": "<h3>いいねボタンのこと。</h3>",
-        "example": "「ふぁぼした」"
+        "example": "「ふぁぼした」",
+        "key_points": [
+            "昔のTwitterの「Favorite（★マーク）」機能が由来",
+            "今は「Like（♥マーク）」に変わったが、古参ツイッタラーは意地でも「ふぁぼ」と言う",
+            "「ふぁぼ魔（何でもいいねする人）」なんて言葉もあった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "通知",
+                "description": "「有名人にふぁぼられた！」とスクショを撮る時"
+            },
+            {
+                "title": "懐古",
+                "description": "「いいねじゃなくてふぁぼに戻してほしい」と運営に文句を言う時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -63,7 +138,22 @@
         "slug": "kakusankibo",
         "body": "<h3>広めてください</h3><p>RT（リツイート）して情報を広めてほしいときに使う。</p>",
         "short_description": "<h3>広めて！</h3>",
-        "example": "「【拡散希望】迷い犬探してます」"
+        "example": "「【拡散希望】迷い犬探してます」",
+        "key_points": [
+            "情報を広く拡散してほしい時に文頭につける言葉",
+            "迷い犬探しなどの切実なものから、単なる宣伝まで様々",
+            "最近はデマの拡散にも使われるので、RTする前に情報の真偽を確認しよう"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "告知",
+                "description": "「【拡散希望】ライブのチケット譲ります」と掲示板代わりに使う時"
+            },
+            {
+                "title": "注意喚起",
+                "description": "「【拡散希望】この詐欺メールに気をつけて！」と呼びかける時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -74,7 +164,22 @@
         "slug": "ui",
         "body": "<h3>ユーザーインターフェース</h3><p>画面の見た目や操作性のこと。ボタンの配置やデザインなど。</p>",
         "short_description": "<h3>画面の見た目。</h3>",
-        "example": "「UIが分かりにくい」"
+        "example": "「UIが分かりにくい」",
+        "key_points": [
+            "User Interface（ユーザー接点）。ユーザーが見て触れる部分すべて",
+            "「UIがいい」＝「操作がわかりやすくて迷わない」",
+            "UX（ユーザー体験）とセットで語られることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「ボタンが押しにくいからUI改善しよう」と修正する時"
+            },
+            {
+                "title": "ゲーム",
+                "description": "「メニュー画面のUIがゴチャゴチャしてて見づらい」とレビューする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -85,7 +190,22 @@
         "slug": "ux",
         "body": "<h3>ユーザーエクスペリエンス</h3><p>ユーザーがサービスを通して得られる体験のこと。「使いやすい」「楽しい」など。</p>",
         "short_description": "<h3>顧客体験。</h3>",
-        "example": "「UXを向上させる」"
+        "example": "「UXを向上させる」",
+        "key_points": [
+            "User Experience（ユーザー体験）。UIを含めた、サービス全体の体験",
+            "「注文から到着までが早くて感動した」などもUXの一部",
+            "UIが良くても、中身がつまらなければUXは低い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「ユーザーにどんなUX（感動）を提供したいの？」と問いかける時"
+            },
+            {
+                "title": "改善",
+                "description": "「読み込みが遅いのはUXを損なう」と高速化する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -96,7 +216,22 @@
         "slug": "cloud",
         "body": "<h3>ネット上の保管場所</h3><p>データを自分のパソコンではなく、インターネット上に保存する仕組み。</p>",
         "short_description": "<h3>ネット上のサーバー。</h3>",
-        "example": "「データはクラウドに上げて」"
+        "example": "「データはクラウドに上げて」",
+        "key_points": [
+            "Cloud（雲）。インターネットの向こう側にあるサーバーのこと",
+            "GmailやGoogleドライブ、iCloudなどは全てクラウドサービス",
+            "PCが壊れてもデータが消えないのが最大のメリット"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「資料はクラウドで共有しておきます」とURLを送る時"
+            },
+            {
+                "title": "トラブル",
+                "description": "「クラウドの同期がうまくいかない」とパニクる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -107,7 +242,22 @@
         "slug": "bug",
         "body": "<h3>不具合</h3><p>プログラムの間違い。ゲーム用語としても使われる。</p>",
         "short_description": "<h3>不具合のこと。</h3>",
-        "example": "「バグを見つけた」"
+        "example": "「バグを見つけた」",
+        "key_points": [
+            "Bug（虫）。昔のコンピューターに虫が入り込んで故障したのが語源",
+            "プログラムのミスによる不具合のこと",
+            "「仕様です（バグじゃない）」と言い張るのはエンジニアの常套手段"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "テスト",
+                "description": "「致命的なバグが見つかったのでリリース延期です」と絶望の報告をする時"
+            },
+            {
+                "title": "ゲーム",
+                "description": "「壁抜けバグを使ってタイム短縮する」と楽しむ時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -118,7 +268,22 @@
         "slug": "deploy",
         "body": "<h3>配備、展開</h3><p>システムを利用可能な状態にすること。本番環境に反映すること。</p>",
         "short_description": "<h3>本番に反映すること。</h3>",
-        "example": "「金曜日のデプロイは避ける」"
+        "example": "「金曜日のデプロイは避ける」",
+        "key_points": [
+            "Deploy（展開する、配置する）。元は軍事用語",
+            "作ったプログラムをサーバーにアップロードして、皆が使える状態にすること",
+            "「金曜日の夕方にデプロイしてはいけない（週末が潰れるから）」という格言がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「修正完了したのでデプロイします」と連絡する時"
+            },
+            {
+                "title": "事故",
+                "description": "「デプロイしたらサイトが落ちた」と青ざめる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -129,7 +294,22 @@
         "slug": "lp",
         "body": "<h3>ランディングページ</h3><p>広告をクリックして最初に表示される、縦長の宣伝ページ。</p>",
         "short_description": "<h3>広告用の縦長ページ。</h3>",
-        "example": "「商品のLPを作る」"
+        "example": "「商品のLPを作る」",
+        "key_points": [
+            "Landing Page（着地ページ）。ユーザーが最初に降り立つ場所",
+            "商品の魅力を伝えて「購入」ボタンを押させることに特化した、縦に長いページ",
+            "「申し込みはこちら！」が何度も出てくるアレ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "制作",
+                "description": "「このLP、コンバージョン（成約）率悪いな」と分析する時"
+            },
+            {
+                "title": "依頼",
+                "description": "「インパクトのあるLPを作ってください」と無茶ぶりする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -140,7 +320,22 @@
         "slug": "seo",
         "body": "<h3>検索エンジン最適化</h3><p>Google検索で上位に表示させるための対策。</p>",
         "short_description": "<h3>検索順位を上げる対策。</h3>",
-        "example": "「SEO対策で記事を書く」"
+        "example": "「SEO対策で記事を書く」",
+        "key_points": [
+            "Search Engine Optimization（検索エンジン最適化）",
+            "Googleなどの検索結果で1ページ目に表示させるための技術",
+            "「ユーザーにとって有益なコンテンツを作る」のが最強のSEOだが、それが一番難しい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブログ",
+                "description": "「SEO意識してキーワード盛り込んだ記事を書く」時"
+            },
+            {
+                "title": "Webマーケ",
+                "description": "「SEOの順位が落ちた！アルゴリズム変動か？」と焦る時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -151,7 +346,22 @@
         "slug": "conversion",
         "body": "<h3>成果</h3><p>Webサイトで、商品の購入や会員登録などの成果が出ること。「CV」と略す。</p>",
         "short_description": "<h3>成約すること。</h3>",
-        "example": "「CV率が下がってる」"
+        "example": "「CV率が下がってる」",
+        "key_points": [
+            "Conversion（転換）。訪問者が客に「変わる」こと",
+            "購入、資料請求、会員登録など、そのサイトの「ゴール」のこと",
+            "「CVR（コンバージョン率）」はマーケターが毎日見る数字"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "Webマーケ",
+                "description": "「アクセスは多いけどコンバージョンに繋がらない」と悩む時"
+            },
+            {
+                "title": "広告",
+                "description": "「1件あたりのCV単価（CPA）が高すぎる」と予算を見直す時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -162,7 +372,22 @@
         "slug": "cache",
         "body": "<h3>一時保存データ</h3><p>一度読み込んだデータを保存しておいて、次から速く表示する仕組み。</p>",
         "short_description": "<h3>一時保存で速くする仕組み。</h3>",
-        "example": "「キャッシュクリアして」"
+        "example": "「キャッシュクリアして」",
+        "key_points": [
+            "Cache（隠し場所、貯蔵所）",
+            "よく使うデータを手元に置いておくことで、表示速度を爆速にする技術",
+            "「サイトの更新が反映されない！」というトラブルの9割はキャッシュが原因"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル解決",
+                "description": "「画面おかしい？とりあえずキャッシュクリアしてみて」と言う魔法の言葉"
+            },
+            {
+                "title": "開発",
+                "description": "「スーパーリロード（強力な更新）すれば直るよ」と教える時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -173,7 +398,22 @@
         "slug": "impression",
         "body": "<h3>表示回数</h3><p>広告や投稿が表示された回数のこと。「インプ」と略す。</p>",
         "short_description": "<h3>表示された回数。</h3>",
-        "example": "「インプは稼げてる」"
+        "example": "「インプは稼げてる」",
+        "key_points": [
+            "Impression（印象、刻印）。Webでは「表示回数」のこと",
+            "何回ユーザーの目に触れたか。クリックされたかどうかは関係ない",
+            "「インプ稼ぎ（露骨に注目を集めて表示回数を増やす行為）」は嫌われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「万バズしたからインプレッションすごいことになった」と喜ぶ時"
+            },
+            {
+                "title": "広告",
+                "description": "「インプは出てるけどクリックされない（スルーされてる）」と分析する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -184,7 +424,22 @@
         "slug": "engagement",
         "body": "<h3>反応率</h3><p>いいね、RT、クリックなど、ユーザーからの反応のこと。</p>",
         "short_description": "<h3>ユーザーからの反応。</h3>",
-        "example": "「エンゲージメントを高める」"
+        "example": "「エンゲージメントを高める」",
+        "key_points": [
+            "Engagement（婚約、約束）。マーケティングでは「絆、愛着」の意味",
+            "ただ見られるだけじゃなく、いいねやコメントなどの「反応」をしてくれた割合",
+            "フォロワーが多くても、エンゲージメントが低いと「死に垢」と言われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS運用",
+                "description": "「もっとフォロワーと絡んでエンゲージメントを高めよう」と方針を決める時"
+            },
+            {
+                "title": "人事",
+                "description": "「従業員エンゲージメント（会社への愛着）を向上させる」と施策を打つ時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -195,7 +450,22 @@
         "slug": "algorithm",
         "body": "<h3>計算手順</h3><p>おすすめに表示する仕組みなどのルールのこと。「Twitterのアルゴリズムが変わった」など。</p>",
         "short_description": "<h3>計算のルール。</h3>",
-        "example": "「アルゴリズムに愛されたい」"
+        "example": "「アルゴリズムに愛されたい」",
+        "key_points": [
+            "Algorithm（計算法）。問題を解決するための手順や計算式",
+            "SNSで「おすすめ」に表示される投稿を決める謎のルールのこと",
+            "「アルゴリズムの奴隷」になって、AIに受ける投稿ばかりするのは本末転倒"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「最近インプ減った。アルゴリズム変わった？」と運営のせいにする時"
+            },
+            {
+                "title": "検索",
+                "description": "「Googleの検索アルゴリズムを解析して上位表示を狙う」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -206,7 +476,22 @@
         "slug": "ec",
         "body": "<h3>電子商取引</h3><p>E-Commerce。ネット通販のこと。</p>",
         "short_description": "<h3>ネット通販。</h3>",
-        "example": "「ECサイトを運営する」"
+        "example": "「ECサイトを運営する」",
+        "key_points": [
+            "Electronic Commerce（電子商取引）",
+            "Amazonや楽天などのネット通販サイト（ECサイト）のこと",
+            "「D2C（メーカー直販）」もECの一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "買い物",
+                "description": "「実店舗よりECの方が安い」とスマホで購入する時"
+            },
+            {
+                "title": "ビジネス",
+                "description": "「これからはEC化率を上げていかないと生き残れない」と危機感を持つ時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -217,6 +502,21 @@
         "slug": "saas",
         "body": "<h3>サース</h3><p>Software as a Service。ネット経由で利用するソフトのこと。ZoomやSlackなど。</p>",
         "short_description": "<h3>ネット経由で使うソフト。</h3>",
-        "example": "「SaaS系企業に転職したい」"
+        "example": "「SaaS系企業に転職したい」",
+        "key_points": [
+            "Software as a Service（サービスとしてのソフトウェア）。「サース」または「サーズ」と読む",
+            "パッケージソフトを買わずに、月額課金（サブスク）で利用するWebサービス",
+            "Slack、Zoom、Notionなど、現代の仕事はSaaSがないと成り立たない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "導入検討",
+                "description": "「便利そうだけど、SaaSを契約しすぎて固定費がかさむ」と悩む時"
+            },
+            {
+                "title": "キャリア",
+                "description": "「SaaS業界は成長してるから給料がいい」と転職先を探す時"
+            }
+        ]
     }
 ]

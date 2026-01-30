@@ -8,7 +8,18 @@
         "slug": "5s-mfg",
         "body": "<h3>職場規律</h3><p>整理・整頓・清掃・清潔・躾（しつけ）の徹底。工場の基本。</p>",
         "short_description": "<h3>整理整頓。</h3>",
-        "example": "「5S活動の推進」"
+        "example": "「5S活動の推進」",
+        "key_points": [
+            "製造現場の基本中の基本活動",
+            "整理（捨てる）、整頓（所定の位置に置く）、清掃（きれいに）、清潔（維持）、躾（習慣づけ）",
+            "これができていない工場は品質も悪いとされる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "巡回",
+                "description": "「工場見学で5Sが徹底されているかチェックされる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -19,7 +30,18 @@
         "slug": "kaizen",
         "body": "<h3>改善</h3><p>現場発の知恵で、作業効率や品質を向上させる活動。海外でも通用する言葉。</p>",
         "short_description": "<h3>現場改善。</h3>",
-        "example": "「カイゼン提案」"
+        "example": "「カイゼン提案」",
+        "key_points": [
+            "KAIZENとして世界共通語になった日本の手法",
+            "大きな改革ではなく、日々の小さな改善を積み重ねること",
+            "「知恵を出せ、簡単には金を使うな」がモットー"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "報告会",
+                "description": "「カイゼン事例発表会で表彰される」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -30,7 +52,18 @@
         "slug": "just-in-time",
         "body": "<h3>トヨタ生産方式</h3><p>必要なものを、必要な時に、必要なだけ作る仕組み。在庫を持たない。</p>",
         "short_description": "<h3>在庫を持たない生産。</h3>",
-        "example": "「JIT納入」"
+        "example": "「JIT納入」",
+        "key_points": [
+            "在庫（ムダ）を徹底的に排除するトヨタ生産方式の柱",
+            "「スーパーマーケット方式」とも呼ばれる",
+            "災害などで供給が止まるとラインがすぐ止まるリスクもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "物流",
+                "description": "「ジャストインタイム納入を要求されてトラックが待機する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -41,7 +74,18 @@
         "slug": "kanban",
         "body": "<h3>指示カード</h3><p>後工程が前工程に部品を取りに行く際に使うカード。在庫管理の要。</p>",
         "short_description": "<h3>後工程引取方式。</h3>",
-        "example": "「かんばん方式」"
+        "example": "「かんばん方式」",
+        "key_points": [
+            "部品の使用量と補充をコントロールする物理的なカード（または電子情報）",
+            "「かんばんが外れる＝生産指示」となる",
+            "作りすぎの無駄を防ぐための道具"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「かんばん回収ボックスがいっぱいになる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -52,7 +96,18 @@
         "slug": "chokotei",
         "body": "<h3>一時停止</h3><p>機械が些細なトラブルで一時的に止まること。すぐに復旧できるが、頻発すると生産性が落ちる。</p>",
         "short_description": "<h3>ちょっとした停止。</h3>",
-        "example": "「チョコ停対策」"
+        "example": "「チョコ停対策」",
+        "key_points": [
+            "故障（ドカ停）ではない、ちょこっとした停止",
+            "部品詰まりやセンサー誤検知などが原因",
+            "チリも積もれば山となり、稼働率を大きく下げる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "分析",
+                "description": "「チョコ停が多いラインの原因調査をする」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -63,7 +118,18 @@
         "slug": "poka-yoke",
         "body": "<h3>ミス防止装置</h3><p>不注意（ポカ）があっても、物理的にミスが起きない（ヨケ）ようにする仕組み。</p>",
         "short_description": "<h3>ミス防止。</h3>",
-        "example": "「ポカヨケ治具」"
+        "example": "「ポカヨケ治具」",
+        "key_points": [
+            "人間はミスをするものという前提で、ミスできない仕組みを作ること",
+            "「部品の向きが違うとセットできない」「数が合うまで次の箱が開かない」など",
+            "フールプルーフ（Fool Proof）の一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設計",
+                "description": "「ここにポカヨケを設置して不良流出を防ぐ」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -74,7 +140,18 @@
         "slug": "yield-rate",
         "body": "<h3>良品率</h3><p>投入した材料に対して、良品として取れた製品の割合。</p>",
         "short_description": "<h3>良品の割合。</h3>",
-        "example": "「歩留まり改善」"
+        "example": "「歩留まり改善」",
+        "key_points": [
+            "投入量に対する良品の割合",
+            "歩留まりが悪いとコストが跳ね上がる",
+            "半導体製造などでは超重要指標"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「歩留まりが50%を切って赤字垂れ流しだ」と怒られる時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -85,7 +162,18 @@
         "slug": "assembly-line",
         "body": "<h3>生産ライン</h3><p>流れ作業で製品を作る設備。「ラインが止まる」は大事件。</p>",
         "short_description": "<h3>生産レーン。</h3>",
-        "example": "「ライン工」"
+        "example": "「ライン工」",
+        "key_points": [
+            "流れ作業を行う生産設備一色のこと",
+            "「ラインを止めるな」が現場の鉄則",
+            "期間工などが働く場所のイメージ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「非常停止ボタンを押してラインを止める勇気」が試される時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -96,7 +184,18 @@
         "slug": "takt-time",
         "body": "<h3>ピッチ</h3><p>製品1個を作るのにかけられる時間。顧客の需要から計算される。</p>",
         "short_description": "<h3>1個作る時間。</h3>",
-        "example": "「タクト短縮」"
+        "example": "「タクト短縮」",
+        "key_points": [
+            "製品1個を何秒で作らなければならないかという目標時間",
+            "稼働時間 ÷ 必要生産数 で算出",
+            "「タクトを縮める」＝作業スピードを上げる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「タクトタイムについていけなくてラインを止めてしまう」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -107,7 +206,18 @@
         "slug": "lead-time",
         "body": "<h3>所要時間</h3><p>発注から納品までにかかる時間。</p>",
         "short_description": "<h3>納品までの時間。</h3>",
-        "example": "「リードタイム短縮」"
+        "example": "「リードタイム短縮」",
+        "key_points": [
+            "発注から納品までの期間",
+            "これが短いほど顧客満足度が高く、在庫リスクも減る",
+            "「製造リードタイム」「調達リードタイム」などがある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "納期調整",
+                "description": "「リードタイムが長すぎて納期に間に合わない」と焦る時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -118,7 +228,18 @@
         "slug": "oem",
         "body": "<h3>相手先ブランド製造</h3><p>Original Equipment Manufacturer。他社のブランド名で製品を作ること。</p>",
         "short_description": "<h3>他社ブランド製造。</h3>",
-        "example": "「OEM供給」"
+        "example": "「OEM供給」",
+        "key_points": [
+            "他社ブランドの製品を製造すること",
+            "軽自動車やコンビニスイーツなどでよく見られる",
+            "製造側は稼働率を上げられ、発注側は設備投資なしで製品を持てる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「海外工場にOEM生産を委託する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -129,7 +250,18 @@
         "slug": "odm",
         "body": "<h3>設計から製造まで</h3><p>Original Design Manufacturer。設計から製造まで請け負うこと。</p>",
         "short_description": "<h3>設計製造受託。</h3>",
-        "example": "「台湾ODM企業」"
+        "example": "「台湾ODM企業」",
+        "key_points": [
+            "製造だけでなく、設計開発（Design）から請け負うこと",
+            "発注側はブランドを貼って売るだけ",
+            "台湾や中国の企業が得意とする"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「スマホの開発はODM企業に丸投げしている」という裏話を聞く時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -140,7 +272,18 @@
         "slug": "qc",
         "body": "<h3>品質管理</h3><p>Quality Control。製品の質を保つための活動。「QCサークル」。</p>",
         "short_description": "<h3>品質管理。</h3>",
-        "example": "「QC七つ道具」"
+        "example": "「QC七つ道具」",
+        "key_points": [
+            "品質を管理・改善する活動",
+            "小集団活動（QCサークル）で職場の問題を解決する",
+            "定時後にやらされて残業代が出ない（自主活動扱い）と揉めることも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「QC検定を受けさせられる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -151,7 +294,18 @@
         "slug": "iso",
         "body": "<h3>国際標準化機構</h3><p>製品や品質管理の国際的な基準。「ISO9001（品質）」「ISO14001（環境）」。</p>",
         "short_description": "<h3>国際規格。</h3>",
-        "example": "「ISO認証取得」"
+        "example": "「ISO認証取得」",
+        "key_points": [
+            "国際的な基準（規格）のこと",
+            "これを取得していると「ちゃんとした管理体制がある」という証明になる",
+            "更新審査の前は書類作りで地獄を見る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "監査",
+                "description": "「来週はISOの審査だから掃除しろ！」と号令がかかる時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -162,7 +316,18 @@
         "slug": "six-sigma",
         "body": "<h3>品質管理手法</h3><p>不良品の発生率を100万回に3.4回以下にするという、極めて高い目標を目指す手法。</p>",
         "short_description": "<h3>究極の品質管理。</h3>",
-        "example": "「シックスシグマ導入」"
+        "example": "「シックスシグマ導入」",
+        "key_points": [
+            "統計学を用いた品質管理手法",
+            "100万回のうちミスを3.4回以下に抑えるレベル",
+            "モトローラやGEが導入して有名になった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「シックスシグマレベルの品質を求められる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -173,7 +338,18 @@
         "slug": "pl-law",
         "body": "<h3>製造物責任法</h3><p>製品の欠陥で消費者が損害を受けた場合、メーカーに賠償責任を負わせる法律。</p>",
         "short_description": "<h3>メーカーの責任。</h3>",
-        "example": "「PL保険」"
+        "example": "「PL保険」",
+        "key_points": [
+            "Product Liability（製造物責任）法",
+            "製品の欠陥によって怪我などをした場合、メーカーが責任を負う",
+            "取説に「猫を電子レンジに入れないでください」と書かれる原因（※都市伝説含む）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "事故",
+                "description": "「発火事故でPL法に基づく損害賠償請求を行う」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -184,7 +360,18 @@
         "slug": "supply-chain",
         "body": "<h3>供給網</h3><p>原材料の調達から消費者に届くまでの一連の流れ。</p>",
         "short_description": "<h3>供給の連鎖。</h3>",
-        "example": "「サプライチェーン分断」"
+        "example": "「サプライチェーン分断」",
+        "key_points": [
+            "原料調達→製造→物流→販売→消費というモノの流れ全体",
+            "一箇所でも途切れると全体が止まる",
+            "コロナ禍や戦争でその脆さが露呈した（SCM：サプライチェーンマネジメントの重要性）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "危機",
+                "description": "「半導体不足でサプライチェーンが混乱している」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -195,7 +382,18 @@
         "slug": "3d-printer",
         "body": "<h3>積層造形</h3><p>データを元に樹脂などを積み重ねて立体物を作る機械。試作に使われる。</p>",
         "short_description": "<h3>立体印刷機。</h3>",
-        "example": "「3Dプリンター出力」"
+        "example": "「3Dプリンター出力」",
+        "key_points": [
+            "3Dデータ（CAD）から立体物を造形する装置",
+            "金型がいらないため、試作品を素早く作るのに適している",
+            "最近は家や食べ物、臓器まで作ろうとしている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "試作",
+                "description": "「モックアップを3Dプリンターで出力して確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -206,7 +404,18 @@
         "slug": "factory-automation",
         "body": "<h3>工場自動化</h3><p>Factory Automation。ロボットやセンサーで工場の作業を自動化すること。</p>",
         "short_description": "<h3>工場自動化。</h3>",
-        "example": "「FA機器メーカー」"
+        "example": "「FA機器メーカー」",
+        "key_points": [
+            "工場の自動化",
+            "産業用ロボットやセンサーを駆使して無人化を目指す",
+            "キーエンスなどのFA機器メーカーは年収が高いことで有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設備投資",
+                "description": "「FA化を進めて人件費を削減する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -217,7 +426,18 @@
         "slug": "iot-mfg",
         "body": "<h3>モノのインターネット</h3><p>Internet of Things。工場の機械をネットに繋ぎ、データを集めて監視・制御すること。</p>",
         "short_description": "<h3>機械のネット接続。</h3>",
-        "example": "「工場IoT」"
+        "example": "「工場IoT」",
+        "key_points": [
+            "工場のあらゆる設備をネットに繋ぐこと",
+            "稼働状況の見える化や予知保全（壊れる前に直す）が可能になる",
+            "製造業DXの要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "監視",
+                "description": "「IoTセンサーで機械の振動異常を検知する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -228,7 +448,18 @@
         "slug": "smart-factory",
         "body": "<h3>考える工場</h3><p>AIやIoTを活用して、生産効率を自律的に最適化する工場。</p>",
         "short_description": "<h3>デジタル工場。</h3>",
-        "example": "「インダストリー4.0」"
+        "example": "「インダストリー4.0」",
+        "key_points": [
+            "データ活用によって最適化された次世代の工場",
+            "ドイツの「インダストリー4.0」が有名",
+            "熟練工の勘とコツをデジタル化する試みもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "未来",
+                "description": "「完全自律稼働するスマート工場を見学する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -239,7 +470,18 @@
         "slug": "mold",
         "body": "<h3>型の金属</h3><p>プラスチックや金属を流し込んで同じ形を大量生産するための金属の型。日本の得意分野。</p>",
         "short_description": "<h3>量産の型。</h3>",
-        "example": "「金型設計」"
+        "example": "「金型設計」",
+        "key_points": [
+            "大量生産の母体となる金属の型",
+            "非常に高価で精密さが求められる",
+            "日本の中小企業の技術力の象徴だが、中国などの台頭もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "生産準備",
+                "description": "「金型の製作に3ヶ月かかる」と言われてスケジュール調整に苦しむ時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -250,7 +492,18 @@
         "slug": "jig",
         "body": "<h3>補助具</h3><p>「じぐ」。作業を正確・簡単に行うための補助的な道具。</p>",
         "short_description": "<h3>作業サポート道具。</h3>",
-        "example": "「検査治具」"
+        "example": "「検査治具」",
+        "key_points": [
+            "部品を固定したり、位置合わせをしたりするための専用道具",
+            "EnglishのJigに漢字を当てたもの",
+            "良い治具を作れるかどうかが生産性を左右する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「手作りの治具で作業時間を半分にした」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -261,7 +514,18 @@
         "slug": "burr",
         "body": "<h3>出っ張り</h3><p>加工した時にできる不要な突起。「バリ取り」が必要。</p>",
         "short_description": "<h3>ささくれ。</h3>",
-        "example": "「バリを取る」"
+        "example": "「バリを取る」",
+        "key_points": [
+            "金属やプラスチックを加工した際に残る不要なとげや出っ張り",
+            "残っていると怪我をしたり、組み付け不良の原因になる",
+            "バリ取りは地味だが重要な工程"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "検品",
+                "description": "「製品にバリが残っていて指を切った」とクレームが来る時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -272,7 +536,18 @@
         "slug": "tolerance",
         "body": "<h3>許容範囲</h3><p>図面通りの寸法から、どれくらいズレても許されるかの範囲。「プラマイゼロ」など。</p>",
         "short_description": "<h3>許容誤差。</h3>",
-        "example": "「公差内」"
+        "example": "「公差内」",
+        "key_points": [
+            "加工における寸法の許容範囲",
+            "公差が厳しい（狭い）ほど加工が難しくコストが上がる",
+            "「幾何公差（形や位置のズレ）」もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "品質",
+                "description": "「公差外（寸法NG）だが、機能上問題ないので特採にする」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -283,7 +558,18 @@
         "slug": "safety-shoes",
         "body": "<h3>鉄板入り靴</h3><p>つま先に鉄板や樹脂が入っていて、重いものを落としても大丈夫な靴。</p>",
         "short_description": "<h3>足を守る靴。</h3>",
-        "example": "「安全靴着用」"
+        "example": "「安全靴着用」",
+        "key_points": [
+            "つま先に先芯（鉄や樹脂）が入った防護靴",
+            "工場現場の必需品",
+            "重いものを足に落としても指が潰れない（はず）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「安全靴のおかげで足の指を守れた」と冷や汗をかく時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -294,7 +580,18 @@
         "slug": "safety-glasses",
         "body": "<h3>目を守る</h3><p>切粉や薬品から目を守るためのメガネ。「そのメガネ、伊達じゃない」。</p>",
         "short_description": "<h3>目を守るメガネ。</h3>",
-        "example": "「保護メガネ着用」"
+        "example": "「保護メガネ着用」",
+        "key_points": [
+            "飛来物や薬品から目を保護するためのメガネ",
+            "現場では着用義務があるエリアが多い",
+            "曇ると作業しにくい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "安全",
+                "description": "「保護メガネなしでドリル作業をして怒られる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -305,7 +602,18 @@
         "slug": "pointing-and-calling-mfg",
         "body": "<h3>ヨシ！</h3><p>対象を指差し、声を出して確認すること。ミスを大幅に減らす。</p>",
         "short_description": "<h3>ヨシ！</h3>",
-        "example": "「右よし、左よし」"
+        "example": "「右よし、左よし」",
+        "key_points": [
+            "対象を指差し、声に出して確認する動作",
+            "意識レベルを上げ、ヒューマンエラーを防ぐ効果が高い",
+            "「現場猫（仕事猫）」の「ヨシ！」で有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "確認",
+                "description": "「ご安全に！と挨拶して指差喚呼を行う」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -316,7 +624,18 @@
         "slug": "near-miss-mfg",
         "body": "<h3>ヒヤリとした</h3><p>事故にはならなかったが、ヒヤリとしたこと。この裏に重大事故が隠れている（ハインリッヒの法則）。</p>",
         "short_description": "<h3>事故寸前。</h3>",
-        "example": "「ヒヤリハット報告書」"
+        "example": "「ヒヤリハット報告書」",
+        "key_points": [
+            "重大事故の一歩手前の出来事",
+            "「1件の重大事故の裏には、29件の軽微な事故と300件のヒヤリハットがある」とされる",
+            "隠さずに報告・共有することが安全の第一歩"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "安全管理",
+                "description": "「またヒヤリハット報告書か…と面倒くさがる」時（ダメな例）"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -327,7 +646,18 @@
         "slug": "zero-accident",
         "body": "<h3>労働災害ゼロ</h3><p>怪我や事故をゼロにすること。「ゼロ災で行こう、ヨシ！」</p>",
         "short_description": "<h3>事故ゼロ。</h3>",
-        "example": "「ゼロ災運動」"
+        "example": "「ゼロ災運動」",
+        "key_points": [
+            "労働災害をゼロにする活動",
+            "朝礼での掛け声の定番",
+            "連続無災害記録が途切れると現場の空気が重くなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "朝礼",
+                "description": "「今日も一日、ゼロ災で行こう、ヨシ！」と唱和する時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -338,7 +668,18 @@
         "slug": "bill-of-materials",
         "body": "<h3>部品表</h3><p>製品を作るのに必要な部品の一覧表。</p>",
         "short_description": "<h3>部品リスト。</h3>",
-        "example": "「BOMを作成」"
+        "example": "「BOMを作成」",
+        "key_points": [
+            "Bill Of Materials（部品表）",
+            "製品の構成要素をリスト化したもの",
+            "設計BOM（E-BOM）と製造BOM（M-BOM）で食い違いが起きがち"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設計変更",
+                "description": "「BOMの更新漏れで旧部品を手配してしまった」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -349,7 +690,18 @@
         "slug": "lot",
         "body": "<h3>生産単位</h3><p>一度に生産するまとまり。「1ロット100個」など。ロットアウトは全滅。</p>",
         "short_description": "<h3>生産のまとまり。</h3>",
-        "example": "「ロット管理」"
+        "example": "「ロット管理」",
+        "key_points": [
+            "製品を生産・管理する単位",
+            "不良品が出た場合、そのロット全体を回収・廃棄（ロットアウト）することがある",
+            "「最小ロット」が決まっていると少量の発注ができない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "品質トラブル",
+                "description": "「このロットは全数検査だ！」と指示が出る時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -360,7 +712,18 @@
         "slug": "traceability",
         "body": "<h3>追跡可能性</h3><p>製品がいつ、どこで、誰によって作られたかを追跡できる状態。</p>",
         "short_description": "<h3>履歴追跡。</h3>",
-        "example": "「トレサビ確保」"
+        "example": "「トレサビ確保」",
+        "key_points": [
+            "追跡可能性",
+            "QRコードなどで製品ごとの製造履歴を管理し、何かあった時に原因を特定できるようにすること",
+            "食品の産地偽装問題などでも重視される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "リコール",
+                "description": "「不具合品の対象ロットをトレーサビリティシステムで特定する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -371,7 +734,18 @@
         "slug": "steps-mfg",
         "body": "<h3>移動距離</h3><p>作業者が歩く歩数。これを減らすのがカイゼンの第一歩。</p>",
         "short_description": "<h3>無駄な動き。</h3>",
-        "example": "「歩数を減らす」"
+        "example": "「歩数を減らす」",
+        "key_points": [
+            "作業者の移動歩数",
+            "歩いている時間は作業していない時間（ムダ）とみなされる",
+            "レイアウト変更で歩数を削減する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "カイゼン",
+                "description": "「部品置き場を近づけて、作業者の歩数を3歩減らした」と報告する時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -382,7 +756,18 @@
         "slug": "part-tag",
         "body": "<h3>荷札</h3><p>部品や製品を入れた箱に貼る、中身を書いた紙。</p>",
         "short_description": "<h3>中身のタグ。</h3>",
-        "example": "「現品票を貼る」"
+        "example": "「現品票を貼る」",
+        "key_points": [
+            "現物に付けられる識別票",
+            "品名、数量、ロット番号などが書かれている",
+            "現品票がないモノは「正体不明」として扱われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "物流",
+                "description": "「現品票と中身が違っていて大混乱する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -393,7 +778,18 @@
         "slug": "inventory-check",
         "body": "<h3>在庫確認</h3><p>実際の在庫数を数えて、帳簿と合っているか確認する作業。地獄。</p>",
         "short_description": "<h3>在庫数え。</h3>",
-        "example": "「期末棚卸し」"
+        "example": "「期末棚卸し」",
+        "key_points": [
+            "定期的に在庫を数える作業",
+            "帳簿上の在庫（理論在庫）と実在庫のズレを確認し、修正する",
+            "半期に一度の憂鬱なイベント"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "決算",
+                "description": "「棚卸し差異が大きすぎて経理に詰められる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -404,7 +800,18 @@
         "slug": "dead-stock",
         "body": "<h3>動かない在庫</h3><p>長期間使われずに眠っている在庫。お荷物。</p>",
         "short_description": "<h3>眠れる在庫。</h3>",
-        "example": "「死蔵品の処分」"
+        "example": "「死蔵品の処分」",
+        "key_points": [
+            "長期間動きがない不良在庫（デッドストック）",
+            "保管スペースを圧迫し、キャッシュフローを悪化させる",
+            "いつか使うかも…で捨てられない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "掃除",
+                "description": "「倉庫の奥から10年前の部品（死蔵品）が出てきた」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -415,7 +822,18 @@
         "slug": "andon",
         "body": "<h3>表示板</h3><p>ラインの稼働状況やトラブルを知らせる電光掲示板。</p>",
         "short_description": "<h3>状態表示板。</h3>",
-        "example": "「あんどん点灯」"
+        "example": "「あんどん点灯」",
+        "key_points": [
+            "異常発生を周囲に知らせる表示灯",
+            "江戸時代の行灯（あんどん）が語源",
+            "これが赤く光ると監督者がすっ飛んでくる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「トラブルであんどんを点灯（紐を引く）させる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -426,7 +844,18 @@
         "slug": "multi-skilled-worker",
         "body": "<h3>万能選手</h3><p>一人で複数の工程をこなせる作業者。ラインの調整弁になる。</p>",
         "short_description": "<h3>何でもできる人。</h3>",
-        "example": "「多能工化」"
+        "example": "「多能工化」",
+        "key_points": [
+            "複数の工程や機械を操作できるスキルを持った作業者",
+            "欠勤者が出てもカバーできるため、重宝される",
+            "対義語は「単能工」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配置",
+                "description": "「彼は多能工だから、忙しい工程にヘルプに入れる」ことになった時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -437,7 +866,18 @@
         "slug": "fixed-position-stop",
         "body": "<h3>作業完了待ち</h3><p>ライン作業で、作業が終わるまで次の製品が来ないようにすること。</p>",
         "short_description": "<h3>完了待ち。</h3>",
-        "example": "「定位置停止を守る」"
+        "example": "「定位置停止を守る」",
+        "key_points": [
+            "トヨタ生産方式の基本",
+            "コンベアの流れを止めてでも、工程内で品質を作り込むこと",
+            "無理やり流すと不良が出る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「作業が遅れたので定位置停止ラインを超えてしまい、ラインが止まる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -448,7 +888,18 @@
         "slug": "visualization",
         "body": "<h3>可視化</h3><p>問題や状況を誰でもひと目で分かるようにすること。「可視化」より現場っぽい。</p>",
         "short_description": "<h3>ひと目で分かる。</h3>",
-        "example": "「在庫の見える化」"
+        "example": "「在庫の見える化」",
+        "key_points": [
+            "異常や問題がひと目で分かる状態にすること",
+            "正常かどうか、進んでいるか遅れているかがパッと見でわかるのが良い現場",
+            "「見せる化」とは違う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "管理",
+                "description": "「進捗管理ボードを作って業務を見える化する」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -459,7 +910,18 @@
         "slug": "sangen-shugi",
         "body": "<h3>現地現物現実</h3><p>机上の空論ではなく、現場に行って、現物を見て、現実を知ること。</p>",
         "short_description": "<h3>現場第一。</h3>",
-        "example": "「三現主義の徹底」"
+        "example": "「三現主義の徹底」",
+        "key_points": [
+            "現場・現物・現実の3つの「現」を重視する考え方",
+            "会議室で議論してないで現場を見ろ、ということ",
+            "「事件は会議室で起きてるんじゃない」精神"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル解決",
+                "description": "「報告書だけ見ても分からんから三現主義で行こう」と現地に向かう時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -470,7 +932,18 @@
         "slug": "bottleneck",
         "body": "<h3>詰まり箇所</h3><p>全体の処理速度を低下させている一番遅い工程。ここを改善しないと意味がない。</p>",
         "short_description": "<h3>一番遅いところ。</h3>",
-        "example": "「検査工程がボトルネック」"
+        "example": "「検査工程がボトルネック」",
+        "key_points": [
+            "瓶の首（細い部分）のこと",
+            "全体の生産能力を決定してしまう、能力の低い箇所",
+            "「制約条件の理論（TOC）」で重要視される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「ボトルネック工程を強化して、全体の生産量を上げる」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -481,7 +954,18 @@
         "slug": "pdca-mfg",
         "body": "<h3>改善サイクル</h3><p>Plan（計画）、Do（実行）、Check（評価）、Act（是正）の繰り返し。</p>",
         "short_description": "<h3>改善サイクル。</h3>",
-        "example": "「PDCAを回す」"
+        "example": "「PDCAを回す」",
+        "key_points": [
+            "業務改善の基本サイクル",
+            "PばかりでDしない、やりっぱなしでCしない、というのがよくある失敗パターン",
+            "最近はOODA（ウーダ）ループも流行り"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「もっと高速でPDCAを回せ！」と上司に言われる時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -492,7 +976,18 @@
         "slug": "value-engineering",
         "body": "<h3>価値工学</h3><p>機能を落とさずにコストを下げる、またはコストを変えずに機能を上げること。</p>",
         "short_description": "<h3>コスパ向上。</h3>",
-        "example": "「VE提案」"
+        "example": "「VE提案」",
+        "key_points": [
+            "Value Engineering（価値工学）",
+            "価値 ＝ 機能 ÷ コスト",
+            "設計段階で行うコストダウン手法として重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "コストダウン",
+                "description": "「部品の素材を変えて機能を維持したままコストを下げる（VE）」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -503,7 +998,18 @@
         "slug": "value-analysis",
         "body": "<h3>価値分析</h3><p>既存の製品について、もっと安く作れないか分析すること。</p>",
         "short_description": "<h3>コストダウン分析。</h3>",
-        "example": "「VA活動」"
+        "example": "「VA活動」",
+        "key_points": [
+            "Value Analysis（価値分析）",
+            "VEは設計段階、VAは製造段階（既存製品）で行うことが多い",
+            "サプライヤーからのVA提案は歓迎される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "購買",
+                "description": "「購入部品のVAを行って原価低減を図る」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -514,7 +1020,18 @@
         "slug": "concurrent-engineering",
         "body": "<h3>並行開発</h3><p>設計と製造準備などを同時に進めて、開発期間を短縮すること。</p>",
         "short_description": "<h3>同時進行開発。</h3>",
-        "example": "「コンカレント開発」"
+        "example": "「コンカレント開発」",
+        "key_points": [
+            "各工程を同時並行（Concurrent）で進める手法",
+            "手戻りを防ぎ、開発リードタイムを劇的に短縮する",
+            "情報共有がうまくいかないと逆に混乱する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「設計完了を待たずに金型手配を進める（コンカレント）」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -525,7 +1042,18 @@
         "slug": "front-loading",
         "body": "<h3>前倒し</h3><p>開発の初期段階に負荷をかけて検討し、後工程でのトラブルを防ぐこと。</p>",
         "short_description": "<h3>最初に頑張る。</h3>",
-        "example": "「フロントローディング」"
+        "example": "「フロントローディング」",
+        "key_points": [
+            "初期工程に資源を集中し、品質を作り込むこと",
+            "後になってからの仕様変更はコストが莫大になるため、最初に見つけ出す",
+            "「夏休みの宿題を最初に終わらせる」的な発想"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "プロジェクト",
+                "description": "「フロントローディングでリスクを洗い出す」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -536,7 +1064,18 @@
         "slug": "coordination",
         "body": "<h3>調整</h3><p>部門間で細かい調整を行うこと。日本のモノ作りの強みと言われる。</p>",
         "short_description": "<h3>綿密な調整。</h3>",
-        "example": "「すり合わせ技術」"
+        "example": "「すり合わせ技術」",
+        "key_points": [
+            "部品同士の微妙な調整や、部門間の密な連携",
+            "日本の製造業（自動車など）が得意とする「インテグラル型」の強み",
+            "モジュラー型製品（PCなど）では弱点にもなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「現物合わせですり合わせを行い、極限の性能を出す」時"
+            }
+        ]
     },
     {
         "category_slug": "manufacturing",
@@ -547,6 +1086,17 @@
         "slug": "modular-design",
         "body": "<h3>組み合わせ設計</h3><p>部品を規格化（モジュール化）し、それを組み合わせて製品を作ること。</p>",
         "short_description": "<h3>ブロック的設計。</h3>",
-        "example": "「モジュラー化」"
+        "example": "「モジュラー化」",
+        "key_points": [
+            "互換性のあるモジュール（部品の塊）を組み合わせる設計手法",
+            "パソコンやレゴブロックのようなもの",
+            "開発効率が良く、多様なバリエーションを安く作れる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設計",
+                "description": "「VWのMQBプラットフォームのようなモジュラーデザインを導入する」時"
+            }
+        ]
     }
 ]

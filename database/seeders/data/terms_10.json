@@ -8,7 +8,22 @@
         "slug": "alternative",
         "body": "<h3>代替案</h3><p>代わりになるもの。「二者択一」の意味でも使われる。</p>",
         "short_description": "<h3>代わりの案。</h3>",
-        "example": "「オルタナティブを示す」"
+        "example": "「オルタナティブを示す」",
+        "key_points": [
+            "「代わりの」「代替的な」という意味",
+            "既存のもの（主流）に対する、新しい選択肢や方法などを指す",
+            "ビジネスでは「プランB」として提案されることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「この案がダメだった時のオルタナティブを用意しておいて」と指示する時"
+            },
+            {
+                "title": "投資",
+                "description": "「オルタナティブ投資（株式や債券以外の投資）」について話す時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -19,7 +34,22 @@
         "slug": "agenda",
         "body": "<h3>議題、行動計画</h3><p>会議で話し合う項目の一覧。「今日のアジェンダを確認します」と最初に言う。</p>",
         "short_description": "<h3>会議の議題。</h3>",
-        "example": "「アジェンダを作成する」"
+        "example": "「アジェンダを作成する」",
+        "key_points": [
+            "会議の進行表や検討課題のこと",
+            "政治的な文脈では「政策課題」という意味でも使われる",
+            "事前にアジェンダを共有することで、会議の効率が上がる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議前",
+                "description": "「次の会議のアジェンダをメールで送ってください」と頼む時"
+            },
+            {
+                "title": "会議中",
+                "description": "「それはアジェンダにない話なので、また別途議論しましょう」と軌道修正する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -30,7 +60,22 @@
         "slug": "evidence",
         "body": "<h3>証拠、根拠</h3><p>言ったことの裏付け。「エビデンスあるの？」と詰められるのに使う。</p>",
         "short_description": "<h3>証拠。根拠。</h3>",
-        "example": "「エビデンスを残しておく」"
+        "example": "「エビデンスを残しておく」",
+        "key_points": [
+            "証拠、根拠、裏付けのこと",
+            "医療業界（EBM）から広まった言葉だが、今はビジネス全般で使われる",
+            "「言った言わない」のトラブルを防ぐために重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "確認",
+                "description": "「その数字の根拠となるエビデンスを出してください」と求める時"
+            },
+            {
+                "title": "保身",
+                "description": "「後で揉めないようにメールでエビデンス（言質）を残しておく」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -41,7 +86,22 @@
         "slug": "consensus",
         "body": "<h3>合意</h3><p>関係者の同意を得ること。「コンセンサスを取る」＝「根回しして合意を得る」。</p>",
         "short_description": "<h3>みんなの合意。</h3>",
-        "example": "「事前にコンセンサスを取っておく」"
+        "example": "「事前にコンセンサスを取っておく」",
+        "key_points": [
+            "複数の人や組織の間での意見の一致、合意",
+            "日本企業では特に重要視される「根回し」のカタカナ語",
+            "全会一致を目指すが、妥協点を見つけることも含む"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "意思決定",
+                "description": "「関係部署とのコンセンサスが取れていないので進められない」とストップする時"
+            },
+            {
+                "title": "会議",
+                "description": "「この件については、皆さんのコンセンサスが得られたということでよろしいですか？」と確認する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -52,7 +112,22 @@
         "slug": "pending",
         "body": "<h3>保留、先送り</h3><p>今は決めずに後回しにすること。「この件は一旦ペンディングで」。</p>",
         "short_description": "<h3>保留。</h3>",
-        "example": "「予算不足でペンディングになった」"
+        "example": "「予算不足でペンディングになった」",
+        "key_points": [
+            "未決定、保留中という意味",
+            "解決せずに棚上げするというニュアンスが強い",
+            "プロジェクトが中止になることを「ペンディング（実質中止）」と言うこともある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「時間が足りないので、この議題はペンディングにしましょう」と先送りする時"
+            },
+            {
+                "title": "進捗報告",
+                "description": "「クライアントからの返答待ちでステータスはペンディングです」と報告する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -63,7 +138,22 @@
         "slug": "buffer",
         "body": "<h3>余裕、緩衝</h3><p>スケジュールや予算に持たせる余裕のこと。「バッファを見ておく」＝「予備日を設ける」。</p>",
         "short_description": "<h3>余裕を持たせること。</h3>",
-        "example": "「納期にバッファを設ける」"
+        "example": "「納期にバッファを設ける」",
+        "key_points": [
+            "衝撃を和らげる「緩衝材」が語源",
+            "時間、予算、人員などの「予備」や「余裕」のこと",
+            "IT用語ではデータの一時保存領域を指す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スケジュール",
+                "description": "「不測の事態に備えて、スケジュールに3日間のバッファを持たせよう」と提案する時"
+            },
+            {
+                "title": "在庫管理",
+                "description": "「バッファ在庫（安全在庫）を確保しておく」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -74,7 +164,22 @@
         "slug": "tight",
         "body": "<h3>きつい、余裕がない</h3><p>スケジュールなどが厳しいこと。「タイトなスケジュール」。</p>",
         "short_description": "<h3>カツカツで余裕がない。</h3>",
-        "example": "「今週は予定がタイトだ」"
+        "example": "「今週は予定がタイトだ」",
+        "key_points": [
+            "きつい、引き締まった、という意味",
+            "「タイトスカート」のタイトと同じ",
+            "ビジネスでは主に時間的な余裕がない状況を指す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "依頼",
+                "description": "「タイトなスケジュールで申し訳ないのですが…」と急ぎの仕事を頼む時"
+            },
+            {
+                "title": "金銭",
+                "description": "「今月は資金繰りがタイトだ（厳しい）」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -85,7 +190,22 @@
         "slug": "alliance",
         "body": "<h3>提携、同盟</h3><p>他の企業と協力関係を結ぶこと。</p>",
         "short_description": "<h3>企業同士の提携。</h3>",
-        "example": "「業務提携アライアンスを結ぶ」"
+        "example": "「業務提携アライアンスを結ぶ」",
+        "key_points": [
+            "同盟、提携、連合という意味",
+            "複数の企業が互いの利益のために協力体制を築くこと",
+            "航空会社の連合（スターアライアンスなど）が有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「他社とのアライアンスを強化してシェアを拡大する」と発表する時"
+            },
+            {
+                "title": "IT",
+                "description": "「アライアンスパートナーを募集する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -96,7 +216,22 @@
         "slug": "feedforward",
         "body": "<h3>未来に向けた提言</h3><p>過去のダメ出し（フィードバック）ではなく、未来の解決策を提案すること。</p>",
         "short_description": "<h3>未来志向のアドバイス。</h3>",
-        "example": "「フィードバックよりフィードフォワードを意識しよう」"
+        "example": "「フィードバックよりフィードフォワードを意識しよう」",
+        "key_points": [
+            "未来に向けた解決策やアイデアを提示すること",
+            "「フィードバック（過去の振り返り）」の対義語的に使われる",
+            "ダメ出しよりも前向きな議論になりやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "人材育成",
+                "description": "「終わったことより、これからどうするかフィードフォワードしましょう」と促す時"
+            },
+            {
+                "title": "意識高い系",
+                "description": "「うちはフィードバックじゃなくてフィードフォワード文化だから」とドヤる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -107,7 +242,22 @@
         "slug": "mentee",
         "body": "<h3>指導を受ける人</h3><p>メンター（指導者）から教えを受ける新人など。</p>",
         "short_description": "<h3>教わる側の人。</h3>",
-        "example": "「メンティーの成長を見守る」"
+        "example": "「メンティーの成長を見守る」",
+        "key_points": [
+            "メンター制度において、指導を受ける側の人のこと",
+            "通常は新入社員や若手社員がメンティーになる",
+            "師弟関係のようなもの"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "制度",
+                "description": "「新入社員一人ひとりにメンターとメンティーのペアを作る」時"
+            },
+            {
+                "title": "相談",
+                "description": "「メンティーとの接し方が分からない」とメンターが悩む時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -118,7 +268,22 @@
         "slug": "kickoff",
         "body": "<h3>開始</h3><p>プロジェクトの開始時に行う決起集会。「キックオフミーティング」。</p>",
         "short_description": "<h3>プロジェクトの開始。</h3>",
-        "example": "「来週キックオフを開催する」"
+        "example": "「来週キックオフを開催する」",
+        "key_points": [
+            "フットボールなどの試合開始が語源",
+            "新しいプロジェクトや年度の始まりに行う最初の会合",
+            "メンバーの顔合わせや、目標共有が主な目的"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "イベント",
+                "description": "「プロジェクトのキックオフ飲み会を開催する」時"
+            },
+            {
+                "title": "会議",
+                "description": "「キックオフ資料を作成してメンバーの士気を高める」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -129,7 +294,22 @@
         "slug": "bottleneck",
         "body": "<h3>滞りの原因</h3><p>全体の中で一番流れが悪く、足を引っ張っている部分。</p>",
         "short_description": "<h3>進行を妨げる詰まり。</h3>",
-        "example": "「承認フローがこの案件のボトルネックだ」"
+        "example": "「承認フローがこの案件のボトルネックだ」",
+        "key_points": [
+            "ビンの首（ネック）が細くて中身が出にくいことが語源",
+            "業務プロセスの中で、処理能力が一番低く、全体の遅れの原因となっている箇所",
+            "「ネック」と略されることも多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「サーバーの処理速度がボトルネックになっている」と特定する時"
+            },
+            {
+                "title": "交通",
+                "description": "「あの交差点は常に渋滞のボトルネックだ」とぼやく時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -140,7 +320,22 @@
         "slug": "brainstorming",
         "body": "<h3>ブレインストーミング</h3><p>みんなで自由にアイデアを出し合うこと。批判禁止がルール。</p>",
         "short_description": "<h3>アイデア出し会議。</h3>",
-        "example": "「企画のブレストをしよう」"
+        "example": "「企画のブレストをしよう」",
+        "key_points": [
+            "Brainstorming（脳の嵐）",
+            "集団でアイデアを出し合う会議手法。4つの原則（批判禁止、自由奔放、質より量、便乗歓迎）がある",
+            "略して「ブレスト」と言うのが一般的"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「煮詰まったからブレストして新しい風を入れよう」と提案する時"
+            },
+            {
+                "title": "注意",
+                "description": "「今はブレストの段階だから否定しないで」と釘を刺す時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -151,7 +346,22 @@
         "slug": "icebreak",
         "body": "<h3>緊張ほぐし</h3><p>会議や研修の冒頭で話す、場を和ませるための雑談。</p>",
         "short_description": "<h3>最初の雑談。</h3>",
-        "example": "「アイスブレイクで場の空気を温める」"
+        "example": "「アイスブレイクで場の空気を温める」",
+        "key_points": [
+            "氷を砕く（Ice Break）ように、凍りついた緊張感をほぐすこと",
+            "自己紹介ゲームや、天気の話などの軽い雑談を指す",
+            "本題に入る前の準備運動"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "研修",
+                "description": "「まずはアイスブレイクとして隣の人と他己紹介をしてください」と指示する時"
+            },
+            {
+                "title": "営業",
+                "description": "「アイスブレイクで相手の趣味の話をして距離を縮める」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -162,7 +372,22 @@
         "slug": "context",
         "body": "<h3>文脈、背景</h3><p>言葉の裏にある背景知識や共有すべき前提。「ハイコンテクスト」は「言わなくても分かる」文化。</p>",
         "short_description": "<h3>文脈や背景。</h3>",
-        "example": "「文脈（コンテクスト）を読んで」"
+        "example": "「文脈（コンテクスト）を読んで」",
+        "key_points": [
+            "文脈、前後関係、背景事情のこと",
+            "日本は「ハイコンテクスト文化（行間を読む文化）」、欧米は「ローコンテクスト文化（言葉で全て説明する文化）」と言われる",
+            "「空気を読む」をカッコよく言った言葉"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "コミュニケーション",
+                "description": "「その発言はコンテクストを無視している」と批判する時"
+            },
+            {
+                "title": "説明",
+                "description": "「新入社員にはコンテクストから説明しないと伝わらない」と指導する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -173,7 +398,22 @@
         "slug": "parallel",
         "body": "<h3>並行して</h3><p>複数のタスクを同時に進めること。「パラで動く」。</p>",
         "short_description": "<h3>同時に進めること。</h3>",
-        "example": "「A案とB案をパラレルで検討する」"
+        "example": "「A案とB案をパラレルで検討する」",
+        "key_points": [
+            "「平行」「並列」の意味",
+            "同時に複数の物事を進めること。「パラで回す」とも言う",
+            "「パラレルワーク（複業）」という働き方も増えている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事術",
+                "description": "「この3つの案件をパラレルで進めないと納期に間に合わない」と焦る時"
+            },
+            {
+                "title": "キャリア",
+                "description": "「本業と副業をパラレルでこなすスーパーマン」と称賛する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -184,7 +424,22 @@
         "slug": "bias",
         "body": "<h3>偏見、先入観</h3><p>偏った見方のこと。「確証バイアス」など。</p>",
         "short_description": "<h3>偏見。思い込み。</h3>",
-        "example": "「バイアスがかかっている」"
+        "example": "「バイアスがかかっている」",
+        "key_points": [
+            "先入観、偏見、思考の偏りのこと",
+            "「確証バイアス（自分に都合の良い情報ばかり集める）」や「正常性バイアス（自分は大丈夫と思い込む）」などがある",
+            "公平な判断を妨げる要因"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「それは君の個人的なバイアスがかかっている意見だ」と指摘する時"
+            },
+            {
+                "title": "データ分析",
+                "description": "「サンプリングにバイアスがないか確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -195,7 +450,22 @@
         "slug": "flat",
         "body": "<h3>対等、公平</h3><p>上下関係なく意見を言い合える状態。または感情を入れずに冷静な状態。</p>",
         "short_description": "<h3>対等。冷静。</h3>",
-        "example": "「フラットな組織」"
+        "example": "「フラットな組織」",
+        "key_points": [
+            "平らな状態。上下関係がないこと",
+            "先入観を持たずに、客観的（フラット）に見ること",
+            "定額料金（フラットレート）の意味でも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "組織論",
+                "description": "「社長ともフラットに話せる社風です」とアピールする時"
+            },
+            {
+                "title": "相談",
+                "description": "「一旦情報をフラットにして考え直そう」と冷静になる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -206,7 +476,22 @@
         "slug": "reschedule",
         "body": "<h3>日程変更</h3><p>Reschedule。「リスケお願いします」は日常茶飯事。</p>",
         "short_description": "<h3>予定の変更。</h3>",
-        "example": "「会議をリスケする」"
+        "example": "「会議をリスケする」",
+        "key_points": [
+            "Reschedule（スケジュールを組み直す）の略",
+            "予定の日時を変更すること。延期すること",
+            "ビジネス用語の基本中の基本"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「急用が入ったので、明日の打ち合わせをリスケさせてください」と謝る時"
+            },
+            {
+                "title": "仕事",
+                "description": "「リスケ続きで予定が決まらない」とイライラする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -217,7 +502,22 @@
         "slug": "appointment",
         "body": "<h3>予約、約束</h3><p>Appointment。「テレアポ」は電話で約束を取り付けること。</p>",
         "short_description": "<h3>約束。</h3>",
-        "example": "「明日の14時にアポが入っている」"
+        "example": "「明日の14時にアポが入っている」",
+        "key_points": [
+            "Appointment（面会の約束）の略",
+            "特に営業職が顧客と商談の約束をすることを指す",
+            "「アポなし」で訪問するのは非常に失礼とされる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「1日100件電話してやっと1件アポが取れた」と喜ぶ時"
+            },
+            {
+                "title": "訪問",
+                "description": "「アポなし突撃取材」をする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -228,7 +528,22 @@
         "slug": "nr",
         "body": "<h3>ノーリターン</h3><p>No Return。外出先から会社に戻らず、そのまま帰宅すること。「直帰」。</p>",
         "short_description": "<h3>直帰すること。</h3>",
-        "example": "「今日は営業先からNRします」"
+        "example": "「今日は営業先からNRします」",
+        "key_points": [
+            "No Return（戻らない）の略",
+            "外出先から会社に戻らずに家に帰る「直帰」のこと",
+            "ホワイトボードの予定表に「NR」と書くのがサラリーマンの流儀"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "予定表",
+                "description": "「16:00〜 A社訪問（NR）」と書いて、早めにビールを飲む時"
+            },
+            {
+                "title": "報告",
+                "description": "「商談長引いたので、このままNRします」と上司にメールする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -239,7 +554,22 @@
         "slug": "gs",
         "body": "<h3>行ってきます</h3><p>Go Startの略？（和製英語説あり）。チャットなどで「GS（外出します）」と使う会社もある。</p>",
         "short_description": "<h3>外出します。</h3>",
-        "example": "「13:00 GS」"
+        "example": "「13:00 GS」",
+        "key_points": [
+            "Go Start？ Go Straight？ 語源不明の謎用語だが、「外出する」という意味で使われる",
+            "一部の企業やチャット文化でのみ通じる方言のようなもの",
+            "コンテキストがないと「ガソリンスタンド？」と勘違いされる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "チャット",
+                "description": "「A社へGS」と手短に報告してPCを閉じる時"
+            },
+            {
+                "title": "混乱",
+                "description": "「GSって何ですか？」「行ってきますの略だよ」「え？」となる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -250,7 +580,22 @@
         "slug": "fyi",
         "body": "<h3>ご参考までに</h3><p>For Your Information。メールの転送時などに使う。「参考情報です」の意味。</p>",
         "short_description": "<h3>参考までに。</h3>",
-        "example": "「FYI: 競合のニュース」"
+        "example": "「FYI: 競合のニュース」",
+        "key_points": [
+            "For Your Information（参考までに）の頭文字",
+            "メールの件名や本文の冒頭につけて、返信不要の共有事項であることを伝える",
+            "ビジネス英語の定番"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "メール",
+                "description": "「FYI: 次回会議の資料です（読んでおいてね）」と送る時"
+            },
+            {
+                "title": "共有",
+                "description": "「FYI、例の件は解決しました」と軽く伝える時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -261,7 +606,22 @@
         "slug": "tbd",
         "body": "<h3>未定</h3><p>To Be Determined。後ほど決定します、という意味。「場所：TBD」など。</p>",
         "short_description": "<h3>あとで決める。</h3>",
-        "example": "「詳細はTBDで」"
+        "example": "「詳細はTBDで」",
+        "key_points": [
+            "To Be Determined（決定される予定＝現在は未定）の略",
+            "まだ決まっていない項目に仮置きしておく記号",
+            "似た言葉にTBC（To Be Confirmed：確認中）、TBA（To Be Announced：後日発表）がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "資料作成",
+                "description": "「開催日時：TBD」としてとりあえず資料を出す時"
+            },
+            {
+                "title": "プロジェクト",
+                "description": "「仕様はTBDだらけで見切り発車」する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -272,7 +632,22 @@
         "slug": "wfh",
         "body": "<h3>在宅勤務</h3><p>Work From Home。リモートワークのこと。</p>",
         "short_description": "<h3>在宅ワーク。</h3>",
-        "example": "「明日はWFHします」"
+        "example": "「明日はWFHします」",
+        "key_points": [
+            "Work From Home（家から働く）の略",
+            "コロナ禍で一気に普及した言葉",
+            "「リモートワーク」「テレワーク」とほぼ同じ意味"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "勤怠連絡",
+                "description": "「台風なので本日はWFHに切り替えます」と連絡する時"
+            },
+            {
+                "title": "働き方",
+                "description": "「週3日WFHのハイブリッド勤務」を希望する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -283,7 +658,22 @@
         "slug": "btob",
         "body": "<h3>企業対企業</h3><p>Business to Business。法人向けのビジネス。</p>",
         "short_description": "<h3>法人向けビジネス。</h3>",
-        "example": "「BtoBマーケティング」"
+        "example": "「BtoBマーケティング」",
+        "key_points": [
+            "Business to Business（企業対企業）の略。「B2B」とも書く",
+            "素材、部品、企業向けサービスなど、一般消費者の目には触れにくいビジネス",
+            "一度契約すると長く続く傾向がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "就活",
+                "description": "「安定してそうだからBtoBメーカーを志望する」時"
+            },
+            {
+                "title": "営業",
+                "description": "「BtoB営業は決裁者が誰かを見極めるのが大事」と説く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -294,7 +684,22 @@
         "slug": "btoc",
         "body": "<h3>企業対消費者</h3><p>Business to Consumer。一般消費者向けのビジネス。</p>",
         "short_description": "<h3>一般向けビジネス。</h3>",
-        "example": "「BtoCは感情に訴える」"
+        "example": "「BtoCは感情に訴える」",
+        "key_points": [
+            "Business to Consumer（企業対消費者）の略。「B2C」とも書く",
+            "コンビニ、アパレル、ゲームなど、私たちが普段利用するサービス全般",
+            "個人の感情や流行に左右されやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "マーケティング",
+                "description": "「BtoCはSNSでの口コミが命」と分析する時"
+            },
+            {
+                "title": "事業計画",
+                "description": "「BtoBからBtoCへ事業領域を広げる」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -305,7 +710,22 @@
         "slug": "ctoc",
         "body": "<h3>個人間取引</h3><p>Consumer to Consumer。メルカリやヤフオクなど、個人同士の売買。</p>",
         "short_description": "<h3>個人間の売買。</h3>",
-        "example": "「CtoCプラットフォーム」"
+        "example": "「CtoCプラットフォーム」",
+        "key_points": [
+            "Consumer to Consumer（消費者対消費者）の略。「C2C」とも書く",
+            "フリマアプリやシェアリングエコノミーなど、企業を介さずに個人間で取引すること",
+            "トラブルも起きやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネスモデル",
+                "description": "「CtoCのマッチングサービスを開発する」時"
+            },
+            {
+                "title": "日常",
+                "description": "「いらない服をCtoCアプリで売って小遣い稼ぎ」する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -316,7 +736,22 @@
         "slug": "ipo",
         "body": "<h3>新規株式公開</h3><p>Initial Public Offering。未上場企業が株を売り出して上場すること。</p>",
         "short_description": "<h3>上場すること。</h3>",
-        "example": "「IPOを目指すスタートアップ」"
+        "example": "「IPOを目指すスタートアップ」",
+        "key_points": [
+            "Initial Public Offering（新規公開株）",
+            "企業が証券取引所に上場し、誰でも株を買えるようにすること",
+            "創業者の夢であり、ゴール（またはスタート）地点"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「数年後のIPOを目指して資金調達する」時"
+            },
+            {
+                "title": "投資",
+                "description": "「IPO銘柄に申し込んで一攫千金を狙う」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -327,7 +762,22 @@
         "slug": "ma",
         "body": "<h3>合併・買収</h3><p>Mergers and Acquisitions。会社を買ったり合併したりすること。</p>",
         "short_description": "<h3>会社の売買。</h3>",
-        "example": "「M&Aで事業拡大」"
+        "example": "「M&Aで事業拡大」",
+        "key_points": [
+            "Mergers（合併）and Acquisitions（買収）",
+            "他の会社を買収したり、合併して一つになったりすること",
+            "時間を金で買う戦略と言われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「あの大企業がM&Aでライバル会社を飲み込んだ」と騒ぐ時"
+            },
+            {
+                "title": "経営",
+                "description": "「事業継承のためにM&Aを検討する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -338,7 +788,22 @@
         "slug": "csr",
         "body": "<h3>企業の社会的責任</h3><p>Corporate Social Responsibility。ボランティアや環境保護など、利益以外の社会貢献活動。</p>",
         "short_description": "<h3>企業の社会貢献。</h3>",
-        "example": "「CSR活動の一環」"
+        "example": "「CSR活動の一環」",
+        "key_points": [
+            "Corporate Social Responsibility（企業の社会的責任）",
+            "企業はただ金儲けをするだけでなく、社会に貢献すべきだという考え方",
+            "植林活動や地域清掃など、イメージアップにも繋がる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広報",
+                "description": "「CSRレポートを発行して、ホワイト企業であることをアピールする」時"
+            },
+            {
+                "title": "就活",
+                "description": "「CSRに力を入れている会社は印象が良い」と判断する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -349,7 +814,22 @@
         "slug": "sdgs",
         "body": "<h3>持続可能な開発目標</h3><p>世界中で取り組むべき17の目標。カラフルなバッジをつけてるおじさんが多い。</p>",
         "short_description": "<h3>サステナブルな目標。</h3>",
-        "example": "「SDGsバッジをつける」"
+        "example": "「SDGsバッジをつける」",
+        "key_points": [
+            "Sustainable Development Goals（持続可能な開発目標）",
+            "貧困、環境、平等など、2030年までに達成を目指す17の国際目標",
+            "スーツの襟にカラフルなドーナツ型のバッジをつけている人を見たら「SDGsの人だ」と思おう"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "意識調査",
+                "description": "「弊社もSDGsに取り組んでいます（具体的には紙ストロー導入）」と言う時"
+            },
+            {
+                "title": "皮肉",
+                "description": "「SDGsって言えば何でも許されると思ってる」と穿った見方をする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -360,7 +840,22 @@
         "slug": "consultant",
         "body": "<h3>相談役</h3><p>コンサルタント。企業の経営課題を解決するアドバイザー。高い。</p>",
         "short_description": "<h3>経営の先生。</h3>",
-        "example": "「コンサルを入れる」"
+        "example": "「コンサルを入れる」",
+        "key_points": [
+            "Consultant（相談する人）",
+            "外部の専門家として、会社の問題点を見つけて改善案を出す職業",
+            "高給取りで知的だが、「虚業」と揶揄されることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「自社だけでは改革できないからコンサルを入れよう」と決断する時"
+            },
+            {
+                "title": "日常",
+                "description": "「友達の恋愛相談に乗って勝手にコンサル気取り」する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -371,7 +866,22 @@
         "slug": "inbound",
         "body": "<h3>訪日外国人、または内向き</h3><p>海外から来る観光客のこと。ビジネスでは「顧客から問い合わせが来る」営業スタイルの意味もある。</p>",
         "short_description": "<h3>外国人観光客。</h3>",
-        "example": "「インバウンド需要が回復」"
+        "example": "「インバウンド需要が回復」",
+        "key_points": [
+            "Inbound（外から中に入ってくる）",
+            "観光業界では「訪日外国人旅行客」のこと",
+            "マーケティングでは「顧客の方から見つけてもらう（ブログSNS等）」手法のこと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "観光",
+                "description": "「円安でインバウンド消費が爆発している」とニュースで見る時"
+            },
+            {
+                "title": "営業",
+                "description": "「テレアポをやめてインバウンドマーケティングに切り替える」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -382,7 +892,22 @@
         "slug": "outbound",
         "body": "<h3>海外旅行、または外向き</h3><p>日本から海外へ行くこと。ビジネスでは「こちらから電話をかける」テレアポなどの営業スタイル。</p>",
         "short_description": "<h3>自分から攻める営業。</h3>",
-        "example": "「アウトバウンドコール」"
+        "example": "「アウトバウンドコール」",
+        "key_points": [
+            "Outbound（中から外へ出ていく）",
+            "観光業界では「日本人の海外旅行」のこと",
+            "マーケティングでは「企業から顧客へアプローチする（電話、DM等）」能動的な手法のこと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "コールセンター",
+                "description": "「アウトバウンド業務（勧誘電話）はメンタルが削られる」と嘆く時"
+            },
+            {
+                "title": "旅行",
+                "description": "「円安でアウトバウンドは壊滅的だ」と旅行会社が泣く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -393,7 +918,22 @@
         "slug": "crossmedia",
         "body": "<h3>複数媒体の連携</h3><p>TV、Web、SNSなど、複数のメディアを組み合わせて宣伝すること。「続きはWebで」。</p>",
         "short_description": "<h3>メディアミックス。</h3>",
-        "example": "「クロスメディア戦略」"
+        "example": "「クロスメディア戦略」",
+        "key_points": [
+            "複数のメディアを組み合わせて、相乗効果を狙う広告手法",
+            "「メディアミックス」とほぼ同義",
+            "テレビCMで興味を引いて、Web検索させるのが古典的な例"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "広告",
+                "description": "「CM×SNS×店頭のクロスメディアキャンペーンを展開する」時"
+            },
+            {
+                "title": "日常",
+                "description": "「アニメ見て原作漫画買ってグッズも買う、完全なるクロスメディアの鴨」になる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -404,7 +944,22 @@
         "slug": "ownedmedia",
         "body": "<h3>自社媒体</h3><p>企業が自分で運営するブログやWebマガジンのこと。</p>",
         "short_description": "<h3>自社のブログやサイト。</h3>",
-        "example": "「オウンドメディアで集客する」"
+        "example": "「オウンドメディアで集客する」",
+        "key_points": [
+            "Owned Media（保有するメディア）",
+            "広告費を払って掲載する「ペイドメディア」に対し、自社でコントロールできる情報発信基地",
+            "採用活動やブランディングに活用される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "WEB担当",
+                "description": "「オウンドメディアの記事を更新しなきゃ（ネタがない）」と焦る時"
+            },
+            {
+                "title": "採用",
+                "description": "「オウンドメディアの社員インタビューを読んで入社を決めました」と言われる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -415,7 +970,22 @@
         "slug": "earlyadapter",
         "body": "<h3>初期採用層</h3><p>新しい商品を早いうちから飛びついて買う流行に敏感な人たち。</p>",
         "short_description": "<h3>流行りもの好き。</h3>",
-        "example": "「アーリーアダプターを取り込む」"
+        "example": "「アーリーアダプターを取り込む」",
+        "key_points": [
+            "イノベーター理論における分類の一つ。全体の13.5%",
+            "新しいもの好きで、他の人への影響力も持つ「オピニオンリーダー」的な存在",
+            "iPhoneの発売日に行列を作る人たち"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "マーケティング",
+                "description": "「まずはアーリーアダプターに刺さるような尖ったプロモーションをしよう」と企画する時"
+            },
+            {
+                "title": "自慢",
+                "description": "「俺、あのサービス初期から使ってたわ（アーリーアダプター自慢）」をする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -426,7 +996,22 @@
         "slug": "catchup",
         "body": "<h3>追いつく</h3><p>遅れを取り戻すこと。新しい知識を勉強して追いつくこと。</p>",
         "short_description": "<h3>追いつくこと。勉強。</h3>",
-        "example": "「最新技術をキャッチアップする」"
+        "example": "「最新技術をキャッチアップする」",
+        "key_points": [
+            "Catch up（追いつく）",
+            "中途入社した際に、業務知識や人間関係を速習すること",
+            "業界の最新トレンドを勉強すること"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "転職",
+                "description": "「早くキャッチアップして戦力になります」と所信表明する時"
+            },
+            {
+                "title": "IT",
+                "description": "「技術の進化が速すぎてキャッチアップが追いつかない」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -437,7 +1022,22 @@
         "slug": "drive",
         "body": "<h3>推進する</h3><p>物事をぐいぐい前に進めること。「このプロジェクトをドライブしてくれ」。</p>",
         "short_description": "<h3>推進すること。</h3>",
-        "example": "「リーダーがドライブする」"
+        "example": "「リーダーがドライブする」",
+        "key_points": [
+            "車を運転するように、プロジェクトや施策をコントロールして前進させること",
+            "ただ進めるだけでなく、加速させるニュアンスがある",
+            "「ドリブン（〜主導）」という言葉もよく使われる（データドリブンなど）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "リーダーシップ",
+                "description": "「君がオーナーシップを持ってドライブしてくれ」と言われる時"
+            },
+            {
+                "title": "反省",
+                "description": "「誰もドライブしなかったからプロジェクトが自然消滅した」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -448,7 +1048,22 @@
         "slug": "document",
         "body": "<h3>文書、資料</h3><p>仕様書や設計書、議事録などのこと。「ドキュメント残して」＝「資料に書いておいて」。</p>",
         "short_description": "<h3>資料。書類。</h3>",
-        "example": "「ドキュメント管理」"
+        "example": "「ドキュメント管理」",
+        "key_points": [
+            "書類、記録、資料のこと",
+            "特にIT業界では、コードの説明書や仕様書を指す",
+            "口頭だけでなく、文字として残すことが重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「ドキュメントが更新されていないから、仕様がわからない」と困る時"
+            },
+            {
+                "title": "共有",
+                "description": "「Googleドキュメントで共同編集しよう」と提案する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -459,7 +1074,22 @@
         "slug": "knowhow",
         "body": "<h3>知識、秘訣</h3><p>物事をうまくやるための知恵や技術。</p>",
         "short_description": "<h3>役立つ知識。</h3>",
-        "example": "「ノウハウを蓄積する」"
+        "example": "「ノウハウを蓄積する」",
+        "key_points": [
+            "Know-how（やり方を知っている）",
+            "教科書には載っていないような、経験に基づいた実践的な知識",
+            "企業秘密として扱われることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "研修",
+                "description": "「先輩の営業ノウハウを盗む」時"
+            },
+            {
+                "title": "共有",
+                "description": "「社内Wikiにトラブルシューティングのノウハウをまとめる」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -470,7 +1100,22 @@
         "slug": "physical",
         "body": "<h3>物理的、身体的</h3><p>肉体のこと。「フィジカルが強い」＝「体力がすごい」。ITでは「物理サーバー」の意味でも使う。</p>",
         "short_description": "<h3>肉体。物理。</h3>",
-        "example": "「最後はフィジカル勝負」"
+        "example": "「最後はフィジカル勝負」",
+        "key_points": [
+            "身体的な、物理的な、という意味",
+            "スポーツ用語として「体格」「身体能力」の意味で使われることが多い",
+            "対義語は「メンタル（精神）」や「バーチャル（仮想）」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スポーツ",
+                "description": "「海外選手にフィジカルで負けている」と分析する時"
+            },
+            {
+                "title": "残業",
+                "description": "「3日徹夜できるなんてフィジカルお化けだ」と驚く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -481,7 +1126,22 @@
         "slug": "mental",
         "body": "<h3>精神</h3><p>精神力のこと。「メンタルヘルス」は心の健康。</p>",
         "short_description": "<h3>心。精神力。</h3>",
-        "example": "「メンタルをやられる」"
+        "example": "「メンタルをやられる」",
+        "key_points": [
+            "精神的な、心の、という意味",
+            "「メンタルが強い/弱い」のように、精神的な耐久力を指して使われることが多い",
+            "スポーツやビジネスにおいて重要な要素"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「理不尽なクレーム処理でメンタルが削られる」時"
+            },
+            {
+                "title": "スポーツ",
+                "description": "「技術はあるがメンタルに課題がある」と評価される時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -492,7 +1152,22 @@
         "slug": "motivation",
         "body": "<h3>やる気</h3><p>動機づけ。「モチベ」と略す。</p>",
         "short_description": "<h3>やる気。</h3>",
-        "example": "「モチベが上がらない」"
+        "example": "「モチベが上がらない」",
+        "key_points": [
+            "動機づけ、意欲、やる気",
+            "「モチベ」と略される",
+            "給料（外発的動機づけ）だけでなく、やりがい（内発的動機づけ）も重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「月曜日はどうしてもモチベーションが上がらない」時"
+            },
+            {
+                "title": "マネジメント",
+                "description": "「部下のモチベーション管理も上司の仕事」と言われる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -503,6 +1178,21 @@
         "slug": "riskhedge",
         "body": "<h3>危険回避</h3><p>予測されるリスクに備えて、対策を打っておくこと。</p>",
         "short_description": "<h3>リスクへの備え。</h3>",
-        "example": "「リスクヘッジしておく」"
+        "example": "「リスクヘッジしておく」",
+        "key_points": [
+            "Risk（危険）Hedge（防止策）",
+            "起こりうる危機を予測し、被害を最小限に抑える準備をすること",
+            "「保険をかける」こと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "計画",
+                "description": "「雨が降った時のために、屋内会場も押さえておく（リスクヘッジ）」時"
+            },
+            {
+                "title": "人間関係",
+                "description": "「本命の彼女に振られた時のために、キープを作ってリスクヘッジする（最低）」時"
+            }
+        ]
     }
 ]

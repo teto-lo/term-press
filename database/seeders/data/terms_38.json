@@ -1,0 +1,584 @@
+[
+    {
+        "title": "切り抜き",
+        "slug": "clip-video",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>見どころを短く編集</h3><p>長時間の動画配信の中から、面白い場面だけを切り取って編集した動画。</p>",
+        "body": "<h3>詳しく解説</h3><p>「切り抜き」は、YouTuberやストリーマーの長時間配信（数時間〜数日）から、ハイライトシーンだけを数分にまとめた動画です。</p><p>本人の許可を得て収益化している「切り抜き師」も存在します。</p>",
+        "example": "「忙しいので、推しの配信を切り抜きでチェックする」",
+        "key_points": [
+            "テロップで見やすく編集",
+            "本編への誘導",
+            "収益折半"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "✂️",
+                "title": "YouTube",
+                "description": "「切り抜き動画がバズって、本人の知名度が上がる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "スパチャ",
+        "slug": "super-chat",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>有償のメッセージ</h3><p>YouTubeの投げ銭機能「スーパーチャット」の略。</p>",
+        "body": "<h3>詳しく解説</h3><p>「スパチャ」は、YouTubeのライブ配信でお金を払ってコメントを目立たせる機能です。金額によって色や表示時間が変わります。</p><p>「赤スパ（高額スパチャ）」は配信者に認知されやすいです。</p>",
+        "example": "「推しの誕生日に赤スパを投げる」",
+        "key_points": [
+            "投げ銭",
+            "ナイスパ（ナイススパチャ）",
+            "読み上げ機能"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💰",
+                "title": "配信",
+                "description": "「スパチャを投げて推しに名前を呼んでもらう」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "投げ銭",
+        "slug": "tipping",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>ネット上のチップ</h3><p>配信者やクリエイターに対して、応援の気持ちとして金銭を送ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「投げ銭」は、オンライン上でクリエイターに金銭を送るシステム全般を指します。YouTubeのスパチャ、Twitchのビッツ、TikTokのギフトなどがあります。</p><p>推し活の一環として行われます。</p>",
+        "example": "「路上ライブ感覚で投げ銭をする」",
+        "key_points": [
+            "ギフティング",
+            "推しへの愛",
+            "使いすぎ注意"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎁",
+                "title": "応援",
+                "description": "「素晴らしいパフォーマンスに感動して投げ銭をする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "Vtuber",
+        "slug": "vtuber",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>バーチャルYouTuber</h3><p>2Dや3Dのキャラクターアバターを使って活動するYouTuber。</p>",
+        "body": "<h3>詳しく解説</h3><p>「Vtuber（ブイチューバー）」は、Virtual YouTuberの略で、架空のキャラクターとして動画投稿や配信を行う活動者です。</p><p>「中の人（魂）」の存在は公然の秘密とされることが多いです。</p>",
+        "example": "「Vtuberの配信を見て癒やされる」",
+        "key_points": [
+            "企業勢と個人勢",
+            "ホロライブ・にじさんじ",
+            "バ美肉（バーチャル美少女受肉）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🤖",
+                "title": "趣味",
+                "description": "「推しのVtuberの新衣装お披露目配信を見る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ストリーマー",
+        "slug": "streamer",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "short_description": "<h3>ライブ配信者</h3><p>TwitchやYouTubeなどで、リアルタイム配信を主に行う活動者。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ストリーマー」は、主にゲーム実況などのライブ配信を生業とする人たちです。プロゲーマーがストリーマーに転身することもあります。</p><p>長時間配信が特徴です。</p>",
+        "example": "「人気ストリーマーのゲーム配信を見る」",
+        "key_points": [
+            "Twitch（ツイッチ）",
+            "FPSゲーム",
+            "コメント欄とのプロレス"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎮",
+                "title": "ゲーム",
+                "description": "「ストリーマーの真似をしてゲーム用語を使う」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ASMR",
+        "slug": "asmr",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>脳がゾクゾクする音</h3><p>咀嚼音や耳かきの音など、聴覚を刺激して心地よさやゾクゾク感を与える音。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ASMR（エーエスエムアール）」は、Autonomous Sensory Meridian Responseの略で、聞いていて気持ちいい音や感覚のことです。</p><p>「音フェチ」動画として人気があります。</p>",
+        "example": "「寝る前にASMR動画を聞いてリラックスする」",
+        "key_points": [
+            "咀嚼音（モッパン）",
+            "バイノーラル録音",
+            "睡眠導入"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎧",
+                "title": "リラックス",
+                "description": "「ヘッドホンでASMRを聞いて耳が幸せになる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "RTA",
+        "slug": "rta",
+        "category_slug": "gaming",
+        "scene_slugs": [
+            "game-chat"
+        ],
+        "short_description": "<h3>リアルタイムアタック</h3><p>ゲームを最初からクリアするまでの実時間を競う遊び方。</p>",
+        "body": "<h3>詳しく解説</h3><p>「RTA」は、Real Time Attackの略で、ゲームスタートからクリアまでの現実時間（時計の針が進む時間）をいかに短くするかを競うやり込みプレイです。</p><p>「走者（プレイヤー）」による解説動画も人気です。</p>",
+        "example": "「RTA動画を見て、驚異的なプレイスキルに感動する」",
+        "key_points": [
+            "バグ利用もテクニック",
+            "世界記録（World Record）",
+            "再走（やり直し）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "⏱️",
+                "title": "ゲーム",
+                "description": "「RTA in Japanなどのイベントを観戦する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "同接",
+        "slug": "concurrent-viewers",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>同時接続数</h3><p>ライブ配信を現在リアルタイムで見ている人の数。</p>",
+        "body": "<h3>詳しく解説</h3><p>「同接（どうせつ）」は、ライブ配信の同時接続者数（アクティブユーザー数）のことです。人気のバロメーターとして注目されます。</p><p>「同接10万人越え」などは大きなニュースになります。</p>",
+        "example": "「同接が増えてきて、配信者が緊張し始める」",
+        "key_points": [
+            "アクティブ閲覧者",
+            "数字がすべてではない",
+            "加藤純一（同接の王）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "👥",
+                "title": "配信",
+                "description": "「同接数を気にして、配信の盛り上がりを測る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "初見",
+        "slug": "first-time-viewer",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>初めて見る人</h3><p>その配信や動画を初めて見る人、または初めてゲームをプレイすること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「初見（しょけん）」は、配信に初めて来たリスナーや、ゲームを予備知識なしで初めてプレイすること（初見プレイ）を指します。</p><p>「初見です」と挨拶するのがマナーとされる界隈もあります。</p>",
+        "example": "「初見プレイなので、ネタバレは禁止です」",
+        "key_points": [
+            "初見さん歓迎",
+            "初見バイバイ（初心者お断りの難易度）",
+            "初見詐欺（実は経験者）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔰",
+                "title": "挨拶",
+                "description": "「配信に入って『初見です』とコメントする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ROM専",
+        "slug": "lurker",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>見るだけの人</h3><p>コメントや書き込みをせず、見ることに専念する人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ROM専（ロムせん）」は、Read Only Memberの略で、自分からは発信せず、他人の投稿や会話を見るだけのユーザーのことです。</p><p>「ROMる」とも言います。</p>",
+        "example": "「普段はROM専だが、今日はコメントしてみる」",
+        "key_points": [
+            "「半年ROMれ」（昔のネットスラング）",
+            "サイレントマジョリティ",
+            "鍵垢で見ていることも"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "👀",
+                "title": "ネット",
+                "description": "「トラブルに巻き込まれたくないのでROM専を貫く」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "メンシプ",
+        "slug": "channel-membership",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>メンバーシップ</h3><p>YouTubeの月額制ファンクラブ機能。</p>",
+        "body": "<h3>詳しく解説</h3><p>「メンシプ」は、YouTubeの「チャンネルメンバーシップ」の略です。月額料金を払うことで、専用スタンプや限定配信などの特典を受けられます。</p><p>配信者の安定した収入源になります。</p>",
+        "example": "「メンシプ限定配信で、裏話を聞く」",
+        "key_points": [
+            "メンバーバッジ",
+            "限定コンテンツ",
+            "サブスク"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💳",
+                "title": "推し活",
+                "description": "「メンシプに入会して古参アピールをする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ガチ恋",
+        "slug": "gachikoi",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>本気で恋している</h3><p>アイドルや配信者に対して、ファンとしてではなく本気で恋愛感情を抱くこと。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ガチ恋」は、推しに対して「ガチ（本気）」で「恋」をしている状態です。「リアコ（リアルに恋してる）」ともほぼ同義です。</p><p>同担拒否になりやすい傾向があります。</p>",
+        "example": "「推しにガチ恋してしまって辛い」",
+        "key_points": [
+            "ガチ恋距離（近すぎてドキッとする距離感）",
+            "ガチ恋勢",
+            "養いたい"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💘",
+                "title": "恋愛",
+                "description": "「推しの熱愛報道が出てガチ恋勢が発狂する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "全肯定",
+        "slug": "total-affirmation",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>すべてを肯定する</h3><p>推しの言動すべてを、無条件に肯定し支持すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「全肯定（ぜんこうてい）」は、相手が何を言っても「わかる」「その通り」と肯定することです。推し活において見られますが、行き過ぎるとイエスマンになり、批判を許さない空気を生みます。</p><p>「全肯定bot」と揶揄されることもあります。</p>",
+        "example": "「ファンが全肯定しかいないので、裸の王様になっている」",
+        "key_points": [
+            "信者",
+            "ママリス（母性で包み込むリスナー）",
+            "批判はアンチ認定"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🙆‍♂️",
+                "title": "交流",
+                "description": "「疲れている時に全肯定してくれる友人に癒やされる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "チー牛",
+        "slug": "cheese-beef-bowl",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>地味な男性のステレオタイプ</h3><p>「チーズ牛丼を注文してそうな顔」の略。地味で陰キャな男性を指すネットスラング。</p>",
+        "body": "<h3>詳しく解説</h3><p>「チー牛（ちーぎゅう）」は、ネット掲示板発祥の言葉で、特定の画風で描かれた「三色チーズ牛丼顔」のイラストが元ネタです。陰キャ、オタクっぽい容姿や性格へのレッテルとして使われます。</p><p>自虐で使う人もいます。</p>",
+        "example": "「自分はチー牛だから、キラキラした場所は苦手だ」",
+        "key_points": [
+            "ルッキズム（外見至上主義）",
+            "陰キャ",
+            "発達障害と結びつけられることも（要注意）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🧀",
+                "title": "自虐",
+                "description": "「美容院に行っておしゃれをして脱チー牛を目指す」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ゆっくり解説",
+        "slug": "yukkuri-kaisetsu",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>合成音声による解説動画</h3><p>「霊夢」と「魔理沙」などのキャラが、合成音声で掛け合いをしながら解説する動画。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ゆっくり解説」は、AquesTalkなどの音声合成ソフト（ゆっくりボイス）を使った動画ジャンルです。歴史、科学、事件など、あらゆるテーマが解説されています。</p><p>「～だぜ」「～だわ」といった独特の口調が特徴です。</p>",
+        "example": "「暇つぶしにYouTubeでゆっくり解説を見る」",
+        "key_points": [
+            "東方Project",
+            "茶番（冒頭の寸劇）",
+            "うp主（投稿者）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🗣️",
+                "title": "勉強",
+                "description": "「難しいニュースもゆっくり解説なら理解できる気がする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "ショート動画",
+        "slug": "short-video",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "youtube",
+            "tiktok"
+        ],
+        "short_description": "<h3>縦型の短い動画</h3><p>TikTokやYouTubeショートなどの、スマホ全画面で見る1分以内の動画。</p>",
+        "body": "<h3>詳しく解説</h3><p>「ショート動画」は、スマホでの視聴に最適化された縦型の短尺動画です。次々とスワイプして見られるため、中毒性が高いです。</p><p>タイパ（タイムパフォーマンス）を重視する若者に人気です。</p>",
+        "example": "「寝る前にショート動画を見ていたら、いつの間にか1時間経っていた」",
+        "key_points": [
+            "TikTok",
+            "YouTube Shorts",
+            "Instagram Reels"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📱",
+                "title": "暇つぶし",
+                "description": "「電車での移動時間に無心でショート動画を眺める」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "量産型",
+        "slug": "mass-produced-type",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>みんなと同じファッション</h3><p>流行を取り入れすぎて、個性がなく皆同じに見えるファッションやメイク。</p>",
+        "body": "<h3>詳しく解説</h3><p>「量産型（りょうさんがた）」は、特に女子大生やジャニオタ（ジャニーズファン）界隈で、ピンクや白を基調としたフリルやリボンの多い服装（量産型コーデ）を指すことが多いです。</p><p>「量産型ヲタク」とも呼ばれます。</p>",
+        "example": "「ライブ会場が量産型女子で溢れかえっている」",
+        "key_points": [
+            "MCMのリュック",
+            "サンリオキャラクター（マイメロなど）",
+            "地雷系との対比"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎀",
+                "title": "ファッション",
+                "description": "「友達と双子コーデで量産型メイクをしてプリクラを撮る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "地雷系",
+        "slug": "jirai-kei",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>病みかわいいファッション</h3><p>「関わると厄介（地雷）」に見えるような、ゴシックで病んだ雰囲気のファッションやメイク。</p>",
+        "body": "<h3>詳しく解説</h3><p>「地雷系（じらいけい）」は、黒や紫を基調とし、泣きはらしたような赤っぽい目元の「地雷メイク」が特徴です。メンヘラっぽい可愛さを演出します。</p><p>「量産型」とセットで語られることが多いです。</p>",
+        "example": "「地雷系メイクに挑戦して、アンニュイな雰囲気を出す」",
+        "key_points": [
+            "ぴえん系",
+            "クロミちゃん",
+            "ストロングゼロ"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💜",
+                "title": "ファッション",
+                "description": "「地雷系女子になりきって歌舞伎町を歩く」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "推し活",
+        "slug": "oshikatsu",
+        "category_slug": "youth-words",
+        "scene_slugs": [],
+        "short_description": "<h3>推しを応援する活動</h3><p>自分のお気に入りのキャラクターやアイドル（推し）を応援する活動全般。</p>",
+        "body": "<h3>詳しく解説</h3><p>「推し活（おしかつ）」は、ライブに行く、グッズを買う、SNSで布教するなど、推しを応援するあらゆる活動を指します。</p><p>人生の活力（生きがい）としている人も多いです。</p>",
+        "example": "「給料の半分を推し活につぎ込む」",
+        "key_points": [
+            "祭壇（グッズを飾る）",
+            "概念グッズ（推しのイメージカラーの小物など）",
+            "推しは推せる時に推せ"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🫶",
+                "title": "日常",
+                "description": "「カフェで推しのアクリルスタンド（アクスタ）と一緒に写真を撮る」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "オワコン",
+        "slug": "owakon",
+        "category_slug": "net-slang",
+        "scene_slugs": [],
+        "short_description": "<h3>終わったコンテンツ</h3><p>ブームが去り、人気がなくなったコンテンツやサービス。</p>",
+        "body": "<h3>詳しく解説</h3><p>「オワコン」は、「終わったコンテンツ」の略です。かつて一世を風靡したが、今は誰も見向きもしなくなったアニメ、ゲーム、サービスなどを指して使われます。</p><p>揶揄する意図で使われることが多いです。</p>",
+        "example": "「あのゲームはもうオワコンだと言われている」",
+        "key_points": [
+            "死語になりつつあるかも",
+            "逆張りで楽しむ",
+            "運営の終了（サ終）"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔚",
+                "title": "評価",
+                "description": "「好きだった作者の新作が売れずにオワコン扱いされて悲しい」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "リアタイ",
+        "slug": "watching-live",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube",
+            "tiktok"
+        ],
+        "short_description": "<h3>リアルタイム視聴</h3><p>テレビ番組やライブ配信を、放送されているその時間にリアルタイムで見ること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「リアタイ」は、「リアルタイム（Real Time）」の略です。録画やアーカイブではなく、生放送をその場で見ることで、SNSの実況などで盛り上がれます。</p><p>「リアタイ勢」とも呼ばれます。</p>",
+        "example": "「推しのドラマをリアタイするために急いで帰る」",
+        "key_points": [
+            "ネタバレ回避",
+            "実況ツイート",
+            "同時視聴"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📺",
+                "title": "テレビ",
+                "description": "「金曜ロードショーをリアタイしてTwitterで実況に参加する」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "アーカイブ",
+        "slug": "archive",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>過去の配信記録</h3><p>ライブ配信が終了した後に残される、録画データ。</p>",
+        "body": "<h3>詳しく解説</h3><p>「アーカイブ」は、生配信を見逃した人のために残される録画です。「アカイブ」「ログ」とも呼ばれます。</p><p>メンシプ限定で公開されることもあります。</p>",
+        "example": "「リアタイできなかったので、アーカイブで確認する」",
+        "key_points": [
+            "アーカイブ勢",
+            "コメントも残る",
+            "黒歴史部分はカットされることも"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "📼",
+                "title": "視聴",
+                "description": "「作業用BGMとして過去のアーカイブを流しっぱなしにする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "モデレーター",
+        "slug": "moderator",
+        "category_slug": "net-slang",
+        "scene_slugs": [
+            "youtube",
+            "game-chat"
+        ],
+        "short_description": "<h3>コメント欄の管理人</h3><p>ライブ配信などで、コメント欄を管理・監視する権限を持つ人。</p>",
+        "body": "<h3>詳しく解説</h3><p>「モデレーター（モデ）」は、配信者の代わりに、不適切なコメントを削除したり、荒らしをブロックしたりする管理人です。YouTubeでは名前の横にスパナのマークがつきます。</p><p>信頼できるリスナーに任せることが多いです。</p>",
+        "example": "「モデレーターが荒らしを次々とBANしていく」",
+        "key_points": [
+            "スパナ",
+            "自治厨（勝手に管理人気取り）には注意",
+            "配信者の右腕"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🔧",
+                "title": "配信",
+                "description": "「モデレーターに任命されて責任感を感じる」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "踊ってみた",
+        "slug": "dance-cover",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "tiktok",
+            "youtube"
+        ],
+        "short_description": "<h3>ダンス動画</h3><p>既存の曲に合わせてダンスを踊り、その動画を投稿すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「踊ってみた」は、ニコニコ動画発祥の文化で、YouTubeやTikTokなどでも人気です。ボカロ曲やK-POPのカバーダンスなどが主流です。</p><p>「踊り手」と呼ばれます。</p>",
+        "example": "「文化祭で『踊ってみた』の人気曲を披露する」",
+        "key_points": [
+            "振付本家",
+            "バズるダンス",
+            "TikTokの音源"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "💃",
+                "title": "TikTok",
+                "description": "「流行りのダンスを練習してTikTokにアップする」時"
+            }
+        ],
+        "is_published": true
+    },
+    {
+        "title": "歌ってみた",
+        "slug": "song-cover",
+        "category_slug": "youth-words",
+        "scene_slugs": [
+            "youtube"
+        ],
+        "short_description": "<h3>カバーソング</h3><p>既存の曲を自分で歌い、その動画を投稿すること。</p>",
+        "body": "<h3>詳しく解説</h3><p>「歌ってみた」は、既存の楽曲（ボカロ、J-POP、アニソンなど）をカバーして投稿する動画ジャンルです。「歌い手」として活動し、メジャーデビューする人もいます。</p><p>Adoなどが有名です。</p>",
+        "example": "「歌ってみた動画で、歌唱力をアピールする」",
+        "key_points": [
+            "MIX師（音声を聴きやすく調整する人）",
+            "絵師・動画師とのコラボ",
+            "高音厨"
+        ],
+        "usage_scenarios": [
+            {
+                "emoji": "🎤",
+                "title": "カラオケ",
+                "description": "「歌い手のバージョンで曲を覚えてしまう」時"
+            }
+        ],
+        "is_published": true
+    }
+]

@@ -8,7 +8,22 @@
         "slug": "ux",
         "body": "<h3>ユーザー体験</h3><p>User Experience。サービスの使いやすさや感動など、体験そのもの。</p>",
         "short_description": "<h3>使い心地、体験。</h3>",
-        "example": "「UXを改善する」"
+        "example": "「UXを改善する」",
+        "key_points": [
+            "User Experience（ユーザー体験）の略",
+            "製品やサービスを利用した時に得られる「使いやすい」「楽しい」「心地よい」といった体験全体のこと",
+            "UI（見た目）が良いだけでは、良いUXは生まれない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "WEB制作",
+                "description": "「登録フローが複雑でUXが最悪だ」と改善を指摘する時"
+            },
+            {
+                "title": "企画",
+                "description": "「ユーザーに感動を与えるUXを設計しよう」と熱弁する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -19,7 +34,22 @@
         "slug": "ui",
         "body": "<h3>ユーザーインターフェース</h3><p>User Interface。画面のデザインやボタンの配置など、目に触れる部分。</p>",
         "short_description": "<h3>画面の見た目。</h3>",
-        "example": "「UIが見にくい」"
+        "example": "「UIが見にくい」",
+        "key_points": [
+            "User Interface（ユーザーとの接点）の略",
+            "Webサイトやアプリのデザイン、ボタン、フォントなど、ユーザーが直接触れる部分",
+            "「UI/UX」とセットで語られることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "アプリ開発",
+                "description": "「ボタンが小さすぎて押しにくい、UIの設計ミスだ」と修正する時"
+            },
+            {
+                "title": "デザイン",
+                "description": "「直感的に操作できるUIを目指す」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -30,7 +60,22 @@
         "slug": "buzz",
         "body": "<h3>大流行する</h3><p>SNSで爆発的に拡散されること。</p>",
         "short_description": "<h3>大流行すること。</h3>",
-        "example": "「ツイートがバズった」"
+        "example": "「ツイートがバズった」",
+        "key_points": [
+            "Buzz（蜂がブンブン飛ぶ音＝噂話）が語源",
+            "TwitterなどのSNSで短期間に爆発的に拡散され、話題になること",
+            "承認欲求の最終到達点"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「何気ないつぶやきがバズって通知が止まらない」時"
+            },
+            {
+                "title": "マーケティング",
+                "description": "「バズる動画を作って認知度を上げよう」と無茶ぶりされる時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -41,7 +86,22 @@
         "slug": "pochiru",
         "body": "<h3>ネット通販で買う</h3><p>購入ボタンを「ポチッ」と押す音から。</p>",
         "short_description": "<h3>ネットで買う。</h3>",
-        "example": "「Amazonでポチった」"
+        "example": "「Amazonでポチった」",
+        "key_points": [
+            "マウスをクリックする擬音「ポチッ」から",
+            "ネット通販で購入ボタンを押すこと",
+            "深夜のテンションでポチると後悔する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "買い物",
+                "description": "「発売日の0時ちょうどに限定品をポチる」時"
+            },
+            {
+                "title": "衝動買い",
+                "description": "「気づいたら知らない健康器具をポチってた」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -52,7 +112,22 @@
         "slug": "mitsurin",
         "body": "<h3>Amazon</h3><p>アマゾン＝密林という連想から。</p>",
         "short_description": "<h3>Amazonのこと。</h3>",
-        "example": "「密林で探す」"
+        "example": "「密林で探す」",
+        "key_points": [
+            "大手通販サイト「Amazon」の隠語",
+            "アマゾン（熱帯雨林）＝密林という単純な連想",
+            "ネット掲示板などで直接的な名前を避けるために使われた"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "検索",
+                "description": "「本屋になかったから密林で探すわ」と言う時"
+            },
+            {
+                "title": "配送",
+                "description": "「密林から謎の箱が届いた」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -63,7 +138,22 @@
         "slug": "ama",
         "body": "<h3>Amazon</h3><p>アマゾンの略。尼さんではない。</p>",
         "short_description": "<h3>Amazonのこと。</h3>",
-        "example": "「尼で注文した」"
+        "example": "「尼で注文した」",
+        "key_points": [
+            "「アマゾン」の最初の2文字「アマ」に漢字を当てたもの",
+            "２ちゃんねる発祥のネットスラング",
+            "「密林」と同じ意味で使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "比較",
+                "description": "「楽天にはないけど尼にはあった」と言う時"
+            },
+            {
+                "title": "予約",
+                "description": "「尼限定特典付きのCDを予約する」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -74,7 +164,22 @@
         "slug": "tube",
         "body": "<h3>YouTube</h3><p>You「Tube」から。「つべで見る」。</p>",
         "short_description": "<h3>Youtubeのこと。</h3>",
-        "example": "「明日つべで配信する」"
+        "example": "「明日つべで配信する」",
+        "key_points": [
+            "You「Tube」をローマ字読みしたもの",
+            "YouTubeのこと",
+            "ニコニコ動画に対して使われることが多いが、最近は普通に通じる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "視聴",
+                "description": "「暇だからつべ巡回してくる」時"
+            },
+            {
+                "title": "比較",
+                "description": "「ニコ動よりつべの方が画質がいい」と話す時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -85,7 +190,22 @@
         "slug": "dqn",
         "body": "<h3>非常識な人</h3><p>ドキュン。マナーが悪かったり、粗暴な人たち。かつてのテレビ番組が由来。</p>",
         "short_description": "<h3>ヤンキー、非常識人。</h3>",
-        "example": "「DQNネーム（キラキラネーム）」"
+        "example": "「DQNネーム（キラキラネーム）」",
+        "key_points": [
+            "テレビ番組「目撃！ドキュン」に出演していたようなヤンキー層を指す言葉",
+            "非常識、粗暴、知性が低いと感じる人への蔑称",
+            "「キラキラネーム」のことを「DQNネーム」とも呼ぶ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "遭遇",
+                "description": "「コンビニの前でDQNがたむろしてて入りづらい」時"
+            },
+            {
+                "title": "運転",
+                "description": "「煽り運転してくるDQN車に遭遇した」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -96,7 +216,22 @@
         "slug": "menhera",
         "body": "<h3>精神的に不安定</h3><p>メンタルヘルスに問題を抱えている人、またはそう見える言動をする人。「ヘラる」＝病む。</p>",
         "short_description": "<h3>心病んでる系。</h3>",
-        "example": "「メンヘラ彼女」"
+        "example": "「メンヘラ彼女」",
+        "key_points": [
+            "「メンタルヘルス」板の住人に由来",
+            "精神的に不安定で、構ってちゃん行動をする人を指すことが多い",
+            "「ファッションメンヘラ（病んでるアピールだけの人）」もいる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "恋愛",
+                "description": "「彼氏からの返信が遅いだけで『もう死ぬ』と送るメンヘラ行動」"
+            },
+            {
+                "title": "SNS",
+                "description": "「黒背景に白文字で意味深なポエムを投稿して心配を誘う」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -107,7 +242,22 @@
         "slug": "itai",
         "body": "<h3>見ていて恥ずかしい</h3><p>言動が常識外れで、見ているこっちが恥ずかしくなる様。「痛い人」。</p>",
         "short_description": "<h3>恥ずかしい人。</h3>",
-        "example": "「中二病は痛い」"
+        "example": "「中二病は痛い」",
+        "key_points": [
+            "見ていて「心が痛くなる」ほど恥ずかしい様子",
+            "自意識過剰や空回りをしている人への形容詞",
+            "物理的な痛みではなく、精神的な恥ずかしさを表す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "勘違い",
+                "description": "「自分はイケてると思ってる勘違い男の行動が痛い」時"
+            },
+            {
+                "title": "自虐",
+                "description": "「昔の自分のブログが痛すぎて直視できない」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -118,7 +268,22 @@
         "slug": "chunibyo",
         "body": "<h3>中二病</h3><p>中学2年生頃に見られる、背伸びした恥ずかしい言動。「自分には隠された力がある」と思い込むなど。</p>",
         "short_description": "<h3>思春期の暴走。</h3>",
-        "example": "「黒歴史になる厨二病」"
+        "example": "「黒歴史になる厨二病」",
+        "key_points": [
+            "中学二年生頃の思春期特有の、背伸びした言動や空想設定",
+            "「邪気眼（隠された能力）」や「闇の住人」に憧れる",
+            "大人になってから思い出すと死にたくなる黒歴史"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "過去",
+                "description": "「包帯を巻いて『鎮まれ…俺の右手』とやっていた厨二病時代」を暴露される時"
+            },
+            {
+                "title": "創作",
+                "description": "「設定が凝りすぎてて厨二病くさい小説」を読む時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -129,7 +294,22 @@
         "slug": "kusafukahi",
         "body": "<h3>笑いを避けられない</h3><p>面白すぎて笑ってしまうこと。</p>",
         "short_description": "<h3>どうしても笑っちゃう。</h3>",
-        "example": "「こんなの草不可避」"
+        "example": "「こんなの草不可避」",
+        "key_points": [
+            "「草（笑い）」を生やすことを「不可避（避けられない）」＝絶対に笑ってしまう",
+            "面白すぎる画像や動画へのコメントとして使われる",
+            "「大草原不可避」など進化系もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "動画",
+                "description": "「ハプニング映像のオチが完璧すぎて草不可避」な時"
+            },
+            {
+                "title": "レス",
+                "description": "「その返しは天才すぎて草不可避」と賞賛する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -140,7 +320,22 @@
         "slug": "potential",
         "body": "<h3>潜在能力</h3><p>まだ発揮されていない可能性。「ポテンシャル採用」＝能力より将来性を見て採用すること。</p>",
         "short_description": "<h3>秘めたる能力。</h3>",
-        "example": "「彼のポテンシャルに期待する」"
+        "example": "「彼のポテンシャルに期待する」",
+        "key_points": [
+            "Potential（潜在的な）",
+            "まだ表面化していないが、秘めている能力や可能性",
+            "今はダメでも、将来化けるかもしれない時に使う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "採用",
+                "description": "「未経験だが人柄が良いのでポテンシャル採用する」時"
+            },
+            {
+                "title": "スポーツ",
+                "description": "「身体能力のポテンシャルは高いが、技術が追いついていない」と評価される時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -151,7 +346,22 @@
         "slug": "matter",
         "body": "<h3>担当、責任</h3><p>誰が担当する案件か。「営業マター」＝営業部がやるべき仕事。</p>",
         "short_description": "<h3>担当案件。</h3>",
-        "example": "「それは田中さんマターだ」"
+        "example": "「それは田中さんマターだ」",
+        "key_points": [
+            "Matter（事柄、問題）",
+            "ビジネスでは「〜の管轄」「〜の責任範囲」という意味で使われる",
+            "責任の所在をはっきりさせる時に便利だが、押し付け合いにもなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「それは開発側のマターなので、こちらでは判断できません」と突き返す時"
+            },
+            {
+                "title": "確認",
+                "description": "「この件は社長マター（社長直轄案件）だから優先して」と急かされる時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -162,7 +372,22 @@
         "slug": "shrink",
         "body": "<h3>縮小する</h3><p>市場などが小さくなること。「市場がシュリンクしている」。</p>",
         "short_description": "<h3>縮むこと。</h3>",
-        "example": "「業界全体がシュリンク傾向」"
+        "example": "「業界全体がシュリンク傾向」",
+        "key_points": [
+            "Shrink（縮む）",
+            "市場規模、予算、人員などが縮小すること",
+            "ネガティブな文脈で使われることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営戦略",
+                "description": "「国内市場はシュリンクしていくので、海外に活路を見出す」時"
+            },
+            {
+                "title": "データ",
+                "description": "「データベースをシュリンク（圧縮）して容量を空ける」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -173,7 +398,22 @@
         "slug": "scheme",
         "body": "<h3>枠組み、計画</h3><p>仕組みのこと。「課金スキーム」＝お金を稼ぐ仕組み。</p>",
         "short_description": "<h3>仕組み。計画。</h3>",
-        "example": "「新しいビジネススキーム」"
+        "example": "「新しいビジネススキーム」",
+        "key_points": [
+            "Scheme（計画、体系）",
+            "ビジネスの仕組みや枠組みのこと。「ポンジ・スキーム（詐欺）」のイメージもあるが、本来は中立的な言葉",
+            "継続的に利益を生み出すシステムを指すことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネスモデル",
+                "description": "「サブスクリプションという画期的な課金スキーム」を導入する時"
+            },
+            {
+                "title": "提案",
+                "description": "「業務提携のスキームを固める」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -184,7 +424,22 @@
         "slug": "kpi",
         "body": "<h3>重要業績評価指標</h3><p>Key Performance Indicator。目標達成のための中間目標。数値で測る。</p>",
         "short_description": "<h3>中間目標の数字。</h3>",
-        "example": "「KPIを達成する」"
+        "example": "「KPIを達成する」",
+        "key_points": [
+            "Key Performance Indicator（重要業績評価指標）の略",
+            "最終的なゴール（KGI）に到達するための、中間的な数値目標",
+            "訪問者数、成約率などが設定されることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "目標設定",
+                "description": "「今月のKPIは新規会員獲得数1000人」と設定する時"
+            },
+            {
+                "title": "進捗会議",
+                "description": "「KPIの達成率が悪いので対策を打とう」と議論する時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -195,7 +450,22 @@
         "slug": "kgi",
         "body": "<h3>重要目標達成指標</h3><p>Key Goal Indicator。最終的なゴール（売上など）。KPIの親玉。</p>",
         "short_description": "<h3>最終ゴールの数字。</h3>",
-        "example": "「KGIは売上1億円」"
+        "example": "「KGIは売上1億円」",
+        "key_points": [
+            "Key Goal Indicator（重要目標達成指標）の略",
+            "ビジネスにおける最終的なゴールとなる数値目標",
+            "通常は売上高や利益などが設定される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営計画",
+                "description": "「今期のKGIは必達だ」とハッパをかける時"
+            },
+            {
+                "title": "分析",
+                "description": "「KPIは達成しているのにKGIに繋がっていない（施策がズレている）」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -206,7 +476,22 @@
         "slug": "longtail",
         "body": "<h3>ニッチな商品群</h3><p>売れ筋ではないが、数多くの種類がある商品群が全体の売上を支える現象。</p>",
         "short_description": "<h3>塵も積もれば山となる。</h3>",
-        "example": "「ロングテールSEO」"
+        "example": "「ロングテールSEO」",
+        "key_points": [
+            "恐竜の尻尾のように長く伸びる販売グラフの形状から",
+            "売れ筋のヒット商品（ヘッド）に頼らず、あまり売れないニッチな商品（テール）を大量に揃えて売上を作る戦略",
+            "Amazonの成功モデルとして有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SEO",
+                "description": "「ビッグワードではなく、ロングテールキーワードで検索流入を稼ぐ」時"
+            },
+            {
+                "title": "ECサイト",
+                "description": "「店舗には置けないマニアックな本も、ネットならロングテールで売れる」時"
+            }
+        ]
     },
     {
         "category_slug": "net-slang",
@@ -217,6 +502,21 @@
         "slug": "blueocean",
         "body": "<h3>競合がいない市場</h3><p>競争相手がいなくて利益が出しやすい未開拓の市場。対義語はレッドオーシャン（血みどろの競争）。</p>",
         "short_description": "<h3>楽園市場。</h3>",
-        "example": "「ブルーオーシャンを見つける」"
+        "example": "「ブルーオーシャンを見つける」",
+        "key_points": [
+            "血で汚れていない青い海＝競争のない穏やかな市場",
+            "競合他社がおらず、独占的に利益を上げられる理想的な状態",
+            "すぐに他社が参入してレッドオーシャン化するのが常"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "新規事業",
+                "description": "「ニッチすぎて誰も手を出していないブルーオーシャンを開拓する」時"
+            },
+            {
+                "title": "就活",
+                "description": "「人気企業ばかり受けるレッドオーシャン戦略をやめて、隠れ優良企業（ブルーオーシャン）を探す」時"
+            }
+        ]
     }
 ]

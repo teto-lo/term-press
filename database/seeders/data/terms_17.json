@@ -8,7 +8,22 @@
         "slug": "aggro",
         "body": "<h3>速攻</h3><p>序盤から積極的に攻撃を仕掛け、短期決戦を狙う戦術。カードゲームなどで使う。</p>",
         "short_description": "<h3>速攻戦術。</h3>",
-        "example": "「アグロデッキ」"
+        "example": "「アグロデッキ」",
+        "key_points": [
+            "Aggressive（攻撃的）の略",
+            "防御を捨てて序盤からガンガン攻める戦術",
+            "相手の準備が整う前に倒し切るのが勝ち筋"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "カードゲーム",
+                "description": "「アグロデッキで速攻を仕掛ける」時"
+            },
+            {
+                "title": "FPS",
+                "description": "「アグロに動いて敵を撹乱する」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -19,7 +34,18 @@
         "slug": "in-fight",
         "body": "<h3>接近戦</h3><p>敵に近づいて戦うこと。ボクシング由来。</p>",
         "short_description": "<h3>接近戦。</h3>",
-        "example": "「インファイトを仕掛ける」"
+        "example": "「インファイトを仕掛ける」",
+        "key_points": [
+            "敵の懐に入って戦う接近戦のこと",
+            "リスクは高いが大ダメージを与えられる",
+            "遠距離武器を持っているのにインファイトするのは無謀"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "FPS",
+                "description": "「ショットガンを持ってインファイトに持ち込む」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -30,7 +56,18 @@
         "slug": "air-p",
         "body": "<h3>未経験者</h3><p>「エアプレイヤー」。実際はやっていないのに、知ったかぶりをする人。</p>",
         "short_description": "<h3>知ったかぶり。</h3>",
-        "example": "「エアプ乙」"
+        "example": "「エアプ乙」",
+        "key_points": [
+            "Air Player（架空のプレイヤー）の略",
+            "実際にはプレイしていないのに、知識だけで語る人",
+            "動画勢（プレイ動画だけ見た人）にも使われることがある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "議論",
+                "description": "「的外れな批判をして『エアプ乙』と煽られる」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -41,7 +78,18 @@
         "slug": "end-content",
         "body": "<h3>やり込み要素</h3><p>ストーリーをクリアした後に遊べる、高難易度のコンテンツ。</p>",
         "short_description": "<h3>クリア後のやり込み。</h3>",
-        "example": "「エンドコンテンツに挑む」"
+        "example": "「エンドコンテンツに挑む」",
+        "key_points": [
+            "メインストーリー終了後に開放される高難易度コンテンツ",
+            "最強装備の入手や、育成の限界を目指すためにある",
+            "廃人プレイヤー達の主戦場"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "RPG",
+                "description": "「エンドコンテンツのボスが強すぎて倒せない」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -52,7 +100,18 @@
         "slug": "open-world",
         "body": "<h3>広大な世界</h3><p>マップ切り替えがなく、広大な世界を自由に移動できるゲーム。</p>",
         "short_description": "<h3>自由な広大な世界。</h3>",
-        "example": "「オープンワールドRPG」"
+        "example": "「オープンワールドRPG」",
+        "key_points": [
+            "ロード画面なしでどこまでも移動できる広大なフィールド",
+            "自由度が高く、ストーリーを無視して寄り道するのが楽しい",
+            "「ゼルダの伝説BoW」や「原神」などが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "話題",
+                "description": "「新作のオープンワールドゲーが出るらしい」と盛り上がる時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -63,7 +122,22 @@
         "slug": "ochiru",
         "body": "<h3>接続切れ</h3><p>ゲームや通話から切断されること。「回線落ち」。</p>",
         "short_description": "<h3>切断される。</h3>",
-        "example": "「回線が悪くて落ちた」"
+        "example": "「回線が悪くて落ちた」",
+        "key_points": [
+            "通信エラーなどでゲームから強制切断されること",
+            "または、寝るためにゲームを終了すること（寝落ち）",
+            "重要な場面で落ちると戦犯扱いされる可能性がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「Wi-Fiが弱くてランクマッチ中に落ちた」時"
+            },
+            {
+                "title": "挨拶",
+                "description": "「明日早いんで落ちますお疲れ様でした」と抜ける時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -74,7 +148,22 @@
         "slug": "counter",
         "body": "<h3>反撃</h3><p>敵の攻撃を利用して反撃すること。または有利な属性やキャラを当てること。</p>",
         "short_description": "<h3>反撃。</h3>",
-        "example": "「カウンターを決める」"
+        "example": "「カウンターを決める」",
+        "key_points": [
+            "相手の攻撃を受け流して反撃すること",
+            "または、相手のキャラに対して相性の良いキャラ（カウンターピック）を出すこと",
+            "「メタる」と似た意味"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "格ゲー",
+                "description": "「相手の隙をついてカウンターヒットさせる」時"
+            },
+            {
+                "title": "戦略",
+                "description": "「相手のエースへのカウンターとしてタンクを出す」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -85,7 +174,18 @@
         "slug": "kabeuchi",
         "body": "<h3>一人練習</h3><p>対戦相手がいなくてもできる練習。または独り言をSNSに投稿すること。</p>",
         "short_description": "<h3>一人練習、独り言。</h3>",
-        "example": "「壁打ち垢」"
+        "example": "「壁打ち垢」",
+        "key_points": [
+            "本来は壁に向かって一人でボールを打つ練習のこと",
+            "ゲームではコンボ練習やエイム練習を黙々とやること",
+            "SNSでは誰からの反応も求めずに独り言を投稿すること"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「壁打ち垢なのでフォロー外から失礼します」と前置きする時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -96,7 +196,18 @@
         "slug": "kan-suto",
         "body": "<h3>カウンターストップ</h3><p>レベルや所持金などが上限に達すること。「レベルカンスト」。</p>",
         "short_description": "<h3>上限到達。</h3>",
-        "example": "「所持金カンスト」"
+        "example": "「所持金カンスト」",
+        "key_points": [
+            "Counter Stop（数値が止まる）の略",
+            "レベルやステータス、お金などがゲーム内での最大値に達すること",
+            "昔のゲームで「9999」などで止まることが語源"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "自慢",
+                "description": "「全ジョブのレベルをカンストさせた」とドヤる時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -107,7 +218,18 @@
         "slug": "gimmick",
         "body": "<h3>仕掛け</h3><p>ステージの仕掛けや、敵の特殊な攻撃パターンのこと。</p>",
         "short_description": "<h3>仕掛け。</h3>",
-        "example": "「ギミックを理解する」"
+        "example": "「ギミックを理解する」",
+        "key_points": [
+            "ゲーム内の特別な仕掛けや攻略手順",
+            "床が抜ける、レバーを引く、特定の順番で攻撃するなど",
+            "「ギミック処理」に失敗すると全滅することもある（大縄跳び）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "攻略",
+                "description": "「初見殺しのギミックに引っかかって死ぬ」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -118,7 +240,18 @@
         "slug": "camp",
         "body": "<h3>待ち伏せ</h3><p>特定の場所に居座って敵を待つ戦法。「キャンパー」。</p>",
         "short_description": "<h3>待ち伏せ。</h3>",
-        "example": "「出口でキャンプする」"
+        "example": "「出口でキャンプする」",
+        "key_points": [
+            "有利な強ポジションや、敵が必ず通る場所に隠れて待ち伏せすること",
+            "やられた側は非常に不快なため、嫌われる戦法の一つ",
+            "「角待ち」とも言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "FPS",
+                "description": "「あの部屋にキャンパーがいるから気をつけろ」と報告する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -129,7 +262,18 @@
         "slug": "cool-time",
         "body": "<h3>再使用待機時間</h3><p>スキルを使ってから、次に使えるようになるまでの待ち時間。「CT」とも。</p>",
         "short_description": "<h3>待ち時間。</h3>",
-        "example": "「クールタイム中」"
+        "example": "「クールタイム中」",
+        "key_points": [
+            "Cool Down Time（冷却時間）",
+            "強力な技やアイテムを使った後、再使用可能になるまでの待ち時間",
+            "英語圏では「Cooldown（クールダウン）」と言うことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦闘",
+                "description": "「回復スキルのCT（クールタイム）が明けるまで耐えてくれ！」と叫ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -140,7 +284,18 @@
         "slug": "glitch",
         "body": "<h3>バグ利用</h3><p>ゲームの不具合（バグ）を悪用して有利に進める不正行為。</p>",
         "short_description": "<h3>バグ悪用。</h3>",
-        "example": "「グリッチ使い」"
+        "example": "「グリッチ使い」",
+        "key_points": [
+            "プログラムの誤作動やバグを意図的に利用して、不正な利益を得る行為",
+            "壁抜けやアイテム増殖など",
+            "BAN（アカウント停止）対象になることが多い悪質行為"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "通報",
+                "description": "「グリッチを使ってるプレイヤーを通報する」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -151,7 +306,18 @@
         "slug": "ghosting",
         "body": "<h3>配信覗き見</h3><p>配信者の生放送を見ながら、その位置を特定して狙う不正行為。</p>",
         "short_description": "<h3>配信狙撃。</h3>",
-        "example": "「ゴースティング対策」"
+        "example": "「ゴースティング対策」",
+        "key_points": [
+            "ライブ配信者の画面をリアルタイムで見て、居場所や手札を盗み見る不正行為",
+            "配信者にとっては非常に迷惑な行為（スナイプ）",
+            "対策として配信に遅延（ディレイ）を入れることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配信",
+                "description": "「ゴースティング疑惑があるのでマップを隠します」と対策する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -162,7 +328,18 @@
         "slug": "combo",
         "body": "<h3>連続技</h3><p>連続して攻撃を当てること。</p>",
         "short_description": "<h3>連続技。</h3>",
-        "example": "「コンボを決める」"
+        "example": "「コンボを決める」",
+        "key_points": [
+            "Combination（組み合わせ）の略",
+            "格闘ゲームなどで技を連続して当てること",
+            "パズルゲームなら連鎖のこと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "格ゲー",
+                "description": "「即死コンボ（HP満タンから倒し切るコンボ）を食らった」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -173,7 +350,22 @@
         "slug": "saba",
         "body": "<h3>サーバー</h3><p>Server。ゲームの接続先。「日本鯖」「アジア鯖」。</p>",
         "short_description": "<h3>サーバー。</h3>",
-        "example": "「鯖落ち」"
+        "example": "「鯖落ち」",
+        "key_points": [
+            "Server（サーバー）の当て字",
+            "「本鯖（正式サーバー）」「テスト鯖（テストサーバー）」",
+            "魚のサバの絵文字🐟が使われることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「メンテ明けで鯖落ちしてる」と嘆く時"
+            },
+            {
+                "title": "選択",
+                "description": "「北米鯖（NA）の方がレベルが高いらしい」と遠征する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -184,7 +376,18 @@
         "slug": "sandbag",
         "body": "<h3>練習台</h3><p>一方的に攻撃される状態、またはその対象。「殴られ役」。</p>",
         "short_description": "<h3>殴られ役。</h3>",
-        "example": "「完全にサンドバッグ状態」"
+        "example": "「完全にサンドバッグ状態」",
+        "key_points": [
+            "ボクシングの練習用具",
+            "ゲームで反撃できずに一方的にボコボコにされること",
+            "または、スキルの試し打ちに使われる敵キャラのこと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "格ゲー",
+                "description": "「画面端でハメられてサンドバッグにされた」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -195,7 +398,18 @@
         "slug": "shibari",
         "body": "<h3>制限プレイ</h3><p>自ら不利な条件（装備なし等）を課してクリアを目指すこと。</p>",
         "short_description": "<h3>自分ルールで制限。</h3>",
-        "example": "「武器縛り」"
+        "example": "「武器縛り」",
+        "key_points": [
+            "ゲームシステムによる制限ではなく、プレイヤーが自主的に設ける制限ルール",
+            "「初期装備のみ」「回復禁止」「ノーダメージ」など",
+            "ゲームが簡単すぎて飽きた上級者の遊び方"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配信",
+                "description": "「目隠し縛りでクリアを目指す」というとんでもない企画をやる時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -206,7 +420,18 @@
         "slug": "gyro",
         "body": "<h3>傾き操作</h3><p>コントローラーを傾けて視点を操作する機能。「ジャイロエイム」。</p>",
         "short_description": "<h3>傾けて操作。</h3>",
-        "example": "「ジャイロOFF」"
+        "example": "「ジャイロOFF」",
+        "key_points": [
+            "ジャイロセンサーを利用した操作方法",
+            "Switchのスプラトゥーンなどで一般的になった",
+            "手首の動きで直感的に狙えるが、慣れが必要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設定",
+                "description": "「ジャイロ操作に酔うからOFFにする」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -217,7 +442,18 @@
         "slug": "skin",
         "body": "<h3>外見</h3><p>キャラや武器の見た目を変えるアイテム。性能は変わらないことが多い。</p>",
         "short_description": "<h3>見た目変更アイテム。</h3>",
-        "example": "「限定スキン」"
+        "example": "「限定スキン」",
+        "key_points": [
+            "キャラクターや武器の外見（Skin＝肌）を変更するアイテム",
+            "強さには影響しない「見た目装備」であることが多い",
+            "基本無料ゲームの主な収益源"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "課金",
+                "description": "「推しキャラの新スキンが出たから即買いした」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -228,7 +464,18 @@
         "slug": "stack",
         "body": "<h3>詰まる、挟まる</h3><p>地形などに挟まって動けなくなること。バグの一種。</p>",
         "short_description": "<h3>動けなくなるバグ。</h3>",
-        "example": "「岩にスタックした」"
+        "example": "「岩にスタックした」",
+        "key_points": [
+            "キャラクターが地形の隙間などにハマって動けなくなること",
+            "FPSやオープンワールドでよく起きる",
+            "「詰んだ」状態"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "バグ",
+                "description": "「車が溝にスタックして脱出できない」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -239,7 +486,18 @@
         "slug": "slip-damage",
         "body": "<h3>継続ダメージ</h3><p>毒や火傷のように、時間経過で徐々に減るダメージ。「DoT」とも。</p>",
         "short_description": "<h3>徐々に減るダメージ。</h3>",
-        "example": "「毒のスリップダメージ」"
+        "example": "「毒のスリップダメージ」",
+        "key_points": [
+            "時間経過とともに徐々にHPが減っていくダメージのこと",
+            "毒、火傷、出血などの状態異常で発生する",
+            "DoT（Damage over Time）とも呼ばれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦闘",
+                "description": "「あと少しで倒せたのにスリップダメージで死んだ」と悔しがる時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -250,7 +508,18 @@
         "slug": "zen-ichi",
         "body": "<h3>全国一位</h3><p>全国ランキング一位のプレイヤー。</p>",
         "short_description": "<h3>全国一位。</h3>",
-        "example": "「全一プレイヤー」"
+        "example": "「全一プレイヤー」",
+        "key_points": [
+            "全日本一位の略",
+            "ハイスコアやタイムアタックでトップに立つこと",
+            "「元全一（昔一位だった）」という肩書きも強い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "称賛",
+                "description": "「このキャラの使い手としては彼が全一だ」と紹介される時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -261,7 +530,18 @@
         "slug": "taikyu",
         "body": "<h3>長時間続けること</h3><p>クリアするまで終わらない配信など。「耐久配信」。</p>",
         "short_description": "<h3>長時間やり続ける。</h3>",
-        "example": "「24時間耐久」"
+        "example": "「24時間耐久」",
+        "key_points": [
+            "特定の目的を達成するまで、長時間ぶっ続けでプレイすること",
+            "「クリアするまで寝ません」という企画配信などで使われる",
+            "視聴者側も寝不足になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "配信",
+                "description": "「金金ダイヤ（最高ランク）行くまで耐久」を始める時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -272,7 +552,18 @@
         "slug": "daiko",
         "body": "<h3>代理プレイ</h3><p>お金を払って上手い人にプレイしてもらい、ランクを上げること。不正行為。</p>",
         "short_description": "<h3>代理プレイ（不正）。</h3>",
-        "example": "「代行業者」"
+        "example": "「代行業者」",
+        "key_points": [
+            "自分以外のプレイヤーにアカウントを操作してもらい、ランクなどを上げてもらう行為",
+            "ほとんどのオンラインゲームで規約違反（垢BAN対象）",
+            "実力が伴わない高ランク帯に行くことになるため、周りの迷惑にもなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "警告",
+                "description": "「代行業者を利用したことでアカウントが停止された」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -283,7 +574,18 @@
         "slug": "tage",
         "body": "<h3>ターゲット</h3><p>敵の攻撃対象。「タゲを取る（敵の注意を引きつける）」。</p>",
         "short_description": "<h3>標的。</h3>",
-        "example": "「タゲが移った」"
+        "example": "「タゲが移った」",
+        "key_points": [
+            "Target（標的）の略",
+            "敵モンスターが攻撃しようとしている対象のこと",
+            "タンク（盾役）がタゲを取り、アタッカーが攻撃するのが基本"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "MMO",
+                "description": "「ヒーラーにタゲが跳ねた（向いた）から取り返して！」と焦る時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -294,7 +596,18 @@
         "slug": "cheater",
         "body": "<h3>不正ツール使用者</h3><p>Cheat(ズル)をする人。無敵になったり壁を透視したりする。</p>",
         "short_description": "<h3>不正行為者。</h3>",
-        "example": "「チーターに遭遇」"
+        "example": "「チーターに遭遇」",
+        "key_points": [
+            "Cheat（ズル）をする人",
+            "不正ツールを使って、オートエイム（自動標準）やウォールハック（壁透視）を行う",
+            "ゲーム環境を破壊する害悪プレイヤー"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "FPS",
+                "description": "「ありえない角度から撃たれた、絶対チーターだ」と通報する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -305,7 +618,18 @@
         "slug": "tsumige",
         "body": "<h3>未プレイのゲーム</h3><p>買ってあるけれど、まだ遊んでいないゲームが積まれている状態。</p>",
         "short_description": "<h3>買ったけどやってない。</h3>",
-        "example": "「積みゲーを消化する」"
+        "example": "「積みゲーを消化する」",
+        "key_points": [
+            "買って満足してしまい、プレイせずに積んであるゲームソフト",
+            "Steamのセールなどで安く大量に買うと発生しやすい",
+            "「積むこと」自体が趣味になっている人もいる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "セール",
+                "description": "「年末年始で積みゲーを崩す（プレイして減らす）予定だったのに増えた」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -316,7 +640,18 @@
         "slug": "death-penalty",
         "body": "<h3>死亡ペナルティ</h3><p>キャラが死んだ時に失う経験値やアイテムなどの罰則。</p>",
         "short_description": "<h3>死んだ時の罰。</h3>",
-        "example": "「デスペナが重い」"
+        "example": "「デスペナが重い」",
+        "key_points": [
+            "Death Penalty（死の罰則）",
+            "ゲームオーバーや死亡時に、経験値が減ったり所持金を落としたりすること",
+            "最近のゲームはデスペナが軽い傾向にあるが、死にゲーなどでは重い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "MMO",
+                "description": "「デスペナでレベルが下がって泣きそう」な時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -327,7 +662,18 @@
         "slug": "troll",
         "body": "<h3>荒らし、利敵行為</h3><p>わざと負けるような行動をして味方を妨害する人。</p>",
         "short_description": "<h3>荒らし、迷惑行為。</h3>",
-        "example": "「味方にトロールがいる」"
+        "example": "「味方にトロールがいる」",
+        "key_points": [
+            "北欧神話の怪物（Troll）が由来",
+            "味方の邪魔をしたり、わざと死んだりする迷惑プレイヤー",
+            "ネットスラングの「釣り（Trolling）」から来ているとも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "愚痴",
+                "description": "「トロールのせいでランクが落ちた」と激怒する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -338,7 +684,18 @@
         "slug": "nora-2",
         "body": "<h3>一人で参加</h3><p>フレンドではなく、知らない人とマッチングして遊ぶこと。</p>",
         "short_description": "<h3>知らない人と遊ぶ。</h3>",
-        "example": "「野良ランク」"
+        "example": "「野良ランク」",
+        "key_points": [
+            "飼い主のいない野良猫のように、固定パーティを組まずに一人で参加すること",
+            "「野良連合（即席チーム）」とも言う",
+            "連携が取りにくいので難易度が高い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "チーム戦",
+                "description": "「野良ガチャ（味方が強いかどうかは運次第）に失敗した」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -349,7 +706,18 @@
         "slug": "battle-royale",
         "body": "<h3>バトルロイヤル</h3><p>最後の一人（または一チーム）になるまで戦うサバイバルゲーム形式。</p>",
         "short_description": "<h3>生き残りゲーム。</h3>",
-        "example": "「バトロワ系FPS」"
+        "example": "「バトロワ系FPS」",
+        "key_points": [
+            "Battle Royale（プロレスの他人数戦）",
+            "映画「バトル・ロワイアル」が語源と言われる",
+            "Apex、Fortnite、PUBGなど、近年の主流ジャンル"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「バトロワでチャンピオン（1位）を取った時の快感は異常」と語る時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -360,7 +728,18 @@
         "slug": "jinken",
         "body": "<h3>必須級の強さ</h3><p>そのキャラやアイテムを持っていないと話にならない（人権がない）レベルで強いもの。</p>",
         "short_description": "<h3>必須級の強キャラ。</h3>",
-        "example": "「人権キャラ」"
+        "example": "「人権キャラ」",
+        "key_points": [
+            "最低限の生活を営む権利（人権）になぞらえて、これがないとゲームをプレイする土俵にすら立てないという意味",
+            "「〇〇難民（人権キャラを持っていない人）」が生まれる",
+            "言葉が強いため、ゲーム外で使うと問題になることも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ガチャ",
+                "description": "「今度の新キャラは人権だから絶対に引け」とアドバイスされる時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -371,7 +750,18 @@
         "slug": "physical",
         "body": "<h3>操作精度</h3><p>エイム力や反射神経など、プレイヤー自身の基礎能力。</p>",
         "short_description": "<h3>基礎操作能力。</h3>",
-        "example": "「フィジカルで勝つ」"
+        "example": "「フィジカルで勝つ」",
+        "key_points": [
+            "戦術や知識ではなく、純粋な操作技術や反射神経のこと",
+            "「撃ち合いの強さ」を指すことが多い",
+            "「フィジカル ゴリ押し」で勝つと気持ちいい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "FPS",
+                "description": "「立ち回りはガバガバだがフィジカルだけでダイヤまで行った」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -382,7 +772,18 @@
         "slug": "boost",
         "body": "<h3>加速、強化</h3><p>一時的に速度や能力を上げること。</p>",
         "short_description": "<h3>加速、強化。</h3>",
-        "example": "「ブーストをかける」"
+        "example": "「ブーストをかける」",
+        "key_points": [
+            "Boost（押し上げる）",
+            "スピードアップや、経験値獲得量アップなどの効果",
+            "「ブースティング（不正なランク上げ）」とは違うので注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "レース",
+                "description": "「直線でブーストを使って逆転勝利する」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -393,7 +794,18 @@
         "slug": "frame-rate",
         "body": "<h3>fps</h3><p>1秒間に表示される画像の枚数。数値が高いほど映像がヌルヌル動く。「60fps」など。</p>",
         "short_description": "<h3>映像の滑らかさ。</h3>",
-        "example": "「フレームレートが出ない」"
+        "example": "「フレームレートが出ない」",
+        "key_points": [
+            "fps（Frames Per Second）",
+            "パラパラ漫画の枚数のようなもの。多いほど滑らかに見える",
+            "FPSなどの対人ゲームでは、フレームレートが高いほど有利とされる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "PC",
+                "description": "「ゲーミングPCを買って144fpsの世界を体験する」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -404,7 +816,18 @@
         "slug": "hate",
         "body": "<h3>敵対心</h3><p>敵から狙われる度合い。「ヘイトを買う（敵に狙われる）」。</p>",
         "short_description": "<h3>敵に狙われる度合い。</h3>",
-        "example": "「タンクがヘイトを集める」"
+        "example": "「タンクがヘイトを集める」",
+        "key_points": [
+            "Hate（憎しみ）",
+            "敵モンスターからの「敵対心」や「注目度」のこと",
+            "「ヘイト管理」がMMOなどで重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「余計なことを言って世間のヘイトを買う（批判される）」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -415,7 +838,18 @@
         "slug": "voice-chat",
         "body": "<h3>音声通話</h3><p>Voice Chat。「VC」とも。マイクを使って会話しながらゲームすること。</p>",
         "short_description": "<h3>音声通話。</h3>",
-        "example": "「ボイチャON」"
+        "example": "「ボイチャON」",
+        "key_points": [
+            "Voice Chatの略。VCとも言う",
+            "Discordなどを使って通話しながらプレイすること",
+            "連携が取りやすい反面、暴言などのトラブルも起きやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "募集",
+                "description": "「VCありで楽しくやれる方募集」と書く時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -426,7 +860,18 @@
         "slug": "macro",
         "body": "<h3>自動操作ツール</h3><p>操作を自動化するプログラム。ゲームによっては規約違反になる。</p>",
         "short_description": "<h3>自動操作。</h3>",
-        "example": "「マクロ放置」"
+        "example": "「マクロ放置」",
+        "key_points": [
+            "一連の操作を自動化する機能やツールのこと",
+            "単純作業（レベル上げなど）を自動化するために使われる",
+            "ハードウェアマクロ（マウスの機能など）は検知されにくいが、BAN対象になることも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "MMO",
+                "description": "「寝ている間にマクロで素材を集める（不正）」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -437,7 +882,18 @@
         "slug": "manner-koushi",
         "body": "<h3>口うるさい人</h3><p>ゲーム内の暗黙のルールを押し付けてくる人を皮肉った呼び方。</p>",
         "short_description": "<h3>ルールを押し付ける人。</h3>",
-        "example": "「マナー講師が現れた」"
+        "example": "「マナー講師が現れた」",
+        "key_points": [
+            "「〇〇を使ってはいけない」「挨拶がない」など、独自のルールやマナーを強要する人",
+            "「自治厨」と似ている",
+            "初心者が萎縮する原因になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「野良なのにマナー講師気取りで指示してくる人がいてうざい」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -448,7 +904,18 @@
         "slug": "musou",
         "body": "<h3>圧倒的活躍</h3><p>敵を一人で次々となぎ倒すこと。「三國無双」が由来。</p>",
         "short_description": "<h3>一人で圧倒する。</h3>",
-        "example": "「大会で無双する」"
+        "example": "「大会で無双する」",
+        "key_points": [
+            "並み居る敵を蹴散らす、圧倒的な強さを見せること",
+            "コーエーテクモゲームスの「無双シリーズ」が語源",
+            "「俺TUEEE（俺強え）」状態"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "武勇伝",
+                "description": "「昨日の試合は調子が良くて無双できた」と語る時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -459,7 +926,18 @@
         "slug": "meta",
         "body": "<h3>流行、最善策</h3><p>現環境で最も強いとされる戦術やキャラ。「メタが変わる」。</p>",
         "short_description": "<h3>流行の戦術。</h3>",
-        "example": "「今のメタ構成」"
+        "example": "「今のメタ構成」",
+        "key_points": [
+            "Metagame（ゲームの盤外戦術）の略",
+            "その時点でのゲーム環境や流行、最強戦術のこと",
+            "アップデートや調整で頻繁に「メタが回る（変わる）」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "考察",
+                "description": "「今のメタは近距離武器が強い環境だ」と分析する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -470,7 +948,18 @@
         "slug": "mob",
         "body": "<h3>その他大勢</h3><p>名前のない背景キャラクター。Mob character。「モブキャラ」。</p>",
         "short_description": "<h3>背景キャラ。</h3>",
-        "example": "「モブ扱い」"
+        "example": "「モブ扱い」",
+        "key_points": [
+            "背景にいる群衆（Mob）などの、名前のないキャラクター",
+            "主役ではない、その他大勢のこと",
+            "敵モンスターのことを「モブ（Mob）」と呼ぶゲームもある（Minecraftなど）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "自虐",
+                "description": "「俺なんてクラスの中ではただのモブだから」と卑下する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -481,7 +970,18 @@
         "slug": "lag",
         "body": "<h3>遅延がある</h3><p>Lag（遅延）。通信状況が悪く、動きがカクカクしたり止まったりすること。</p>",
         "short_description": "<h3>回線が遅い。</h3>",
-        "example": "「ラグくて撃ち負けた」"
+        "example": "「ラグくて撃ち負けた」",
+        "key_points": [
+            "通信遅延（ラグ）が発生している状態",
+            "キャラがワープしたり、弾が当たらなかったりする",
+            "負けた時の言い訳にされがち"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「相手がラグすぎて瞬間移動してる」と文句を言う時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -492,7 +992,18 @@
         "slug": "last-us",
         "body": "<h3>The Last of Us</h3><p>人気サバイバルホラーゲームの略称。</p>",
         "short_description": "<h3>人気ゲームの略。</h3>",
-        "example": "「ラスアスのドラマ」"
+        "example": "「ラスアスのドラマ」",
+        "key_points": [
+            "PlayStationの名作ゲーム「The Last of Us」の略",
+            "菌類によるパンデミック後の世界を描いた重厚なストーリーが人気",
+            "ドラマ化もされて話題になった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "おすすめ",
+                "description": "「ストーリー重視ならラスアスはやっとけ」と勧める時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -503,7 +1014,18 @@
         "slug": "real",
         "body": "<h3>現実世界</h3><p>ゲームやネットではない、現実の生活。「リアルが忙しい（リア忙）」。</p>",
         "short_description": "<h3>現実世界。</h3>",
-        "example": "「リアル優先」"
+        "example": "「リアル優先」",
+        "key_points": [
+            "Real（現実）",
+            "ネット上の活動に対して、実社会での生活のこと（RL: Real Life）",
+            "「リアルで会う（オフ会）」など"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "引退",
+                "description": "「リアルが忙しくなったので引退します」と宣言する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -514,7 +1036,18 @@
         "slug": "respawn",
         "body": "<h3>復活</h3><p>死んだ後に再出現すること。「リスポ」と略す。「リスポ地点」。</p>",
         "short_description": "<h3>再出現。</h3>",
-        "example": "「リスポーン待ち」"
+        "example": "「リスポーン待ち」",
+        "key_points": [
+            "Spawn（卵を産む、発生する）にRe（再び）がついた言葉",
+            "倒されたプレイヤーや敵が、特定の場所から復活すること",
+            "敵の出現位置で待ち伏せして倒し続けるのを「リスポ狩り」と言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "FPS",
+                "description": "「リスポーン地点が悪くて敵の目の前に出ちゃった」時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -525,7 +1058,18 @@
         "slug": "raid",
         "body": "<h3>大規模戦闘</h3><p>多数のプレイヤーで協力して、強力なボスを倒すイベント。</p>",
         "short_description": "<h3>大人数ボス戦。</h3>",
-        "example": "「レイドボス」"
+        "example": "「レイドボス」",
+        "key_points": [
+            "Raid（襲撃）",
+            "通常のパーティ（4〜6人）よりも多い人数で挑む大規模コンテンツ",
+            "ポケモンGOの「レイドバトル」で一般層にも浸透した"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "MMO",
+                "description": "「今夜のレイドに参加できる人いますか？」と募集する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -536,7 +1080,18 @@
         "slug": "rom",
         "body": "<h3>読むだけ</h3><p>ROM(Read Only Memory)。発言せずにチャットを読むだけにすること。</p>",
         "short_description": "<h3>見る専。</h3>",
-        "example": "「半年ROMれ」"
+        "example": "「半年ROMれ」",
+        "key_points": [
+            "Read Only Memory（読み出し専用メモリ）",
+            "掲示板やチャットで、書き込みをせずに読むだけの状態",
+            "「半年ROMれ（空気が読めない新人は半年間書き込むな）」というネットスラングがある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "チャット",
+                "description": "「ご飯食べるんでロムります」と離席する時"
+            }
+        ]
     },
     {
         "category_slug": "gaming",
@@ -547,6 +1102,21 @@
         "slug": "one-chan",
         "body": "<h3>可能性あり</h3><p>One Chance。もしかしたら勝てるかもしれない、という意味。「ワンチャンあるで」。</p>",
         "short_description": "<h3>可能性がある。</h3>",
-        "example": "「ワンチャンいける」"
+        "example": "「ワンチャンいける」",
+        "key_points": [
+            "One Chance（一度のチャンス）",
+            "「可能性は低いが、ゼロではない」「もしかしたら」というニュアンス",
+            "若者言葉として日常会話でも広く使われるようになった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "劣勢",
+                "description": "「まだ負けてない、ここからワンチャンあるぞ！」と鼓舞する時"
+            },
+            {
+                "title": "日常",
+                "description": "「この服、ワンチャン明日着ていけるかな」と悩む時"
+            }
+        ]
     }
 ]

@@ -8,7 +8,18 @@
         "slug": "informed-consent",
         "body": "<h3>インフォームド・コンセント</h3><p>説明と同意。医師が病状や治療法を説明し、患者が納得して同意すること。</p>",
         "short_description": "<h3>説明と同意。</h3>",
-        "example": "「ICを行う」"
+        "example": "「ICを行う」",
+        "key_points": [
+            "Informed Consent（十分な説明に基づく同意）",
+            "医師の一方的な治療ではなく、患者が理解・納得して選択することが重要",
+            "「ムンテラ（病状説明）」とほぼ同義で使われることも多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "手術前",
+                "description": "「家族を呼んで手術のICを行う」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -19,7 +30,18 @@
         "slug": "qol",
         "body": "<h3>生活の質</h3><p>Quality of Life。治療だけでなく、患者が人間らしく生活できているかどうかの指標。</p>",
         "short_description": "<h3>生活の質。</h3>",
-        "example": "「QOLの向上」"
+        "example": "「QOLの向上」",
+        "key_points": [
+            "Quality of Life（生活の質）",
+            "単に病気を治すだけでなく、患者の人生の豊かさや満足度を重視する考え方",
+            "「延命治療よりもQOLを優先したい」といった文脈で使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "治療方針",
+                "description": "「副作用が辛すぎてQOLが下がっている」と相談する時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -30,7 +52,18 @@
         "slug": "anamnesis",
         "body": "<h3>問診、既往歴</h3><p>Anamnesis。患者の病歴や現在の症状を聞き取ること。「アナムネを取る」。</p>",
         "short_description": "<h3>問診。</h3>",
-        "example": "「丁寧なアナムネ」"
+        "example": "「丁寧なアナムネ」",
+        "key_points": [
+            "Anamnesis（既往歴）",
+            "看護師や医師が入院時などに患者から聞き取りを行うこと",
+            "「アナムネ聴取」とも言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "入院",
+                "description": "「新人ナースが緊張しながらアナムネを取る」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -41,7 +74,18 @@
         "slug": "evidence-med",
         "body": "<h3>科学的根拠</h3><p>その治療法が効くという証拠。「エビデンスレベルが高い」。</p>",
         "short_description": "<h3>治療の根拠。</h3>",
-        "example": "「エビデンスがない治療」"
+        "example": "「エビデンスがない治療」",
+        "key_points": [
+            "Evidence（証拠）",
+            "医療行為は経験や勘ではなく、科学的根拠（臨床試験の結果など）に基づいて行われるべきという考え方（EBM）",
+            "ネットの健康情報はエビデンスが乏しいものも多いので注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "議論",
+                "description": "「その民間療法にエビデンスはあるんですか？」と問い詰める時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -52,7 +96,18 @@
         "slug": "operation",
         "body": "<h3>手術</h3><p>Operation。「オペ室」「オペ出し」。</p>",
         "short_description": "<h3>手術。</h3>",
-        "example": "「緊急オペ」"
+        "example": "「緊急オペ」",
+        "key_points": [
+            "Operation（手術）",
+            "ドイツ語読みで「オペラツィオン」から来ているという説も",
+            "「カイザー（帝王切開）」「アッペ（盲腸）」など略語が多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "現場",
+                "description": "「オペ室ナースが器械出しをする」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -63,7 +118,18 @@
         "slug": "karte",
         "body": "<h3>診療録</h3><p>患者の診療記録。ドイツ語由来。今は「電カル（電子カルテ）」が主流。</p>",
         "short_description": "<h3>診療記録。</h3>",
-        "example": "「カルテ開示」"
+        "example": "「カルテ開示」",
+        "key_points": [
+            "医師法で保存が義務付けられている診療記録",
+            "昔は手書き（ドイツ語混じり）で読めないことが多かったが、今は電子カルテが普及して読みやすくなった",
+            "患者にはカルテ開示請求権がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "事務",
+                "description": "「電カルがシステムダウンしてパニックになる」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -74,7 +140,18 @@
         "slug": "comedical",
         "body": "<h3>医療従事者</h3><p>医師以外の医療スタッフ（看護師、薬剤師、放射線技師など）。</p>",
         "short_description": "<h3>医療スタッフ。</h3>",
-        "example": "「チーム医療」"
+        "example": "「チーム医療」",
+        "key_points": [
+            "看護師、薬剤師、放射線技師、検査技師、理学療法士などの総称",
+            "最近は「メディカルスタッフ」と呼ぶことも多い",
+            "医師中心の医療から、多職種連携（チーム医療）への転換が進んでいる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "連携",
+                "description": "「医師とコメディカルがカンファレンスで意見交換する」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -85,7 +162,18 @@
         "slug": "summary-med",
         "body": "<h3>要約</h3><p>退院時などに書く、病状経過のまとめ。「退院サマリー」。</p>",
         "short_description": "<h3>経過のまとめ。</h3>",
-        "example": "「サマリーを書く」"
+        "example": "「サマリーを書く」",
+        "key_points": [
+            "病歴要約のこと",
+            "入院から退院までの経過、検査結果、治療内容などをまとめた書類",
+            "転院する際などに次の病院への申し送りとして重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "事務",
+                "description": "「退院サマリーがまだ書かれていない」と事務員が医師を急かす時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -96,7 +184,18 @@
         "slug": "sterben",
         "body": "<h3>死亡する</h3><p>ドイツ語のSterben（死ぬ）から。隠語として使われるが、最近はあまり使わない。</p>",
         "short_description": "<h3>亡くなる（隠語）。</h3>",
-        "example": "「患者さんがステった」"
+        "example": "「患者さんがステった」",
+        "key_points": [
+            "ドイツ語のSterben（死ぬ）が由来",
+            "患者や家族の前では絶対に使ってはいけない隠語",
+            "最近は倫理的な観点から使わない傾向にある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "昔話",
+                "description": "「昔の医者は平気で『ステる』とか言ってたよな」と振り返る時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -107,7 +206,18 @@
         "slug": "second-opinion",
         "body": "<h3>第二の意見</h3><p>主治医以外の医師に意見を求めること。</p>",
         "short_description": "<h3>別の医師の意見。</h3>",
-        "example": "「セカンドオピニオン外来」"
+        "example": "「セカンドオピニオン外来」",
+        "key_points": [
+            "納得して治療を受けるために、別の医師の意見を聞くこと",
+            "「主治医を信用していないと思われるのでは」と遠慮する必要はない（正当な権利）",
+            "自費診療になることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "相談",
+                "description": "「手術しか方法がないと言われたが、セカンドオピニオンを聞きたい」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -118,7 +228,18 @@
         "slug": "terminal-care",
         "body": "<h3>終末期</h3><p>死期が迫った状態。「ターミナルケア（終末期医療）」。</p>",
         "short_description": "<h3>終末期。</h3>",
-        "example": "「ターミナルの患者」"
+        "example": "「ターミナルの患者」",
+        "key_points": [
+            "Terminal（終点の、末期の）",
+            "回復の見込みがなく、死が避けられない時期",
+            "延命よりも苦痛の緩和（緩和ケア）を優先する段階"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "看護",
+                "description": "「ターミナルケア病棟で患者の最期に寄り添う」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -129,7 +250,18 @@
         "slug": "vital-signs",
         "body": "<h3>生命兆候</h3><p>Vital signs。脈拍、血圧、体温、呼吸、意識レベルのこと。「バイタルチェック」。</p>",
         "short_description": "<h3>脈や熱など。</h3>",
-        "example": "「バイタル安定」"
+        "example": "「バイタル安定」",
+        "key_points": [
+            "生きている証候（バイタルサイン）",
+            "入院中は一日に何度も看護師さんが測りに来る",
+            "「バイタル測定」と言わずに「熱測りますねー」と言うことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "急変",
+                "description": "「バイタルが下がっている！先生呼んで！」と叫ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -140,7 +272,18 @@
         "slug": "placebo",
         "body": "<h3>偽薬</h3><p>成分の入っていない偽の薬。思い込みで効いてしまうことを「プラシーボ効果」と言う。</p>",
         "short_description": "<h3>偽薬効果。</h3>",
-        "example": "「プラシーボ対照試験」"
+        "example": "「プラシーボ対照試験」",
+        "key_points": [
+            "薬効成分を含まない偽薬（砂糖玉など）",
+            "「薬だ」と信じて飲むと、思い込みで症状が改善することがある（プラシーボ効果）",
+            "新薬の治験では、本当に効果があるか確かめるためにプラシーボと比較する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "実験",
+                "description": "「これはプラシーボだから効かないはずなんだけど…」と不思議がる時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -151,7 +294,18 @@
         "slug": "mund-therapie",
         "body": "<h3>病状説明</h3><p>口（Mund）での治療（Therapie）。医師が患者や家族に病状を説明すること。</p>",
         "short_description": "<h3>病状説明。</h3>",
-        "example": "「家族へのムンテラ」"
+        "example": "「家族へのムンテラ」",
+        "key_points": [
+            "ドイツ語由来の医療用語",
+            "今は「IC（インフォームド・コンセント）」や単に「病状説明」と言うことが多い",
+            "言葉による精神的なケアという意味合いも含まれていた"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "研修医",
+                "description": "「初めてのムンテラで緊張して上手く話せない」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -162,7 +316,18 @@
         "slug": "receipt",
         "body": "<h3>診療報酬明細書</h3><p>病院が保険組合にお金を請求するための明細書。「医療事務」の主な仕事。</p>",
         "short_description": "<h3>請求明細書。</h3>",
-        "example": "「レセプト点検」"
+        "example": "「レセプト点検」",
+        "key_points": [
+            "医療費の請求書のこと",
+            "毎月10日までに保険支払基金に提出しなければならない（レセプト請求）",
+            "記載ミスがあると返戻（へんれい）されてお金が入ってこない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "医療事務",
+                "description": "「月末月初はレセプト業務で残業続きだ」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -173,7 +338,18 @@
         "slug": "chief-complaint",
         "body": "<h3>主な症状</h3><p>患者が一番訴えている症状。「主訴：腹痛」。</p>",
         "short_description": "<h3>一番辛い症状。</h3>",
-        "example": "「主訴を確認」"
+        "example": "「主訴を確認」",
+        "key_points": [
+            "患者が受診した一番の理由",
+            "カルテの最初に書かれる（CC: Chief Complaint）",
+            "「なんとなく調子が悪い（不定愁訴）」は診断が難しい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "問診",
+                "description": "「主訴は頭痛だが、話を聞くと職場のストレスが原因っぽい」と推測する時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -184,7 +360,18 @@
         "slug": "shinjun",
         "body": "<h3>広がる</h3><p>がん細胞などが周囲の組織に入り込んで広がること。</p>",
         "short_description": "<h3>病気が広がる。</h3>",
-        "example": "「周囲への浸潤」"
+        "example": "「周囲への浸潤」",
+        "key_points": [
+            "がん細胞が周囲の組織を破壊しながら広がっていくこと",
+            "「転移」は離れた場所に飛ぶことだが、「浸潤」は染み出すように広がるイメージ",
+            "浸潤がんか非浸潤がんかで予後が変わる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "説明",
+                "description": "「がんは浸潤していますが、手術で取りきれます」と説明を受ける時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -195,7 +382,18 @@
         "slug": "biopsy",
         "body": "<h3>組織検査</h3><p>体の一部を切り取って顕微鏡で調べる検査。「バイオプシー」。</p>",
         "short_description": "<h3>細胞検査。</h3>",
-        "example": "「生検の結果」"
+        "example": "「生検の結果」",
+        "key_points": [
+            "病変の一部を採取して、良性か悪性（がん）かを確定診断する検査",
+            "「針生検（針を刺して採る）」や「内視鏡生検」などがある",
+            "結果が出るまで1〜2週間かかることが多く、患者にとっては不安な期間"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "検査",
+                "description": "「生検の結果、悪性ではありませんでした」と聞いて安堵する時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -206,7 +404,18 @@
         "slug": "symptomatic-treatment",
         "body": "<h3>症状緩和</h3><p>原因を治すのではなく、痛みや熱などの症状を和らげる治療。風邪薬など。</p>",
         "short_description": "<h3>症状を抑える治療。</h3>",
-        "example": "「対症療法しかない」"
+        "example": "「対症療法しかない」",
+        "key_points": [
+            "根本的な原因を取り除く「原因療法」に対し、症状を和らげる治療",
+            "風邪（ウイルスを殺す薬はない）の治療は基本的に対症療法",
+            "「その場しのぎ」という悪い意味で使われることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「その対応は対症療法に過ぎない（根本解決になっていない）」と批判する時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -217,7 +426,18 @@
         "slug": "night-duty",
         "body": "<h3>夜勤</h3><p>夜間の勤務。医師の当直は過酷で、寝られないことも多い。「寝当直（寝れる当直）」はレア。</p>",
         "short_description": "<h3>夜勤。</h3>",
-        "example": "「当直明け」"
+        "example": "「当直明け」",
+        "key_points": [
+            "病院に宿泊して夜間の救急対応や病棟管理を行う業務",
+            "「当直明け」でもそのまま日勤が続くことがあり、医師の過労死ライン越えの要因",
+            "バイト医が当直に来ることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "勤務",
+                "description": "「当直明けのハイテンションで乗り切る」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -228,7 +448,18 @@
         "slug": "naihuku",
         "body": "<h3>飲み薬</h3><p>薬を飲むこと。「内服薬」。</p>",
         "short_description": "<h3>飲む薬。</h3>",
-        "example": "「内服管理」"
+        "example": "「内服管理」",
+        "key_points": [
+            "薬を口から飲むこと",
+            "「頓服（とんぷく）」は症状が出た時だけ飲む薬",
+            "「外用（塗り薬など）」の対義語"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "指導",
+                "description": "「内服コンプライアンス（ちゃんと薬を飲んでいるか）を確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -239,7 +470,18 @@
         "slug": "prognosis",
         "body": "<h3>見通し</h3><p>病気の回復の見込み。「予後が良い（治りやすい）」「予後不良（治りにくい）」。</p>",
         "short_description": "<h3>回復の見込み。</h3>",
-        "example": "「予後は良好」"
+        "example": "「予後は良好」",
+        "key_points": [
+            "今後の病状の見通し",
+            "「予後不良」は死に至る可能性が高いことや、後遺症が残ることを意味する",
+            "医師が慎重に言葉を選ぶ場面"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "説明",
+                "description": "「早期発見できたので予後は良好です」と言われて安心する時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -250,7 +492,18 @@
         "slug": "rehabilitation",
         "body": "<h3>機能回復訓練</h3><p>Rehabilitation。怪我や病気で低下した機能を回復させる訓練。</p>",
         "short_description": "<h3>回復訓練。</h3>",
-        "example": "「リハビリテーション」"
+        "example": "「リハビリテーション」",
+        "key_points": [
+            "Rehabilitation（再び適した状態にする）",
+            "単なる筋トレではなく、社会復帰のための訓練全般を指す",
+            "「リハビリパンツ（紙おむつ）」などの商品名にも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "怪我",
+                "description": "「骨接後のリハビリが痛すぎて泣きそう」な時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -261,7 +514,18 @@
         "slug": "clinical",
         "body": "<h3>現場</h3><p>実際に患者を診る医療現場のこと。「臨床医（現場の医師）」。対義語は「基礎（研究）」。</p>",
         "short_description": "<h3>医療現場。</h3>",
-        "example": "「臨床経験」"
+        "example": "「臨床経験」",
+        "key_points": [
+            "患者のベッドサイド（床）に臨むこと",
+            "研究室で実験する「基礎医学」に対し、現場で患者を診るのが「臨床医学」",
+            "「臨床心理士」などの資格名にもつく"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "キャリア",
+                "description": "「臨床を離れて研究の道に進む」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -272,7 +536,18 @@
         "slug": "adl",
         "body": "<h3>日常生活動作</h3><p>Activities of Daily Living。食事、入浴、排泄など、生活に必要な動作ができるか。</p>",
         "short_description": "<h3>生活動作能力。</h3>",
-        "example": "「ADLが低下」"
+        "example": "「ADLが低下」",
+        "key_points": [
+            "日常生活を送るために必要な基本的な動作",
+            "「自立」「一部介助」「全介助」などで評価される",
+            "介護認定の基準になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "介護",
+                "description": "「ADLを維持するために、できることは自分でやってもらう」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -283,7 +558,18 @@
         "slug": "aed",
         "body": "<h3>自動体外式除細動器</h3><p>心停止した人に電気ショックを与えて蘇生させる機器。一般人も使える。</p>",
         "short_description": "<h3>電気ショック救命器。</h3>",
-        "example": "「AEDを探す」"
+        "example": "「AEDを探す」",
+        "key_points": [
+            "Automated External Defibrillator",
+            "心臓がけいれん（心室細動）している時に電気ショックを与えて正常なリズムに戻す機械",
+            "音声ガイドに従えば誰でも使える（開けるとスイッチが入る）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "緊急",
+                "description": "「人が倒れた！AED持ってきて！」と叫ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -294,7 +580,18 @@
         "slug": "covid-19",
         "body": "<h3>新型コロナウイルス感染症</h3><p>2019年に発生した新型ウイルス。世界的なパンデミックを引き起こした。</p>",
         "short_description": "<h3>新型コロナ。</h3>",
-        "example": "「COVIDの対応」"
+        "example": "「COVIDの対応」",
+        "key_points": [
+            "Corona Virus Disease 2019",
+            "2020年から世界を一変させた感染症",
+            "「コロナ鍋（禍）」という誤変換が流行った"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "日常",
+                "description": "「COVIDの影響でリモートワークが普及した」と振り返る時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -305,7 +602,18 @@
         "slug": "ct",
         "body": "<h3>断層撮影</h3><p>X線を使って体の断面を撮影する検査。</p>",
         "short_description": "<h3>X線断面撮影。</h3>",
-        "example": "「CTスキャン」"
+        "example": "「CTスキャン」",
+        "key_points": [
+            "Computed Tomography（コンピュータ断層撮影）",
+            "X線を使うため被曝があるが、短時間で全身を撮影できる",
+            "ドーナツ型の機械に入る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "救急",
+                "description": "「頭を打ったので念のためCTを撮る」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -316,7 +624,18 @@
         "slug": "mri",
         "body": "<h3>磁気共鳴画像法</h3><p>磁力を使って体の断面を撮影する検査。被曝しないが時間がかかる。工事の音みたいな音がする。</p>",
         "short_description": "<h3>磁力断面撮影。</h3>",
-        "example": "「脳のMRI」"
+        "example": "「脳のMRI」",
+        "key_points": [
+            "Magnetic Resonance Imaging",
+            "強力な磁石を使うため、金属を持ち込むと吹っ飛んで危険",
+            "検査中は「ガンガンガン！」というすごい音がする"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "検査",
+                "description": "「閉所恐怖症だからMRIは勘弁してほしい」と訴える時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -327,7 +646,18 @@
         "slug": "icu",
         "body": "<h3>集中治療室</h3><p>Intensive Care Unit。重症患者を24時間体制で管理する部屋。</p>",
         "short_description": "<h3>集中治療室。</h3>",
-        "example": "「ICUに入る」"
+        "example": "「ICUに入る」",
+        "key_points": [
+            "生命の危機にある患者を管理する特別な病棟",
+            "面会制限が厳しく、家族も自由に入れないことが多い",
+            "「HCU（高度治療室）」や「NICU（新生児集中治療室）」などもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "手術後",
+                "description": "「大手術だったので今日はICUに入ります」と説明される時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -338,7 +668,18 @@
         "slug": "generic",
         "body": "<h3>後発医薬品</h3><p>特許が切れた後に作られる、同じ成分で安い薬。</p>",
         "short_description": "<h3>安い後発薬。</h3>",
-        "example": "「ジェネリック希望」"
+        "example": "「ジェネリック希望」",
+        "key_points": [
+            "新薬（先発品）の特許切れ後に販売される、同じ成分の薬",
+            "開発費がかからない分、価格が安い",
+            "「オーソライズド・ジェネリック（AG）」は先発品と同じ工場・添加物で作られる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "薬局",
+                "description": "「お薬代安くしたいのでジェネリックでお願いします」と言う時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -349,7 +690,18 @@
         "slug": "screening-med",
         "body": "<h3>ふるい分け</h3><p>病気の疑いがある人を見つけ出すための検査。「スクリーニング検査」。</p>",
         "short_description": "<h3>選別検査。</h3>",
-        "example": "「発熱者をスクリーニング」"
+        "example": "「発熱者をスクリーニング」",
+        "key_points": [
+            "多数の人の中から、特定の病気の可能性がある人を選び出すこと",
+            "健康診断や、空港での検疫などで行われる",
+            "映画の上映（Screening）とは意味が違う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "検診",
+                "description": "「がん検診でスクリーニングを行う」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -360,7 +712,18 @@
         "slug": "triage",
         "body": "<h3>治療選別</h3><p>災害時などに、治療の優先順位を決めること。黒（死亡）、赤（重体）、黄、緑のタグをつける。</p>",
         "short_description": "<h3>命の優先順位。</h3>",
-        "example": "「トリアージタグ」"
+        "example": "「トリアージタグ」",
+        "key_points": [
+            "フランス語で「選別」の意味",
+            "助かる見込みのある人を優先して救うための非情だが合理的な判断",
+            "黒タグ（死亡または救命不可能）を付ける医師の精神的負担は大きい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "災害派遣",
+                "description": "「DMAT（災害派遣医療チーム）が現場でトリアージを行う」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -371,7 +734,18 @@
         "slug": "guideline-med",
         "body": "<h3>診療指針</h3><p>学会などが定めた、標準的な治療の指針。</p>",
         "short_description": "<h3>治療の指針。</h3>",
-        "example": "「ガイドライン推奨」"
+        "example": "「ガイドライン推奨」",
+        "key_points": [
+            "「この病気にはこう治療するのが標準的」と示された手引き",
+            "医師の個人的な経験ではなく、ガイドラインに沿った標準治療が推奨される",
+            "数年ごとに改訂される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "勉強会",
+                "description": "「最新のガイドラインをチェックする」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -382,7 +756,18 @@
         "slug": "cluster",
         "body": "<h3>集団感染</h3><p>狭い範囲で感染者が多数発生すること。</p>",
         "short_description": "<h3>集団感染。</h3>",
-        "example": "「クラスター発生」"
+        "example": "「クラスター発生」",
+        "key_points": [
+            "葡萄の房（cluster）のように感染者が集まって発生すること",
+            "「3密（密閉・密集・密接）」の場所で起きやすい",
+            "クラスター対策班が追跡調査を行う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「ライブハウスでクラスターが発生した」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -393,7 +778,18 @@
         "slug": "pandemic",
         "body": "<h3>世界的流行</h3><p>感染症が世界規模で大流行すること。</p>",
         "short_description": "<h3>世界的大流行。</h3>",
-        "example": "「パンデミック認定」"
+        "example": "「パンデミック認定」",
+        "key_points": [
+            "国境を越えて世界中で感染症が流行すること",
+            "WHO（世界保健機関）が宣言する",
+            "映画やゲームの題材にもなりやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "歴史",
+                "description": "「スペイン風邪は歴史的なパンデミックだった」と学ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -404,7 +800,18 @@
         "slug": "lockdown",
         "body": "<h3>都市封鎖</h3><p>感染拡大を防ぐために都市を封鎖し、外出を禁止すること。</p>",
         "short_description": "<h3>都市封鎖。</h3>",
-        "example": "「ロックダウン解除」"
+        "example": "「ロックダウン解除」",
+        "key_points": [
+            "強制的な都市封鎖",
+            "日本では法律上、欧米のような強制力のあるロックダウンはできないとされる",
+            "「緊急事態宣言」は要請ベース"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "海外",
+                "description": "「海外の友人がロックダウンで家から出られないと言っていた」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -415,7 +822,18 @@
         "slug": "vaccine",
         "body": "<h3>予防接種</h3><p>病原体の毒性を弱めたものを投与し、免疫をつける薬。</p>",
         "short_description": "<h3>予防接種。</h3>",
-        "example": "「ワクチン接種」"
+        "example": "「ワクチン接種」",
+        "key_points": [
+            "あらかじめ免疫をつけることで、感染を防いだり重症化を抑えたりする薬",
+            "mRNAワクチンなど新しい技術も登場した",
+            "副反応（発熱や腕の痛み）が出ることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "予約",
+                "description": "「ワクチン接種の予約が全然取れない」と焦る時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -426,7 +844,18 @@
         "slug": "immunity",
         "body": "<h3>防御システム</h3><p>体に入ってきた病原体と戦う仕組み。「免疫力」。</p>",
         "short_description": "<h3>体の防御力。</h3>",
-        "example": "「免疫獲得」"
+        "example": "「免疫獲得」",
+        "key_points": [
+            "体を病気から守る防御システム",
+            "「自然免疫」と「獲得免疫」がある",
+            "ストレスや寝不足で免疫力が下がると風邪を引きやすくなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "健康",
+                "description": "「R-1を飲んで免疫力を高める」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -437,7 +866,18 @@
         "slug": "antibody",
         "body": "<h3>武器</h3><p>免疫システムが作る、病原体を攻撃するタンパク質。</p>",
         "short_description": "<h3>対ウイルス武器。</h3>",
-        "example": "「抗体ができる」"
+        "example": "「抗体ができる」",
+        "key_points": [
+            "特定の病原体に結合して無力化するタンパク質",
+            "一度かかると抗体ができるため、二度目はかかりにくくなる（はしか等）",
+            "抗原検査（ウイルスがいるか調べる）と抗体検査（過去にかかったか調べる）は別物"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "検査",
+                "description": "「抗体検査で陽性だったから、知らぬ間にかかってたみたい」な時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -448,7 +888,18 @@
         "slug": "prescription",
         "body": "<h3>薬の指示書</h3><p>医師が薬剤師に対して、どの薬を出すか指示した書類。</p>",
         "short_description": "<h3>薬の指示書。</h3>",
-        "example": "「処方箋薬局」"
+        "example": "「処方箋薬局」",
+        "key_points": [
+            "医師が発行する、薬の指示書",
+            "発行日を含めて4日以内に薬局に行かないと無効になる",
+            "「リフィル処方箋」なら繰り返し使える"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "薬局",
+                "description": "「処方箋の期限が切れてしまって再発行してもらう」時（自費になることも）"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -459,7 +910,18 @@
         "slug": "medical-fee",
         "body": "<h3>医療費の公定価格</h3><p>医療行為ごとに国が決めた点数。1点10円。</p>",
         "short_description": "<h3>医療サービスの値段。</h3>",
-        "example": "「診療報酬改定」"
+        "example": "「診療報酬改定」",
+        "key_points": [
+            "医療サービスの公定価格",
+            "1点＝10円で計算される",
+            "2年に1回改定され、医療機関の経営に直結する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「診療報酬が下がって病院経営が厳しい」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -470,7 +932,18 @@
         "slug": "free-medical-care",
         "body": "<h3>全額自己負担</h3><p>保険が効かない治療。美容整形や先進医療など。</p>",
         "short_description": "<h3>保険外診療。</h3>",
-        "example": "「自由診療は高い」"
+        "example": "「自由診療は高い」",
+        "key_points": [
+            "健康保険が使えない、全額自己負担（10割＋税）の治療",
+            "美容外科、インプラント、最新のがん治療など",
+            "値段はクリニックが自由に決められる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "美容",
+                "description": "「二重整形は自由診療だから高い」と知る時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -481,7 +954,18 @@
         "slug": "insurance-medical-care",
         "body": "<h3>保険適用</h3><p>健康保険が使え、3割負担などで済む治療。</p>",
         "short_description": "<h3>保険が効く治療。</h3>",
-        "example": "「保険診療の範囲内」"
+        "example": "「保険診療の範囲内」",
+        "key_points": [
+            "健康保険証を使えば、原則3割負担で受けられる治療",
+            "国民皆保険制度のおかげで、日本では安く高度な医療が受けられる",
+            "混合診療（保険診療と自由診療の併用）は原則禁止"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会計",
+                "description": "「保険証を忘れたので一旦全額（10割）払う」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -492,7 +976,18 @@
         "slug": "home-nursing",
         "body": "<h3>自宅ケア</h3><p>看護師が自宅を訪問してケアを行うこと。</p>",
         "short_description": "<h3>自宅への出張看護。</h3>",
-        "example": "「訪問看護ステーション」"
+        "example": "「訪問看護ステーション」",
+        "key_points": [
+            "看護師が利用者の自宅を訪問し、療養上の世話や診療の補助を行うこと",
+            "高齢化社会で需要が爆増している",
+            "「看取り」を自宅で行う際にも重要な役割を果たす"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "介護",
+                "description": "「週に2回、訪問看護師さんに来てもらって点滴をする」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -503,7 +998,18 @@
         "slug": "family-doctor",
         "body": "<h3>身近な医師</h3><p>普段から健康相談に乗ってくれる近所の診療所。</p>",
         "short_description": "<h3>いつものお医者さん。</h3>",
-        "example": "「かかりつけ医を持つ」"
+        "example": "「かかりつけ医を持つ」",
+        "key_points": [
+            "健康に関することを何でも相談できる、身近な医師（ホームドクター）",
+            "まずはかかりつけ医に行き、必要があれば大病院を紹介してもらうのが基本",
+            "風邪くらいなら大病院の救急外来に行かないこと"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "体調不良",
+                "description": "「熱が出たから、とりあえずいつもの内科（かかりつけ医）に行く」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -514,7 +1020,18 @@
         "slug": "referral-letter",
         "body": "<h3>診療情報提供書</h3><p>大きな病院にかかるときに必要な、かかりつけ医からの手紙。ないと追加料金がかかる。</p>",
         "short_description": "<h3>医師の手紙。</h3>",
-        "example": "「紹介状がないと高い」"
+        "example": "「紹介状がないと高い」",
+        "key_points": [
+            "「診療情報提供書」が正式名称",
+            "これを持たずにいきなり大病院に行くと、選定療養費（5000円〜）を追加で取られる",
+            "封がしてあるので中身は見られない（見ても専門用語だらけ）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "転院",
+                "description": "「引っ越すので紹介状を書いてもらう」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -525,7 +1042,18 @@
         "slug": "medical-history",
         "body": "<h3>過去の病気</h3><p>今までにかかったことのある病気。</p>",
         "short_description": "<h3>過去の病歴。</h3>",
-        "example": "「既往歴なし」"
+        "example": "「既往歴なし」",
+        "key_points": [
+            "過去にかかった病気の履歴",
+            "手術やアレルギーの有無も含まれる",
+            "お薬手帳アプリなどで管理しておくと緊急時に役立つ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "問診",
+                "description": "「既往歴を聞かれて、昔の病気の名前をド忘れする」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -536,7 +1064,18 @@
         "slug": "bmi",
         "body": "<h3>肥満度</h3><p>Body Mass Index。体重と身長から算出する肥満度指数。22が標準。</p>",
         "short_description": "<h3>肥満指数。</h3>",
-        "example": "「BMIを計算」"
+        "example": "「BMIを計算」",
+        "key_points": [
+            "体重(kg) ÷ 身長(m) ÷ 身長(m) で算出される指数",
+            "22が最も病気になりにくいとされる（標準体重）",
+            "25以上で肥満判定"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ダイエット",
+                "description": "「BMIが25を超えてショックを受ける」時"
+            }
+        ]
     },
     {
         "category_slug": "medical",
@@ -547,6 +1086,17 @@
         "slug": "metabo",
         "body": "<h3>メタボリックシンドローム</h3><p>内臓脂肪症候群。お腹が出ていて、高血圧などのリスクが重なっている状態。</p>",
         "short_description": "<h3>内臓脂肪ヤバい。</h3>",
-        "example": "「メタボ健診」"
+        "example": "「メタボ健診」",
+        "key_points": [
+            "内臓脂肪型肥満に加え、高血圧・高血糖・脂質異常のうち2つ以上を併せ持った状態",
+            "単に太っていることではなく、生活習慣病のリスクが高い状態を指す",
+            "特定健康診査（メタボ健診）で腹囲を測られる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "健診",
+                "description": "「お腹周りを測られてメタボ判定される」時"
+            }
+        ]
     }
 ]

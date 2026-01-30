@@ -8,7 +8,22 @@
         "slug": "ai",
         "body": "<h3>人工知能</h3><p>Artificial Intelligence。人間のような知能を持つコンピュータシステム。</p>",
         "short_description": "<h3>人工知能。</h3>",
-        "example": "「生成AI」"
+        "example": "「生成AI」",
+        "key_points": [
+            "Artificial Intelligence（人工知能）",
+            "学習、推論、認識など、人間の知能のような振る舞いをするシステム",
+            "「生成AI（Generative AI）」の登場で急激に普及した"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "業務",
+                "description": "「議事録の要約をAIに任せる」時"
+            },
+            {
+                "title": "創作",
+                "description": "「AIで画像生成してアイコンにする」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -19,7 +34,22 @@
         "slug": "iot",
         "body": "<h3>モノのインターネット</h3><p>Internet of Things。家電や車など、あらゆるモノがネットに繋がること。</p>",
         "short_description": "<h3>モノがネットに繋がる。</h3>",
-        "example": "「IoT家電」"
+        "example": "「IoT家電」",
+        "key_points": [
+            "Internet of Things（モノのインターネット）",
+            "スマホやPCだけでなく、冷蔵庫、エアコン、車などあらゆるモノがネットにつながること",
+            "遠隔操作やデータの自動収集が可能になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "生活",
+                "description": "「外出先からスマホでエアコンをつける（IoT）」時"
+            },
+            {
+                "title": "工場",
+                "description": "「機械の稼働状況をIoTで見える化する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -30,7 +60,22 @@
         "slug": "api",
         "body": "<h3>連携窓口</h3><p>Application Programming Interface。ソフト同士をつなぐ窓口。「GoogleマップAPI」。</p>",
         "short_description": "<h3>ソフトの連携口。</h3>",
-        "example": "「APIを叩く」"
+        "example": "「APIを叩く」",
+        "key_points": [
+            "Application Programming Interface",
+            "ソフトウェアの機能を外部から利用できるようにした窓口",
+            "「APIを叩く」＝APIを利用してデータを取得したり操作したりすること"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「GoogleマップのAPIを使って地図を表示する」時"
+            },
+            {
+                "title": "トラブル",
+                "description": "「API制限（使いすぎ）でエラーが出た」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -41,7 +86,22 @@
         "slug": "aws",
         "body": "<h3>アマゾンのクラウド</h3><p>Amazon Web Services。Amazonが提供するWebサーバーなどのインフラサービス。</p>",
         "short_description": "<h3>Amazonのサーバー。</h3>",
-        "example": "「AWSで運用する」"
+        "example": "「AWSで運用する」",
+        "key_points": [
+            "Amazon Web Servicesの略",
+            "Amazonが提供する世界最大級のクラウドサービス",
+            "サーバーやデータベースなど、必要なITインフラをネット経由で借りられる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "エンジニア",
+                "description": "「インフラはAWSで構築しました」と報告する時"
+            },
+            {
+                "title": "学習",
+                "description": "「AWS認定資格の勉強をする」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -52,7 +112,22 @@
         "slug": "saas",
         "body": "<h3>サース</h3><p>Software as a Service。ネット経由で利用するソフト。GmailやSlackなど。</p>",
         "short_description": "<h3>ネットで使うソフト。</h3>",
-        "example": "「SaaS企業」"
+        "example": "「SaaS企業」",
+        "key_points": [
+            "Software as a Service（サービスとしてのソフトウェア）",
+            "インストール不要で、ブラウザなどから利用できるクラウドサービス",
+            "Gmail、Slack、Zoomなどが代表例"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "導入",
+                "description": "「便利なSaaSツールを導入して業務効率化する」時"
+            },
+            {
+                "title": "ビジネス",
+                "description": "「SaaSビジネスはサブスク課金が基本だ」と語る時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -63,7 +138,18 @@
         "slug": "dx",
         "body": "<h3>デジタルトランスフォーメーション</h3><p>ITを使ってビジネスや生活を劇的に変革すること。単なるIT化とは違う。</p>",
         "short_description": "<h3>ITで大改革。</h3>",
-        "example": "「DX推進」"
+        "example": "「DX推進」",
+        "key_points": [
+            "Digital Transformation（デジタル変革）",
+            "「IT化」は業務を便利にすることだが、「DX」はビジネスモデルそのものを変えること",
+            "「デジタルトランスフォーメーション」の略"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「DXなくして企業の未来はない」と危機感を煽る時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -74,7 +160,18 @@
         "slug": "gui",
         "body": "<h3>直感的な操作画面</h3><p>Graphical User Interface。マウスや指で操作できる画面。対義語はCUI（黒い画面）。</p>",
         "short_description": "<h3>マウスで操作する画面。</h3>",
-        "example": "「GUIで設定する」"
+        "example": "「GUIで設定する」",
+        "key_points": [
+            "Graphical User Interface",
+            "アイコンやボタンなど、視覚的に操作できる画面のこと",
+            "PC初心者でも扱いやすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "説明",
+                "description": "「GUIツールだからコマンドを知らなくても使える」と勧める時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -85,7 +182,22 @@
         "slug": "ip-address",
         "body": "<h3>ネット上の住所</h3><p>PCやスマホに割り当てられる識別番号。「192.168.0.1」など。</p>",
         "short_description": "<h3>ネットの住所。</h3>",
-        "example": "「IPを固定する」"
+        "example": "「IPを固定する」",
+        "key_points": [
+            "Internet Protocol Address",
+            "インターネット上の住所のようなもの",
+            "個人特定につながる場合もあるので他人には教えない方がいい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設定",
+                "description": "「IPアドレスを手動で設定する」時"
+            },
+            {
+                "title": "トラブル",
+                "description": "「IPの競合でネットに繋がらない」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -96,7 +208,18 @@
         "slug": "oss",
         "body": "<h3>オープンソース</h3><p>Open Source Software。設計図（ソースコード）が公開され、誰でも無料で使えるソフト。</p>",
         "short_description": "<h3>無料公開ソフト。</h3>",
-        "example": "「OSSを活用する」"
+        "example": "「OSSを活用する」",
+        "key_points": [
+            "Open Source Software",
+            "ソースコードが公開されており、誰でも利用・改変・再配布ができるソフトウェア",
+            "LinuxやWordPressなどが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「OSSのライブラリを使って開発工数を削減する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -107,7 +230,22 @@
         "slug": "seo",
         "body": "<h3>検索エンジン最適化</h3><p>Search Engine Optimization。Google検索で上位に表示させるための対策。</p>",
         "short_description": "<h3>検索上位対策。</h3>",
-        "example": "「SEO対策」"
+        "example": "「SEO対策」",
+        "key_points": [
+            "Search Engine Optimization（検索エンジン最適化）",
+            "Googleなどで検索した時に、自分のサイトを上位に表示させるための技術",
+            "コンテンツの質やキーワード選定が重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブログ",
+                "description": "「SEOを意識して記事を書く」時"
+            },
+            {
+                "title": "Web制作",
+                "description": "「SEOに強いサイト設計にする」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -118,7 +256,18 @@
         "slug": "ui",
         "body": "<h3>ユーザーインターフェース</h3><p>ユーザーの目に触れる部分。画面デザインやボタンの配置など。</p>",
         "short_description": "<h3>見た目や操作性。</h3>",
-        "example": "「UIが見にくい」"
+        "example": "「UIが見にくい」",
+        "key_points": [
+            "User Interface（ユーザーとの接点）",
+            "デザイン、フォント、ボタンなど、ユーザーが目にする全ての要素",
+            "使いにくいUIはユーザー離れの原因になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デザイン",
+                "description": "「おしゃれだけど使いにくいUI」を批判する時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -129,7 +278,18 @@
         "slug": "ux",
         "body": "<h3>ユーザー体験</h3><p>User Experience。サービスを通して得られる体験や感動。「UXが良い」。</p>",
         "short_description": "<h3>利用体験。</h3>",
-        "example": "「UXを設計する」"
+        "example": "「UXを設計する」",
+        "key_points": [
+            "User Experience（ユーザー体験）",
+            "サービスを使って「楽しい」「便利」「心地よい」と感じる体験全体",
+            "UIはUXの一部"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「ユーザーに最高のUXを提供する」と意気込む時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -140,7 +300,22 @@
         "slug": "vpn",
         "body": "<h3>仮想専用線</h3><p>Virtual Private Network。ネット上に作る暗号化された安全なトンネル。</p>",
         "short_description": "<h3>安全な通信回線。</h3>",
-        "example": "「VPNで接続する」"
+        "example": "「VPNで接続する」",
+        "key_points": [
+            "Virtual Private Network（仮想専用線）",
+            "インターネット上に仮想的な専用線を構築し、安全に通信する技術",
+            "テレワークで社内システムに接続する際によく使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "テレワーク",
+                "description": "「VPNがつながらなくて仕事ができない」時"
+            },
+            {
+                "title": "セキュリティ",
+                "description": "「フリーWi-Fiを使うときはVPNを通すべき」と忠告する時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -151,7 +326,22 @@
         "slug": "vr",
         "body": "<h3>仮想現実</h3><p>Virtual Reality。ゴーグル等を掛けて、デジタルの世界に入り込む技術。</p>",
         "short_description": "<h3>仮想現実。</h3>",
-        "example": "「VRゲーム」"
+        "example": "「VRゲーム」",
+        "key_points": [
+            "Virtual Reality（仮想現実）",
+            "専用のゴーグル（HMD）を装着し、360度の映像世界に入り込む体験",
+            "ゲームだけでなく、医療や訓練などにも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「VR酔いして気持ち悪い」時"
+            },
+            {
+                "title": "体験",
+                "description": "「VRで海外旅行気分を味わう」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -162,7 +352,22 @@
         "slug": "ar",
         "body": "<h3>拡張現実</h3><p>Augmented Reality。現実の風景にデジタル情報を重ねる技術。ポケモンGOなど。</p>",
         "short_description": "<h3>拡張現実。</h3>",
-        "example": "「ARアプリ」"
+        "example": "「ARアプリ」",
+        "key_points": [
+            "Augmented Reality（拡張現実）",
+            "スマホのカメラなどを通して、現実世界にCGや情報を重ねて表示する技術",
+            "ポケモンGOやSNOW（顔認証アプリ）などが身近な例"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「ARモードで部屋にキャラを出現させる」時"
+            },
+            {
+                "title": "買い物",
+                "description": "「家具をARで試し置きしてサイズを確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -173,7 +378,22 @@
         "slug": "account",
         "body": "<h3>会員権</h3><p>サービスを利用するための権利。IDとパスワードのセット。</p>",
         "short_description": "<h3>会員ID。</h3>",
-        "example": "「アカウントを作る」"
+        "example": "「アカウントを作る」",
+        "key_points": [
+            "サービスを利用するための権利やIDのこと",
+            "「垢（あか）」と略されることも多い",
+            "乗っ取られると大変なことになる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「裏垢（裏アカウント）がバレた」時"
+            },
+            {
+                "title": "登録",
+                "description": "「アカウント作成の手続きが面倒くさい」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -184,7 +404,18 @@
         "slug": "algorithm",
         "body": "<h3>計算手順</h3><p>問題を解決するための計算の手順やルール。YouTubeのおすすめ機能など。</p>",
         "short_description": "<h3>計算のルール。</h3>",
-        "example": "「検索アルゴリズム」"
+        "example": "「検索アルゴリズム」",
+        "key_points": [
+            "問題を解くための手順や計算式の組み合わせ",
+            "SNSや動画サイトの「おすすめ」を決めているのもアルゴリズム",
+            "「アルゴリズムの奴隷（おすすめに従ってばかり）」にならないよう注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "SNS",
+                "description": "「インスタのアルゴリズムが変わって全然見られなくなった」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -195,7 +426,18 @@
         "slug": "install",
         "body": "<h3>導入</h3><p>ソフトをPCやスマホに入れて使える状態にすること。</p>",
         "short_description": "<h3>ソフトを入れる。</h3>",
-        "example": "「アプリをインストール」"
+        "example": "「アプリをインストール」",
+        "key_points": [
+            "ソフトウェアやアプリをデバイスに入れて、使える状態（導入）にすること",
+            "対義語は「アンインストール（削除）」",
+            "「インストール中...」の待ち時間は長い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "PC",
+                "description": "「OSをクリーンインストールする」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -206,7 +448,18 @@
         "slug": "infrastructure",
         "body": "<h3>基盤</h3><p>インフラストラクチャー。ITではサーバーやネットワークのこと。「Webインフラ」。</p>",
         "short_description": "<h3>基盤設備。</h3>",
-        "example": "「インフラエンジニア」"
+        "example": "「インフラエンジニア」",
+        "key_points": [
+            "Infrastructure（下部構造、基盤）",
+            "ITシステムの土台となるサーバー、ネットワーク、電源などの設備",
+            "社会インフラ（水道、電気）と同じで、止まると大パニックになる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "エンジニア",
+                "description": "「インフラエンジニアは夜勤や休日出勤があって大変だ」と聞く時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -217,7 +470,18 @@
         "slug": "virus",
         "body": "<h3>悪性プログラム</h3><p>コンピュータに侵入して悪さをするプログラム。「マルウェア」とも。</p>",
         "short_description": "<h3>悪いプログラム。</h3>",
-        "example": "「ウイルスに感染」"
+        "example": "「ウイルスに感染」",
+        "key_points": [
+            "コンピュータウイルス。自己増殖してPCに害を与えるプログラム",
+            "今は「マルウェア（悪意のあるソフト）」の総称として使われることも",
+            "怪しいメールの添付ファイルから感染することが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "警告",
+                "description": "「ウイルスが検出されました」という偽の警告画面に焦る時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -228,7 +492,18 @@
         "slug": "evidence-it",
         "body": "<h3>証拠</h3><p>テスト結果のスクリーンショットなど、動作したことの証明。</p>",
         "short_description": "<h3>証拠画像。</h3>",
-        "example": "「テストエビデンス」"
+        "example": "「テストエビデンス」",
+        "key_points": [
+            "システム開発における「動いた証拠」のこと",
+            "テスト実施時のスクリーンショットやログなどを指す",
+            "「エビデンスを取る」作業は地味だが重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「全画面のエビデンスを取れと言われて絶望する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -239,7 +514,18 @@
         "slug": "on-premise",
         "body": "<h3>自社運用</h3><p>「オンプレ」。サーバーを自社内に置いて運用すること。クラウドの対義語。</p>",
         "short_description": "<h3>自社サーバー。</h3>",
-        "example": "「オンプレからクラウドへ」"
+        "example": "「オンプレからクラウドへ」",
+        "key_points": [
+            "自社の建物内（Premise）にサーバーを設置して運用すること",
+            "「オンプレ」と略される",
+            "クラウドと違ってカスタマイズ性は高いが、維持管理が大変"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "インフラ",
+                "description": "「セキュリティ要件が厳しいのでオンプレで構築する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -250,7 +536,18 @@
         "slug": "cache",
         "body": "<h3>一時保存</h3><p>一度読み込んだデータを一時的に保存して、次回表示を速くする仕組み。「キャッシュクリア」。</p>",
         "short_description": "<h3>一時保存データ。</h3>",
-        "example": "「キャッシュが残ってる」"
+        "example": "「キャッシュが残ってる」",
+        "key_points": [
+            "表示速度を上げるために、一度見たデータを一時的に保存しておく仕組み",
+            "古いキャッシュが残っていると、更新内容が反映されないことがある",
+            "「スーパーリロード」で強制的に消せる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "Web閲覧",
+                "description": "「表示がおかしいときはキャッシュをクリアしてみてください」と言われる時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -261,7 +558,18 @@
         "slug": "cloud",
         "body": "<h3>雲、ネット上のサービス</h3><p>ネット経由でサーバーやストレージを利用する形態。iCloudやAWSなど。</p>",
         "short_description": "<h3>ネット上のサービス。</h3>",
-        "example": "「クラウドに保存」"
+        "example": "「クラウドに保存」",
+        "key_points": [
+            "雲（Cloud）の向こう側にあるサーバーを利用するイメージ",
+            "手元のPCにデータを保存せず、ネット上に保存する",
+            "どこからでもアクセスできて便利だが、ネットがないと使えない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "バックアップ",
+                "description": "「スマホの写真をクラウドにバックアップする」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -272,7 +580,18 @@
         "slug": "cookie",
         "body": "<h3>Cookie</h3><p>Webサイトがブラウザに保存する、ユーザー識別情報。「クッキーを有効にする」。</p>",
         "short_description": "<h3>ブラウザの保存情報。</h3>",
-        "example": "「クッキーを削除」"
+        "example": "「クッキーを削除」",
+        "key_points": [
+            "Webサイトが訪問者の情報をブラウザに覚えさせる仕組み",
+            "ログイン状態の保持や、カートの中身を保存するのに使われる",
+            "お菓子のクッキーが語源（諸説あり）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ネット閲覧",
+                "description": "「クッキーの同意を求めるポップアップが邪魔」な時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -283,7 +602,18 @@
         "slug": "commit-it",
         "body": "<h3>保存、確定</h3><p>Gitなどのバージョン管理ツールで、変更内容を記録すること。</p>",
         "short_description": "<h3>変更を記録する。</h3>",
-        "example": "「コードをコミットする」"
+        "example": "「コードをコミットする」",
+        "key_points": [
+            "IT用語では、データベースやバージョン管理システムに変更を確定・記録させること",
+            "Git（ギット）を使っている時に頻繁に行う",
+            "「こまめにコミットしろ」と先輩に言われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「コミットメッセージに何を書けばいいか悩む」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -294,7 +624,18 @@
         "slug": "server",
         "body": "<h3>提供者</h3><p>Webページやメールを表示・配信する高性能なコンピュータ。</p>",
         "short_description": "<h3>データ提供コンピュータ。</h3>",
-        "example": "「サーバーがダウン」"
+        "example": "「サーバーがダウン」",
+        "key_points": [
+            "Server（提供する人・物）",
+            "サービスやデータを提供する側のコンピュータ",
+            "利用者は「クライアント（Client）」と呼ぶ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "障害",
+                "description": "「アクセス集中でサーバーが落ちた（鯖落ち）」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -305,7 +646,18 @@
         "slug": "subscription",
         "body": "<h3>定額制</h3><p>「サブスク」。月額料金を払って利用するサービス。Netflixなど。</p>",
         "short_description": "<h3>定額制サービス。</h3>",
-        "example": "「音楽サブスク」"
+        "example": "「音楽サブスク」",
+        "key_points": [
+            "定期購読という意味",
+            "モノを所有するのではなく、利用期間に応じて料金を支払う定額サービス",
+            "解約し忘れて払い続ける「サブスク貧乏」に注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "節約",
+                "description": "「使ってないサブスクを解約して節約する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -316,7 +668,18 @@
         "slug": "thumbnail",
         "body": "<h3>縮小画像</h3><p>中身を一目で表す小さな画像。YouTubeの動画一覧画像など。</p>",
         "short_description": "<h3>見本画像。</h3>",
-        "example": "「サムネ詐欺」"
+        "example": "「サムネ詐欺」",
+        "key_points": [
+            "親指（Thumb）の爪（Nail）のように小さい画像という意味",
+            "「サムネ」と略される",
+            "クリックしたくなるようなサムネ作りが重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "YouTube",
+                "description": "「サムネと内容が全然違う（釣りサムネ）」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -327,7 +690,18 @@
         "slug": "gafa",
         "body": "<h3>米巨大IT4社</h3><p>Google, Apple, Facebook(Meta), Amazonの総称。今はMが入ってGAMAMとも。</p>",
         "short_description": "<h3>巨大IT企業群。</h3>",
-        "example": "「GAFAの支配」"
+        "example": "「GAFAの支配」",
+        "key_points": [
+            "ガーファ。Google、Apple、Facebook（現Meta）、Amazonの頭文字",
+            "世界を支配する巨大ITプラットフォーマー",
+            "最近はMicrosoftを入れて「GAFAM（ガーファム）」と呼ぶことも多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経済",
+                "description": "「GAFAの時価総額が国家予算を超えている」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -338,7 +712,18 @@
         "slug": "storage",
         "body": "<h3>保存場所</h3><p>データを保存する場所。HDD、SSD、クラウドストレージなど。</p>",
         "short_description": "<h3>データ保存場所。</h3>",
-        "example": "「ストレージが一杯」"
+        "example": "「ストレージが一杯」",
+        "key_points": [
+            "Storage（倉庫、保管）",
+            "HDD（ハードディスク）やSSD、スマホの容量のこと",
+            "写真や動画を撮りすぎてすぐに一杯になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スマホ",
+                "description": "「ストレージ容量が足りません」という警告が出た時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -349,7 +734,18 @@
         "slug": "source-code",
         "body": "<h3>プログラムの原文</h3><p>プログラミング言語で書かれた設計図。単に「ソース」とも。</p>",
         "short_description": "<h3>プログラムの中身。</h3>",
-        "example": "「ソースを見る」"
+        "example": "「ソースを見る」",
+        "key_points": [
+            "プログラミング言語で記述されたテキストファイル",
+            "人間が読める言葉（英語など）で書かれている",
+            "これをコンピュータが読める形式に翻訳して動かす"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「ソースコードが汚すぎて読めない（スパゲッティコード）」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -360,7 +756,18 @@
         "slug": "device",
         "body": "<h3>端末・機器</h3><p>スマホ、PC、タブレットなどの端末のこと。</p>",
         "short_description": "<h3>端末。</h3>",
-        "example": "「デバイスを探す」"
+        "example": "「デバイスを探す」",
+        "key_points": [
+            "情報端末のこと。PC、スマホ、タブレット、スマートウォッチなど",
+            "「マルチデバイス対応」は、どの端末でも使えること",
+            "同じサイトでもデバイスによって見え方が違う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "Web制作",
+                "description": "「モバイルデバイスでの表示を確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -371,7 +778,18 @@
         "slug": "telework",
         "body": "<h3>遠隔勤務</h3><p>オフィスから離れて仕事をすること。リモートワークとほぼ同義。</p>",
         "short_description": "<h3>在宅勤務など。</h3>",
-        "example": "「テレワーク推奨」"
+        "example": "「テレワーク推奨」",
+        "key_points": [
+            "Tele（遠く）＋Work（働く）",
+            "ITを使って、場所や時間にとらわれずに働くこと",
+            "コロナ禍で一気に普及した"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仕事",
+                "description": "「今日は雨だからテレワークにする」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -382,7 +800,18 @@
         "slug": "domain",
         "body": "<h3>ネット上の住所表記</h3><p>URLの「yahoo.co.jp」の部分。インターネット上の住所。</p>",
         "short_description": "<h3>URLの一部。</h3>",
-        "example": "「独自ドメイン」"
+        "example": "「独自ドメイン」",
+        "key_points": [
+            "インターネット上の住所の表札",
+            "「.com」や「.jp」などがつく部分",
+            "世界に一つしか存在しない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブログ開設",
+                "description": "「お名前.comなどで独自ドメインを取得する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -393,7 +822,22 @@
         "slug": "bug",
         "body": "<h3>不具合</h3><p>プログラムの誤りや欠陥。虫（Bug）が語源。</p>",
         "short_description": "<h3>不具合、エラー。</h3>",
-        "example": "「バグ修正」"
+        "example": "「バグ修正」",
+        "key_points": [
+            "プログラムのミスや不具合",
+            "昔のコンピュータに虫（蛾）が挟まって故障したのが語源とされる",
+            "「バグ」ではなく「仕様」と言い張ることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ゲーム",
+                "description": "「バグ技を使って壁抜けする」時"
+            },
+            {
+                "title": "開発",
+                "description": "「バグの原因がわからなくて帰れない」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -404,7 +848,18 @@
         "slug": "hacker",
         "body": "<h3>技術者</h3><p>本来は「高い技術力を持つ人」。悪いことをするのは「クラッカー」だが、混同されている。</p>",
         "short_description": "<h3>凄腕エンジニア。</h3>",
-        "example": "「ホワイトハッカー」"
+        "example": "「ホワイトハッカー」",
+        "key_points": [
+            "コンピュータ技術に長けた専門家",
+            "本来は詳しくて凄い人への称賛だが、サイバー攻撃をする犯罪者のイメージが強い",
+            "正義のハッカーは「ホワイトハッカー」と呼ばれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "映画",
+                "description": "「ハッカーがキーボードを高速で叩いてパスワードを突破するシーン（実際はあんなに早くない）」を見る時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -415,7 +870,18 @@
         "slug": "big-data",
         "body": "<h3>巨大データ群</h3><p>人間では扱いきれないほどの膨大なデータ。AI解析などに使われる。</p>",
         "short_description": "<h3>膨大なデータ。</h3>",
-        "example": "「ビッグデータ活用」"
+        "example": "「ビッグデータ活用」",
+        "key_points": [
+            "従来のシステムでは処理しきれないほどの巨大で複雑なデータ群",
+            "SNSの投稿、位置情報、購入履歴など、あらゆるデータが含まれる",
+            "「21世紀の石油」とも呼ばれる情報の宝の山"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "分析",
+                "description": "「ビッグデータを解析して次のトレンドを予測する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -426,7 +892,18 @@
         "slug": "phishing",
         "body": "<h3>詐欺</h3><p>偽サイトに誘導してパスワードなどを盗む詐欺。「釣り（Fishing）」ではない。</p>",
         "short_description": "<h3>ネット詐欺。</h3>",
-        "example": "「フィッシングメール」"
+        "example": "「フィッシングメール」",
+        "key_points": [
+            "Phishing（魚釣りfishingと洗練sophisticatedを掛けた造語）",
+            "本物そっくりの偽サイトに誘導し、クレカ情報などを盗み取る詐欺",
+            "Amazonや銀行を装ったメールで送られてくることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "防犯",
+                "description": "「リンク怪しいから絶対クリックするな、フィッシングだぞ」と忠告する時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -437,7 +914,18 @@
         "slug": "platform",
         "body": "<h3>基盤環境</h3><p>サービスを動かす土台。iOS、Android、Windows、LINEなど。</p>",
         "short_description": "<h3>土台となる環境。</h3>",
-        "example": "「プラットフォーマー」"
+        "example": "「プラットフォーマー」",
+        "key_points": [
+            "Platform（土台、駅のホーム）",
+            "他社のサービスやアプリが動くための基盤となる環境",
+            "Google、Apple、Facebook、Amazonなどは「プラットフォーマー」と呼ばれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「プラットフォームに依存するビジネスはリスクが高い（規約変更で死ぬ）」と議論する時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -448,7 +936,18 @@
         "slug": "protocol",
         "body": "<h3>通信規約</h3><p>通信をするためのルール。HTTPやIPなど。</p>",
         "short_description": "<h3>通信のルール。</h3>",
-        "example": "「通信プロトコル」"
+        "example": "「通信プロトコル」",
+        "key_points": [
+            "Protocol（議定書、手順）",
+            "コンピュータ同士が通信する時の「お約束事」や「言語のルール」",
+            "外交儀礼という意味もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "学習",
+                "description": "「HTTPプロトコルを勉強する」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -459,7 +958,18 @@
         "slug": "blockchain",
         "body": "<h3>分散型台帳</h3><p>ビットコインの基盤技術。改ざんが非常に困難なデータの記録技術。</p>",
         "short_description": "<h3>仮想通貨の技術。</h3>",
-        "example": "「ブロックチェーン技術」"
+        "example": "「ブロックチェーン技術」",
+        "key_points": [
+            "データをブロック（塊）にして鎖のようにつなぐ技術",
+            "一部を改ざんすると全体が壊れるため、改ざんが実質不可能",
+            "仮想通貨だけでなく、契約管理（スマートコントラクト）などにも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "仮想通貨",
+                "description": "「ブロックチェーンのおかげでビットコインは信用できる」と説明する時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -470,7 +980,18 @@
         "slug": "metaverse",
         "body": "<h3>仮想空間</h3><p>インターネット上に構築された3次元の仮想空間。アバターで交流する。</p>",
         "short_description": "<h3>3D仮想空間。</h3>",
-        "example": "「メタバース参入」"
+        "example": "「メタバース参入」",
+        "key_points": [
+            "Meta（超越）＋Universe（宇宙）",
+            "ネット上の3D仮想空間で、アバターを使って活動する世界",
+            "セカンドライフの再来とも言われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "未来",
+                "description": "「メタバース内で土地を買ったり仕事をする時代が来る」と予測する時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -481,7 +1002,18 @@
         "slug": "user",
         "body": "<h3>利用者</h3><p>そのサービスや製品を使う人。</p>",
         "short_description": "<h3>利用者。</h3>",
-        "example": "「ユーザー目線」"
+        "example": "「ユーザー目線」",
+        "key_points": [
+            "利用者、消費者。特にITサービスの利用者",
+            "運営側から見た「お客様」",
+            "「エンドユーザー」は末端の利用者"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「ユーザーファースト（利用者第一）で考えよう」と言う時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -492,7 +1024,18 @@
         "slug": "literacy",
         "body": "<h3>活用能力</h3><p>読み書き能力が語源。情報を正しく理解し活用する能力。「ITリテラシー」。</p>",
         "short_description": "<h3>使いこなす能力。</h3>",
-        "example": "「リテラシーが低い」"
+        "example": "「リテラシーが低い」",
+        "key_points": [
+            "Literacy（読み書き能力）",
+            "特定の分野の知識を理解し、活用する能力",
+            "ITリテラシー、金融リテラシー、メディアリテラシーなどがある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「ITリテラシーが低すぎて、変なリンクをすぐ踏む」と呆れる時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -503,7 +1046,18 @@
         "slug": "remote-work",
         "body": "<h3>遠隔勤務</h3><p>会社に行かずに自宅やカフェで仕事をすること。</p>",
         "short_description": "<h3>場所を選ばない働き方。</h3>",
-        "example": "「リモートワーク普及」"
+        "example": "「リモートワーク普及」",
+        "key_points": [
+            "Remote（遠隔）Work（仕事）",
+            "テレワークとほぼ同じ意味",
+            "「リモート」と略すことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "採用",
+                "description": "「フルリモートOKの会社を探す」時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -514,7 +1068,18 @@
         "slug": "login",
         "body": "<h3>認証して入る</h3><p>IDとパスワードを使って、サービスを使える状態にすること。</p>",
         "short_description": "<h3>認証。</h3>",
-        "example": "「ログインできない」"
+        "example": "「ログインできない」",
+        "key_points": [
+            "Log-in（記録に入る）",
+            "認証を通してコンピュータやサービスに入ること",
+            "「サインイン」「ログオン」もほぼ同じ意味"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トラブル",
+                "description": "「パスワード忘れてログインできない」とパニックになる時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -525,7 +1090,18 @@
         "slug": "logout",
         "body": "<h3>終了して出る</h3><p>サービスの利用を終了し、接続を切ること。</p>",
         "short_description": "<h3>終了。</h3>",
-        "example": "「必ずログアウトする」"
+        "example": "「必ずログアウトする」",
+        "key_points": [
+            "サービスの利用を終了し、認証を切ること",
+            "共有PCなどでは、ログアウトし忘れると次に使う人に見られてしまう",
+            "「サインアウト」とも言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "セキュリティ",
+                "description": "「使い終わったら必ずログアウトしてください」と注意書きを見る時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -536,7 +1112,18 @@
         "slug": "wifi",
         "body": "<h3>無線LAN</h3><p>無線でインターネットに繋ぐ技術。ワイファイ。</p>",
         "short_description": "<h3>無線ネット。</h3>",
-        "example": "「フリーWi-Fi」"
+        "example": "「フリーWi-Fi」",
+        "key_points": [
+            "無線LANの規格の愛称",
+            "「ウィフィー」とは読まない",
+            "通信制限を回避するための命綱"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "カフェ",
+                "description": "「ここWi-Fi飛んでますか？」と聞く時"
+            }
+        ]
     },
     {
         "category_slug": "it",
@@ -547,6 +1134,17 @@
         "slug": "5g",
         "body": "<h3>第5世代移動通信</h3><p>超高速・低遅延・多数同時接続が特徴の新しい通信規格。</p>",
         "short_description": "<h3>超高速通信。</h3>",
-        "example": "「5G対応スマホ」"
+        "example": "「5G対応スマホ」",
+        "key_points": [
+            "5th Generation（第5世代）の略",
+            "4G（LTE）の次世代通信規格。超高速、低遅延、多数同時接続が特徴",
+            "映画が数秒でダウンロードできる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スマホ",
+                "description": "「5Gエリアに入ったから爆速だ」と感動する時"
+            }
+        ]
     }
 ]

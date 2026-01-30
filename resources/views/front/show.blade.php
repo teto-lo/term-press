@@ -106,7 +106,7 @@
                                     clip-rule="evenodd" />
                             </svg>
                         </div>
-                        <h2 class="text-xl font-bold text-gray-900">💡 一言でいうと</h2>
+                        <h2 class="text-xl font-bold text-gray-900">一言でいうと</h2>
                     </div>
                     <div class="relative bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 rounded-2xl p-6 border-2 border-indigo-200 shadow-sm hover:shadow-md transition-shadow">
                         <!-- Decorative corner accent -->
@@ -129,7 +129,7 @@
                                     d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z" />
                             </svg>
                         </div>
-                        <h2 class="text-xl font-bold text-gray-900">📚 超ざっくり理解</h2>
+                        <h2 class="text-xl font-bold text-gray-900">超ざっくり理解</h2>
                     </div>
                     <div class="prose prose-lg max-w-none term-content">
                         <style>
@@ -184,7 +184,7 @@
                                         clip-rule="evenodd" />
                                 </svg>
                             </div>
-                            <h2 class="text-xl font-bold text-gray-900">💬 こう使えばそれっぽい</h2>
+                            <h2 class="text-xl font-bold text-gray-900">こう使えばそれっぽい</h2>
                         </div>
                         <div class="bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 rounded-2xl p-6 border-2 border-green-200 shadow-sm hover:shadow-md transition-shadow">
                             <div class="flex items-start gap-3">
@@ -200,15 +200,16 @@
                 @endif
 
                 <!-- ポイント(新セクション) -->
+                <!-- ポイント(新セクション) -->
                 @if(!empty($term->key_points))
                 <div class="mb-10">
                     <div class="flex items-center gap-2 mb-4">
-                        <div class="w-8 h-8 bg-gradient-to-br from-amber-500 to-orange-600 rounded-lg flex items-center justify-center shadow-lg">
-                            <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
-                                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                        <div class="w-8 h-8 rounded-lg flex items-center justify-center shadow-lg" style="background: linear-gradient(135deg, #f59e0b 0%, #ea580c 100%);">
+                            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="#ffffff" style="fill: #ffffff;" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.007 5.404.433c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.433 2.082-5.006z" clip-rule="evenodd" />
                             </svg>
                         </div>
-                        <h2 class="text-xl font-bold text-gray-900">⭐ 押さえておきたいポイント</h2>
+                        <h2 class="text-xl font-bold text-gray-900">押さえておきたいポイント</h2>
                     </div>
                     <div class="bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl p-6 border-2 border-amber-200 space-y-3">
                         @foreach($term->key_points as $index => $point)
@@ -225,21 +226,25 @@
                 @if(!empty($term->usage_scenarios))
                 <div class="mb-10">
                     <div class="flex items-center gap-2 mb-4">
-                        <div class="w-8 h-8 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-lg flex items-center justify-center shadow-lg">
-                            <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/>
+                        <div class="w-8 h-8 rounded-lg flex items-center justify-center shadow-lg" style="background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%);">
+                            <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" style="stroke: #ffffff;">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
                             </svg>
                         </div>
-                        <h2 class="text-xl font-bold text-gray-900">🎯 こんな時に使う</h2>
+                        <h2 class="text-xl font-bold text-gray-900">こんな時に使う</h2>
                     </div>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                    <div class="grid gap-4 md:grid-cols-2">
                         @foreach($term->usage_scenarios as $scenario)
-                        <div class="bg-white border-2 border-cyan-200 rounded-xl p-4 hover:border-cyan-400 transition-colors">
-                            <div class="flex items-center gap-2 mb-2">
-                                <span class="text-2xl">{{ $scenario['emoji'] ?? '📝' }}</span>
-                                <h3 class="font-bold text-gray-900">{{ $scenario['title'] ?? '' }}</h3>
+                        <div class="bg-white rounded-xl p-5 border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+                            <div class="flex items-center gap-3 mb-2">
+                                <div class="w-10 h-10 bg-sky-100 rounded-full flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-5 h-5 text-sky-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                                    </svg>
+                                </div>
+                                <h3 class="font-bold text-gray-800">{{ $scenario['title'] }}</h3>
                             </div>
-                            <p class="text-sm text-gray-600">{{ $scenario['description'] ?? '' }}</p>
+                            <p class="text-sm text-gray-600 leading-relaxed pl-[3.25rem]">{{ $scenario['description'] }}</p>
                         </div>
                         @endforeach
                     </div>
@@ -268,7 +273,7 @@
                             </svg>
                             <span class="text-base font-bold text-gray-800">理解完了！</span>
                         </div>
-                        <p class="text-white text-lg font-semibold mb-2">🎉 これで会話についていける！</p>
+                        <p class="text-white text-lg font-semibold mb-2">これで会話についていける！</p>
                         <p class="text-white/90 text-sm">次に聞いたら「あ、それ知ってる!」って言えるね</p>
                     </div>
                 </div>

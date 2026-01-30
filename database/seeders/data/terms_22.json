@@ -8,7 +8,18 @@
         "slug": "nisa-fin",
         "body": "<h3>少額投資非課税制度</h3><p>投資で出た利益に税金（約20%）がかからないお得な制度。「つみたてNISA」など。</p>",
         "short_description": "<h3>税金がかからない投資。</h3>",
-        "example": "「新NISAを始める」"
+        "example": "「新NISAを始める」",
+        "key_points": [
+            "通常かかる20.315%の税金がゼロになる制度",
+            "「つみたて投資枠」と「成長投資枠」がある",
+            "恒久化・非課税期間無期限化され、投資の必須ツールとなった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「まだNISAやってないの？とマウントを取られる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -19,7 +30,18 @@
         "slug": "ideco-fin",
         "body": "<h3>個人型確定拠出年金</h3><p>自分で作る年金。掛金が全額所得控除になり、節税効果が高いが、60歳まで引き出せない。</p>",
         "short_description": "<h3>節税できる自分年金。</h3>",
-        "example": "「iDeCoで老後資金」"
+        "example": "「iDeCoで老後資金」",
+        "key_points": [
+            "掛金全額控除（節税）、運用益非課税、受取時控除の３つの税制メリット",
+            "60歳まで原則引き出し不可（流動性が低い）",
+            "会社員も公務員も加入できるようになった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "節税",
+                "description": "「年末調整でiDeCoの控除証明書を出す」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -30,7 +52,18 @@
         "slug": "ipo",
         "body": "<h3>新規上場</h3><p>Initial Public Offering。未上場の企業が、新しく株式市場に上場すること。</p>",
         "short_description": "<h3>株式上場。</h3>",
-        "example": "「IPO株の抽選」"
+        "example": "「IPO株の抽選」",
+        "key_points": [
+            "上場前に株（公募株）を抽選で手に入れ、上場初日に売ると儲かる確率が高い（初値売り）",
+            "「宝くじ」的な人気がある投資手法",
+            "当選確率は非常に低い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「IPOに当選してテンションが上がる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -41,7 +74,18 @@
         "slug": "inflation",
         "body": "<h3>物価上昇</h3><p>物の値段が上がり続け、お金の価値が下がること。「インフレーション」。</p>",
         "short_description": "<h3>物価が上がること。</h3>",
-        "example": "「インフレ対策」"
+        "example": "「インフレ対策」",
+        "key_points": [
+            "現金の価値が目減りすること",
+            "適度なインフレ（2%程度）は経済成長に良いとされる",
+            "「スタグフレーション（不況下のインフレ）」は最悪"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "生活",
+                "description": "「値上げラッシュでインフレを実感する」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -52,7 +96,18 @@
         "slug": "deflation",
         "body": "<h3>物価下落</h3><p>物の値段が下がり続け、不景気になること。「デフレーション」。</p>",
         "short_description": "<h3>物価が下がること。</h3>",
-        "example": "「脱デフレ」"
+        "example": "「脱デフレ」",
+        "key_points": [
+            "物価が下がり、企業の利益が減り、給料が下がる悪循環（デフレスパイラル）",
+            "「失われた30年」の日本の象徴",
+            "現金の価値は上がる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経済",
+                "description": "「デフレ脱却が政権の課題だ」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -63,7 +118,18 @@
         "slug": "yen-depreciation",
         "body": "<h3>円の価値ダウン</h3><p>海外の通貨に対して、円の価値が下がること。輸入品が高くなる。</p>",
         "short_description": "<h3>円が安くなること。</h3>",
-        "example": "「円安の影響」"
+        "example": "「円安の影響」",
+        "key_points": [
+            "1ドル100円→150円になること（円の数字が増えるのでややこしい）",
+            "輸出企業（トヨタなど）は儲かるが、輸入品（iPhone、ガソリン）が高くなる",
+            "海外旅行に行きづらくなる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "旅行",
+                "description": "「円安すぎてハワイでラーメンが3000円もする」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -74,7 +140,18 @@
         "slug": "yen-appreciation",
         "body": "<h3>円の価値アップ</h3><p>海外の通貨に対して、円の価値が上がること。海外旅行がお得になる。</p>",
         "short_description": "<h3>円が高くなること。</h3>",
-        "example": "「円高還元セール」"
+        "example": "「円高還元セール」",
+        "key_points": [
+            "1ドル100円→80円になること",
+            "輸入企業は安く仕入れられるが、輸出企業は苦しくなる",
+            "海外旅行のチャンス"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "買い物",
+                "description": "「円高のうちに海外通販でブランド物を買う」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -85,7 +162,18 @@
         "slug": "all-country",
         "body": "<h3>全世界株式</h3><p>「eMAXIS Slim 全世界株式（オール・カントリー）」という投資信託の略称。これ一本で世界中に投資できる。</p>",
         "short_description": "<h3>全世界への投資。</h3>",
-        "example": "「オルカンに積立」"
+        "example": "「オルカンに積立」",
+        "key_points": [
+            "投資信託の王道にしてファイナルアンサー",
+            "これ一本で先進国から新興国まで丸ごと投資できる",
+            "「迷ったらオルカン」が定説"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「とりあえず新NISAはオルカン全振りで」と決める時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -96,7 +184,18 @@
         "slug": "sp500",
         "body": "<h3>米国株指数</h3><p>アメリカを代表する500社の株価指数。これに連動する投資信託が人気。</p>",
         "short_description": "<h3>米国最強の500社。</h3>",
-        "example": "「S&P500を買う」"
+        "example": "「S&P500を買う」",
+        "key_points": [
+            "アメリカの主要企業500社に分散投資できる指数",
+            "過去の実績が圧倒的に強いため、オルカン派と人気を二分する",
+            "ウォーレン・バフェットも推奨"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「米国経済の強さを信じてS&P500を買う」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -107,7 +206,18 @@
         "slug": "gafam",
         "body": "<h3>巨大IT企業</h3><p>Google, Apple, Facebook(Meta), Amazon, Microsoftの5社。</p>",
         "short_description": "<h3>米国の巨大IT5社。</h3>",
-        "example": "「GAFAMの決算」"
+        "example": "「GAFAMの決算」",
+        "key_points": [
+            "世界の株式市場を牽引するテックジャイアント",
+            "最近はTeslaやNVIDIAなどを加えて「マグニフィセント・セブン」と呼ばれることも",
+            "S&P500の構成比率でも大きな割合を占める"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「GAFAMの決算が良かったので株価が上がった」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -118,7 +228,18 @@
         "slug": "capital-gain",
         "body": "<h3>売却益</h3><p>株などを安く買って高く売った時に得られる利益。</p>",
         "short_description": "<h3>値上がり益。</h3>",
-        "example": "「キャピタルゲイン狙い」"
+        "example": "「キャピタルゲイン狙い」",
+        "key_points": [
+            "資産の値上がりによる利益",
+            "短期間で大きく稼げる可能性がある一方、損をするリスクも高い",
+            "「キャピタル」と略されることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "不動産",
+                "description": "「マンションが値上がりしてキャピタルゲインを得た」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -129,7 +250,18 @@
         "slug": "income-gain",
         "body": "<h3>配当益</h3><p>株を持っているだけで定期的に入ってくる配当金や利息。</p>",
         "short_description": "<h3>配当金などの利益。</h3>",
-        "example": "「インカムゲイン重視」"
+        "example": "「インカムゲイン重視」",
+        "key_points": [
+            "資産を保有していることで得られる利益（配当金、家賃収入、利子）",
+            "安定した収入源になるため、FIREを目指す人に人気",
+            "「不労所得」の代表格"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「高配当株投資でインカムゲインを増やす」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -140,7 +272,18 @@
         "slug": "loss-cut",
         "body": "<h3>損失確定</h3><p>値下がりした株を売って、損失を確定させること。これ以上の損を防ぐため。「ロスカット」。</p>",
         "short_description": "<h3>損を確定させて逃げる。</h3>",
-        "example": "「早めの損切り」"
+        "example": "「早めの損切り」",
+        "key_points": [
+            "投資で一番難しい技術",
+            "「いつか戻るかも」という期待を捨てて売る勇気が必要",
+            "FXなどでは強制的に売られること（強制ロスカット）もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デイトレ",
+                "description": "「損切りラインを決めておかないと大火傷する」と自戒する時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -151,7 +294,18 @@
         "slug": "shiozuke",
         "body": "<h3>売れない株</h3><p>値下がりして売るに売れず、長期間保有し続けている状態。</p>",
         "short_description": "<h3>売れずに放置状態。</h3>",
-        "example": "「塩漬け株がある」"
+        "example": "「塩漬け株がある」",
+        "key_points": [
+            "損切りができずに、ズルズルと持ち続けている状態",
+            "資金が拘束されるため、機会損失（他の儲かる株を買えない）になる",
+            "「長期保有だ」と言い訳しがち"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "後悔",
+                "description": "「高値掴みした株が塩漬けになって3年経つ」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -162,7 +316,18 @@
         "slug": "nanpin",
         "body": "<h3>買い増し</h3><p>「難平」。買った株が下がった時に、買い増しして平均取得単価を下げること。さらに下がると地獄。</p>",
         "short_description": "<h3>下がった時に買い増す。</h3>",
-        "example": "「ナンピン買い」"
+        "example": "「ナンピン買い」",
+        "key_points": [
+            "平均取得単価を下げることで、少し戻ればプラマイゼロにできる手法",
+            "さらに下がると損失が倍増するため、「下手なナンピン、スカンピン（素寒貧）」という格言がある",
+            "上級者向けの手法"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ピンチ",
+                "description": "「ナンピンして助かった」と安堵する時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -173,7 +338,18 @@
         "slug": "per",
         "body": "<h3>株価収益率</h3><p>Price Earnings Ratio。株価が利益の何倍かを表す。割安かどうかの判断基準。</p>",
         "short_description": "<h3>株の割安度（利益）。</h3>",
-        "example": "「PER15倍」"
+        "example": "「PER15倍」",
+        "key_points": [
+            "「株価 ÷ 1株当たり純利益（EPS）」で算出",
+            "一般的に15倍程度が標準とされるが、業界によって違う",
+            "低いほうが割安だが、人気がないだけの場合もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "銘柄分析",
+                "description": "「PERを見て割安な銘柄を探す」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -184,7 +360,18 @@
         "slug": "pbr",
         "body": "<h3>株価純資産倍率</h3><p>Price Book-value Ratio。株価が純資産の何倍かを表す。1倍を割ると解散価値より安い。</p>",
         "short_description": "<h3>株の割安度（資産）。</h3>",
-        "example": "「PBR1倍割れ」"
+        "example": "「PBR1倍割れ」",
+        "key_points": [
+            "「株価 ÷ 1株当たり純資産（BPS）」で算出",
+            "1倍を割ると「会社を解散して資産を分けたほうが儲かる」状態",
+            "東証がPBR1倍割れの企業に改善要請を出して話題になった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "銘柄分析",
+                "description": "「PBR1倍割れのバリュー株を狙う」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -195,7 +382,18 @@
         "slug": "roe",
         "body": "<h3>自己資本利益率</h3><p>Return On Equity。自分のお金（自己資本）を使ってどれだけ効率よく利益を出したか。</p>",
         "short_description": "<h3>経営の効率性。</h3>",
-        "example": "「高ROE銘柄」"
+        "example": "「高ROE銘柄」",
+        "key_points": [
+            "株主から集めたお金をどれだけ効率よく増やしているかの指標",
+            "投資家（特に外国人投資家）が最も重視する指標の一つ",
+            "日本企業は欧米に比べて低い傾向がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "決算",
+                "description": "「ROEの向上を経営目標に掲げる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -206,7 +404,18 @@
         "slug": "dividend",
         "body": "<h3>分配金</h3><p>企業が利益の一部を株主に還元するお金。</p>",
         "short_description": "<h3>株主へのボーナス。</h3>",
-        "example": "「高配当株」"
+        "example": "「高配当株」",
+        "key_points": [
+            "株主への利益還元",
+            "年2回（中間・期末）支払われることが多い",
+            "「配当利回り（株価に対する配当金の割合）」が重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "楽しみ",
+                "description": "「配当金が入ったので寿司を食べに行く」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -217,7 +426,18 @@
         "slug": "shareholder-benefits",
         "body": "<h3>プレゼント</h3><p>企業が株主に自社製品や割引券などを贈ること。日本独特の制度。</p>",
         "short_description": "<h3>株主へのプレゼント。</h3>",
-        "example": "「優待生活」"
+        "example": "「優待生活」",
+        "key_points": [
+            "お米、カタログギフト、食事券などがもらえる",
+            "桐谷さんで有名になった",
+            "海外投資家からは「平等じゃない」と不評で、廃止する企業も増えている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ランチ",
+                "description": "「株主優待券を使ってタダで牛丼を食べる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -228,7 +448,18 @@
         "slug": "etf",
         "body": "<h3>上場投資信託</h3><p>Exchange Traded Fund。株式市場に上場している投資信託。株と同じようにリアルタイムで売買できる。</p>",
         "short_description": "<h3>上場している投資信託。</h3>",
-        "example": "「高配当ETF」"
+        "example": "「高配当ETF」",
+        "key_points": [
+            "投資信託と株のいいとこ取り商品",
+            "信託報酬（手数料）が安いものが多い",
+            "分配金が出るタイプが多いので、キャッシュフローを作りたい人に人気"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「VYM（米国高配当ETF）を買う」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -239,7 +470,18 @@
         "slug": "reit",
         "body": "<h3>不動産投資信託</h3><p>Real Estate Investment Trust。投資家から集めたお金で不動産を買い、家賃収入などを分配する。</p>",
         "short_description": "<h3>不動産への投資。</h3>",
-        "example": "「J-REIT」"
+        "example": "「J-REIT」",
+        "key_points": [
+            "少額から不動産オーナーになれる仕組み",
+            "配当利回りが比較的高め",
+            "オフィスビル、マンション、物流倉庫、ホテルなど投資対象は様々"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "分散投資",
+                "description": "「ポートフォリオにREITを組み込んで分散を図る」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -250,7 +492,18 @@
         "slug": "fx",
         "body": "<h3>外国為替証拠金取引</h3><p>Foreign Exchange。通貨を売買して利益を狙う取引。レバレッジをかけられるためハイリスク。</p>",
         "short_description": "<h3>通貨の取引。</h3>",
-        "example": "「FXで溶かす」"
+        "example": "「FXで溶かす」",
+        "key_points": [
+            "為替レートの変動を利用して儲ける取引",
+            "「レバレッジ（てこの原理）」で元手の最大25倍の取引ができるため、ハイリスク・ハイリターン",
+            "初心者が手を出すと火傷する代表格"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "深夜",
+                "description": "「雇用統計の発表で為替が乱高下してロスカットされる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -261,7 +514,18 @@
         "slug": "cryptocurrency",
         "body": "<h3>暗号資産</h3><p>インターネット上でやり取りされる通貨。ビットコインなど。</p>",
         "short_description": "<h3>暗号資産。</h3>",
-        "example": "「仮想通貨バブル」"
+        "example": "「仮想通貨バブル」",
+        "key_points": [
+            "Crypto Asset（暗号資産）",
+            "ビットコイン、イーサリアムなど",
+            "価格変動（ボラティリティ）が激しく、税金の計算（雑所得）が面倒"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "話題",
+                "description": "「ビットコインが最高値を更新した」と聞いて悔しがる時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -272,7 +536,18 @@
         "slug": "blockchain",
         "body": "<h3>分散型台帳</h3><p>取引履歴を鎖のように繋げて記録する技術。改ざんが非常に困難。</p>",
         "short_description": "<h3>改ざんできない台帳。</h3>",
-        "example": "「ブロックチェーン技術」"
+        "example": "「ブロックチェーン技術」",
+        "key_points": [
+            "仮想通貨の基盤となる技術",
+            "みんなで取引記録を共有・監視することで、不正や改ざんを防ぐ",
+            "「インターネット以来の発明」と言われることもある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "技術",
+                "description": "「ブロックチェーンを活用した新しいサービスを開発する」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -283,7 +558,18 @@
         "slug": "nft",
         "body": "<h3>非代替性トークン</h3><p>Non-Fungible Token。デジタルデータに「これが本物」という証明書をつける技術。</p>",
         "short_description": "<h3>デジタルデータの鑑定書。</h3>",
-        "example": "「NFTアート」"
+        "example": "「NFTアート」",
+        "key_points": [
+            "デジタルアートやゲームアイテムに資産価値を持たせられる",
+            "一時期爆発的に流行ったが、現在は下火傾向",
+            "「Bored Ape」などの高額な猿の絵が有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "アート",
+                "description": "「小学生の描いた絵がNFTで高値で売れた」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -294,7 +580,18 @@
         "slug": "fintech",
         "body": "<h3>金融IT</h3><p>Finance + Technology。ITを使った新しい金融サービス。スマホ決済など。</p>",
         "short_description": "<h3>金融×IT。</h3>",
-        "example": "「フィンテック企業」"
+        "example": "「フィンテック企業」",
+        "key_points": [
+            "PayPayやLINE Payなどのキャッシュレス決済、ロボアドバイザーなど",
+            "金融サービスをより便利に、身近にする技術",
+            "銀行の仕事を奪いつつある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「フィンテックベンチャーが台頭している」と聞く時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -305,7 +602,18 @@
         "slug": "portfolio-fin",
         "body": "<h3>資産配分</h3><p>どんな資産（株、債券、現金）をどの割合で持っているかの組み合わせ。</p>",
         "short_description": "<h3>資産の内訳。</h3>",
-        "example": "「ポートフォリオを見直す」"
+        "example": "「ポートフォリオを見直す」",
+        "key_points": [
+            "保有資産の組み合わせ",
+            "「卵を一つのカゴに盛るな（分散投資せよ）」が基本",
+            "クリエイターの作品集もポートフォリオと言うが、意味が違う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資",
+                "description": "「リスク分散のためにポートフォリオに金（ゴールド）を組み入れる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -316,7 +624,18 @@
         "slug": "asset-allocation",
         "body": "<h3>資産配分戦略</h3><p>どの資産クラスにどれくらい資金を振り分けるかを決めること。</p>",
         "short_description": "<h3>資産配分。</h3>",
-        "example": "「アセットアロケーションが重要」"
+        "example": "「アセットアロケーションが重要」",
+        "key_points": [
+            "長期投資のパフォーマンスの9割はこれで決まると言われる",
+            "「日本株、先進国株、債券、現金」の配分比率戦略",
+            "ポートフォリオは具体的な銘柄の組み合わせ、こちらは資産クラス（大きな括り）の配分"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "投資計画",
+                "description": "「年齢に合わせてアセットアロケーションを見直し、債券比率を高める」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -327,7 +646,18 @@
         "slug": "dollar-cost-averaging",
         "body": "<h3>定額積立</h3><p>毎回決まった金額で買い続ける方法。高い時は少なく、安い時は多く買えるため、平均購入単価を下げられる。</p>",
         "short_description": "<h3>コツコツ定額投資。</h3>",
-        "example": "「ドルコスト平均法のメリット」"
+        "example": "「ドルコスト平均法のメリット」",
+        "key_points": [
+            "積立投資の基本戦略",
+            "価格変動リスクを平準化できる",
+            "相場が読めない初心者にもおすすめの最強の投資法"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "暴落時",
+                "description": "「暴落しても『安くたくさん買える』とポジティブになれるのがドルコスト平均法」と思う時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -338,7 +668,18 @@
         "slug": "compound-interest",
         "body": "<h3>利息に利息</h3><p>運用で得た利益を元本に加えて再投資すること。雪だるま式に増える。「人類最大の発明（アインシュタイン）」。</p>",
         "short_description": "<h3>雪だるま式。</h3>",
-        "example": "「複利効果」"
+        "example": "「複利効果」",
+        "key_points": [
+            "利益が利益を生む仕組み",
+            "時間が経てば経つほど威力を発揮する",
+            "長期投資が勝てる最大の理由"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "計算",
+                "description": "「複利計算シミュレーションをして皮算用する」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -349,7 +690,18 @@
         "slug": "simple-interest",
         "body": "<h3>元本のみ利息</h3><p>最初の元本だけに利息がつくこと。増え方は直線的。</p>",
         "short_description": "<h3>元本にだけ利息。</h3>",
-        "example": "「単利計算」"
+        "example": "「単利計算」",
+        "key_points": [
+            "元本に対してのみ利息が計算される計算方法",
+            "複利に比べて資産の増え方は緩やか",
+            "銀行預金などは基本的に単利（利息を使わずに置いておけば複利っぽくはなるが）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "比較",
+                "description": "「単利と複利で20年後の資産額が全然違う」と驚く時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -360,7 +712,18 @@
         "slug": "bond",
         "body": "<h3>借用証書</h3><p>国や企業がお金を借りるために発行する券。「国債」「社債」。満期になると元本が戻ってくる。</p>",
         "short_description": "<h3>国の借金など。</h3>",
-        "example": "「米国債を買う」"
+        "example": "「米国債を買う」",
+        "key_points": [
+            "比較的安全な資産とされる（国や企業が潰れなければ）",
+            "株とは逆の動きをすることが多いため、リスクヘッジとして持たれる",
+            "「個人向け国債」は元本割れしないので人気"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "守り",
+                "description": "「リスクを下げるために債券をポートフォリオに入れる」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -371,7 +734,18 @@
         "slug": "interest-rate",
         "body": "<h3>お金のレンタル料</h3><p>お金を貸し借りする時の利息の割合。景気によって変動する。</p>",
         "short_description": "<h3>お金の値段。</h3>",
-        "example": "「マイナス金利」"
+        "example": "「マイナス金利」",
+        "key_points": [
+            "経済の体温計",
+            "金利が上がると株価は下がりやすく、金利が下がると株価は上がりやすい（シーソーの関係）",
+            "住宅ローン金利に直結する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ローン",
+                "description": "「固定金利にするか変動金利にするか悩む」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -382,7 +756,18 @@
         "slug": "quantitative-easing",
         "body": "<h3>お金ばら撒き</h3><p>中央銀行（日銀など）が市場にお金を大量に供給して、景気を良くしようとする政策。</p>",
         "short_description": "<h3>金融緩和政策。</h3>",
-        "example": "「異次元の量的緩和」"
+        "example": "「異次元の量的緩和」",
+        "key_points": [
+            "国債などを大量に買い取って、世の中にお金をジャブジャブにする政策",
+            "景気浮揚やデフレ脱却が目的",
+            "副作用として通貨安（円安）やインフレを招くことがある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「日銀が金融緩和を継続する」という発表を聞く時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -393,7 +778,18 @@
         "slug": "frb",
         "body": "<h3>連邦準備制度理事会</h3><p>アメリカの中央銀行制度の最高意思決定機関。世界経済に絶大な影響力を持つ。</p>",
         "short_description": "<h3>アメリカの日銀。</h3>",
-        "example": "「FRBの利上げ」"
+        "example": "「FRBの利上げ」",
+        "key_points": [
+            "Federal Reserve Board",
+            "世界経済の舵取り役",
+            "議長の発言一つで株価が乱高下する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "株",
+                "description": "「FRB議長の会見を深夜まで起きて見守る」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -404,7 +800,18 @@
         "slug": "fomc",
         "body": "<h3>連邦公開市場委員会</h3><p>アメリカの金融政策を決める会議。投資家が最も注目するイベント。</p>",
         "short_description": "<h3>米国の金融政策決定会合。</h3>",
-        "example": "「FOMC議事要旨」"
+        "example": "「FOMC議事要旨」",
+        "key_points": [
+            "FRBが開く、金融政策（金利を上げるか下げるかなど）を決める会合",
+            "年8回開催される",
+            "結果発表直後は相場が荒れる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "株",
+                "description": "「FOMC通過まで様子見ムードだ」などと言う時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -415,7 +822,18 @@
         "slug": "tankan",
         "body": "<h3>企業短期経済観測調査</h3><p>日銀が企業に対して行う景気調査。「大企業・製造業」の数値が重要視される。</p>",
         "short_description": "<h3>日銀の景気調査。</h3>",
-        "example": "「短観発表」"
+        "example": "「短観発表」",
+        "key_points": [
+            "日本銀行が四半期ごとに発表する経済アンケート結果",
+            "企業の景況感（景気がいいか悪いか）を表すDI（業況判断指数）が注目される",
+            "日本経済の健康診断"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「日銀短観で景況感が改善した」というニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -426,7 +844,18 @@
         "slug": "gdp",
         "body": "<h3>国内総生産</h3><p>国内で生み出された付加価値の合計。国の経済規模を表す。</p>",
         "short_description": "<h3>国内総生産。</h3>",
-        "example": "「実質GDP成長率」"
+        "example": "「実質GDP成長率」",
+        "key_points": [
+            "Gross Domestic Product",
+            "その国がどれだけ稼いだかを示す指標",
+            "日本はドイツに抜かれて4位に転落したことで話題になった"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経済",
+                "description": "「GDPマイナス成長」という見出しを見て不景気を感じる時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -437,7 +866,18 @@
         "slug": "cpi",
         "body": "<h3>消費者物価指数</h3><p>消費者が買うモノやサービスの値段の動き。インフレ率の判断に使われる。</p>",
         "short_description": "<h3>物価指数。</h3>",
-        "example": "「CPIショック」"
+        "example": "「CPIショック」",
+        "key_points": [
+            "Consumer Price Index",
+            "アメリカのCPI発表時は特に株価が大きく動く（CPIショック）",
+            "インフレが収まっているかどうかの判断基準になる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "株",
+                "description": "「今夜はCPI発表だからノーポジ（株を持たない状態）にしておく」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -448,7 +888,18 @@
         "slug": "business-cycle-indicator",
         "body": "<h3>景気のバロメーター</h3><p>景気の現状や将来を予測するための指標。「先行」「一致」「遅行」がある。</p>",
         "short_description": "<h3>景気の指標。</h3>",
-        "example": "「景気後退局面」"
+        "example": "「景気後退局面」",
+        "key_points": [
+            "内閣府が発表する景気の総合的な指標",
+            "「先行指数（未来）」「一致指数（現在）」「遅行指数（過去）」の3つがある",
+            "景気の山や谷を判定するのに使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「景気動向指数の悪化が続いている」と聞く時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -459,7 +910,18 @@
         "slug": "recession",
         "body": "<h3>景気後退</h3><p>景気が悪くなっている局面。</p>",
         "short_description": "<h3>不景気。</h3>",
-        "example": "「リセッション入り」"
+        "example": "「リセッション入り」",
+        "key_points": [
+            "景気後退局面のこと",
+            "一般的にGDPが2四半期連続でマイナスになるとリセッション入りとされる",
+            "株価にとってはマイナス材料だが、織り込み済みの場合もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「米国経済のリセッション懸念が高まる」と聞く時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -470,7 +932,18 @@
         "slug": "stagflation",
         "body": "<h3>不況下のインフレ</h3><p>不景気なのに物価が上がること。最悪の状態。</p>",
         "short_description": "<h3>不景気＋物価高。</h3>",
-        "example": "「スタグフレーションの懸念」"
+        "example": "「スタグフレーションの懸念」",
+        "key_points": [
+            "Stagnation（停滞）+ Inflation（インフレ）",
+            "給料は上がらないのに物価だけ上がるという地獄絵図",
+            "オイルショックの時などが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "生活",
+                "description": "「これってスタグフレーションじゃないの？」と愚痴る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -481,7 +954,18 @@
         "slug": "black-monday",
         "body": "<h3>暗黒の月曜日</h3><p>1987年10月19日（月）に起きた、史上最大級の株価暴落。</p>",
         "short_description": "<h3>株価大暴落。</h3>",
-        "example": "「ブラックマンデーの再来」"
+        "example": "「ブラックマンデーの再来」",
+        "key_points": [
+            "ニューヨーク株式市場の暴落を発端とした世界同時株安",
+            "暴落の代名詞",
+            "2024年8月の日本株暴落（令和のブラックマンデー）も記憶に新しい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "暴落",
+                "description": "「ブラックマンデーを超える下げ幅」とニュースで報じられる時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -492,7 +976,18 @@
         "slug": "lehman-shock",
         "body": "<h3>世界金融危機</h3><p>2008年、リーマン・ブラザーズの破綻をきっかけに起きた世界的な金融危機。</p>",
         "short_description": "<h3>世界的大不況。</h3>",
-        "example": "「リーマン級の衝撃」"
+        "example": "「リーマン級の衝撃」",
+        "key_points": [
+            "米国の投資銀行リーマン・ブラザーズの破綻による金融危機",
+            "「100年に一度の危機」と言われた",
+            "派遣切りなどの雇用不安も招いた"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "思い出",
+                "description": "「リーマンショックの時は就職活動が地獄だった」と振り返る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -503,7 +998,18 @@
         "slug": "bubble",
         "body": "<h3>泡</h3><p>実態以上に資産価格が高騰すること。弾けると大暴落する。</p>",
         "short_description": "<h3>価格の異常な高騰。</h3>",
-        "example": "「バブル崩壊」"
+        "example": "「バブル崩壊」",
+        "key_points": [
+            "投機熱によって価格が釣り上がった状態",
+            "「今回の上げはバブルではない」と言われ始めたらバブルの天井であることが多い",
+            "日本のバブル崩壊は有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "心配",
+                "description": "「AI関連株はバブルなんじゃないか？」と疑う時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -514,7 +1020,18 @@
         "slug": "stock-option",
         "body": "<h3>自社株購入権</h3><p>従業員が自社の株をあらかじめ決められた価格で買う権利。株価が上がれば儲かる。</p>",
         "short_description": "<h3>自社株を買う権利。</h3>",
-        "example": "「ストックオプション付与」"
+        "example": "「ストックオプション付与」",
+        "key_points": [
+            "役員や従業員へのインセンティブ報酬",
+            "会社が成長して株価が上がれば億万長者も夢じゃない",
+            "スタートアップ企業でよく導入されている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "転職",
+                "description": "「ストックオプションにつられてベンチャーに転職する」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -525,7 +1042,18 @@
         "slug": "m-and-a",
         "body": "<h3>合併・買収</h3><p>Mergers and Acquisitions。企業の合併や買収。</p>",
         "short_description": "<h3>会社の売買。</h3>",
-        "example": "「M&A仲介」"
+        "example": "「M&A仲介」",
+        "key_points": [
+            "時間を金で買う経営戦略",
+            "後継者不足の中小企業の事業承継手段としても増えている",
+            "買収された側の社員は大変"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「セブン＆アイがカナダの企業から買収提案を受けた」というM&Aニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -536,7 +1064,18 @@
         "slug": "tob",
         "body": "<h3>株式公開買付け</h3><p>Take-Over Bid。期間や価格を公開して、株主から株を買い集めること。</p>",
         "short_description": "<h3>株の買い集め。</h3>",
-        "example": "「敵対的TOB」"
+        "example": "「敵対的TOB」",
+        "key_points": [
+            "市場価格よりも高い値段（プレミアム）で買い取ってくれることが多い",
+            "経営陣の同意を得ない「敵対的TOB」もある",
+            "TOBがかかると株価は暴騰する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ラッキー",
+                "description": "「持っていた株がTOBされて大儲けした」時"
+            }
+        ]
     },
     {
         "category_slug": "finance",
@@ -547,6 +1086,17 @@
         "slug": "delisting",
         "body": "<h3>市場撤退</h3><p>証券取引所での株の売買ができなくなること。倒産だけでなく、M&Aや戦略的撤退もある。</p>",
         "short_description": "<h3>株式市場からの撤退。</h3>",
-        "example": "「上場廃止へ」"
+        "example": "「上場廃止へ」",
+        "key_points": [
+            "証券取引所の基準を満たせなくなったり、自ら廃止申請したりすること",
+            "MBO（経営陣による買収）で非上場化することも増えている",
+            "上場廃止＝倒産とは限らない（整理ポストに入る）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「あの名門企業が上場廃止になるらしい」と驚く時"
+            }
+        ]
     }
 ]

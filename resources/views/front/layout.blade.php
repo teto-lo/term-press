@@ -365,7 +365,7 @@
                         <a href="{{ route('contact.index') }}" class="hover:text-white transition-colors">お問い合わせ</a>
                     </div>
                     <p class="text-sm text-indigo-200 mb-2">
-                        知らないと、会話が一瞬止まる言葉たち 💬
+                        知らないと、会話が一瞬止まる言葉たち
                     </p>
                     <p class="text-xs text-indigo-300/60">
                         &copy; {{ date('Y') }} TermPress. All rights reserved.

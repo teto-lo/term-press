@@ -8,7 +8,22 @@
         "slug": "agenda",
         "body": "<h3>議題、行動計画</h3><p>会議の進行予定表。「今日のアジェンダを確認します」。</p>",
         "short_description": "<h3>会議の議題。</h3>",
-        "example": "「アジェンダを作成する」"
+        "example": "「アジェンダを作成する」",
+        "key_points": [
+            "Agenda（議題、予定表）",
+            "会議を効率的に進めるために事前に用意する進行表のこと",
+            "会議のゴール、時間配分、議題などを記載する"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議準備",
+                "description": "「事前にアジェンダを共有しておいてください」と指示する時"
+            },
+            {
+                "title": "進行",
+                "description": "「アジェンダに沿って進めましょう」とファシリテートする時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -19,7 +34,22 @@
         "slug": "evidence",
         "body": "<h3>証拠、根拠</h3><p>主張を裏付けるデータや事実。「その数字のエビデンスは？」</p>",
         "short_description": "<h3>証拠。</h3>",
-        "example": "「エビデンスを残す」"
+        "example": "「エビデンスを残す」",
+        "key_points": [
+            "Evidence（証拠、形跡）",
+            "発言や提案の根拠となるデータや事実のこと",
+            "契約書や議事録など、「言った言わない」を防ぐための証拠も指す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "プレゼン",
+                "description": "「この仮説のエビデンス（裏付けデータ）はありますか？」と突っ込まれる時"
+            },
+            {
+                "title": "トラブル防止",
+                "description": "「メールでやり取りしてエビデンスを残す」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -30,7 +60,22 @@
         "slug": "on-schedule",
         "body": "<h3>予定通り</h3><p>on scheduleの略。進行が計画通りであること。「進捗はオンスケです」。</p>",
         "short_description": "<h3>予定通り。</h3>",
-        "example": "「工期はオンスケ」"
+        "example": "「工期はオンスケ」",
+        "key_points": [
+            "On Schedule（予定通り）の略",
+            "プロジェクトなどの進捗が、計画通りに進んでいる状態",
+            "遅れている場合は「ビハインド」と言う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "進捗報告",
+                "description": "「現在のところ全てオンスケで進んでいます」と報告して安心させる時"
+            },
+            {
+                "title": "確認",
+                "description": "「オンスケでいけそう？」とメンバーに聞く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -41,7 +86,22 @@
         "slug": "capacity",
         "body": "<h3>許容量</h3><p>Capacity。能力や収容の限界。「キャパオーバー」で限界を超えた状態。</p>",
         "short_description": "<h3>余裕、限界。</h3>",
-        "example": "「キャパがいっぱい」"
+        "example": "「キャパがいっぱい」",
+        "key_points": [
+            "Capacity（容量、能力）の略",
+            "仕事などをこなせる許容量や能力の限界",
+            "「キャパい（キャパオーバーで辛い）」と若者が使うこともある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "業務調整",
+                "description": "「もうキャパオーバーなので新しい仕事は受けられません」と断る時"
+            },
+            {
+                "title": "相談",
+                "description": "「彼のキャパを考慮して仕事を振ろう」と配慮する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -52,7 +112,22 @@
         "slug": "summary",
         "body": "<h3>要約</h3><p>長い文章やデータの要点をまとめたもの。「議事録のサマリー」。</p>",
         "short_description": "<h3>まとめ。</h3>",
-        "example": "「ニュースのサマリー」"
+        "example": "「ニュースのサマリー」",
+        "key_points": [
+            "Summary（要約、概要）",
+            "長い報告書やデータを、短時間で理解できるように要約したもの",
+            "「エグゼクティブサマリー」は経営陣向けの要約"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "報告",
+                "description": "「忙しい社長のために1枚のサマリーを作る」時"
+            },
+            {
+                "title": "共有",
+                "description": "「会議の内容をサマリーで共有してください」と頼まれる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -63,7 +138,22 @@
         "slug": "short",
         "body": "<h3>不足</h3><p>資金や在庫が足りなくなること。「資金がショートする」。</p>",
         "short_description": "<h3>足りなくなること。</h3>",
-        "example": "「在庫ショート」"
+        "example": "「在庫ショート」",
+        "key_points": [
+            "Shortage（不足）",
+            "資金繰りが行き詰まること（資金ショート）や、在庫がなくなること",
+            "ビジネスでは致命的な状況を指すことが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経理",
+                "description": "「来月の支払いで資金がショートしそうだ」と焦る時"
+            },
+            {
+                "title": "小売",
+                "description": "「人気商品がショートして機会損失を出した」と悔やむ時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -74,7 +164,22 @@
         "slug": "scheme",
         "body": "<h3>枠組み</h3><p>事業や計画の仕組み。「課金スキームを考える」。</p>",
         "short_description": "<h3>仕組み。</h3>",
-        "example": "「新しい販売スキーム」"
+        "example": "「新しい販売スキーム」",
+        "key_points": [
+            "Scheme（計画、体系）",
+            "継続的に成果を出すための仕組みや構造のこと",
+            "ビジネスモデルの根幹となる部分"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「画期的な物流スキームを構築する」時"
+            },
+            {
+                "title": "説明",
+                "description": "「この事業の収益スキームを図解してください」と言われる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -85,7 +190,22 @@
         "slug": "task",
         "body": "<h3>作業、課題</h3><p>やるべき仕事の最小単位。「タスク管理」。</p>",
         "short_description": "<h3>やるべき作業。</h3>",
-        "example": "「タスクを消化する」"
+        "example": "「タスクを消化する」",
+        "key_points": [
+            "Task（課せられた仕事）",
+            "プロジェクトなどを遂行するために処理すべき、具体的な作業単位",
+            "「マルチタスク（同時並行）」は実は効率が悪いという説も"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "進捗管理",
+                "description": "「タスクを細分化して管理しやすくする」時"
+            },
+            {
+                "title": "日常",
+                "description": "「タスクが山積みで終わらない」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -96,7 +216,22 @@
         "slug": "knowledge",
         "body": "<h3>知識、知見</h3><p>組織に蓄積された有益な情報やノウハウ。「ナレッジ共有」。</p>",
         "short_description": "<h3>役立つ知識。</h3>",
-        "example": "「ナレッジベース」"
+        "example": "「ナレッジベース」",
+        "key_points": [
+            "Knowledge（知識）",
+            "単なる情報ではなく、ビジネスに役立つ有益な知識やノウハウ",
+            "属人化（その人しか知らない状態）を防ぐために共有・蓄積されるもの"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "社内共有",
+                "description": "「退職者のナレッジを引き継ぐ必要がある」時"
+            },
+            {
+                "title": "システム",
+                "description": "「社内Wikiを作ってナレッジの蓄積を図る」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -107,7 +242,22 @@
         "slug": "buffer",
         "body": "<h3>余裕</h3><p>時間や予算にあらかじめ持たせておく余裕。「納期にバッファを設ける」。</p>",
         "short_description": "<h3>余裕を持たせる。</h3>",
-        "example": "「バッファを見ておく」"
+        "example": "「バッファを見ておく」",
+        "key_points": [
+            "Buffer（緩衝装置）",
+            "不測の事態に備えて、あらかじめ余分に確保しておく時間や予算、人員など",
+            "「バッファがない（ギリギリ）」状態はリスクが高い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スケジュール",
+                "description": "「トラブル対応のために2日ほどバッファを積んでおく」時"
+            },
+            {
+                "title": "予算",
+                "description": "「見積もりにバッファを乗せて提出する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -118,7 +268,22 @@
         "slug": "fix",
         "body": "<h3>決定、確定</h3><p>内容が最終決定すること。「仕様をフィックスする」。</p>",
         "short_description": "<h3>確定すること。</h3>",
-        "example": "「スケジュールがフィックスした」"
+        "example": "「スケジュールがフィックスした」",
+        "key_points": [
+            "Fix（固定する、修理する）",
+            "変更の余地がなくなり、最終的に確定すること",
+            "ビジネスでは「決定」の意味でよく使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "納品前",
+                "description": "「仕様を早くフィックスさせないと開発に入れない」と急かす時"
+            },
+            {
+                "title": "日程調整",
+                "description": "「来月の出張日程がフィックスしました」と連絡する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -129,7 +294,22 @@
         "slug": "phase",
         "body": "<h3>段階</h3><p>プロジェクトなどの区切り。「設計フェーズ」「テストフェーズ」。</p>",
         "short_description": "<h3>段階。</h3>",
-        "example": "「次のフェーズに移る」"
+        "example": "「次のフェーズに移る」",
+        "key_points": [
+            "Phase（局面、段階）",
+            "プロジェクトや計画の一連の流れの中の、区切られた期間や段階",
+            "「フェーズ1（初期段階）」「フェーズ2（拡大段階）」のように使う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "プロジェクト管理",
+                "description": "「開発フェーズが終了し、テストフェーズに入ります」と報告する時"
+            },
+            {
+                "title": "戦略",
+                "description": "「まだそのフェーズではない（時期尚早）」と却下する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -140,7 +320,22 @@
         "slug": "priority",
         "body": "<h3>優先順位</h3><p>優先度。「プライオリティが高いタスク」。</p>",
         "short_description": "<h3>優先度。</h3>",
-        "example": "「プライオリティをつけて」"
+        "example": "「プライオリティをつけて」",
+        "key_points": [
+            "Priority（優先）",
+            "仕事の重要度や緊急度に応じた優先順位のこと",
+            "リソースが限られている中で、何を最優先すべきかを判断する際に使う"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "タスク管理",
+                "description": "「こっちの案件の方がプライオリティが高い」と指示を変更する時"
+            },
+            {
+                "title": "判断",
+                "description": "「プライオリティを見誤って、重要な仕事を後回しにしてしまった」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -151,7 +346,22 @@
         "slug": "brush-up",
         "body": "<h3>磨き上げる</h3><p>現状のものをさらに良くすること。「企画書をブラッシュアップする」。</p>",
         "short_description": "<h3>より良くする。</h3>",
-        "example": "「デザインのブラッシュアップ」"
+        "example": "「デザインのブラッシュアップ」",
+        "key_points": [
+            "Brush Up（磨き上げる）",
+            "既存の成果物やスキルを、さらに洗練された良いものに改善すること",
+            "完成度を高める最後のひと押し"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "レビュー",
+                "description": "「内容は良いので、もう少し資料のデザインをブラッシュアップして」と指示する時"
+            },
+            {
+                "title": "自己研鑽",
+                "description": "「英語力をブラッシュアップするために留学する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -162,7 +372,22 @@
         "slug": "benefit",
         "body": "<h3>利益、恩恵</h3><p>商品を使うことで顧客が得られる良い未来。「メリット」は特徴、「ベネフィット」は体験。</p>",
         "short_description": "<h3>得られる恩恵。</h3>",
-        "example": "「ユーザーのベネフィット」"
+        "example": "「ユーザーのベネフィット」",
+        "key_points": [
+            "Benefit（利益、恩恵）",
+            "商品やサービスの機能（メリット）によって、顧客が得られる「嬉しい体験」や「ハッピーな未来」のこと",
+            "「ドリルを売るな、穴を売れ」の「穴（穴が開いて目的が達せられること）」がベネフィット"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "マーケティング",
+                "description": "「機能説明ばかりせず、ベネフィットを訴求しろ（何が嬉しいのか伝えろ）」と指導される時"
+            },
+            {
+                "title": "商品比較",
+                "description": "「この商品ならではのベネフィットは何か？」と問う時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -173,7 +398,22 @@
         "slug": "pending",
         "body": "<h3>保留</h3><p>決定を先送りにすること。「この件は一旦ペンディングで」。</p>",
         "short_description": "<h3>保留にする。</h3>",
-        "example": "「プロジェクトがペンディング」"
+        "example": "「プロジェクトがペンディング」",
+        "key_points": [
+            "Pending（未決定、係争中）",
+            "中止ではなく、一時的に中断・保留にすること",
+            "問題を先送りする際によく使われる便利な言葉"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「時間が足りないので、残りの議題はペンディングにします」と打ち切る時"
+            },
+            {
+                "title": "進捗",
+                "description": "「あの案件はずっとペンディングのままだ（塩漬け）」と嘆く時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -184,7 +424,22 @@
         "slug": "bottleneck",
         "body": "<h3>障害、滞る箇所</h3><p>全体の進行を妨げている一番狭い部分。「処理速度のボトルネック」。</p>",
         "short_description": "<h3>詰まっている箇所。</h3>",
-        "example": "「作業のボトルネック」"
+        "example": "「作業のボトルネック」",
+        "key_points": [
+            "瓶の首（Bottleneck）が狭くて中身が出にくいことから",
+            "全体の工程の中で、最も能力が低く、全体の足を引っ張ってしまっている箇所",
+            "ボトルネックを解消しないと、他の部分を強化しても全体の効率は上がらない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "業務改善",
+                "description": "「承認フローがボトルネックになっていて仕事が進まない」と指摘する時"
+            },
+            {
+                "title": "システム",
+                "description": "「サーバーの処理速度がボトルネックだ」と特定する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -195,7 +450,22 @@
         "slug": "milestone",
         "body": "<h3>中間目標地点</h3><p>プロジェクトの節目。道路の標石が由来。「第一マイルストーン達成」。</p>",
         "short_description": "<h3>節目、中間目標。</h3>",
-        "example": "「マイルストーンを置く」"
+        "example": "「マイルストーンを置く」",
+        "key_points": [
+            "Milestone（一里塚）",
+            "長期間のプロジェクトなどで設定される、進捗管理のための中間目標地点や節目",
+            "マイルストーンごとの達成度を確認することで、大きな遅れを防ぐ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スケジュール",
+                "description": "「来月末のリリースをマイルストーンに設定する」時"
+            },
+            {
+                "title": "お祝い",
+                "description": "「大きなマイルストーンを達成したので打ち上げをする」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -206,7 +476,22 @@
         "slug": "respect",
         "body": "<h3>尊敬、尊重</h3><p>相手を尊重すること。「相手へのリスペクトが足りない」。</p>",
         "short_description": "<h3>尊敬する。</h3>",
-        "example": "「リスペクトを持って接する」"
+        "example": "「リスペクトを持って接する」",
+        "key_points": [
+            "Respect（尊敬、尊重）",
+            "相手の立場や意見を重んじること",
+            "ビジネスだけでなく、ストリート文化やヒップホップでも重要な概念"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "人間関係",
+                "description": "「意見は違うが、彼の実力はリスペクトしている」と認める時"
+            },
+            {
+                "title": "トラブル",
+                "description": "「クリエイターへのリスペクトがない修正依頼だ」と怒る時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -217,7 +502,22 @@
         "slug": "reschedule",
         "body": "<h3>日程変更</h3><p>リスケジュールの略。予定を組み直すこと。「会議をリスケする」。</p>",
         "short_description": "<h3>予定変更。</h3>",
-        "example": "「雨でリスケになった」"
+        "example": "「雨でリスケになった」",
+        "key_points": [
+            "Reschedule（スケジュールのし直し）",
+            "会議や納品などの予定を変更すること",
+            "直前のリスケはマナー違反になりやすいので注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "連絡",
+                "description": "「体調不良のため、明日の打ち合わせをリスケさせてください」と謝る時"
+            },
+            {
+                "title": "調整",
+                "description": "「台風が来ているので旅行はリスケしよう」と決める時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -228,7 +528,22 @@
         "slug": "alliance",
         "body": "<h3>提携</h3><p>複数の企業が協力関係を結ぶこと。「業務提携」など。</p>",
         "short_description": "<h3>企業間の協力。</h3>",
-        "example": "「アライアンスを組む」"
+        "example": "「アライアンスを組む」",
+        "key_points": [
+            "Alliance（同盟、提携）",
+            "お互いの強みを活かすために、企業同士が協力体制（業務提携）を組むこと",
+            "航空会社の「スターアライアンス」などが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営戦略",
+                "description": "「大手とのアライアンスを組んで販路を拡大する」時"
+            },
+            {
+                "title": "ニュース",
+                "description": "「〇〇社と××社が戦略的アライアンスを発表」という記事を見る時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -239,7 +554,22 @@
         "slug": "initiative",
         "body": "<h3>主導権</h3><p>リーダーシップを取って物事を進めること。「イニシアチブを握る」。</p>",
         "short_description": "<h3>主導権。</h3>",
-        "example": "「彼がイニシアチブをとった」"
+        "example": "「彼がイニシアチブをとった」",
+        "key_points": [
+            "Initiative（先導、主導権）",
+            "自ら率先して物事を進めること、または主導権を握ること",
+            "「イニシアチブを取る」＝「リーダーシップを発揮する」「有利な状況を作る」"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「議論のイニシアチブを取って、自分のペースに持ち込む」時"
+            },
+            {
+                "title": "政治",
+                "description": "「外交交渉でイニシアチブを握る」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -250,7 +580,22 @@
         "slug": "asap",
         "body": "<h3>至急</h3><p>As Soon As Possible。「なる早」。「ASAPでお願いします」は「できるだけ早く」。</p>",
         "short_description": "<h3>なる早で。</h3>",
-        "example": "「回答はASAPで」"
+        "example": "「回答はASAPで」",
+        "key_points": [
+            "As Soon As Possibleの略。「エイサップ」や「アサップ」と読む",
+            "「できるだけ早く」「至急」という意味",
+            "具体的期限がないため、認識のズレが生じやすいので注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "依頼",
+                "description": "「この資料、ASAP（なる早）でお願い」と頼んで嫌がられる時"
+            },
+            {
+                "title": "緊急",
+                "description": "「トラブル発生、ASAPで対応せよ」と指示が飛ぶ時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -261,7 +606,18 @@
         "slug": "nr",
         "body": "<h3>ノーリターン</h3><p>外出先から会社に戻らず、そのまま帰宅すること。「直帰」。</p>",
         "short_description": "<h3>直帰すること。</h3>",
-        "example": "「午後は○○社訪問後NR」"
+        "example": "「午後は○○社訪問後NR」",
+        "key_points": [
+            "No Return（帰らない）の略",
+            "外出先から会社に戻らず直帰すること",
+            "予定表（ホワイトボード）に「NR」と書いて外回りのまま帰宅する文化"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "予定表",
+                "description": "「今日の午後は客先行ってそのままNRします」と伝える時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -272,7 +628,22 @@
         "slug": "ojt",
         "body": "<h3>実務研修</h3><p>On the Job Training。実際の仕事をしながら仕事を覚える教育方法。</p>",
         "short_description": "<h3>現場で覚える。</h3>",
-        "example": "「新人はOJTで教育」"
+        "example": "「新人はOJTで教育」",
+        "key_points": [
+            "On-the-Job Training（職場内訓練）",
+            "座学ではなく、実務を通して上司や先輩から仕事を教わること",
+            "「放置プレイ（見て覚えろ）」になりがちなのが問題点"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "新人教育",
+                "description": "「研修期間が終わったらOJTで現場に配属される」時"
+            },
+            {
+                "title": "採用",
+                "description": "「未経験でも安心のOJT制度あり」という求人を見る時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -283,7 +654,22 @@
         "slug": "kpi",
         "body": "<h3>重要業績評価指標</h3><p>Key Performance Indicator。目標達成のための中間目標の数値。「KPIを達成する」。</p>",
         "short_description": "<h3>中間目標の数値。</h3>",
-        "example": "「KPIを設定する」"
+        "example": "「KPIを設定する」",
+        "key_points": [
+            "Key Performance Indicator（重要業績評価指標）の略",
+            "最終目標（KGI）を達成するための、プロセスごとの数値目標",
+            "「訪問数」「受注率」などがKPIになる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「今月のKPIは未達です」と報告して叱られる時"
+            },
+            {
+                "title": "施策",
+                "description": "「KPIを達成するためのアクションプランを考えよう」と議論する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -294,7 +680,18 @@
         "slug": "kgi",
         "body": "<h3>重要目標達成指標</h3><p>Key Goal Indicator。最終的なゴールの数値（売上など）。</p>",
         "short_description": "<h3>最終ゴールの数値。</h3>",
-        "example": "「KGIは売上10億円」"
+        "example": "「KGIは売上10億円」",
+        "key_points": [
+            "Key Goal Indicator（重要目標達成指標）の略",
+            "組織やプロジェクトの最終的なゴール（売上、利益など）",
+            "KPI達成の結果として、KGIが達成される関係"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「今期のKGI（売上目標）を必達せよ」と号令がかかる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -305,7 +702,22 @@
         "slug": "pdca",
         "body": "<h3>改善サイクル</h3><p>Plan(計画)→Do(実行)→Check(評価)→Action(改善)を繰り返すこと。「PDCAを回す」。</p>",
         "short_description": "<h3>改善の繰り返し。</h3>",
-        "example": "「高速でPDCAを回せ」"
+        "example": "「高速でPDCAを回せ」",
+        "key_points": [
+            "Plan（計画）、Do（実行）、Check（評価）、Action（改善）の4段階",
+            "業務改善のための基本的なサイクル",
+            "最近は「OODA（ウーダ）ループ」の方が注目されていることも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "業務改善",
+                "description": "「P（計画）ばかりでD（実行）しないPDCA」を批判される時"
+            },
+            {
+                "title": "スピード",
+                "description": "「失敗してもいいから高速でPDCAを回して改善しろ」と指示される時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -316,7 +728,18 @@
         "slug": "btob",
         "body": "<h3>対企業取引</h3><p>Business to Business。企業が企業に商品を売るビジネスモデル。</p>",
         "short_description": "<h3>企業向けビジネス。</h3>",
-        "example": "「BtoBマーケティング」"
+        "example": "「BtoBマーケティング」",
+        "key_points": [
+            "Business to Business（企業対企業）",
+            "法人顧客を対象としたビジネス",
+            "金額が大きく、合理的判断で決まることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「BtoB営業は信頼関係作りが重要だ」と教わる時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -327,7 +750,18 @@
         "slug": "btoc",
         "body": "<h3>対消費者取引</h3><p>Business to Consumer。企業が一般消費者に商品を売るビジネスモデル。</p>",
         "short_description": "<h3>消費者向けビジネス。</h3>",
-        "example": "「BtoCサイト」"
+        "example": "「BtoCサイト」",
+        "key_points": [
+            "Business to Consumer（企業対消費者）",
+            "一般消費者を対象としたビジネス",
+            "感情やイメージで購入が決まることも多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ECサイト",
+                "description": "「BtoCのECサイトを立ち上げる」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -338,7 +772,22 @@
         "slug": "consensus",
         "body": "<h3>合意</h3><p>関係者の同意を得ること。「事前にコンセンサスを取っておく」。根回し。</p>",
         "short_description": "<h3>合意、根回し。</h3>",
-        "example": "「コンセンサス不足」"
+        "example": "「コンセンサス不足」",
+        "key_points": [
+            "Consensus（合意）",
+            "関係者全員の合意形成のこと",
+            "日本企業では特に重要視される「根回し」をカッコよく言った言葉"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "会議",
+                "description": "「この件は部長のコンセンサスが取れていないので保留です」と言われる時"
+            },
+            {
+                "title": "プロジェクト",
+                "description": "「関係各所のコンセンサスを取るだけで一苦労」な時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -349,7 +798,18 @@
         "slug": "synergy-biz",
         "body": "<h3>相乗効果</h3><p>複数のものが組み合わさって、より大きな効果を生むこと。「グループシナジー」。</p>",
         "short_description": "<h3>相乗効果。</h3>",
-        "example": "「シナジーが期待できる」"
+        "example": "「シナジーが期待できる」",
+        "key_points": [
+            "Synergy（相乗効果）",
+            "１＋１が２以上になること",
+            "事業統合や協業の目的として語られることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "M&A",
+                "description": "「両社の強みを合わせれば大きなシナジーが生まれる」と説明する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -360,7 +820,18 @@
         "slug": "scheme-biz",
         "body": "<h3>枠組み</h3><p>物事を実行するための計画的な枠組みや仕組み。</p>",
         "short_description": "<h3>仕組み。</h3>",
-        "example": "「新しいスキーム」"
+        "example": "「新しいスキーム」",
+        "key_points": [
+            "Scheme（計画、体系）",
+            "ビジネスにおける「仕組み」や「枠組み」のこと",
+            "収益を生み出す構造全体を指す"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ビジネス",
+                "description": "「持続可能な収益スキームを構築する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -371,7 +842,22 @@
         "slug": "screening",
         "body": "<h3>ふるい分け</h3><p>多くの候補から条件に合うものを選別すること。「採用スクリーニング」。</p>",
         "short_description": "<h3>選別すること。</h3>",
-        "example": "「投資先をスクリーニング」"
+        "example": "「投資先をスクリーニング」",
+        "key_points": [
+            "Screening（ふるいにかける）",
+            "多数の候補の中から条件に合うものを選び出すこと",
+            "採用や投資、検査（人間ドックなど）で使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "採用",
+                "description": "「書類選考で数百人をスクリーニングする」時"
+            },
+            {
+                "title": "投資",
+                "description": "「有望な銘柄をスクリーニングする」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -382,7 +868,18 @@
         "slug": "segment",
         "body": "<h3>区分、客層</h3><p>市場を特定の条件で分けたグループ。「顧客セグメント」。</p>",
         "short_description": "<h3>グループ分け。</h3>",
-        "example": "「富裕層セグメント」"
+        "example": "「富裕層セグメント」",
+        "key_points": [
+            "Segment（断片、区分）",
+            "マーケティングにおいて、市場や顧客を属性ごとに分けたひと塊",
+            "「セグメンテーション（細分化）」してターゲットを絞る"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "マーケティング",
+                "description": "「若年層セグメントへのアプローチを強化する」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -393,7 +890,18 @@
         "slug": "solution-biz",
         "body": "<h3>解決策</h3><p>顧客の問題を解決するシステムやサービスのこと。</p>",
         "short_description": "<h3>問題解決策。</h3>",
-        "example": "「ITソリューション」"
+        "example": "「ITソリューション」",
+        "key_points": [
+            "Solution（解決）",
+            "顧客の課題を解決するための手段やサービス",
+            "IT業界で特によく使われる言葉"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "営業",
+                "description": "「我が社のソリューションで御社の課題を解決します」と提案する時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -404,7 +912,18 @@
         "slug": "default-biz",
         "body": "<h3>債務不履行</h3><p>借金が返せなくなること。「国債のデフォルト」。IT用語の「初期設定」とは意味が違うので注意。</p>",
         "short_description": "<h3>借金を返せないこと。</h3>",
-        "example": "「アルゼンチンがデフォルト」"
+        "example": "「アルゼンチンがデフォルト」",
+        "key_points": [
+            "金融用語では「債務不履行（借金の返済ができなくなること）」",
+            "国家財政が破綻する場合などに「国債のデフォルト」とニュースになる",
+            "PC用語の「初期設定」とは意味が全く違うので文脈に注意"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ニュース",
+                "description": "「〇〇国のデフォルト懸念が高まる」という経済ニュースを見る時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -415,7 +934,18 @@
         "slug": "top-down",
         "body": "<h3>上意下達</h3><p>上層部が決定し、現場に指示を下す方式。決断が早いが現場の不満が出やすい。</p>",
         "short_description": "<h3>上からの命令。</h3>",
-        "example": "「トップダウンの経営」"
+        "example": "「トップダウンの経営」",
+        "key_points": [
+            "組織の上層部（トップ）が意思決定し、下部（ダウン）へ指示すること",
+            "意思決定が早いが、現場の意見が反映されにくいデメリットもある",
+            "ワンマン経営者に多いスタイル"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "組織",
+                "description": "「うちはトップダウンだから社長の言うことは絶対だ」と諦める時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -426,7 +956,18 @@
         "slug": "bottom-up",
         "body": "<h3>下意上達</h3><p>現場からの提案を吸い上げて全体の方針を決める方式。</p>",
         "short_description": "<h3>下からの提案。</h3>",
-        "example": "「ボトムアップ型組織」"
+        "example": "「ボトムアップ型組織」",
+        "key_points": [
+            "現場（ボトム）からの意見や提案を吸い上げて、経営層（アップ）が意思決定すること",
+            "現場のモチベーションは上がるが、決定に時間がかかる",
+            "風通しの良い組織に見られるスタイル"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「現場の改善案をボトムアップで経営会議にあげる」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -437,7 +978,18 @@
         "slug": "niche-biz",
         "body": "<h3>隙間</h3><p>大手が参入しない小さな市場。「ニッチな産業」。</p>",
         "short_description": "<h3>隙間市場。</h3>",
-        "example": "「ニッチトップを狙う」"
+        "example": "「ニッチトップを狙う」",
+        "key_points": [
+            "大手が手を出さない、または気づいていない小さな市場",
+            "競合が少ないため、独自性を出しやすい",
+            "「マニアック」と同じような意味で使われることも"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「ニッチな分野で圧倒的なシェアを取る」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -448,7 +1000,18 @@
         "slug": "budget",
         "body": "<h3>予算</h3><p>使えるお金の枠。「バジェットが足りない」。</p>",
         "short_description": "<h3>予算。</h3>",
-        "example": "「バジェット管理」"
+        "example": "「バジェット管理」",
+        "key_points": [
+            "Budget（予算）",
+            "プロジェクトや事業に割り当てられた予算のこと",
+            "「バジェット」と言うとなぜか賢そうに聞こえる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "企画",
+                "description": "「いいアイデアだがバジェット内に収まらない」と却下される時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -459,7 +1022,18 @@
         "slug": "paradigm-shift",
         "body": "<h3>劇的変化</h3><p>その時代の常識や価値観が劇的に変化させられること。「天動説から地動説へ」のような。</p>",
         "short_description": "<h3>常識の激変。</h3>",
-        "example": "「業界のパラダイムシフト」"
+        "example": "「業界のパラダイムシフト」",
+        "key_points": [
+            "Paradigm（規範、範例）のShift（移動）",
+            "当たり前だと思っていた常識や価値観が劇的に変わること",
+            "イノベーションによって起こることが多い（スマホの登場など）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "歴史",
+                "description": "「AIの登場はIT業界のパラダイムシフトだ」と語る時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -470,7 +1044,18 @@
         "slug": "feasibility",
         "body": "<h3>実現可能性</h3><p>その計画が実行可能かどうか。「フィジビリ調査（F/S）」。</p>",
         "short_description": "<h3>実現可能性。</h3>",
-        "example": "「フィジビリを確認する」"
+        "example": "「フィジビリを確認する」",
+        "key_points": [
+            "Feasibility（実行可能性）",
+            "新規事業などが技術的・採算的に実行可能かどうかの調査",
+            "「フィジビリ」と略されることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "新規事業",
+                "description": "「まずは小規模に始めてフィジビリを確認しよう」という時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -481,7 +1066,18 @@
         "slug": "blue-ocean",
         "body": "<h3>競争のない市場</h3><p>競合相手がいない未開拓の市場。血で血を洗う競争市場は「レッドオーシャン」。</p>",
         "short_description": "<h3>独り勝ちできる市場。</h3>",
-        "example": "「ブルーオーシャン戦略」"
+        "example": "「ブルーオーシャン戦略」",
+        "key_points": [
+            "競争相手がおらず、高収益が見込める未開拓市場",
+            "競合との血みどろの争い（レッドオーシャン）を避ける戦略",
+            "発見するのは難しいが見つかれば大きい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "戦略",
+                "description": "「誰もやっていないブルーオーシャンを探せ」と指示される時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -492,7 +1088,22 @@
         "slug": "proper",
         "body": "<h3>正社員、生え抜き</h3><p>中途採用や外部委託ではない、新卒からの社員。「プロパー社員」。</p>",
         "short_description": "<h3>生え抜き社員。</h3>",
-        "example": "「プロパーと外注」"
+        "example": "「プロパーと外注」",
+        "key_points": [
+            "Proper（固有の、正規の）",
+            "新卒入社の生え抜き社員（プロパー社員）を指すことが多い",
+            "または、協力会社社員（外注）に対して、発注元の正社員を指すこともある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "人事",
+                "description": "「プロパー社員と中途社員の待遇差をなくす」時"
+            },
+            {
+                "title": "現場",
+                "description": "「これはプロパーさん（正社員）に確認しないとわからない」と言う時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -503,7 +1114,18 @@
         "slug": "matter",
         "body": "<h3>担当案件</h3><p>誰の責任・担当範囲か。「これは営業部マターです（営業部の責任です）」。</p>",
         "short_description": "<h3>担当、責任。</h3>",
-        "example": "「田中マター」"
+        "example": "「田中マター」",
+        "key_points": [
+            "「～の管轄」「～の責任」という意味",
+            "責任の所在を明確にするために使われる",
+            "「自分マターではない」と言って仕事を断る人もいる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "責任分界点",
+                "description": "「それは開発マターなのでこちらでは判断できません」と突き返す時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -514,7 +1136,17 @@
         "slug": "method-biz",
         "body": "<h3>手法</h3><p>体系化されたやり方。「メソッドを確立する」。</p>",
         "short_description": "<h3>やり方。</h3>",
-        "example": "「独自のメソッド」"
+        "example": "「独自のメソッド」",
+        "key_points": [
+            "独自の理論や体系化された方法論",
+            "単なる「やり方」よりも、確立されたシステムというニュアンスが強い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "教育",
+                "description": "「成功者が実践しているメソッドを学ぶ」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -525,7 +1157,18 @@
         "slug": "mentor",
         "body": "<h3>指導者</h3><p>仕事や人生の助言をしてくれる人。受ける側は「メンティー」。</p>",
         "short_description": "<h3>お師匠さん。</h3>",
-        "example": "「メンター制度」"
+        "example": "「メンター制度」",
+        "key_points": [
+            "Mentor（助言者、指導者）",
+            "新入社員などの精神的なサポートやキャリアのアドバイスを行う先輩社員",
+            "直属の上司とは別の人が担当することが多い（利害関係を避けるため）"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "相談",
+                "description": "「仕事の悩みをメンターに相談してスッキリした」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -536,7 +1179,22 @@
         "slug": "launch",
         "body": "<h3>立ち上げ</h3><p>新サービスや新商品を公開・発売すること。「来月ローンチ予定」。</p>",
         "short_description": "<h3>公開、発売。</h3>",
-        "example": "「プロダクトローンチ」"
+        "example": "「プロダクトローンチ」",
+        "key_points": [
+            "Launch（発射する、進水させる）",
+            "新製品や新サービスを市場に送り出すこと",
+            "「ロケットスタート」並みに気合が入る瞬間"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「ローンチに向けてラストスパートをかける」時"
+            },
+            {
+                "title": "広報",
+                "description": "「新ブランドを華々しくローンチする」時"
+            }
+        ]
     },
     {
         "category_slug": "business",
@@ -547,6 +1205,17 @@
         "slug": "workflow",
         "body": "<h3>業務手続き</h3><p>申請から承認までの一連の流れ。「ワークフローを申請する」。</p>",
         "short_description": "<h3>手続きの流れ。</h3>",
-        "example": "「電子ワークフロー」"
+        "example": "「電子ワークフロー」",
+        "key_points": [
+            "業務の一連の流れや手続きのこと",
+            "特に、経費精算や休暇申請などの「申請・承認フロー」を指すことが多い",
+            "電子化システムのこともワークフローと呼ぶ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "総務",
+                "description": "「購入申請のワークフローを回してください」と指示される時"
+            }
+        ]
     }
 ]

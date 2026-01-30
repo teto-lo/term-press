@@ -8,7 +8,18 @@
         "slug": "tone-and-manner",
         "body": "<h3>雰囲気の統一</h3><p>Tone and Manner。デザインや文章の雰囲気、世界観を統一すること。</p>",
         "short_description": "<h3>雰囲気の統一感。</h3>",
-        "example": "「トンマナを合わせる」"
+        "example": "「トンマナを合わせる」",
+        "key_points": [
+            "トーン（調子）&マナー（様式）の略",
+            "ブランドイメージを守るために必須",
+            "バラバラだと「素人っぽい」「信頼できない」と思われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "制作",
+                "description": "「トンマナが合ってないからリテイク」と言われて絶望する時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -19,7 +30,18 @@
         "slug": "ui",
         "body": "<h3>ユーザーインターフェース</h3><p>User Interface。ユーザーが見る画面や操作する部分のデザイン。</p>",
         "short_description": "<h3>画面デザイン。</h3>",
-        "example": "「使いやすいUI」"
+        "example": "「使いやすいUI」",
+        "key_points": [
+            "ユーザーと製品の接点（インターフェース）",
+            "ボタンの配置、文字の大きさ、色使いなど全て",
+            "「直感的に使える」のが良いUIとされる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "アプリ",
+                "description": "「このアプリ、UIがクソで使いにくい」と文句を言う時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -30,7 +52,18 @@
         "slug": "ux",
         "body": "<h3>ユーザー体験</h3><p>User Experience。ユーザーがサービスを通じて得る体験や感情。</p>",
         "short_description": "<h3>使い心地、体験。</h3>",
-        "example": "「UXを向上させる」"
+        "example": "「UXを向上させる」",
+        "key_points": [
+            "製品を使った時の「楽しさ」「心地よさ」「便利さ」などの体験全体",
+            "UIはUXの一部",
+            "「体験をデザインする」という考え方"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "サービス",
+                "description": "「サクサク動いて気持ちいい！これが最高なUXか」と感動する時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -41,7 +74,18 @@
         "slug": "wireframe",
         "body": "<h3>設計図</h3><p>Webサイトやアプリの画面構成案。線と枠だけで描かれたラフスケッチ。</p>",
         "short_description": "<h3>画面の設計図。</h3>",
-        "example": "「ワイヤーを作る」"
+        "example": "「ワイヤーを作る」",
+        "key_points": [
+            "デザインに入る前の骨組み",
+            "「どこに何を置くか」を決める",
+            "手書きでも良いが、Figmaなどのツールで作ることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "打ち合わせ",
+                "description": "「ワイヤーフレームをもとに画面構成を確認する」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -52,7 +96,18 @@
         "slug": "mockup",
         "body": "<h3>完成見本</h3><p>実際に動くわけではないが、デザインが完成した状態の模型。</p>",
         "short_description": "<h3>デザイン模型。</h3>",
-        "example": "「モックで確認」"
+        "example": "「モックで確認」",
+        "key_points": [
+            "ワイヤーフレームに色や画像をつけて完成形に近づけたもの",
+            "クライアントに「こんな感じになります」と見せるためのもの",
+            "スマホの枠などにハメ込むとそれっぽく見える"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "プレゼン",
+                "description": "「モックアップを見せて完成イメージを共有する」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -63,7 +118,18 @@
         "slug": "prototype",
         "body": "<h3>試作品</h3><p>実際に動かして操作感を確認できる試作品。</p>",
         "short_description": "<h3>動く試作品。</h3>",
-        "example": "「プロトタイプを作る」"
+        "example": "「プロトタイプを作る」",
+        "key_points": [
+            "画面遷移やアニメーションを確認できる動く模型",
+            "開発に入る前に使い心地を検証（プロトタイピング）する",
+            "作り込みの度合いによって精度が異なる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "テスト",
+                "description": "「プロトタイプを触ってもらってユーザーテストをする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -74,7 +140,18 @@
         "slug": "responsive",
         "body": "<h3>スマホ対応</h3><p>PC、スマホ、タブレットなど、画面サイズに合わせてレイアウトが自動で変わるデザイン。</p>",
         "short_description": "<h3>画面サイズ自動調整。</h3>",
-        "example": "「レスポンシブデザイン」"
+        "example": "「レスポンシブデザイン」",
+        "key_points": [
+            "一つのHTMLで複数のデバイスに対応させる技術",
+            "今のWebサイト制作では必須",
+            "スマホで見ると崩れているサイトはレスポンシブ対応が不十分"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "制作",
+                "description": "「スマホで見にくいのでレスポンシブ対応してください」と依頼する時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -85,7 +162,18 @@
         "slug": "hamburger-menu",
         "body": "<h3>三本線メニュー</h3><p>三本線のアイコン（≡）をクリックすると開くメニュー。見た目がハンバーガーに似ている。</p>",
         "short_description": "<h3>三本線のメニュー。</h3>",
-        "example": "「ハンバーガーボタン」"
+        "example": "「ハンバーガーボタン」",
+        "key_points": [
+            "スマホサイトでよく見るメニューアイコン",
+            "スペースを節約できる",
+            "「メニューだと気付かない人がいる」という議論が定期的に起こる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "スマホ",
+                "description": "「ハンバーガーメニューを押してカテゴリを探す」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -96,7 +184,18 @@
         "slug": "hero-area",
         "body": "<h3>メイン画像</h3><p>Webサイトのトップにある、一番目立つ大きな画像や動画のエリア。</p>",
         "short_description": "<h3>トップの巨大画像。</h3>",
-        "example": "「ヒーローイメージ」"
+        "example": "「ヒーローイメージ」",
+        "key_points": [
+            "サイトの顔となる部分",
+            "キャッチコピーとセットで配置されることが多い",
+            "ここでユーザーの心を掴めるかが勝負"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デザイン",
+                "description": "「ヒーローエリアにインパクトのある動画を使う」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -107,7 +206,18 @@
         "slug": "carousel",
         "body": "<h3>回転スライド</h3><p>画像などが横にスライドして切り替わる表示方法。メリーゴーランドの意味。</p>",
         "short_description": "<h3>スライドショー。</h3>",
-        "example": "「カルーセルバナー」"
+        "example": "「カルーセルバナー」",
+        "key_points": [
+            "限られたスペースで沢山の情報を見せる手法",
+            "「スライダー」とも呼ばれる",
+            "実は2枚目以降はあまり見られないとも言われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ショッピング",
+                "description": "「おすすめ商品のカルーセルを横にシュッシュする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -118,7 +228,18 @@
         "slug": "first-view",
         "body": "<h3>最初の画面</h3><p>Webサイトを開いた時に、スクロールせずに最初に見える範囲。「Above the fold」。</p>",
         "short_description": "<h3>最初に目に入る部分。</h3>",
-        "example": "「FVで訴求」"
+        "example": "「FVで訴求」",
+        "key_points": [
+            "ユーザーが一番最初に見るエリア（FV）",
+            "ここで「自分に関係ない」と思われると3秒で離脱される",
+            "一番大事な情報をここに置く"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "LP",
+                "description": "「ファーストビューにCTAボタンを置いてCV率を上げる」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -129,7 +250,18 @@
         "slug": "cta-design",
         "body": "<h3>行動喚起</h3><p>Call To Action。「購入する」「登録する」などのボタンのこと。</p>",
         "short_description": "<h3>アクションボタン。</h3>",
-        "example": "「CTAの色を変える」"
+        "example": "「CTAの色を変える」",
+        "key_points": [
+            "ユーザーに何をしてほしいかを促すボタンやリンク",
+            "色、大きさ、文言でクリック率（CTR）が大きく変わる",
+            "Webマーケティングの要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「CTAボタンを緑から赤に変えたら登録が増えた」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -140,7 +272,18 @@
         "slug": "white-space",
         "body": "<h3>余白</h3><p>デザインにおける「何もない空間」。情報を整理し、見やすくするために重要。</p>",
         "short_description": "<h3>デザインの余白。</h3>",
-        "example": "「ホワイトスペースを活かす」"
+        "example": "「ホワイトスペースを活かす」",
+        "key_points": [
+            "「ネガティブスペース」とも呼ばれる",
+            "余白は「空き」ではなく、意図的に作られた「間」",
+            "高級感を出したい時は余白をたっぷりとる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デザイン",
+                "description": "「情報を詰め込みすぎて窮屈なので、ホワイトスペースをとって」と修正する時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -151,7 +294,18 @@
         "slug": "grid-system",
         "body": "<h3>格子状レイアウト</h3><p>画面を格子状に分割して、要素を整然と配置する手法。</p>",
         "short_description": "<h3>マス目レイアウト。</h3>",
-        "example": "「12カラムのグリッド」"
+        "example": "「12カラムのグリッド」",
+        "key_points": [
+            "見えないマス目（グリッド）等に沿って配置するレイアウト手法",
+            "これを使うと整った美しいデザインになる",
+            "Webデザインでは12等分（12カラム）が一般的"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "コーディング",
+                "description": "「ブートストラップのグリッドシステムを使ってレイアウトを組む」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -162,7 +316,18 @@
         "slug": "kerning",
         "body": "<h3>文字詰め</h3><p>文字と文字の間隔を調整して、バランス良く見せること。「字間調整」。</p>",
         "short_description": "<h3>文字間隔の調整。</h3>",
-        "example": "「カーニング甘い」"
+        "example": "「カーニング甘い」",
+        "key_points": [
+            "特定の文字の組み合わせ（AとVなど）の隙間を調整すること",
+            "プロのデザイナーは1文字単位でこだわる",
+            "「詰めすぎ」も読みにくい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ロゴ制作",
+                "description": "「タイトルのカーニングを調整して美しく見せる」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -173,7 +338,18 @@
         "slug": "font-family",
         "body": "<h3>書体セット</h3><p>同じデザインで、太さや傾きが異なるフォントのまとまり。</p>",
         "short_description": "<h3>フォントの家族。</h3>",
-        "example": "「フォントファミリー指定」"
+        "example": "「フォントファミリー指定」",
+        "key_points": [
+            "太さ（ウェイト）違いなどがセットになったフォント群",
+            "CSSでフォントを指定する時のプロパティ名でもある",
+            "「ヒラギノ角ゴ」など"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "CSS",
+                "description": "「font-familyにメイリオを指定する」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -184,7 +360,18 @@
         "slug": "serif",
         "body": "<h3>ひげ付き文字</h3><p>文字の端に飾りのある書体。「明朝体」など。高級感や伝統を感じさせる。</p>",
         "short_description": "<h3>飾りのある文字。</h3>",
-        "example": "「セリフ体」"
+        "example": "「セリフ体」",
+        "key_points": [
+            "文字の端に「うろこ（セリフ）」がある書体",
+            "可読性が高く、長文に向いているとされる（紙の場合）",
+            "Times New Romanなど"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "選択",
+                "description": "「高級感を出すために見出しをセリフ体にする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -195,7 +382,18 @@
         "slug": "sans-serif",
         "body": "<h3>ひげなし文字</h3><p>飾りのないシンプルな書体。「ゴシック体」など。親しみやすさや現代感がある。</p>",
         "short_description": "<h3>飾りのない文字。</h3>",
-        "example": "「サンセリフ体」"
+        "example": "「サンセリフ体」",
+        "key_points": [
+            "Sans（ない）Serif（飾り）、つまり飾りのない書体",
+            "Webやデジタル画面で読みやすい",
+            "ArialやHelveticaなど"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "UIデザイン",
+                "description": "「システムフォントは視認性の良いサンセリフを使う」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -206,7 +404,18 @@
         "slug": "vector-image",
         "body": "<h3>数式画像</h3><p>拡大しても劣化しない画像形式。ロゴやアイコンに使われる。「AI」「SVG」など。</p>",
         "short_description": "<h3>拡大しても綺麗な画像。</h3>",
-        "example": "「ベクターデータで納品」"
+        "example": "「ベクターデータで納品」",
+        "key_points": [
+            "数式で図形を描画する形式",
+            "どれだけ拡大してもギザギザにならない",
+            "写真など複雑な色使いには向かない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "入稿",
+                "description": "「ロゴデータはベクター形式（aiなど）でください」と言われる時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -217,7 +426,18 @@
         "slug": "raster-image",
         "body": "<h3>点描画像</h3><p>点の集まりでできた画像。拡大するとギザギザになる。写真など。「JPG」「PNG」など。</p>",
         "short_description": "<h3>画素の集まり。</h3>",
-        "example": "「ラスター化する」"
+        "example": "「ラスター化する」",
+        "key_points": [
+            "ドット（ピクセル）の集合体",
+            "色彩豊かな表現が得意（写真など）",
+            "「ビットマップ画像」とも呼ばれる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "編集",
+                "description": "「画像を拡大しすぎて荒れた（ジャギーが出た）」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -228,7 +448,18 @@
         "slug": "resolution",
         "body": "<h3>画質の細かさ</h3><p>1インチあたりにいくつの点があるか。「dpi」。Webは72dpi、印刷は350dpiが目安。</p>",
         "short_description": "<h3>画質の密度。</h3>",
-        "example": "「高解像度」"
+        "example": "「高解像度」",
+        "key_points": [
+            "画像の精細さ",
+            "Retinaディスプレイなどは高解像度",
+            "「解像度が低い」＝ぼやけている"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "印刷",
+                "description": "「Web用の画像を印刷したらガビガビになった（解像度不足）」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -239,7 +470,18 @@
         "slug": "cmyk",
         "body": "<h3>印刷の色</h3><p>Cyan（青）、Magenta（赤紫）、Yellow（黄）、Key plate（黒）の4色。混ぜると黒になる。</p>",
         "short_description": "<h3>印刷用カラー。</h3>",
-        "example": "「CMYK変換」"
+        "example": "「CMYK変換」",
+        "key_points": [
+            "インクの4原色",
+            "減法混色（混ぜれば混ぜるほど暗くなる）",
+            "RGBより表現できる色が少ないので、印刷すると思ったよりくすむ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "印刷入稿",
+                "description": "「入稿データは必ずCMYKに変換してください」と注意書きを見る時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -250,7 +492,18 @@
         "slug": "rgb",
         "body": "<h3>画面の色</h3><p>Red（赤）、Green（緑）、Blue（青）の光の三原色。混ぜると白になる。</p>",
         "short_description": "<h3>モニター用カラー。</h3>",
-        "example": "「RGB指定」"
+        "example": "「RGB指定」",
+        "key_points": [
+            "光の3原色",
+            "加法混色（混ぜれば混ぜるほど明るくなる）",
+            "テレビやスマホの画面はこれ"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デザイン",
+                "description": "「蛍光色はRGBなら出るけどCMYKでは出ない」と説明する時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -261,7 +514,18 @@
         "slug": "hex",
         "body": "<h3>カラーコード</h3><p>「#FF0000」のように、16進数で色を表すコード。Webデザインで使う。</p>",
         "short_description": "<h3>16進数カラー。</h3>",
-        "example": "「HEXコード」"
+        "example": "「HEXコード」",
+        "key_points": [
+            "Webで色を指定する時の魔法の呪文",
+            "6桁の英数字で表す（#FFFFFFは白、#000000は黒）",
+            "Hexadecimal（16進数）の略"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "コーディング",
+                "description": "「ブランドカラーのHEXコードをCSSにコピペする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -272,7 +536,18 @@
         "slug": "gradient",
         "body": "<h3>色の変化</h3><p>色が徐々に変わっていく表現。「グラデ」。</p>",
         "short_description": "<h3>色の変化。</h3>",
-        "example": "「グラデーションをかける」"
+        "example": "「グラデーションをかける」",
+        "key_points": [
+            "色の階調変化",
+            "最近は鮮やかなグラデーションがトレンドになったり、ならなかったりする",
+            "Instagramのアイコンなどが有名"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デザイン",
+                "description": "「背景にうっすらグラデージョンを入れて奥行きを出す」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -283,7 +558,18 @@
         "slug": "flat-design",
         "body": "<h3>平面的デザイン</h3><p>影や質感を排除した、シンプルで平面的なデザイン。</p>",
         "short_description": "<h3>シンプルで平ら。</h3>",
-        "example": "「フラットなアイコン」"
+        "example": "「フラットなアイコン」",
+        "key_points": [
+            "立体的な装飾を排したシンプルなデザイン",
+            "Windows 8やiOS 7あたりから一気に普及した",
+            "データ量が軽く、見やすい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "トレンド",
+                "description": "「リッチデザインからフラットデザインにリニューアルする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -294,7 +580,18 @@
         "slug": "material-design",
         "body": "<h3>Googleのデザイン</h3><p>Googleが提唱した、紙のような重なりや影を取り入れたデザインルール。</p>",
         "short_description": "<h3>Google流デザイン。</h3>",
-        "example": "「マテリアルデザイン採用」"
+        "example": "「マテリアルデザイン採用」",
+        "key_points": [
+            "現実世界の物理法則（重なり、影）をUIに取り入れたGoogleのデザイン言語",
+            "Androidアプリの標準的な見た目",
+            "「直感的な操作」を助ける"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "開発",
+                "description": "「マテリアルUIのライブラリを使って爆速で管理画面を作る」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -305,7 +602,18 @@
         "slug": "neumorphism",
         "body": "<h3>凸凹デザイン</h3><p>背景から要素が盛り上がっているように見せる、近未来的なデザイン手法。</p>",
         "short_description": "<h3>柔らかい凸凹。</h3>",
-        "example": "「ニューモーフィズム」"
+        "example": "「ニューモーフィズム」",
+        "key_points": [
+            "New + Skeuomorphism",
+            "背景と同じ色で、影と光だけで凹凸を表現する",
+            "見た目は未来的だが、視認性が悪くアクセシビリティに難があると言われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "趣味",
+                "description": "「ニューモーフィズムで電卓アプリを作ってみる」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -316,7 +624,18 @@
         "slug": "isometric",
         "body": "<h3>斜め上からの視点</h3><p>等角投影図法。建物の鳥瞰図や、箱庭のようなイラストに使われる。</p>",
         "short_description": "<h3>斜め見下ろし図。</h3>",
-        "example": "「アイソメイラスト」"
+        "example": "「アイソメイラスト」",
+        "key_points": [
+            "斜め上から見下ろしたような立体的なイラスト",
+            "テック系企業のサイトでよく見る",
+            "「アイソメ」と略される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "イラスト",
+                "description": "「街並みをアイソメトリックで描いて箱庭感を出す」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -327,7 +646,18 @@
         "slug": "infographic",
         "body": "<h3>情報の図解</h3><p>データや情報を、イラストや図を使って視覚的に分かりやすく伝えたもの。</p>",
         "short_description": "<h3>情報の図解。</h3>",
-        "example": "「インフォグラフィック」"
+        "example": "「インフォグラフィック」",
+        "key_points": [
+            "Information + Graphic",
+            "文字で読むより直感的に理解できる",
+            "路線図や天気予報図もこれの一種"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "資料作成",
+                "description": "「調査結果をインフォグラフィックにしてSNSで拡散を狙う」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -338,7 +668,18 @@
         "slug": "thumbnail",
         "body": "<h3>縮小画像</h3><p>一覧表示などのために縮小された画像。「親指の爪」ほど小さいという意味。「サムネ」。</p>",
         "short_description": "<h3>見出し画像。</h3>",
-        "example": "「サムネ詐欺」"
+        "example": "「サムネ詐欺」",
+        "key_points": [
+            "中身を見る前に表示される見本画像",
+            "YouTubeやブログではサムネの良し悪しでクリック率が決まる",
+            "中身と全然違う「サムネ詐欺」もある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "YouTube",
+                "description": "「動画の中身よりサムネイル作りに時間をかける」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -349,7 +690,18 @@
         "slug": "favicon",
         "body": "<h3>タブのアイコン</h3><p>ブラウザのタブに表示される小さなアイコン。</p>",
         "short_description": "<h3>タブアイコン。</h3>",
-        "example": "「ファビコン設定」"
+        "example": "「ファビコン設定」",
+        "key_points": [
+            "Favorite Icon",
+            "ブックマークした時やタブに表示される小さなシンボル",
+            "これがないとデフォルトの地球儀マークなどになり、信頼性が下がる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "設定",
+                "description": "「ファビコンを設定し忘れてカッコ悪いことになる」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -360,7 +712,18 @@
         "slug": "logotype",
         "body": "<h3>文字ロゴ</h3><p>社名や商品名をデザインされた文字で表したもの。</p>",
         "short_description": "<h3>文字のロゴ。</h3>",
-        "example": "「ロゴタイプ」"
+        "example": "「ロゴタイプ」",
+        "key_points": [
+            "文字だけで構成されたロゴ",
+            "SONYやPanasonicなどが代表例",
+            "可読性と独自性のバランスが重要"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブランディング",
+                "description": "「スタイリッシュなロゴタイプをデザインする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -371,7 +734,18 @@
         "slug": "logomark",
         "body": "<h3>図形ロゴ</h3><p>図形やシンボルで表されたロゴ。「シンボルマーク」。</p>",
         "short_description": "<h3>図形のロゴ。</h3>",
-        "example": "「ロゴマーク」"
+        "example": "「ロゴマーク」",
+        "key_points": [
+            "図形や絵柄のロゴ",
+            "AppleのリンゴやNikeのチェックマークなど",
+            "ロゴタイプと組み合わせて使われることが多い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "デザイン",
+                "description": "「アプリのアイコン用にロゴマークを作る」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -382,7 +756,18 @@
         "slug": "visual-identity",
         "body": "<h3>視覚的統一</h3><p>Visual Identity。ロゴや色などを統一して、ブランドのイメージを視覚的に伝えること。</p>",
         "short_description": "<h3>ビジュアル統一。</h3>",
-        "example": "「VIガイドライン」"
+        "example": "「VIガイドライン」",
+        "key_points": [
+            "CI（Corporate Identity）の一部",
+            "ロゴの使用規定やブランドカラーなどを定めたもの",
+            "勝手に色を変えたりすると広報に怒られる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "運用",
+                "description": "「VIマニュアルに従って名刺を作成する」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -393,7 +778,18 @@
         "slug": "corporate-identity",
         "body": "<h3>企業の個性</h3><p>Corporate Identity。企業の理念や特徴を統一すること。ロゴはその一部。</p>",
         "short_description": "<h3>企業の顔。</h3>",
-        "example": "「CI刷新」"
+        "example": "「CI刷新」",
+        "key_points": [
+            "「うちはこういう会社です」という自己証明",
+            "MI（理念）、BI（行動）、VI（視覚）の3要素からなる",
+            "ロゴを変えるだけがCIではない"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "経営",
+                "description": "「社名変更に伴いCIを一新する」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -404,7 +800,18 @@
         "slug": "accessibility",
         "body": "<h3>利用しやすさ</h3><p>高齢者や障害者など、誰でも使えるよう配慮されている度合い。</p>",
         "short_description": "<h3>誰でも使えるか。</h3>",
-        "example": "「アクセシビリティ向上」"
+        "example": "「アクセシビリティ向上」",
+        "key_points": [
+            "「近づきやすさ」「利用しやすさ」",
+            "色の見え方、文字の大きさ、音声読み上げ対応など",
+            "公共性の高いサイトでは義務に近い"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "改善",
+                "description": "「コントラスト比を上げてアクセシビリティを確保する」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -415,7 +822,18 @@
         "slug": "usability",
         "body": "<h3>使いやすさ</h3><p>特定のユーザーが目的を達成するための使いやすさ。</p>",
         "short_description": "<h3>使い勝手。</h3>",
-        "example": "「ユーザビリティテスト」"
+        "example": "「ユーザビリティテスト」",
+        "key_points": [
+            "「使いやすさ」「有用性」",
+            "アクセシビリティが「誰でも使える」なら、ユーザビリティは「ターゲットがいかに快適に使えるか」",
+            "学習しやすさ、効率性、記憶しやすさ、エラーの少なさ、満足度などで評価される"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "評価",
+                "description": "「機能は多いがユーザビリティが低い」と酷評される時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -426,7 +844,18 @@
         "slug": "affordance",
         "body": "<h3>誘導の手掛かり</h3><p>「押せそう」「回せそう」など、形が動作を示唆すること。</p>",
         "short_description": "<h3>操作のヒント。</h3>",
-        "example": "「ボタンのアフォーダンス」"
+        "example": "「ボタンのアフォーダンス」",
+        "key_points": [
+            "モノが持つ「どう使えばいいか」を伝える性質",
+            "立体的なボタンは「押せそう」、ドアノブは「回せそう」と思わせる力",
+            "デザイン心理学の用語"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "UI",
+                "description": "「フラットすぎてボタンのアフォーダンスがない（押せるか分からない）」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -437,7 +866,18 @@
         "slug": "universal-design",
         "body": "<h3>みんなのデザイン</h3><p>最初から誰にとっても使いやすいようにデザインすること。</p>",
         "short_description": "<h3>万人向けデザイン。</h3>",
-        "example": "「UDフォント」"
+        "example": "「UDフォント」",
+        "key_points": [
+            "年齢、性別、能力、国籍問わず、多くの人が利用できるデザイン",
+            "バリアフリー（障壁を除く）より一歩進んだ概念",
+            "シャンプーボトルのギザギザなど"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "商品企画",
+                "description": "「ユニバーサルデザインを取り入れた文房具」を作る時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -448,7 +888,18 @@
         "slug": "scroll",
         "body": "<h3>画面移動</h3><p>画面に入りきらない部分を見るために、表示範囲を移動させること。</p>",
         "short_description": "<h3>画面を動かす。</h3>",
-        "example": "「無限スクロール」"
+        "example": "「無限スクロール」",
+        "key_points": [
+            "巻物（Scroll）が語源",
+            "縦スクロールが基本だが、横スクロールもある",
+            "「パララックス（視差）スクロール」など演出にも使われる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "閲覧",
+                "description": "「縦に長すぎてスクロールするのが疲れる」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -459,7 +910,18 @@
         "slug": "drag-and-drop",
         "body": "<h3>掴んで放す</h3><p>マウスで掴んで移動させ、目的地で放す操作。「D&D」。</p>",
         "short_description": "<h3>掴んで移動。</h3>",
-        "example": "「ファイルをドラッグ」"
+        "example": "「ファイルをドラッグ」",
+        "key_points": [
+            "直感的なファイル操作などの基本",
+            "スマホでは長押しからのドラッグなど、操作が少し違う",
+            "意外と実装が面倒くさい"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "PC",
+                "description": "「画像ファイルをブラウザにドラッグ＆ドロップしてアップロードする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -470,7 +932,18 @@
         "slug": "modal-window",
         "body": "<h3>割り込み画面</h3><p>操作を完了するか閉じるまで、背面の画面を操作できなくする子画面。</p>",
         "short_description": "<h3>緊急の小窓。</h3>",
-        "example": "「モーダル表示」"
+        "example": "「モーダル表示」",
+        "key_points": [
+            "ユーザーの操作を強制的に中断させるウィンドウ",
+            "重要な警告や入力フォームなどで使われる",
+            "使いすぎるとウザがられる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "UI",
+                "description": "「削除確認をモーダルウィンドウで出して誤操作を防ぐ」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -481,7 +954,18 @@
         "slug": "popup",
         "body": "<h3>飛び出す画面</h3><p>突然現れるウィンドウ。広告などで使われると嫌われる。</p>",
         "short_description": "<h3>突然出る画面。</h3>",
-        "example": "「ポップアップブロック」"
+        "example": "「ポップアップブロック」",
+        "key_points": [
+            "ボンッと出てくるウィンドウ",
+            "昔のネット広告の主流だったが、今はブラウザでブロックされることが多い",
+            "「ポップアップ通知」は便利"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "閲覧",
+                "description": "「怪しいサイトで大量のポップアップが出て焦る」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -492,7 +976,18 @@
         "slug": "accordion",
         "body": "<h3>開閉メニュー</h3><p>クリックすると隠れていた部分がビローンと伸びて表示されるUI。</p>",
         "short_description": "<h3>折りたたみメニュー。</h3>",
-        "example": "「アコーディオンメニュー」"
+        "example": "「アコーディオンメニュー」",
+        "key_points": [
+            "楽器のアコーディオンのように伸縮することから",
+            "FAQ（よくある質問）などで、答えを隠しておくのによく使われる",
+            "画面をスッキリさせることができる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "UI",
+                "description": "「スマホの狭い画面だからアコーディオンで情報を隠す」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -503,7 +998,18 @@
         "slug": "breadcrumb",
         "body": "<h3>現在地表示</h3><p>Webサイトで、今どこにいるかを示すリンク。「TOP > カテゴリ > 記事」。</p>",
         "short_description": "<h3>現在地の道しるべ。</h3>",
-        "example": "「パンくずを設置」"
+        "example": "「パンくずを設置」",
+        "key_points": [
+            "童話「ヘンゼルとグレーテル」が由来",
+            "ユーザーが迷子になるのを防ぐ",
+            "SEO（検索エンジン対策）にも効果がある"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ナビゲーション",
+                "description": "「パンくずリストを使って上のカテゴリに戻る」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -514,7 +1020,18 @@
         "slug": "footer",
         "body": "<h3>足元</h3><p>Webサイトの一番下の部分。コピーライトやリンク集がある。</p>",
         "short_description": "<h3>ページ最下部。</h3>",
-        "example": "「フッターリンク」"
+        "example": "「フッターリンク」",
+        "key_points": [
+            "ページの足（Foot）部分",
+            "運営者情報、利用規約、問い合わせなどはここに置くのが定石",
+            "SEOのために大量のリンクを詰め込む場所になりがち"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "閲覧",
+                "description": "「運営会社を知りたくてフッターまでスクロールする」時"
+            }
+        ]
     },
     {
         "category_slug": "design",
@@ -525,6 +1042,17 @@
         "slug": "sidebar",
         "body": "<h3>脇</h3><p>メインコンテンツの横にある細長いエリア。メニューや広告がある。</p>",
         "short_description": "<h3>横のエリア。</h3>",
-        "example": "「サイドバー追従」"
+        "example": "「サイドバー追従」",
+        "key_points": [
+            "メインカラムの横（Side）にあるバー",
+            "PC表示ではあるが、スマホ表示では下に追いやられるかハンバーガーメニューに入る運命",
+            "「追従サイドバー」はずっとついてくる"
+        ],
+        "usage_scenarios": [
+            {
+                "title": "ブログ",
+                "description": "「サイドバーに人気記事ランキングを置く」時"
+            }
+        ]
     }
 ]
